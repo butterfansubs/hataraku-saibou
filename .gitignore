@@ -1,0 +1,11 @@
+*
+!*/
+!.git*
+!*.ass
+!*.md
+!*.txt
+!*.log
+!*.xml
+!*.mscx
+!*.midicsv
+!*.csv
