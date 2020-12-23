@@ -655,7 +655,6 @@ Dialogue: 0,0:04:42.22,0:04:44.18,Signs,,0,0,0,,{\c&H000000&\fs65\fsp-1.2\fnFOT 
 Dialogue: 0,0:04:44.18,0:04:48.43,Signs,,0,0,0,,{\c&H000000&\fs58\fsp-1.2\fnFOT Rodin Pro EB\blur0.7\pos(966,292)}To restore the concentration\Nof your body fluids, water\Nwill leave your body
 Dialogue: 0,0:04:48.43,0:04:56.73,Signs,,0,0,0,,{\c&H000000&\fs70\fsp-1.2\fnFOT Rodin Pro EB\blur0.7\pos(966,276)}Your body fluid levels\Nwill not be restored
 Dialogue: 0,0:04:56.73,0:05:06.70,Signs,,0,0,0,,{\c&H000000&\fs68\fsp-1.2\fnFOT Rodin Pro EB\blur0.7\pos(964,273.6)}Drinks full of electrolytes\N(ions) can help
-Comment: 0,0:08:30.57,0:08:39.16,Signs,,0,0,0,,{\pos(490.667,1008)}POCARI SWEAT\NA health drink that can replenish fluids and electrolytes lost due to sweating. It contains ingredients similar in composition and concentration to human body fluids, so it can be absorbed quickly. It can provide hydration for dehydrated bodies in all kinds of daily activities in which people sweat.\N
 Dialogue: 0,0:08:38.62,0:08:52.80,Signs,,0,0,0,,{\fad(565,0)\c&HE5E5E5&\fnPT Sans\blur3\fs70\fscx102\fsp\b1\alpha&H50&\1a&HE0&\pos(948,75.2)}Replenishing lost fluids{TL: lit. "Situation of lost fluid restoration". I think this is supposed to be a title rather than an axis label, but it could probably go either way.}
 Dialogue: 1,0:08:38.62,0:08:52.80,Signs,,0,0,0,,{\fad(565,0)\c&HFFFFFF&\fnPT Sans\blur0.9\fs70\fscx102\fsp\b1\pos(948,75.2)}Replenishing lost fluids{TL: lit. "Situation of lost fluid restoration". I think this is supposed to be a title rather than an axis label, but it could probably go either way.}
 Dialogue: 0,0:08:52.80,0:08:52.84,Signs,,0,0,0,,{\c&HE5E5E5&\fnPT Sans\blur3\fs70\fscx102\fsp\b1\alpha&H50&\1a&HE0&\pos(948,75.2)\iclip(m 1128 6 l 1124 42 1136 75 1238 88 1242 3)}Replenishing lost fluids{TL: lit. "Situation of lost fluid restoration". I think this is supposed to be a title rather than an axis label, but it could probably go either way.}
@@ -664,28 +663,39 @@ Dialogue: 0,0:08:52.84,0:08:52.88,Signs,,0,0,0,,{\c&HE5E5E5&\fnPT Sans\blur3\fs7
 Dialogue: 1,0:08:52.84,0:08:52.88,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs70\fscx102\fsp\b1\pos(948,75.2)\iclip(m 938 6 l 934 42 b 931 53 936 64 946 75 l 1256 80 1224 6)}Replenishing lost fluids{TL: lit. "Situation of lost fluid restoration". I think this is supposed to be a title rather than an axis label, but it could probably go either way.}
 Dialogue: 0,0:08:52.88,0:08:52.92,Signs,,0,0,0,,{\c&HE5E5E5&\fnPT Sans\blur3\fs70\fscx102\fsp\b1\alpha&H50&\1a&HE0&\pos(948,75.2)\iclip(m 746 2 l 748 40 b 747 41 745 72 766 75 l 1265 76 1213 -2)}Replenishing lost fluids{TL: lit. "Situation of lost fluid restoration". I think this is supposed to be a title rather than an axis label, but it could probably go either way.}
 Dialogue: 1,0:08:52.88,0:08:52.92,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs70\fscx102\fsp\b1\pos(948,75.2)\iclip(m 746 2 l 748 40 b 747 41 745 72 766 75 l 1265 76 1213 -2)}Replenishing lost fluids{TL: lit. "Situation of lost fluid restoration". I think this is supposed to be a title rather than an axis label, but it could probably go either way.}
-Dialogue: 1,0:08:52.67,0:08:52.72,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1384.8,427.87)\2a&HFF&\iclip(m 1556 368 l 1527 414 1523 453 1723 432 1723 373)\alpha&H50&\c&HFFFFFF&}Water replenishes to around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it to match, as I couldn't really ts it at the bottom}
-Dialogue: 2,0:08:52.67,0:08:52.72,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1384.8,427.87)\2a&HFF&\iclip(m 1556 368 l 1527 414 1523 453 1723 432 1723 373)}Water replenishes to around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it to match, as I couldn't really ts it at the bottom}
-Dialogue: 1,0:08:52.72,0:08:52.76,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1384.8,427.87)\2a&HFF&\iclip(m 1354 351 b 1345 359 1326 375 1325 385 1316 401 1302 433 1296 449 l 1723 432 1723 373)\alpha&H50&\c&HFFFFFF&}Water replenishes to around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it to match, as I couldn't really ts it at the bottom}
-Dialogue: 2,0:08:52.72,0:08:52.76,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1384.8,427.87)\2a&HFF&\iclip(m 1354 351 b 1345 359 1326 375 1325 385 1316 401 1302 433 1296 449 l 1723 432 1723 373)}Water replenishes to around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it to match, as I couldn't really ts it at the bottom}
-Dialogue: 1,0:08:52.76,0:08:52.80,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1384.8,427.87)\2a&HFF&\iclip(m 1153 349 b 1142 365 1149 344 1109 383 l 1115 395 1094 432 1723 432 1723 373)\alpha&H50&\c&HFFFFFF&}Water replenishes to around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it to match, as I couldn't really ts it at the bottom}
-Dialogue: 2,0:08:52.76,0:08:52.80,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1384.8,427.87)\2a&HFF&\iclip(m 1153 349 b 1142 365 1149 344 1109 383 l 1115 395 1094 432 1723 432 1723 373)}Water replenishes to around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it to match, as I couldn't really ts it at the bottom}
-Dialogue: 1,0:08:41.08,0:08:52.67,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1384.8,427.87)\ko5.5\1a&H50&\c&HFFFFFF&\2c&H002EFF&\2a&HFF&}W{\ko5.5}a{\ko5.5}t{\ko5.5}e{\ko5.5}r {\ko5.5}r{\ko5.5}e{\ko5.5}p{\ko5.5}l{\ko5.5}e{\ko5.5}n{\ko5.5}i{\ko5.5}s{\ko5.5}h{\ko5.5}e{\ko5.5}s {\ko5.5}t{\ko5.5}o {\ko5.5}a{\ko5.5}r{\ko5.5}o{\ko5.5}u{\ko5.5}n{\ko5.5}d {\ko5.5}5{\ko5.5}0{\fnPT Sans Caption\fscx80\ko5.5}%{originally Body fluids replenished with water, replaced it to match, as I couldn't really ts it at the bottom}
-Dialogue: 2,0:08:41.08,0:08:52.67,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1384.8,427.87)\2a&HFF&\ko5.5}W{\ko5.5}a{\ko5.5}t{\ko5.5}e{\ko5.5}r {\ko5.5}r{\ko5.5}e{\ko5.5}p{\ko5.5}l{\ko5.5}e{\ko5.5}n{\ko5.5}i{\ko5.5}s{\ko5.5}h{\ko5.5}e{\ko5.5}s {\ko5.5}t{\ko5.5}o {\ko5.5}a{\ko5.5}r{\ko5.5}o{\ko5.5}u{\ko5.5}n{\ko5.5}d {\ko5.5}5{\ko5.5}0{\fnPT Sans Caption\fscx80\ko5.5}%{originally Body fluids replenished with water, replaced it to match, as I couldn't really ts it at the bottom}
+Dialogue: 1,0:08:52.67,0:08:52.72,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1717.43625,427.87)\2a&HFF&\iclip(m 1556 368 l 1527 414 1523 453 1723 432 1723 373)\alpha&H50&\an3}Water replenishes around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it match, as I couldn't really ts it at the bottom}
+Dialogue: 2,0:08:52.67,0:08:52.72,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1717.43625,427.87)\2a&HFF&\iclip(m 1556 368 l 1527 414 1523 453 1723 432 1723 373)\an3}Water replenishes around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it match, as I couldn't really ts it at the bottom}
+Dialogue: 1,0:08:52.72,0:08:52.76,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1717.43625,427.87)\2a&HFF&\iclip(m 1354 351 b 1345 359 1326 375 1325 385 1316 401 1302 433 1296 449 l 1723 432 1723 373)\alpha&H50&\an3}Water replenishes around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it match, as I couldn't really ts it at the bottom}
+Dialogue: 2,0:08:52.72,0:08:52.76,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1717.43625,427.87)\2a&HFF&\iclip(m 1354 351 b 1345 359 1326 375 1325 385 1316 401 1302 433 1296 449 l 1723 432 1723 373)\an3}Water replenishes around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it match, as I couldn't really ts it at the bottom}
+Dialogue: 1,0:08:52.76,0:08:52.80,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1717.43625,427.87)\2a&HFF&\iclip(m 1153 349 b 1142 365 1149 344 1109 383 l 1115 395 1094 432 1723 432 1723 373)\alpha&H50&\an3}Water replenishes around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it match, as I couldn't really ts it at the bottom}
+Dialogue: 2,0:08:52.76,0:08:52.80,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1717.43625,427.87)\2a&HFF&\iclip(m 1153 349 b 1142 365 1149 344 1109 383 l 1115 395 1094 432 1723 432 1723 373)\an3}Water replenishes around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it match, as I couldn't really ts it at the bottom}
+Comment: 1,0:08:41.08,0:08:52.67,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1384.8,427.87)\ko5.5\1a&H50&\c&HFFFFFF&\2c&H002EFF&\2a&HFF&}W{\ko5.5}a{\ko5.5}t{\ko5.5}e{\ko5.5}r {\ko5.5}r{\ko5.5}e{\ko5.5}p{\ko5.5}l{\ko5.5}e{\ko5.5}n{\ko5.5}i{\ko5.5}s{\ko5.5}h{\ko5.5}e{\ko5.5}s {\ko5.5}t{\ko5.5}o {\ko5.5}a{\ko5.5}r{\ko5.5}o{\ko5.5}u{\ko5.5}n{\ko5.5}d {\ko5.5}5{\ko5.5}0{\fnPT Sans Caption\fscx80\ko5.5}%{originally Body fluids replenished with water, replaced it to match, as I couldn't really ts it at the bottom}
+Comment: 2,0:08:41.08,0:08:52.67,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1384.8,427.87)\2a&HFF&\ko5.5}W{\ko5.5}a{\ko5.5}t{\ko5.5}e{\ko5.5}r {\ko5.5}r{\ko5.5}e{\ko5.5}p{\ko5.5}l{\ko5.5}e{\ko5.5}n{\ko5.5}i{\ko5.5}s{\ko5.5}h{\ko5.5}e{\ko5.5}s {\ko5.5}t{\ko5.5}o {\ko5.5}a{\ko5.5}r{\ko5.5}o{\ko5.5}u{\ko5.5}n{\ko5.5}d {\ko5.5}5{\ko5.5}0{\fnPT Sans Caption\fscx80\ko5.5}%{originally Body fluids replenished with water, replaced it to match, as I couldn't really ts it at the bottom}
+Dialogue: 2,0:08:41.08,0:08:42.50,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1717.43625,427.87)\2a&HFF&\clip(1000,0,1032,500)\an3\t(\clip(1000,0,1722,500))}Water replenishes around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it match, as I couldn't really ts it at the bottom}
+Dialogue: 1,0:08:41.08,0:08:42.50,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1717.43625,427.87)\1a&H50&\2c&H002EFF&\2a&HFF&\clip(1000,0,1032,500)\an3\t(\clip(1000,0,1722,500))}Water replenishes around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it match, as I couldn't really ts it at the bottom}
+Dialogue: 1,0:08:42.50,0:08:52.67,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\1a&H50&\2c&H002EFF&\2a&HFF&\pos(1717.43625,427.87)\an3}Water replenishes around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it match, as I couldn't really ts it at the bottom}
+Dialogue: 2,0:08:42.50,0:08:52.67,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\2a&HFF&\pos(1717.43625,427.87)\an3}Water replenishes around 50{\fnPT Sans Caption\fscx80}%{originally Body fluids replenished with water, replaced it match, as I couldn't really ts it at the bottom}
 Comment: 0,0:08:38.62,0:08:52.92,Signs,,0,0,0,,{\fad(486,0)\c&HFFFFFF&\fnPT Sans\blur0.9\fs42\fscx102\fsp0.2\b1\pos(954,1076.667)}Pocari Sweat replenishes to 100%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
 Comment: 0,0:08:38.62,0:08:52.92,Signs,,0,0,0,,{\an7\pos(0,0)\c&HAD502E&\fscx100\fscy100\p1}m 1365 931 l 1378 957 1368 988 1346 984 1337 961 1341 936 964 934 957 960 960 972 965 985 1110 985 1190 986 1266 982 1338 985 1349 936
 Comment: 0,0:08:38.62,0:08:52.92,Signs,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HAC5030&}m 1365 931 l 1378 957 1368 988 1346 984 1337 961 1341 936 964 934 957 960 960 972 965 985 1110 985 1190 986 1266 982 1338 985 1349 936
-Dialogue: 1,0:08:41.08,0:08:52.72,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1384.8,155.87)\ko5.3\1a&H50&\c&HFFFFFF&\2c&H002EFF&\2a&HFF&}P{\ko5.3}o{\ko5.3}c{\ko5.3}a{\ko5.3}r{\ko5.3}i {\ko5.3}S{\ko5.3}w{\ko5.3}e{\ko5.3}a{\ko5.3}t {\ko5.3}r{\ko5.3}e{\ko5.3}p{\ko5.3}l{\ko5.3}e{\ko5.3}n{\ko5.3}i{\ko5.3}s{\ko5.3}h{\ko5.3}e{\ko5.3}s {\ko5.3}t{\ko5.3}o {\ko5.3}1{\ko5.3}0{\ko5.3}0{\fnPT Sans Caption\fscx80\ko5.3}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
-Dialogue: 2,0:08:41.08,0:08:52.72,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1384.8,155.87)\2a&HFF&\ko5.3}P{\ko5.3}o{\ko5.3}c{\ko5.3}a{\ko5.3}r{\ko5.3}i {\ko5.3}S{\ko5.3}w{\ko5.3}e{\ko5.3}a{\ko5.3}t {\ko5.3}r{\ko5.3}e{\ko5.3}p{\ko5.3}l{\ko5.3}e{\ko5.3}n{\ko5.3}i{\ko5.3}s{\ko5.3}h{\ko5.3}e{\ko5.3}s {\ko5.3}t{\ko5.3}o {\ko5.3}1{\ko5.3}0{\ko5.3}0{\fnPT Sans Caption\fscx80\ko5.3}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
-Dialogue: 1,0:08:52.72,0:08:52.76,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1384.8,155.87)\2a&HFF&\iclip(m 1512 102 l 1511 139 1519 155 1541 148 1749 161 1746 82)\alpha&H50&\c&HFFFFFF&}Pocari Sweat replenishes to 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
-Dialogue: 2,0:08:52.72,0:08:52.76,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1384.8,155.87)\2a&HFF&\iclip(m 1512 102 l 1511 139 1519 155 1541 148 1749 161 1746 82)}Pocari Sweat replenishes to 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
-Dialogue: 1,0:08:52.76,0:08:52.80,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1384.8,155.87)\2a&HFF&\iclip(m 1310 100 l 1308 130 1306 159 1541 148 1749 161 1746 82)\alpha&H50&\c&HFFFFFF&}Pocari Sweat replenishes to 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
-Dialogue: 2,0:08:52.76,0:08:52.80,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1384.8,155.87)\2a&HFF&\iclip(m 1310 100 l 1308 130 1306 159 1541 148 1749 161 1746 82)}Pocari Sweat replenishes to 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
-Dialogue: 1,0:08:52.80,0:08:52.84,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1384.8,155.87)\2a&HFF&\iclip(m 1113 107 l 1110 130 1116 158 1541 148 1749 161 1746 82)\alpha&H50&\c&HFFFFFF&}Pocari Sweat replenishes to 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
-Dialogue: 2,0:08:52.80,0:08:52.84,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1384.8,155.87)\2a&HFF&\iclip(m 1113 107 l 1110 130 1116 158 1541 148 1749 161 1746 82)}Pocari Sweat replenishes to 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
+Comment: 1,0:08:41.08,0:08:52.72,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1384.8,155.87)\ko5.3\1a&H50&\c&HFFFFFF&\2c&H002EFF&\2a&HFF&}P{\ko5.3}o{\ko5.3}c{\ko5.3}a{\ko5.3}r{\ko5.3}i {\ko5.3}S{\ko5.3}w{\ko5.3}e{\ko5.3}a{\ko5.3}t {\ko5.3}r{\ko5.3}e{\ko5.3}p{\ko5.3}l{\ko5.3}e{\ko5.3}n{\ko5.3}i{\ko5.3}s{\ko5.3}h{\ko5.3}e{\ko5.3}s {\ko5.3}t{\ko5.3}o {\ko5.3}1{\ko5.3}0{\ko5.3}0{\fnPT Sans Caption\fscx80\ko5.3}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
+Comment: 2,0:08:41.08,0:08:52.72,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1384.8,155.87)\2a&HFF&\ko5.3}P{\ko5.3}o{\ko5.3}c{\ko5.3}a{\ko5.3}r{\ko5.3}i {\ko5.3}S{\ko5.3}w{\ko5.3}e{\ko5.3}a{\ko5.3}t {\ko5.3}r{\ko5.3}e{\ko5.3}p{\ko5.3}l{\ko5.3}e{\ko5.3}n{\ko5.3}i{\ko5.3}s{\ko5.3}h{\ko5.3}e{\ko5.3}s {\ko5.3}t{\ko5.3}o {\ko5.3}1{\ko5.3}0{\ko5.3}0{\fnPT Sans Caption\fscx80\ko5.3}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
+Dialogue: 1,0:08:41.08,0:08:42.50,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1723.489375,155.87)\1a&H50&\2c&H002EFF&\2a&HFF&\clip(1000,0,1032,500)\an3\t(\clip(1000,0,1722,500))}Pocari Sweat replenishes 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
+Dialogue: 2,0:08:41.08,0:08:42.50,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1723.489375,155.87)\2a&HFF&\clip(1000,0,1032,500)\an3\t(\clip(1000,0,1722,500))}Pocari Sweat replenishes 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
+Dialogue: 1,0:08:42.50,0:08:52.72,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\1a&H50&\c&HFFFFFF&\2c&H002EFF&\2a&HFF&\pos(1723.489375,155.87)\an3}Pocari Sweat replenishes 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
+Dialogue: 2,0:08:42.50,0:08:52.72,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\2a&HFF&\pos(1723.489375,155.87)\an3}Pocari Sweat replenishes 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
+Dialogue: 1,0:08:52.72,0:08:52.76,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1723.489375,155.87)\2a&HFF&\iclip(m 1512 102 l 1511 139 1519 155 1541 148 1749 161 1746 82)\alpha&H50&\an3}Pocari Sweat replenishes 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
+Dialogue: 2,0:08:52.72,0:08:52.76,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1723.489375,155.87)\2a&HFF&\iclip(m 1512 102 l 1511 139 1519 155 1541 148 1749 161 1746 82)\an3}Pocari Sweat replenishes 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
+Dialogue: 1,0:08:52.76,0:08:52.80,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1723.489375,155.87)\2a&HFF&\iclip(m 1310 100 l 1308 130 1306 159 1541 148 1749 161 1746 82)\alpha&H50&\an3}Pocari Sweat replenishes 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
+Dialogue: 2,0:08:52.76,0:08:52.80,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1723.489375,155.87)\2a&HFF&\iclip(m 1310 100 l 1308 130 1306 159 1541 148 1749 161 1746 82)\an3}Pocari Sweat replenishes 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
+Dialogue: 1,0:08:52.80,0:08:52.84,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur3\fs60\fscy102\fsp0.2\b1\pos(1723.489375,155.87)\2a&HFF&\iclip(m 1113 107 l 1110 130 1116 158 1541 148 1749 161 1746 82)\alpha&H50&\an3}Pocari Sweat replenishes 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
+Dialogue: 2,0:08:52.80,0:08:52.84,Signs,,0,0,0,,{\c&HFFFFFF&\fnPT Sans\blur0.9\fs60\fscy102\fsp0.2\b1\pos(1723.489375,155.87)\2a&HFF&\iclip(m 1113 107 l 1110 130 1116 158 1541 148 1749 161 1746 82)\an3}Pocari Sweat replenishes 100{\fnPT Sans Caption\fscx80}%{TL: lit. "Case where Pocari Sweat is used for 100%", or something like that}
 Comment: 0,0:08:38.62,0:08:52.92,Signs,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HAA4A2A&}m 627 994 l 1284 989 1280 1044 934 1041 628 1038
 Comment: 0,0:08:38.62,0:08:52.92,Signs,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HAB4C2C&}m 627 994 l 1284 989 1280 1044 934 1041 628 1038
-Comment: 0,0:08:38.62,0:08:52.92,Signs,,0,0,0,,{\pos(1658.667,936)}(Time)
+Dialogue: 0,0:08:38.62,0:08:52.76,Signs,,0,0,0,,{\fad(565,0)\fnPT Sans Narrow\blur3\fsp0.7\fscy90\b1\fs60\alpha&HE0&\c&HFFFFFF&\pos(1533,937)}Time
+Dialogue: 1,0:08:38.62,0:08:52.76,Signs,,0,0,0,,{\fad(565,0)\fnPT Sans Narrow\blur0.9\fsp0.7\fscy90\b1\fs60\pos(1533,937)}Time
+Dialogue: 0,0:08:52.76,0:08:52.80,Signs,,0,0,0,,{\fnPT Sans Narrow\blur3\fsp0.7\fscy90\b1\fs60\alpha&HE0&\c&HFFFFFF&\pos(1533,937)\clip(m 1448 894.22 b 1489.78 897.33 1536 912.45 1555.55 931.56 l 1476.44 939.56)}Time
+Dialogue: 1,0:08:52.76,0:08:52.80,Signs,,0,0,0,,{\fnPT Sans Narrow\blur0.9\fsp0.7\fscy90\b1\fs60\pos(1533,937)\clip(m 1448 894.22 b 1489.78 897.33 1536 912.45 1555.55 931.56 l 1476.44 939.56)}Time
 Dialogue: 0,0:08:38.62,0:08:52.67,Signs,,0,0,0,,{\fad(565,0)\fnPT Sans Narrow\blur3\fsp0.7\fscy90\b1\fs45\pos(1646,1018)\alpha&HE0&\c&HFFFFFF&}Source: Itou et al., JPFSM{The Journal of Physical Fitness and Sports Medicine}, 2000 issue
 Dialogue: 1,0:08:38.62,0:08:52.67,Signs,,0,0,0,,{\fad(565,0)\fnPT Sans Narrow\blur0.9\fsp0.7\fscy90\b1\fs45\pos(1646,1018)}Source: Itou et al., JPFSM{The Journal of Physical Fitness and Sports Medicine}, 2000 issue
 Dialogue: 0,0:08:52.67,0:08:52.72,Signs,,0,0,0,,{\fnPT Sans Narrow\blur3\fsp0.7\fscy90\b1\fs45\pos(1646,1018)\alpha&HE0&\c&HFFFFFF&\iclip(m 1688 974 l 1658 1002 1638 1034 1638 1056 1712 1052 1854 1034 1897 1010 1884 970)}Source: Itou et al., JPFSM{The Journal of Physical Fitness and Sports Medicine}, 2000 issue
@@ -756,17 +766,42 @@ Dialogue: 1,0:08:52.92,0:08:52.97,Signs,,0,0,0,,{\an7\pos(194,0.5)\fscx100\fscy1
 Dialogue: 1,0:08:52.92,0:08:52.97,Signs,,0,0,0,,{\an7\blur1\c&HFFFFFF&\pos(552,646.4)\fscx100\fscy100\p1\iclip(m 465 548 b 454 563 449 590 455 605 449 628 465 662 477 679 l 493 688 574 742 593 745 603 735 650 722 722 656 666 560 578 501 497 512)}m -87 -87 b -39 -138 39 -138 87 -87 135 -39 136 39 87 87 41 138 -45 135 -87 87 -137 39 -137 -39 -87 -87 m -151 -112 l -79 -85 -107 -51
 Dialogue: 2,0:08:52.92,0:08:52.97,Signs,,0,0,0,,{\c&H0F0F0F&\fnFOT Rodin Pro EB\blur1.2\fs57\fscy105\fsp-2\pos(552,678.4)\iclip(m 452 590 l 455 626 460 669 490 731 500 682 509 672 516 670 521 666 b 523 667 532 669 535 667 539 664 539 658 537 656 l 557 645 568 667 566 690 570 722 577 739 590 744 658 623)}Water{TL: lit. "Fresh water"}
 Comment: 0,0:02:10.87,0:02:26.87,Signs,,0,0,0,11,== petzku TS below ==
-Dialogue: 0,0:01:16.97,0:01:28.27,Signs,,0,0,0,11,{\pos(428,916)}RED BLOOD CELL\NShe transports oxygen and carbon dioxide around the body through blood circulation.
-Dialogue: 0,0:01:37.36,0:01:45.20,Signs,,0,0,0,11,{\pos(1500,1016)}THERMOREGULATION\NOne way in which the body regulates its temperature is to increase the blood flow near the skin, helping to radiate heat outward.
-Dialogue: 0,0:01:47.83,0:01:52.38,Signs,,0,0,0,11,{\pos(1416,988)}WHITE BLOOD CELL (NEUTROPHIL)\NHis main job is to destroy foreign substances entering the body from outside, such as bacteria and viruses.
-Dialogue: 0,0:02:13.90,0:02:26.87,Signs,,0,0,0,11,{\pos(1404,340)}THE SWEAT GLANDS\NThese glands store sweat in the skin. Sweat removes heat by evaporation, and plays a vital role in thermoregulation.
-Dialogue: 0,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(0,500)\an7\blur0.8\bord2\shad0\fscx100\fscy100\c&HFFFFFF&\1a&H80&\p1\t(8090,9090,1,\c&HAD552D&)\pos(125.11,738.64)}m -24 -5 l 918 -5 918 279 -24 279
-Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(0,500)\an7\blur0.5\fnPT Sans\c&H000000&\b1\fs55\pos(125.11,738.64)}HEATSTROKE
-Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(0,500)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(125.11,789.64)}A failure of the thermoregulatory processes, or a breakdown
-Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(0,500)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(125.11,832.64)}in the balance of water and electrolytes present in the body.
-Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(0,500)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(125.11,875.64)}Symptoms include dizziness, headaches, and the like.
-Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(0,500)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(125.11,918.64)}In more serious cases, loss of consciousness and seizures
-Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(0,500)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(125.11,961.64)}may occur, and it may even be life-threatening.
+Dialogue: 0,0:01:16.97,0:01:28.27,Signs,,0,0,0,,{\an7\bord2\blur0.5\fad(500,0)\1a&H80\fscx100\fscy100\p1\pos(127.33,48.33)}m -24 -5 l 494 -5 494 200 -24 200
+Dialogue: 1,0:01:16.97,0:01:28.27,Signs,,0,0,0,,{\an7\fnPT Sans\fs55\b1\c&H000000&\blur0.6\fad(500,0)\pos(127.33,48.33)}RED BLOOD CELL
+Dialogue: 1,0:01:16.97,0:01:28.27,Signs,,0,0,0,,{\an7\fnPT Sans\fs45\c&H000000&\blur0.6\fad(500,0)\pos(127.33,103.33)}She transports oxygen and
+Dialogue: 1,0:01:16.97,0:01:28.27,Signs,,0,0,0,,{\an7\fnPT Sans\fs45\c&H000000&\blur0.6\fad(500,0)\pos(127.33,146.33)}carbon dioxide around the body
+Dialogue: 1,0:01:16.97,0:01:28.27,Signs,,0,0,0,,{\an7\fnPT Sans\fs45\c&H000000&\blur0.6\fad(500,0)\pos(127.33,189.33)}through blood circulation.
+Comment: 0,0:01:16.97,0:01:28.27,Signs,,0,0,0,11,{\pos(428,916)}RED BLOOD CELL\NShe transports oxygen and carbon dioxide around the body through blood circulation.
+Dialogue: 0,0:01:37.36,0:01:45.20,Signs,,0,0,0,,{\an7\bord2\blur0.5\fad(260,0)\1a&H80\fscx100\fscy100\p1\pos(127.33,48.33)}m -24 -5 l 578 -5 578 240 -24 240
+Dialogue: 1,0:01:37.36,0:01:45.20,Signs,,0,0,0,,{\an7\fnPT Sans\fs55\b1\c&H000000&\blur0.6\fad(260,0)\pos(127.33,48.33)}THERMOREGULATION
+Dialogue: 1,0:01:37.36,0:01:45.20,Signs,,0,0,0,,{\an7\fnPT Sans\fs45\c&H000000&\blur0.6\fad(260,0)\pos(127.33,103.33)\b0}One way in which the body regulates
+Dialogue: 1,0:01:37.36,0:01:45.20,Signs,,0,0,0,,{\an7\fnPT Sans\fs45\c&H000000&\blur0.6\fad(260,0)\pos(127.33,146.33)\b0}its temperature is to increase
+Dialogue: 1,0:01:37.36,0:01:45.20,Signs,,0,0,0,,{\an7\fnPT Sans\fs45\c&H000000&\blur0.6\fad(260,0)\pos(127.33,189.33)\b0}the blood flow near the skin,
+Dialogue: 1,0:01:37.36,0:01:45.20,Signs,,0,0,0,,{\an7\fnPT Sans\fs45\c&H000000&\blur0.6\fad(260,0)\pos(127.33,232.33)\b0}helping to radiate heat outward.
+Comment: 0,0:01:37.36,0:01:45.20,Signs,,0,0,0,11,{\pos(1500,1016)}THERMOREGULATION\NOne way in which the body regulates its temperature is to increase the blood flow near the skin, helping to radiate heat outward.
+Dialogue: 0,0:01:47.83,0:01:52.38,Signs,,0,0,0,,{\an7\bord2\blur0.5\fad(500,0)\1a&H80\fscx100\fscy100\p1\pos(127.33,48.33)}m -24 -5 l 666 -5 666 155 -24 155
+Dialogue: 1,0:01:47.83,0:01:52.38,Signs,,0,0,0,,{\an7\fnPT Sans\fs55\b1\c&H000000&\blur0.6\fad(500,0)\pos(127.33,48.33)}WHITE BLOOD CELL (NEUTROPHIL)
+Dialogue: 1,0:01:47.83,0:01:52.38,Signs,,0,0,0,,{\an7\fnPT Sans\fs45\c&H000000&\blur0.6\fad(500,0)\pos(127.33,103.33)}His main job is to destroy foreign bodies,
+Dialogue: 1,0:01:47.83,0:01:52.38,Signs,,0,0,0,,{\an7\fnPT Sans\fs45\c&H000000&\blur0.6\fad(500,0)\pos(127.33,146.33)}such as bacteria and viruses.
+Comment: 1,0:01:47.83,0:01:52.38,Signs,,0,0,0,,{\an7\fnPT Sans\fs45\c&H000000&\blur0.6\fad(500,0)\pos(127.33,103.33)}His main job is to destroy foreign substances \Nentering the body from outside, \Nsuch as bacteria and viruses.
+Comment: 0,0:01:47.83,0:01:52.38,Signs,,0,0,0,11,{\pos(1416,988)}WHITE BLOOD CELL (NEUTROPHIL)\NHis main job is to destroy foreign substances entering the body from outside, such as bacteria and viruses.
+Dialogue: 0,0:02:13.94,0:02:26.87,Signs,,0,0,0,,{\fad(260,0)\an7\bord2\blur0.5\1a&H80\fscx100\fscy100\pos(113.33,96)\p1}m -17 -10 l 593 -10 593 293 -17 293
+Dialogue: 1,0:02:13.94,0:02:26.87,Signs,,0,0,0,,{\fad(260,0)\an7\fnPT Sans\fs55\b1\c&H000000&\blur0.6\pos(113.33,96)}THE SWEAT GLANDS
+Dialogue: 1,0:02:13.94,0:02:26.87,Signs,,0,0,0,,{\fad(260,0)\an7\fnPT Sans\fs45\c&H000000&\blur0.6\pos(113.33,151)\b0}These glands store sweat in the skin.
+Dialogue: 1,0:02:13.94,0:02:26.87,Signs,,0,0,0,,{\fad(260,0)\an7\fnPT Sans\fs45\c&H000000&\blur0.6\pos(113.33,196)\b0}There are two types: apocrine and
+Dialogue: 1,0:02:13.94,0:02:26.87,Signs,,0,0,0,,{\fad(260,0)\an7\fnPT Sans\fs45\c&H000000&\blur0.6\pos(113.33,241)\b0}eccrine glands. Sweat removes heat by
+Dialogue: 1,0:02:13.94,0:02:26.87,Signs,,0,0,0,,{\fad(260,0)\an7\fnPT Sans\fs45\c&H000000&\blur0.6\pos(113.33,286)\b0}evaporation, and plays a vital role
+Dialogue: 1,0:02:13.94,0:02:26.87,Signs,,0,0,0,,{\fad(260,0)\an7\fnPT Sans\fs45\c&H000000&\blur0.6\pos(113.33,331)\b0}in thermoregulation.
+Comment: 0,0:02:13.90,0:02:26.87,Signs,,0,0,0,11,{\pos(1404,340)}THE SWEAT GLANDS\NThese glands store sweat in the skin. Sweat removes heat by evaporation, and plays a vital role in thermoregulation.
+Dialogue: 0,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(250,0)\an7\blur0.8\bord2\shad0\fscx100\fscy100\c&HFFFFFF&\1a&H80&\p1\pos(1147,63)}m -24 -5 l 709 -5 709 320 -24 320
+Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(250,0)\an7\blur0.5\fnPT Sans\c&H000000&\b1\fs55\pos(1147,62)}HEATSTROKE
+Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(250,0)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(1147,113)}A failure of the thermoregulatory processes,
+Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(250,0)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(1147,156)}or a breakdown in the balance of water
+Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(250,0)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(1147,199)}and electrolytes. Symptoms include dizziness,
+Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(250,0)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(1147,242)}headaches, and, in more serious cases,
+Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(250,0)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(1147,285)}loss of consciousness and seizures.
+Dialogue: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(250,0)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(1147,328)}It may even be life-threatening.
+Comment: 1,0:05:57.75,0:06:22.32,Signs,,0,0,0,,{\fad(250,0)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(1147.33,114.21)}A failure of the thermoregulatory processes,\Nor a breakdown in the balance of water\Nand electrolytes present in the body.\NSymptoms include dizziness, headaches,\Nand the like. In more serious cases, loss of\Nconsciousness and seizures may occur,\Nand it may even be life-threatening.
 Dialogue: 0,0:08:30.57,0:08:39.17,Signs,,0,0,0,,{\fad(0,500)\an7\blur0.8\bord2\shad0\fscx100\fscy100\c&HFFFFFF&\1a&H80&\p1\pos(995.11,696.64)\t(8090,9090,1,\c&HAD552D&)}m -24 -5 l 859 -5 859 324 -24 324
 Dialogue: 1,0:08:30.57,0:08:39.17,Signs,,0,0,0,,{\fad(0,500)\an7\blur0.5\fnPT Sans\c&H000000&\b1\fs55\pos(995.11,696.64)}POCARI SWEAT
 Dialogue: 1,0:08:30.57,0:08:39.17,Signs,,0,0,0,,{\fad(0,500)\an7\blur0.5\fnPT Sans\c&H000000&\fs45\b0\pos(995.11,747.64)}A health drink that can replenish fluids and electrolytes
@@ -1517,22 +1552,58 @@ Dialogue: 1,0:04:07.72,0:04:10.56,Signs,,0,0,0,,{\pos(80.75,1009.07)\fnLato Ligh
 Dialogue: 1,0:04:07.72,0:04:10.56,Signs,,0,0,0,,{\pos(80.75,1009.07)\fnLato Light\fs24\b1\c&HE4E6FE&\blur0.5}Cell News Network
 Dialogue: 1,0:04:07.72,0:04:10.56,Signs,,0,0,0,,{\pos(80.75,1009.07)\fnLato Light\fs24\b1\c&HE4E6FE&\blur0.5}Cell News Network
 Dialogue: 1,0:04:07.72,0:04:10.56,Signs,,0,0,0,,{\pos(80.75,1009.07)\fnLato Light\fs24\b1\c&HE4E6FE&\blur0.5}Cell News Network
-Dialogue: 0,0:04:10.56,0:04:12.81,Signs,,0,0,0,,{\pos(700,1068)}Normal
+Comment: 0,0:04:10.56,0:04:12.81,Signs,,0,0,0,,{\pos(700,1068)}Normal
 Dialogue: 0,0:04:10.56,0:04:12.81,Signs,,0,0,0,,{\pos(1020,596)}High
 Dialogue: 0,0:04:10.56,0:04:12.81,Signs,,0,0,0,,{\pos(1252,232)}Danger
-Dialogue: 0,0:04:12.81,0:04:13.52,Signs,,0,0,0,,{\pos(60,960)}Low
-Dialogue: 0,0:04:12.81,0:04:12.89,Signs,,0,0,0,,{\pos(120,484)}Normal
-Dialogue: 0,0:04:12.81,0:04:13.52,Signs,,0,0,0,,{\pos(136,64)}High
-Dialogue: 0,0:04:12.85,0:04:13.52,Signs,,0,0,0,,{\pos(404,256)}Red Alert{TL: lit. "emergency alert"}
-Dialogue: 0,0:04:13.52,0:04:14.85,Signs,,0,0,0,,{\pos(952,548)}Red Alert
-Dialogue: 0,0:04:14.85,0:04:17.77,Signs,,0,0,0,,{\pos(964,140)}Red Alert
-Dialogue: 0,0:05:06.70,0:05:08.57,Signs,,0,0,0,,{\pos(941.333,128)}Red Alert
-Dialogue: 0,0:05:08.57,0:05:09.83,Signs,,0,0,0,,{\pos(96,1072)}Red Alert
-Dialogue: 0,0:05:09.83,0:05:10.79,Signs,,0,0,0,,{\pos(112,696)}Red Alert
-Dialogue: 0,0:05:15.46,0:05:18.33,Signs,,0,0,0,,{\pos(669.333,765.333)}Red Alert
-Dialogue: 0,0:06:24.61,0:06:30.24,Signs,,0,0,0,,{\pos(861.333,925.333)}Red Alert
-Dialogue: 0,0:06:30.49,0:06:32.37,Signs,,0,0,0,,{\pos(861.333,925.333)}Red Alert
-Dialogue: 0,0:07:51.03,0:07:52.15,Signs,,0,0,0,,{\pos(392,245.333)}Red Alert
+Comment: 0,0:04:12.81,0:04:13.52,Signs,,0,0,0,,{\pos(60,960)}Low
+Comment: 0,0:04:12.81,0:04:12.89,Signs,,0,0,0,,{\pos(120,484)}Normal
+Comment: 0,0:04:12.81,0:04:13.52,Signs,,0,0,0,,{\pos(136,64)}High
+Dialogue: 2,0:04:12.85,0:04:12.90,Signs,,0,0,0,,{=63}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur1.2\pos(168.56,118.33)\clip(m 5.33 282.67 l 141.56 184.11 171.67 273.67 91.78 534 7.11 555.56)}R{*\blur1.238}e{*\blur1.275}d {*\blur1.35}A{*\blur1.387}l{*\blur1.425}e{*\blur1.462}r{\blur1.5}t{TL: lit. "emergency alert"}
+Dialogue: 1,0:04:12.85,0:04:12.90,Signs,,0,0,0,,{=57}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur10\pos(168.56,118.33)\clip(m 5.33 282.67 l 141.56 184.11 171.67 273.67 91.78 534 7.11 555.56)}R{*\blur10.625}e{*\blur11.25}d {*\blur12.5}A{*\blur13.125}l{*\blur13.75}e{*\blur14.375}r{\blur15}t
+Dialogue: 0,0:04:12.85,0:04:12.90,Signs,,0,0,0,,{=104}{\an7\blur6.5\bord0\shad0\fscx100\fscy100\pos(168.56,118.33)\c&H1E202D&\p1}m -91 116 l -110 412 -71.6 398.8 3.11 155.34 -26.53 67.18
+Dialogue: 2,0:04:12.90,0:04:12.94,Signs,,0,0,0,,{=63}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur1.2\pos(168.56,118.33)\clip(m 14.55 276.36 l 298.5 61 347 153 308 462 11.5 555.5)}R{*\blur1.238}e{*\blur1.275}d {*\blur1.35}A{*\blur1.387}l{*\blur1.425}e{*\blur1.462}r{\blur1.5}t{TL: lit. "emergency alert"}
+Dialogue: 1,0:04:12.90,0:04:12.94,Signs,,0,0,0,,{=57}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur10\pos(168.56,118.33)\clip(m 14.55 276.36 l 298.5 61 347 153 308 462 11.5 555.5)}R{*\blur10.625}e{*\blur11.25}d {*\blur12.5}A{*\blur13.125}l{*\blur13.75}e{*\blur14.375}r{\blur15}t
+Dialogue: 0,0:04:12.90,0:04:12.94,Signs,,0,0,0,,{=104}{\an7\blur6.5\bord0\shad0\fscx100\fscy100\pos(168.56,118.33)\c&H1E202D&\p1}m 178.44 34.67 l 129.1 329.79 -110 412 -91 116 132.21 -53.02
+Dialogue: 2,0:04:12.94,0:04:12.98,Signs,,0,0,0,,{=63}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur1.2\pos(168.56,118.33)\clip(m 32 270.67 l 502.67 -94.67 777.33 -94.67 688 330.67 14.67 554.67)}R{*\blur1.238}e{*\blur1.275}d {*\blur1.35}A{*\blur1.387}l{*\blur1.425}e{*\blur1.462}r{\blur1.5}t{TL: lit. "emergency alert"}
+Dialogue: 1,0:04:12.94,0:04:12.98,Signs,,0,0,0,,{=57}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur10\pos(168.56,118.33)\clip(m 32 270.67 l 502.67 -94.67 777.33 -94.67 688 330.67 14.67 554.67)}R{*\blur10.625}e{*\blur11.25}d {*\blur12.5}A{*\blur13.125}l{*\blur13.75}e{*\blur14.375}r{\blur15}t
+Dialogue: 0,0:04:12.94,0:04:12.98,Signs,,0,0,0,,{=104}{\an7\blur6.5\bord0\shad0\fscx100\fscy100\pos(168.56,118.33)\c&H1E202D&\p1}m 596.3 -153.62 l 523.24 194.27 -110 412 -91.07 117.03 -39.65 77.12 325 -199
+Dialogue: 2,0:04:12.98,0:04:13.52,Signs,,0,0,0,,{=63}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur1.2\pos(168.56,118.33)}R{*\blur1.238}e{*\blur1.275}d {*\blur1.35}A{*\blur1.387}l{*\blur1.425}e{*\blur1.462}r{\blur1.5}t{TL: lit. "emergency alert"}
+Dialogue: 1,0:04:12.98,0:04:13.52,Signs,,0,0,0,,{=57}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur10\pos(168.56,118.33)}R{*\blur10.625}e{*\blur11.25}d {*\blur12.5}A{*\blur13.125}l{*\blur13.75}e{*\blur14.375}r{\blur15}t
+Dialogue: 0,0:04:12.98,0:04:13.52,Signs,,0,0,0,,{=104}{\an7\blur6.5\bord0\shad0\fscx100\fscy100\pos(168.56,118.33)\c&H1E202D&\p1}m -91 116 l 325 -199 606 -152 621 88 553 111 556 183 -110 412
+Dialogue: 2,0:04:13.52,0:04:14.85,Signs,,0,0,0,,{=113}{\fnFOT Rodin Pro EB\b0\fs45\an5\pos(952,519.56)\blur1.3\c&H16DAFF&}Red Alert
+Dialogue: 1,0:04:13.52,0:04:14.85,Signs,,0,0,0,,{=104}{\fnFOT Rodin Pro EB\b0\fs45\an5\pos(952,519.56)\blur5\c&H16DAFF&\alpha&H80&}Red Alert
+Dialogue: 0,0:04:13.52,0:04:14.85,Signs,,0,0,0,,{=133}{\an7\bord0\shad0\blur2.5\pos(952,514.56)\c&H16204E&\fscx100\fscy100\p1}m -91 -15 l -92 -24 84 -23 97 -22 93 23 -85 23 -91 12
+Comment: 0,0:04:14.85,0:04:17.77,Signs,,0,0,0,,{\pos(964,140)}Red Alert
+Comment: 0,0:05:06.70,0:05:08.57,Signs,,0,0,0,,{\pos(941.333,128)}Red Alert
+Comment: 0,0:05:08.57,0:05:09.83,Signs,,0,0,0,,{\pos(96,1072)}Red Alert
+Comment: 0,0:05:09.83,0:05:10.79,Signs,,0,0,0,,{\pos(112,696)}Red Alert
+Comment: 0,0:05:15.46,0:05:18.33,Signs,,0,0,0,,{\pos(669.333,765.333)}Red Alert
+Comment: 0,0:06:24.61,0:06:30.24,Signs,maybe,0,0,0,,{\pos(861.333,925.333)}Red Alert
+Comment: 0,0:06:30.49,0:06:32.37,Signs,maybe,0,0,0,,{\pos(861.333,925.333)}Red Alert
+Dialogue: 2,0:07:51.03,0:07:51.08,Signs,todo: clipping,0,0,0,,{=63}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur1.2\pos(168.56,118.33)}R{*\blur1.238}e{*\blur1.275}d {*\blur1.35}A{*\blur1.387}l{*\blur1.425}e{*\blur1.462}r{\blur1.5}t{TL: lit. "emergency alert"}
+Dialogue: 1,0:07:51.03,0:07:51.08,Signs,,0,0,0,,{=57}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur10\pos(168.56,118.33)}R{*\blur10.625}e{*\blur11.25}d {*\blur12.5}A{*\blur13.125}l{*\blur13.75}e{*\blur14.375}r{\blur15}t
+Dialogue: 0,0:07:51.03,0:07:51.08,Signs,,0,0,0,,{=104}{\an7\blur6.5\bord0\shad0\fscx100\fscy100\pos(168.56,118.33)\c&H1E202D&\p1}m -91 116 l 325 -199 606 -152 621 88 553 111 556 183 -110 412
+Dialogue: 2,0:07:51.08,0:07:51.12,Signs,,0,0,0,,{=63}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur1.2\pos(168.56,118.33)}R{*\blur1.238}e{*\blur1.275}d {*\blur1.35}A{*\blur1.387}l{*\blur1.425}e{*\blur1.462}r{\blur1.5}t{TL: lit. "emergency alert"}
+Dialogue: 1,0:07:51.08,0:07:51.12,Signs,,0,0,0,,{=57}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur10\pos(168.56,118.33)}R{*\blur10.625}e{*\blur11.25}d {*\blur12.5}A{*\blur13.125}l{*\blur13.75}e{*\blur14.375}r{\blur15}t
+Dialogue: 0,0:07:51.08,0:07:51.12,Signs,,0,0,0,,{=104}{\an7\blur6.5\bord0\shad0\fscx100\fscy100\pos(168.56,118.33)\c&H1E202D&\p1}m -91 116 l 325 -199 606 -152 621 88 553 111 556 183 -110 412
+Dialogue: 2,0:07:51.12,0:07:51.16,Signs,,0,0,0,,{=63}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur1.2\pos(168.56,118.33)}R{*\blur1.238}e{*\blur1.275}d {*\blur1.35}A{*\blur1.387}l{*\blur1.425}e{*\blur1.462}r{\blur1.5}t{TL: lit. "emergency alert"}
+Dialogue: 1,0:07:51.12,0:07:51.16,Signs,,0,0,0,,{=57}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur10\pos(168.56,118.33)}R{*\blur10.625}e{*\blur11.25}d {*\blur12.5}A{*\blur13.125}l{*\blur13.75}e{*\blur14.375}r{\blur15}t
+Dialogue: 0,0:07:51.12,0:07:51.16,Signs,,0,0,0,,{=104}{\an7\blur6.5\bord0\shad0\fscx100\fscy100\pos(168.56,118.33)\c&H1E202D&\p1}m -91 116 l 325 -199 606 -152 621 88 553 111 556 183 -110 412
+Dialogue: 2,0:07:51.16,0:07:51.20,Signs,,0,0,0,,{=63}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur1.2\pos(168.56,118.33)}R{*\blur1.238}e{*\blur1.275}d {*\blur1.35}A{*\blur1.387}l{*\blur1.425}e{*\blur1.462}r{\blur1.5}t{TL: lit. "emergency alert"}
+Dialogue: 1,0:07:51.16,0:07:51.20,Signs,,0,0,0,,{=57}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur10\pos(168.56,118.33)}R{*\blur10.625}e{*\blur11.25}d {*\blur12.5}A{*\blur13.125}l{*\blur13.75}e{*\blur14.375}r{\blur15}t
+Dialogue: 0,0:07:51.16,0:07:51.20,Signs,,0,0,0,,{=104}{\an7\blur6.5\bord0\shad0\fscx100\fscy100\pos(168.56,118.33)\c&H1E202D&\p1}m -91 116 l 325 -199 606 -152 621 88 553 111 556 183 -110 412
+Dialogue: 2,0:07:51.20,0:07:52.12,Signs,,0,0,0,,{=63}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur1.2\pos(168.56,118.33)}R{*\blur1.238}e{*\blur1.275}d {*\blur1.35}A{*\blur1.387}l{*\blur1.425}e{*\blur1.462}r{\blur1.5}t{TL: lit. "emergency alert"}
+Dialogue: 1,0:07:51.20,0:07:52.12,Signs,,0,0,0,,{=57}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur10\pos(168.56,118.33)}R{*\blur10.625}e{*\blur11.25}d {*\blur12.5}A{*\blur13.125}l{*\blur13.75}e{*\blur14.375}r{\blur15}t
+Dialogue: 0,0:07:51.20,0:07:52.12,Signs,,0,0,0,,{=104}{\an7\blur6.5\bord0\shad0\fscx100\fscy100\pos(168.56,118.33)\c&H1E202D&\p1}m -91 116 l 325 -199 606 -152 621 88 553 111 556 183 -110 412
+Dialogue: 2,0:07:52.12,0:07:52.16,Signs,,0,0,0,,{=63}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur1.2\pos(168.56,118.33)}R{*\blur1.238}e{*\blur1.275}d {*\blur1.35}A{*\blur1.387}l{*\blur1.425}e{*\blur1.462}r{\blur1.5}t{TL: lit. "emergency alert"}
+Dialogue: 1,0:07:52.12,0:07:52.16,Signs,,0,0,0,,{=57}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur10\pos(168.56,118.33)}R{*\blur10.625}e{*\blur11.25}d {*\blur12.5}A{*\blur13.125}l{*\blur13.75}e{*\blur14.375}r{\blur15}t
+Dialogue: 0,0:07:52.12,0:07:52.16,Signs,,0,0,0,,{=104}{\an7\blur6.5\bord0\shad0\fscx100\fscy100\pos(168.56,118.33)\c&H1E202D&\p1}m -91 116 l 325 -199 606 -152 621 88 553 111 556 183 -110 412
+Dialogue: 2,0:07:52.16,0:07:52.20,Signs,,0,0,0,,{=63}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur1.2\pos(168.56,118.33)}R{*\blur1.238}e{*\blur1.275}d {*\blur1.35}A{*\blur1.387}l{*\blur1.425}e{*\blur1.462}r{\blur1.5}t{TL: lit. "emergency alert"}
+Dialogue: 1,0:07:52.16,0:07:52.20,Signs,,0,0,0,,{=57}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur10\pos(168.56,118.33)}R{*\blur10.625}e{*\blur11.25}d {*\blur12.5}A{*\blur13.125}l{*\blur13.75}e{*\blur14.375}r{\blur15}t
+Dialogue: 0,0:07:52.16,0:07:52.20,Signs,,0,0,0,,{=104}{\an7\blur6.5\bord0\shad0\fscx100\fscy100\pos(168.56,118.33)\c&H1E202D&\p1}m -91 116 l 325 -199 606 -152 621 88 553 111 556 183 -110 412
+Dialogue: 2,0:07:52.20,0:07:52.24,Signs,,0,0,0,,{=63}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur1.2\pos(168.56,118.33)}R{*\blur1.238}e{*\blur1.275}d {*\blur1.35}A{*\blur1.387}l{*\blur1.425}e{*\blur1.462}r{\blur1.5}t{TL: lit. "emergency alert"}
+Dialogue: 1,0:07:52.20,0:07:52.24,Signs,,0,0,0,,{=57}{\an5\c&H0CF4FC&\fnFOT Rodin Pro EB\b0\fs240\fscx100\fscy150\org(533.4,774)\fry-14.5\frx2.14\frz0.54\blur10\pos(168.56,118.33)}R{*\blur10.625}e{*\blur11.25}d {*\blur12.5}A{*\blur13.125}l{*\blur13.75}e{*\blur14.375}r{\blur15}t
+Dialogue: 0,0:07:52.20,0:07:52.24,Signs,,0,0,0,,{=104}{\an7\blur6.5\bord0\shad0\fscx100\fscy100\pos(168.56,118.33)\c&H1E202D&\p1}m -91 116 l 325 -199 606 -152 621 88 553 111 556 183 -110 412
 Comment: 0,0:07:51.07,0:07:53.41,Signs,,0,0,0,,{\pos(128,50.667)}High
 Comment: 0,0:07:52.15,0:07:53.41,Signs,,0,0,0,,{\pos(88,445.334)}Normal
 Comment: 0,0:07:51.07,0:07:53.41,Signs,,0,0,0,,{\pos(61.333,968.001)}Low
@@ -1545,89 +1616,172 @@ Dialogue: 2,0:07:53.41,0:07:55.41,Signs,,0,0,0,,{=35}{\fscx20.24\blur0.71\fnPT S
 Dialogue: 1,0:07:53.41,0:07:55.41,Signs,,0,0,0,,{=34}{\fscx20.24\blur1.21\fnPT Sans\b1\fscy19.23\fs35\alpha&H80&\pos(868.42,605.53)}Low
 Dialogue: 2,0:07:53.41,0:07:55.41,Signs,,0,0,0,,{=33}{\fscx20.24\blur0.71\fnPT Sans\b1\fscy19.23\fs35\pos(868.42,605.53)}Low
 Comment: 0,0:02:10.87,0:02:26.87,Signs,todo: motion tracking,0,0,0,11,{\pos(956,812)}Sweat Pores Live Stream
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\blur1\fscx100\fscy100\p1}m 685 777 l 700 780 699 821 684 821
-Dialogue: 1,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\pos(729.02,815.14)\frz359.4\fnCNN\fs38\c&HF1F2FE&\blur0.5}CNN
-Dialogue: 1,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\pos(947.4,824.6)\fscx102\fscy115\frz359.5\fnBiryani SemiBold\fs45\fsp1.5\blur0.7}Sweat Pores Live Stream
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\blur1\clip(687,767,762,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H01&\blur1\clip(762,767,792,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H02&\blur1\clip(792,767,812,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H03&\blur1\clip(812,767,827,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H04&\blur1\clip(827,767,837,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H05&\blur1\clip(837,767,847,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H06&\blur1\clip(847,767,857,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H07&\blur1\clip(857,767,862,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H08&\blur1\clip(862,767,872,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H09&\blur1\clip(872,767,877,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0A&\blur1\clip(877,767,882,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0B&\blur1\clip(882,767,887,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0C&\blur1\clip(887,767,892,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0D&\blur1\clip(892,767,897,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0E&\blur1\clip(897,767,902,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0F&\blur1\clip(902,767,907,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H10&\blur1\clip(907,767,912,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H11&\blur1\clip(912,767,917,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H12&\blur1\clip(917,767,922,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H13&\blur1\clip(922,767,927,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H15&\blur1\clip(927,767,932,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H16&\blur1\clip(932,767,937,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H17&\blur1\clip(937,767,942,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H19&\blur1\clip(942,767,947,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H1A&\blur1\clip(947,767,952,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H1C&\blur1\clip(952,767,957,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H1E&\blur1\clip(957,767,962,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H1F&\blur1\clip(962,767,967,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H21&\blur1\clip(967,767,972,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H23&\blur1\clip(972,767,977,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H25&\blur1\clip(977,767,982,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H27&\blur1\clip(982,767,987,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H29&\blur1\clip(987,767,992,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H2B&\blur1\clip(992,767,997,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H2E&\blur1\clip(997,767,1002,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H30&\blur1\clip(1002,767,1007,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H32&\blur1\clip(1007,767,1012,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H35&\blur1\clip(1012,767,1017,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H37&\blur1\clip(1017,767,1022,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H3A&\blur1\clip(1022,767,1027,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H3D&\blur1\clip(1027,767,1032,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H40&\blur1\clip(1032,767,1037,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H42&\blur1\clip(1037,767,1042,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H45&\blur1\clip(1042,767,1047,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H49&\blur1\clip(1047,767,1052,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H4C&\blur1\clip(1052,767,1057,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H4F&\blur1\clip(1057,767,1062,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H52&\blur1\clip(1062,767,1067,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H56&\blur1\clip(1067,767,1072,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H59&\blur1\clip(1072,767,1077,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H5D&\blur1\clip(1077,767,1082,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H61&\blur1\clip(1082,767,1087,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H65&\blur1\clip(1087,767,1092,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H69&\blur1\clip(1092,767,1097,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H6D&\blur1\clip(1097,767,1102,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H71&\blur1\clip(1102,767,1107,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H75&\blur1\clip(1107,767,1112,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H79&\blur1\clip(1112,767,1117,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H7E&\blur1\clip(1117,767,1122,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H82&\blur1\clip(1122,767,1127,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H87&\blur1\clip(1127,767,1132,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H8C&\blur1\clip(1132,767,1137,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H91&\blur1\clip(1137,767,1142,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H96&\blur1\clip(1142,767,1147,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H9B&\blur1\clip(1147,767,1152,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HA0&\blur1\clip(1152,767,1157,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HA6&\blur1\clip(1157,767,1162,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HAB&\blur1\clip(1162,767,1167,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HB1&\blur1\clip(1167,767,1172,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HB7&\blur1\clip(1172,767,1177,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HBD&\blur1\clip(1177,767,1182,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HC3&\blur1\clip(1182,767,1187,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HC9&\blur1\clip(1187,767,1192,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HCF&\blur1\clip(1192,767,1197,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HD6&\blur1\clip(1197,767,1202,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HDC&\blur1\clip(1202,767,1207,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HE3&\blur1\clip(1207,767,1212,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HEA&\blur1\clip(1212,767,1217,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HF1&\blur1\clip(1217,767,1222,822)\p1}m 688 777 l 1220 780 1219 821 686 821
-Dialogue: 0,0:02:10.90,0:02:10.94,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HF8&\blur1\clip(1222,767,1227,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\blur1\fscx100\fscy100\p1}m 685 777 l 700 780 699 821 684 821
+Dialogue: 1,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\pos(729.02,815.14)\frz359.4\fnCNN\fs38\c&HF1F2FE&\blur0.5}CNN
+Dialogue: 1,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\pos(947.4,824.6)\fscx102\fscy115\frz359.5\fnBiryani SemiBold\fs45\fsp1.5\blur0.7}Sweat Pores Live Stream
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\blur1\clip(687,767,762,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H01&\blur1\clip(762,767,792,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H02&\blur1\clip(792,767,812,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H03&\blur1\clip(812,767,827,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H04&\blur1\clip(827,767,837,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H05&\blur1\clip(837,767,847,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H06&\blur1\clip(847,767,857,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H07&\blur1\clip(857,767,862,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H08&\blur1\clip(862,767,872,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H09&\blur1\clip(872,767,877,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0A&\blur1\clip(877,767,882,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0B&\blur1\clip(882,767,887,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0C&\blur1\clip(887,767,892,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0D&\blur1\clip(892,767,897,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0E&\blur1\clip(897,767,902,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0F&\blur1\clip(902,767,907,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H10&\blur1\clip(907,767,912,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H11&\blur1\clip(912,767,917,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H12&\blur1\clip(917,767,922,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H13&\blur1\clip(922,767,927,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H15&\blur1\clip(927,767,932,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H16&\blur1\clip(932,767,937,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H17&\blur1\clip(937,767,942,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H19&\blur1\clip(942,767,947,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H1A&\blur1\clip(947,767,952,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H1C&\blur1\clip(952,767,957,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H1E&\blur1\clip(957,767,962,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H1F&\blur1\clip(962,767,967,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H21&\blur1\clip(967,767,972,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H23&\blur1\clip(972,767,977,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H25&\blur1\clip(977,767,982,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H27&\blur1\clip(982,767,987,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H29&\blur1\clip(987,767,992,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H2B&\blur1\clip(992,767,997,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H2E&\blur1\clip(997,767,1002,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H30&\blur1\clip(1002,767,1007,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H32&\blur1\clip(1007,767,1012,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H35&\blur1\clip(1012,767,1017,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H37&\blur1\clip(1017,767,1022,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H3A&\blur1\clip(1022,767,1027,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H3D&\blur1\clip(1027,767,1032,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H40&\blur1\clip(1032,767,1037,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H42&\blur1\clip(1037,767,1042,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H45&\blur1\clip(1042,767,1047,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H49&\blur1\clip(1047,767,1052,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H4C&\blur1\clip(1052,767,1057,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H4F&\blur1\clip(1057,767,1062,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H52&\blur1\clip(1062,767,1067,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H56&\blur1\clip(1067,767,1072,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H59&\blur1\clip(1072,767,1077,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H5D&\blur1\clip(1077,767,1082,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H61&\blur1\clip(1082,767,1087,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H65&\blur1\clip(1087,767,1092,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H69&\blur1\clip(1092,767,1097,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H6D&\blur1\clip(1097,767,1102,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H71&\blur1\clip(1102,767,1107,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H75&\blur1\clip(1107,767,1112,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H79&\blur1\clip(1112,767,1117,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H7E&\blur1\clip(1117,767,1122,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H82&\blur1\clip(1122,767,1127,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H87&\blur1\clip(1127,767,1132,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H8C&\blur1\clip(1132,767,1137,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H91&\blur1\clip(1137,767,1142,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H96&\blur1\clip(1142,767,1147,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H9B&\blur1\clip(1147,767,1152,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HA0&\blur1\clip(1152,767,1157,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HA6&\blur1\clip(1157,767,1162,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HAB&\blur1\clip(1162,767,1167,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HB1&\blur1\clip(1167,767,1172,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HB7&\blur1\clip(1172,767,1177,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HBD&\blur1\clip(1177,767,1182,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HC3&\blur1\clip(1182,767,1187,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HC9&\blur1\clip(1187,767,1192,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HCF&\blur1\clip(1192,767,1197,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HD6&\blur1\clip(1197,767,1202,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HDC&\blur1\clip(1202,767,1207,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HE3&\blur1\clip(1207,767,1212,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HEA&\blur1\clip(1212,767,1217,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HF1&\blur1\clip(1217,767,1222,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.78,0:02:10.90,Signs,asdf: clipping; maybe track??,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HF8&\blur1\clip(1222,767,1227,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\blur1\fscx100\fscy100\p1}m 685 777 l 700 780 699 821 684 821
+Dialogue: 1,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\pos(729.02,815.14)\frz359.4\fnCNN\fs38\c&HF1F2FE&\blur0.5}CNN
+Dialogue: 1,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\pos(947.4,824.6)\fscx102\fscy115\frz359.5\fnBiryani SemiBold\fs45\fsp1.5\blur0.7}Sweat Pores Live Stream
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\blur1\clip(687,767,762,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H01&\blur1\clip(762,767,792,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H02&\blur1\clip(792,767,812,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H03&\blur1\clip(812,767,827,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H04&\blur1\clip(827,767,837,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H05&\blur1\clip(837,767,847,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H06&\blur1\clip(847,767,857,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H07&\blur1\clip(857,767,862,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H08&\blur1\clip(862,767,872,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H09&\blur1\clip(872,767,877,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0A&\blur1\clip(877,767,882,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0B&\blur1\clip(882,767,887,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0C&\blur1\clip(887,767,892,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0D&\blur1\clip(892,767,897,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0E&\blur1\clip(897,767,902,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H0F&\blur1\clip(902,767,907,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H10&\blur1\clip(907,767,912,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H11&\blur1\clip(912,767,917,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H12&\blur1\clip(917,767,922,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H13&\blur1\clip(922,767,927,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H15&\blur1\clip(927,767,932,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H16&\blur1\clip(932,767,937,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H17&\blur1\clip(937,767,942,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H19&\blur1\clip(942,767,947,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H1A&\blur1\clip(947,767,952,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H1C&\blur1\clip(952,767,957,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H1E&\blur1\clip(957,767,962,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H1F&\blur1\clip(962,767,967,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H21&\blur1\clip(967,767,972,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H23&\blur1\clip(972,767,977,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H25&\blur1\clip(977,767,982,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H27&\blur1\clip(982,767,987,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H29&\blur1\clip(987,767,992,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H2B&\blur1\clip(992,767,997,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H2E&\blur1\clip(997,767,1002,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H30&\blur1\clip(1002,767,1007,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H32&\blur1\clip(1007,767,1012,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H35&\blur1\clip(1012,767,1017,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H37&\blur1\clip(1017,767,1022,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H3A&\blur1\clip(1022,767,1027,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H3D&\blur1\clip(1027,767,1032,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H40&\blur1\clip(1032,767,1037,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H42&\blur1\clip(1037,767,1042,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H45&\blur1\clip(1042,767,1047,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H49&\blur1\clip(1047,767,1052,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H4C&\blur1\clip(1052,767,1057,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H4F&\blur1\clip(1057,767,1062,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H52&\blur1\clip(1062,767,1067,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H56&\blur1\clip(1067,767,1072,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H59&\blur1\clip(1072,767,1077,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H5D&\blur1\clip(1077,767,1082,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H61&\blur1\clip(1082,767,1087,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H65&\blur1\clip(1087,767,1092,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H69&\blur1\clip(1092,767,1097,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H6D&\blur1\clip(1097,767,1102,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H71&\blur1\clip(1102,767,1107,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H75&\blur1\clip(1107,767,1112,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H79&\blur1\clip(1112,767,1117,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H7E&\blur1\clip(1117,767,1122,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H82&\blur1\clip(1122,767,1127,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H87&\blur1\clip(1127,767,1132,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H8C&\blur1\clip(1132,767,1137,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H91&\blur1\clip(1137,767,1142,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H96&\blur1\clip(1142,767,1147,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&H9B&\blur1\clip(1147,767,1152,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HA0&\blur1\clip(1152,767,1157,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HA6&\blur1\clip(1157,767,1162,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HAB&\blur1\clip(1162,767,1167,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HB1&\blur1\clip(1167,767,1172,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HB7&\blur1\clip(1172,767,1177,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HBD&\blur1\clip(1177,767,1182,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HC3&\blur1\clip(1182,767,1187,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HC9&\blur1\clip(1187,767,1192,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HCF&\blur1\clip(1192,767,1197,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HD6&\blur1\clip(1197,767,1202,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HDC&\blur1\clip(1202,767,1207,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HE3&\blur1\clip(1207,767,1212,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HEA&\blur1\clip(1212,767,1217,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HF1&\blur1\clip(1217,767,1222,822)\p1}m 688 777 l 1220 780 1219 821 686 821
+Dialogue: 0,0:02:10.90,0:02:26.88,Signs,,0,0,0,,{\an7\pos(7,-5)\c&H261FFD&\1a&HF8&\blur1\clip(1222,767,1227,822)\p1}m 688 777 l 1220 780 1219 821 686 821
 
 [Aegisub Extradata]
 Data: 33,a-mo,e{"uuid"#3A"5fb9ca52-6f1e-44b4-a38d-bd2db3ef11d7"#2C"originalText"#3A"{\\blur3.5\\fnPT Sans\\b1\\fscy95\\fs35\\pos(497.49#2C967.56)}Low"}
@@ -1645,3 +1799,6 @@ Data: 72,a-mo,e{"uuid"#3A"e31fb22a-a77b-4074-ba3f-994a6dae1b01"#2C"originalText"
 Data: 73,a-mo,e{"uuid"#3A"425e5ff1-03af-4190-98b5-9b30e9e89cc4"#2C"originalText"#3A"{\\an4\\frz-14.85\\fnPT Sans\\b1\\blur15\\fax-0.24\\pos(1559.44#2C242.67)\\fs120}H{*\\fax-0.257}i{*\\fax-0.273}g{\\fax-0.29}h"}
 Data: 74,a-mo,e{"uuid"#3A"6c6dcfa4-455c-4abd-b6a1-7c8397554ace"#2C"originalText"#3A"{\\an4\\fnPT Sans\\b1\\blur1.5\\frz346.2\\fax-0.21\\pos(1192.24#2C904.72)\\fs80\\fscy80}N{\\fax-0.22}o{\\fax-0.24}r{\\fax-0.25}m{\\fax-0.27}a{\\fax-0.28}l"}
 Data: 75,a-mo,e{"uuid"#3A"2ed7b072-d261-4543-a0cd-caa5b2f06a47"#2C"originalText"#3A"{\\an4\\fnPT Sans\\b1\\blur12\\frz346.2\\fax-0.21\\pos(1192.24#2C904.72)\\fs80\\fscy80}N{\\fax-0.22}o{\\fax-0.24}r{\\fax-0.25}m{\\fax-0.27}a{\\fax-0.28}l"}
+Data: 104,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A14}
+Data: 113,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A7}
+Data: 133,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A11}
