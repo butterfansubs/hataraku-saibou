@@ -12,5 +12,5 @@ Fansubs by ButterFS and :v for the anime _Hataraku Saibou_ (_Cells at Work!_).
 * **Translation:** bucket3432
 * **Editing:** rcombs
 * **Timing:** snyte
-* **Typesetting:** petzku, _yes_
+* **Typesetting:** petzku, \[:v] (ep. 11)
 * **Quality Checking:** Bunny AKA DHMO, bucket3432
