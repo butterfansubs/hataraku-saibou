@@ -9,7 +9,7 @@ Fansubs by ButterFS and :v for the anime _Hataraku Saibou_ (_Cells at Work!_).
 #### Credits (11.5)
 
 * **Encoding:** b6boost
-* **Translation:** bucket3432
+* **Translation:** bucket3432, Wakanim (ep. 11)
 * **Editing:** rcombs
 * **Timing:** snyte
 * **Typesetting:** petzku, \[:v] (ep. 11)
