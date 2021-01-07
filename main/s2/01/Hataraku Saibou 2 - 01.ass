@@ -1,0 +1,457 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:31.08,0:00:34.70,Default,,0,0,0,,The internal security here is a total joke!
+Dialogue: 0,0:00:34.70,0:00:39.62,Default,,0,0,0,,All right! I'm lovely today, too! If I may say\Nso myself, I'm just too cute for a germ!
+Dialogue: 0,0:00:39.62,0:00:42.20,Default,,0,0,0,,And how adorable!
+Dialogue: 0,0:00:42.20,0:00:46.79,Default,,0,0,0,,There's no Immune Cell that could possibly\Nattack such an adorable germ like me!
+Dialogue: 0,0:00:46.79,0:00:51.45,Default,,0,0,0,,When I catch him off guard with my cuteness,\NI'm going to go, "Blam! Pow!"
+Dialogue: 0,0:00:51.45,0:00:55.33,Default,,0,0,0,,It's like I've taken over this body!
+Dialogue: 0,0:00:57.75,0:01:01.16,Default,,0,0,0,,Die, you damn germ!
+Dialogue: 0,0:01:02.12,0:01:03.00,Default,,0,0,0,,{\an8}"WHITE BLOOD CELL"
+Dialogue: 0,0:02:46.87,0:02:49.20,Default,,0,0,0,,This is the inside of a human body.
+Dialogue: 0,0:02:59.25,0:03:01.79,Default,,0,0,0,,Hello, Macrophage!
+Dialogue: 0,0:03:02.66,0:03:04.45,Default,,0,0,0,,Oh my!
+Dialogue: 0,0:03:04.45,0:03:06.00,Default,,0,0,0,,Good afternoon!
+Dialogue: 0,0:03:06.00,0:03:06.33,Default,,0,0,0,,{\an8}"FRAGILE"\N"CONDENSED GAS"
+Dialogue: 0,0:03:06.33,0:03:08.29,Default,,0,0,0,,{\an8}"FRAGILE"\N"CONDENSED GAS"
+Dialogue: 0,0:03:06.33,0:03:08.29,Default,,0,0,0,,I see that you're full of energy today, too.
+Dialogue: 0,0:03:08.29,0:03:11.29,Default,,0,0,0,,{\an8}"FRAGILE"\N"CONDENSED GAS"
+Dialogue: 0,0:03:08.29,0:03:11.29,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:03:11.29,0:03:14.50,Default,,0,0,0,,{\an8}"FRAGILE"\N"CONDENSED GAS"
+Dialogue: 0,0:03:11.29,0:03:14.50,Default,,0,0,0,,And I see that you're working hard\Nas a good senpai!
+Dialogue: 0,0:03:14.50,0:03:19.08,Default,,0,0,0,,No, I wouldn't go that far!\NNo, really, seriously--
+Dialogue: 0,0:03:21.75,0:03:25.70,Default,,0,0,0,,You're in the way! What are you doing,\Nwandering around like this? Are you lost again?
+Dialogue: 0,0:03:25.70,0:03:29.87,Default,,0,0,0,,I'm so sorry, Killer T Cell.
+Dialogue: 0,0:03:32.16,0:03:35.00,Default,,0,0,0,,♪ We're the invincible T Cells! ♪
+Dialogue: 0,0:03:35.00,0:03:37.66,Default,,0,0,0,,Are you okay, Senpai?
+Dialogue: 0,0:03:38.95,0:03:40.75,Default,,0,0,0,,Hey, I'm fine!
+Dialogue: 0,0:03:40.75,0:03:41.70,Default,,0,0,0,,{\an8}"ARTERY"
+Dialogue: 0,0:03:41.70,0:03:42.75,Default,,0,0,0,,{\an8}"ARTERY"
+Dialogue: 0,0:03:41.70,0:03:42.75,Default,,0,0,0,,Roughly 37 trillion cells are working energetically\Nand with all their might again today.
+Dialogue: 0,0:03:42.75,0:03:50.20,Default,,0,0,0,,Roughly 37 trillion cells are working energetically\Nand with all their might again today.
+Dialogue: 0,0:03:57.25,0:03:58.75,Default,,0,0,0,,{\an8}"EPISODE 1:\NBUMP"
+Dialogue: 0,0:03:58.75,0:04:00.29,Default,,0,0,0,,{\an8}"EPISODE 1:\NBUMP"
+Dialogue: 0,0:03:58.75,0:04:00.29,Default,,0,0,0,,"Bump."
+Dialogue: 0,0:04:00.29,0:04:02.29,Default,,0,0,0,,{\an8}"EPISODE 1:\NBUMP"
+Dialogue: 0,0:04:02.62,0:04:08.75,Default,,0,0,0,,Th-Th-Th-Thank you... for waiting!
+Dialogue: 0,0:04:08.75,0:04:09.12,Default,,0,0,0,,{\an8}"CELL"
+Dialogue: 0,0:04:08.75,0:04:09.12,Default,,0,0,0,,Th-Th-Th-Thank you... for waiting!
+Dialogue: 0,0:04:09.12,0:04:13.41,Default,,0,0,0,,{\an8}"CELL"
+Dialogue: 0,0:04:09.12,0:04:13.41,Default,,0,0,0,,I've come to deliver your nutrients and oxygen!
+Dialogue: 0,0:04:13.41,0:04:15.20,Default,,0,0,0,,{\an8}"CELL"
+Dialogue: 0,0:04:13.41,0:04:15.20,Default,,0,0,0,,Hey, I appreciate your hard work.
+Dialogue: 0,0:04:16.00,0:04:17.00,Default,,0,0,0,,{\an8}"CELL"
+Dialogue: 0,0:04:17.70,0:04:17.95,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:04:17.95,0:04:20.66,Default,,0,0,0,,{\an8}"STING STING"
+Dialogue: 0,0:04:17.95,0:04:20.66,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:04:20.66,0:04:25.04,Default,,0,0,0,,S-Sorry about making you come\Nthrough such cramped quarters.
+Dialogue: 0,0:04:25.04,0:04:27.20,Default,,0,0,0,,Oh no! It's my job!
+Dialogue: 0,0:04:27.20,0:04:31.54,Default,,0,0,0,,Y-Your face is all scraped up,\Nso take care, okay?
+Dialogue: 0,0:04:32.58,0:04:34.45,Default,,0,0,0,,All righty.
+Dialogue: 0,0:04:34.45,0:04:36.91,Default,,0,0,0,,Hey, look who showed up here\Nbut Red Blood Cell!
+Dialogue: 0,0:04:36.91,0:04:39.04,Default,,0,0,0,,Hey! I know you!
+Dialogue: 0,0:04:39.04,0:04:41.45,Default,,0,0,0,,You're White Blood Cell's friend!
+Dialogue: 0,0:04:41.45,0:04:43.54,Default,,0,0,0,,Hey there!
+Dialogue: 0,0:04:43.54,0:04:47.87,Default,,0,0,0,,Listen, I hope you don't mind my asking,\Nbut have you seen 1146?
+Dialogue: 0,0:04:47.87,0:04:50.45,Default,,0,0,0,,Now that you mention it,\NI haven't seen him in a while.
+Dialogue: 0,0:04:50.45,0:04:52.04,Default,,0,0,0,,Are you looking for him?
+Dialogue: 0,0:04:52.04,0:04:56.83,Default,,0,0,0,,Yeah. He's been pretty slammed\Nwith work lately,
+Dialogue: 0,0:04:56.83,0:05:00.58,Default,,0,0,0,,so I'm worried that he might be\Nfeeling run-down or in a foul mood.
+Dialogue: 0,0:05:00.58,0:05:03.58,Default,,0,0,0,,I thought I'd ask him to go for tea\Nand calm him down!
+Dialogue: 0,0:05:03.58,0:05:06.04,Default,,0,0,0,,Is that right? Sounds good to me!
+Dialogue: 0,0:05:06.04,0:05:10.50,Default,,0,0,0,,Well, hey, I'm embarrassed\Nto sound so patronizing, you know!
+Dialogue: 0,0:05:10.50,0:05:13.16,Default,,0,0,0,,Don't give it another thought!
+Dialogue: 0,0:05:13.16,0:05:17.29,Default,,0,0,0,,Hey, but maybe there's no need\Nfor you to be so worried.
+Dialogue: 0,0:05:17.29,0:05:18.87,Default,,0,0,0,,The last time I saw him, he was taking it easy,\Nsipping on some yummy-looking germ soup!
+Dialogue: 0,0:05:18.87,0:05:22.75,Default,,0,0,0,,{\an8}"GERM SOUP"
+Dialogue: 0,0:05:18.87,0:05:22.75,Default,,0,0,0,,The last time I saw him, he was taking it easy,\Nsipping on some yummy-looking germ soup!
+Dialogue: 0,0:05:22.75,0:05:26.45,Default,,0,0,0,,I think he might be better\Nat switching gears than we think.
+Dialogue: 0,0:05:26.45,0:05:31.83,Default,,0,0,0,,You know how grounded White Blood Cell is!\NI'm sure he's taking care of himself just fine!
+Dialogue: 0,0:05:35.25,0:05:37.75,Default,,0,0,0,,4989?
+Dialogue: 0,0:05:37.75,0:05:39.50,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:05:39.50,0:05:44.33,Default,,0,0,0,,It's just that I had no idea there were any\NRed Blood Cells looking out for us like that.
+Dialogue: 0,0:05:44.33,0:05:46.41,Default,,0,0,0,,I mean, I never even dreamed it!
+Dialogue: 0,0:05:46.41,0:05:48.83,Default,,0,0,0,,I was so moved, I just broke down into tears!
+Dialogue: 0,0:05:48.83,0:05:52.04,Default,,0,0,0,,Hey, come on! You're embarrassing me!
+Dialogue: 0,0:05:52.04,0:05:57.66,Default,,0,0,0,,{\an8}"RELAXING TEA"
+Dialogue: 0,0:05:52.04,0:05:57.66,Default,,0,0,0,,Knowing how grounded White Blood Cell is,\NI bet he's sipping tea right now, looking like this!
+Dialogue: 0,0:05:57.66,0:05:58.12,Default,,0,0,0,,{\an8}"RELAXING TEA"\N"THIS TEA IS SO GOOD"
+Dialogue: 0,0:05:58.12,0:06:00.33,Default,,0,0,0,,{\an8}"RELAXING TEA"\N"THIS TEA IS SO GOOD"
+Dialogue: 0,0:05:58.12,0:06:00.33,Default,,0,0,0,,This tea is so good!
+Dialogue: 0,0:06:00.33,0:06:02.37,Default,,0,0,0,,I think you're right!
+Dialogue: 0,0:06:05.75,0:06:07.58,Default,,0,0,0,,You're not getting away!
+Dialogue: 0,0:06:08.83,0:06:11.45,Default,,0,0,0,,W-W-W-Wait! Take a good look!
+Dialogue: 0,0:06:11.45,0:06:14.95,Default,,0,0,0,,How dare you assault a lovely germ like me!
+Dialogue: 0,0:06:16.08,0:06:18.25,Default,,0,0,0,,This White Blood Cell...
+Dialogue: 0,0:06:18.25,0:06:19.83,Default,,0,0,0,,...is bonkers!
+Dialogue: 0,0:06:19.83,0:06:21.16,Default,,0,0,0,,His deadly accuracy at top speed,
+Dialogue: 0,0:06:21.16,0:06:23.91,Default,,0,0,0,,those devastating attacks that seem\Nto be cutting off all worldly desires...
+Dialogue: 0,0:06:23.91,0:06:26.25,Default,,0,0,0,,He's my enemy, but I applaud him!
+Dialogue: 0,0:06:29.12,0:06:32.66,Default,,0,0,0,,This is U-1146 of the White\NBlood Cell Neutrophil Division.
+Dialogue: 0,0:06:32.66,0:06:35.79,Default,,0,0,0,,The invading Bacteria have been exterminated.
+Dialogue: 0,0:06:38.29,0:06:41.87,Default,,0,0,0,,No matter what kind of germ it is,\Nit will be obliterated without mercy.
+Dialogue: 0,0:06:41.87,0:06:44.29,Default,,0,0,0,,That's our job.
+Dialogue: 0,0:06:44.29,0:06:47.62,Default,,0,0,0,,We can't let even a single one\Nslip through the cracks.
+Dialogue: 0,0:06:47.62,0:06:49.41,Default,,0,0,0,,No matter what!
+Dialogue: 0,0:06:57.25,0:07:00.83,Default,,0,0,0,,S-So sorry! I guess\NI got in your way, didn't I?
+Dialogue: 0,0:07:00.83,0:07:02.79,Default,,0,0,0,,Hey! No, not at all!
+Dialogue: 0,0:07:02.79,0:07:06.70,Default,,0,0,0,,I should be apologizing for scaring you.\NI'll clean this up right away and leave.
+Dialogue: 0,0:07:06.70,0:07:09.04,Default,,0,0,0,,Oh no, that's all right!
+Dialogue: 0,0:07:09.04,0:07:13.66,Default,,0,0,0,,The thing is, I'm training\Nto become a strong Platelet right now.
+Dialogue: 0,0:07:13.66,0:07:16.08,Default,,0,0,0,,I can't put this down\Nunder any circumstances!
+Dialogue: 0,0:07:16.08,0:07:17.91,Default,,0,0,0,,Huh? Training?
+Dialogue: 0,0:07:17.91,0:07:21.00,Default,,0,0,0,,Would you mind tossing that\Ncoagulation factor my way, please?
+Dialogue: 0,0:07:21.00,0:07:22.50,Default,,0,0,0,,So I can catch it!
+Dialogue: 0,0:07:22.50,0:07:25.62,Default,,0,0,0,,Uh, sure. I don't mind at all.
+Dialogue: 0,0:07:25.62,0:07:26.54,Default,,0,0,0,,Can you handle it?
+Dialogue: 0,0:07:26.54,0:07:28.58,Default,,0,0,0,,Thank you so much!
+Dialogue: 0,0:07:28.58,0:07:29.95,Default,,0,0,0,,I'll be fine!
+Dialogue: 0,0:07:29.95,0:07:31.54,Default,,0,0,0,,All right.
+Dialogue: 0,0:07:31.54,0:07:32.83,Default,,0,0,0,,Here!
+Dialogue: 0,0:07:34.29,0:07:36.50,Default,,0,0,0,,{\an8}"STUMBLE STUMBLE"
+Dialogue: 0,0:07:36.54,0:07:37.29,Default,,0,0,0,,{\an8}"BAM'
+Dialogue: 0,0:07:37.25,0:07:38.33,Default,,0,0,0,,Hey!
+Dialogue: 0,0:07:38.33,0:07:39.66,Default,,0,0,0,,{\an8}"PLOP"
+Dialogue: 0,0:07:38.33,0:07:39.66,Default,,0,0,0,,Plop!
+Dialogue: 0,0:07:39.66,0:07:40.62,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:07:40.62,0:07:42.04,Default,,0,0,0,,Plop...
+Dialogue: 0,0:07:42.04,0:07:43.70,Default,,0,0,0,,Looks just like her!
+Dialogue: 0,0:07:43.70,0:07:47.54,Default,,0,0,0,,--I-I'm all right. I'm so sorry to worry you.
+Dialogue: 0,0:07:47.54,0:07:52.37,Default,,0,0,0,,--She's fighting back tears!\NI'll pick those up for you now, okay?\N--I-I'm all right. I'm so sorry to worry you.
+Dialogue: 0,0:07:52.37,0:07:55.45,Default,,0,0,0,,Still, this is a White Blood Cell\Nmigration route, you know?
+Dialogue: 0,0:07:55.45,0:07:57.87,Default,,0,0,0,,Did you lose your way\Nduring training, maybe?
+Dialogue: 0,0:07:57.87,0:08:00.41,Default,,0,0,0,,{\an8}"BLUSH BLUSH"
+Dialogue: 0,0:08:00.41,0:08:01.83,Default,,0,0,0,,{\an8}"BLUSH BLUSH"
+Dialogue: 0,0:08:00.41,0:08:01.83,Default,,0,0,0,,Just like her.
+Dialogue: 0,0:08:01.83,0:08:02.33,Default,,0,0,0,,{\an8}"PLATELETS"
+Dialogue: 0,0:08:03.83,0:08:06.37,Default,,0,0,0,,I don't usually see you alone like this.
+Dialogue: 0,0:08:06.37,0:08:08.75,Default,,0,0,0,,What happened? Did you get into a fight\Nwith that kid you're always with?
+Dialogue: 0,0:08:08.75,0:08:10.87,Default,,0,0,0,,--Th-That's not it at all!\NLeader is such a kind girl!
+Dialogue: 0,0:08:10.87,0:08:14.16,Default,,0,0,0,,--You see, you see...\N--Th-That's not it at all!\NLeader is such a kind girl!
+Dialogue: 0,0:08:14.16,0:08:18.20,Default,,0,0,0,,It's just that I'm so weak.
+Dialogue: 0,0:08:19.45,0:08:21.16,Default,,0,0,0,,The other day...
+Dialogue: 0,0:08:22.37,0:08:26.70,Default,,0,0,0,,...when we were practicing primary\Nblood clotting inside the bone marrow...
+Dialogue: 0,0:08:28.37,0:08:31.12,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:08:31.12,0:08:32.95,Default,,0,0,0,,{\an8}"PLOP"
+Dialogue: 0,0:08:31.12,0:08:32.95,Default,,0,0,0,,Plop!
+Dialogue: 0,0:08:32.95,0:08:36.41,Default,,0,0,0,,Are you all right? Leader? Backward Cap?
+Dialogue: 0,0:08:36.41,0:08:39.12,Default,,0,0,0,,So, they call you Backward Cap, huh?
+Dialogue: 0,0:08:40.04,0:08:45.91,Default,,0,0,0,,Since we're so tiny, at work, we clump together\Nto make up for our lack of height.
+Dialogue: 0,0:08:45.91,0:08:51.04,Default,,0,0,0,,And there's nothing more important\Nthan working as one...
+Dialogue: 0,0:08:51.04,0:08:53.25,Default,,0,0,0,,But since I'm twice as weak\Nas the next Platelet,
+Dialogue: 0,0:08:53.25,0:08:56.25,Default,,0,0,0,,I was always dragging everyone else down.
+Dialogue: 0,0:08:56.25,0:09:00.95,Default,,0,0,0,,Even so, everyone still kept\Ncheering me on, but...
+Dialogue: 0,0:09:00.95,0:09:03.75,Default,,0,0,0,,So, I come to check on my apprentices...
+Dialogue: 0,0:09:03.75,0:09:07.83,Default,,0,0,0,,...and what exactly is this I'm seeing?
+Dialogue: 0,0:09:07.83,0:09:08.12,Default,,0,0,0,,{\an8}"SNACK"
+Dialogue: 0,0:09:08.12,0:09:09.62,Default,,0,0,0,,{\an8}"SNACK"
+Dialogue: 0,0:09:08.12,0:09:09.62,Default,,0,0,0,,Th-That voice!
+Dialogue: 0,0:09:11.00,0:09:14.29,Default,,0,0,0,,M-Master!
+Dialogue: 0,0:09:14.29,0:09:15.62,Default,,0,0,0,,Who would've thought
+Dialogue: 0,0:09:15.62,0:09:21.20,Default,,0,0,0,,that among my apprentices, I'd still find\Nan underdeveloped useless kid like you?
+Dialogue: 0,0:09:21.20,0:09:25.04,Default,,0,0,0,,Out there in the real world,\N"I can't do it" just won't cut it!
+Dialogue: 0,0:09:25.04,0:09:29.08,Default,,0,0,0,,Make sure you've whipped yourself\Ninto shape by the next hemorrhage!
+Dialogue: 0,0:09:29.08,0:09:31.12,Default,,0,0,0,,Okay!
+Dialogue: 0,0:09:31.12,0:09:33.66,Default,,0,0,0,,What I want is strength!
+Dialogue: 0,0:09:33.66,0:09:37.50,Default,,0,0,0,,That's why I'm carrying twice\Nthe normal load of coagulation factors...
+Dialogue: 0,0:09:37.50,0:09:39.50,Default,,0,0,0,,...to get myself into shape! I-It's so heavy!
+Dialogue: 0,0:09:39.50,0:09:41.12,Default,,0,0,0,,{\an8}"TREMBLE TREMBLE"
+Dialogue: 0,0:09:39.50,0:09:41.12,Default,,0,0,0,,...to get myself into shape! I-It's so heavy!
+Dialogue: 0,0:09:41.12,0:09:41.25,Default,,0,0,0,,{\an8}"CLENCH"\N"TREMBLE TREMBLE"
+Dialogue: 0,0:09:41.12,0:09:41.25,Default,,0,0,0,,...to get myself into shape! I-It's so heavy!
+Dialogue: 0,0:09:41.25,0:09:44.87,Default,,0,0,0,,{\an8}"CLENCH"\N"TREMBLE TREMBLE"
+Dialogue: 0,0:09:41.25,0:09:44.87,Default,,0,0,0,,I see. I really hope you can become stronger!
+Dialogue: 0,0:09:45.95,0:09:47.62,Default,,0,0,0,,But...
+Dialogue: 0,0:09:47.62,0:09:51.25,Default,,0,0,0,,She yelled at me,\Nbut Master's absolutely right.
+Dialogue: 0,0:09:51.25,0:09:56.29,Default,,0,0,0,,I might end up thwarting the others\Nduring a real mission because I'm incompetent.
+Dialogue: 0,0:09:56.29,0:10:02.95,Default,,0,0,0,,So, I've made up my mind\Nnot to go back until I've gotten stronger.
+Dialogue: 0,0:10:02.95,0:10:04.79,Default,,0,0,0,,Is that right?
+Dialogue: 0,0:10:05.70,0:10:09.25,Default,,0,0,0,,Well, but there's no need to panic, right?
+Dialogue: 0,0:10:11.20,0:10:15.75,Default,,0,0,0,,Backward Cap, you have the positive mindset\Nto work hard at it, don't you?
+Dialogue: 0,0:10:15.75,0:10:17.87,Default,,0,0,0,,As long as there's one of you like that,
+Dialogue: 0,0:10:17.87,0:10:21.41,Default,,0,0,0,,it'll inspire the others to follow suit,\Nand then you can all do a great job.
+Dialogue: 0,0:10:21.41,0:10:24.20,Default,,0,0,0,,There's no way that\Nyou'd be thwarting them...
+Dialogue: 0,0:10:24.20,0:10:29.20,Default,,0,0,0,,...so why don't you go on back\Nand see how training together works out?
+Dialogue: 0,0:10:29.20,0:10:31.20,Default,,0,0,0,,You really think so?
+Dialogue: 0,0:10:31.20,0:10:33.29,Default,,0,0,0,,I see!
+Dialogue: 0,0:10:40.25,0:10:42.58,Default,,0,0,0,,Look, we're close to the epidermis now.
+Dialogue: 0,0:10:42.58,0:10:43.91,Default,,0,0,0,,Oh, wow!
+Dialogue: 0,0:10:43.91,0:10:47.37,Default,,0,0,0,,This is the main road\Nalong the temporal vein!
+Dialogue: 0,0:10:48.62,0:10:51.87,Default,,0,0,0,,Hey! White Blood Cell!
+Dialogue: 0,0:10:51.87,0:10:54.29,Default,,0,0,0,,Hey, long time no see!
+Dialogue: 0,0:10:54.29,0:10:56.66,Default,,0,0,0,,Hey, Red Blood Cell!
+Dialogue: 0,0:10:56.66,0:11:00.00,Default,,0,0,0,,Oh, it's Platelet's friend.
+Dialogue: 0,0:11:00.00,0:11:01.95,Default,,0,0,0,,This is Backward Cap.
+Dialogue: 0,0:11:02.79,0:11:05.29,Default,,0,0,0,,Hello, Backward Cap!
+Dialogue: 0,0:11:05.29,0:11:06.79,Default,,0,0,0,,Hello!
+Dialogue: 0,0:11:06.79,0:11:12.37,Default,,0,0,0,,What a coincidence! Just a minute ago,\Nwe were wondering how you were doing--
+Dialogue: 0,0:11:14.08,0:11:18.50,Default,,0,0,0,,What the cell's going on?\NAn external injury? Where's the wound?
+Dialogue: 0,0:11:20.12,0:11:23.62,Default,,0,0,0,,Every capillary vein in the area is ruptured!
+Dialogue: 0,0:11:26.37,0:11:27.75,Default,,0,0,0,,Red Blood Cell!
+Dialogue: 0,0:11:27.75,0:11:30.29,Default,,0,0,0,,Don't worry about me!
+Dialogue: 0,0:11:30.29,0:11:31.58,Default,,0,0,0,,White Blood Cell...
+Dialogue: 0,0:11:31.58,0:11:33.16,Default,,0,0,0,,Take Backward Cap!
+Dialogue: 0,0:11:33.16,0:11:34.83,Default,,0,0,0,,Gotcha!
+Dialogue: 0,0:11:34.83,0:11:37.91,Default,,0,0,0,,Please give it all you've got!
+Dialogue: 0,0:11:37.91,0:11:40.29,Default,,0,0,0,,Will she be all right?
+Dialogue: 0,0:11:40.29,0:11:43.75,Default,,0,0,0,,Yeah. No need to worry.
+Dialogue: 0,0:11:43.75,0:11:45.54,Default,,0,0,0,,She's sure toughened up!
+Dialogue: 0,0:11:45.54,0:11:48.04,Default,,0,0,0,,No. 1146!
+Dialogue: 0,0:11:48.04,0:11:50.33,Default,,0,0,0,,So, this is where you've been\Nall this time, huh?
+Dialogue: 0,0:11:50.33,0:11:54.66,Default,,0,0,0,,Hey, No. 4989, are we under attack?\NThis is an attack, right?
+Dialogue: 0,0:11:54.66,0:11:57.33,Default,,0,0,0,,Hold up, No. 1146. Haven't you noticed?
+Dialogue: 0,0:11:57.33,0:11:59.12,Default,,0,0,0,,This isn't like any of the other times.
+Dialogue: 0,0:11:59.12,0:12:02.83,Default,,0,0,0,,The blood cells should be flying\Nout of the wound, but look!
+Dialogue: 0,0:12:02.83,0:12:05.87,Default,,0,0,0,,It's like we've been thrown into\Nsome kind of zero gravity space!
+Dialogue: 0,0:12:05.87,0:12:07.37,Default,,0,0,0,,What the...
+Dialogue: 0,0:12:08.91,0:12:10.04,Default,,0,0,0,,I see!
+Dialogue: 0,0:12:10.04,0:12:11.45,Default,,0,0,0,,That's right!
+Dialogue: 0,0:12:11.45,0:12:13.87,Default,,0,0,0,,This means that there's no wound!
+Dialogue: 0,0:12:13.87,0:12:15.87,Default,,0,0,0,,And this is the head area!
+Dialogue: 0,0:12:15.87,0:12:17.33,Default,,0,0,0,,So, this must be...
+Dialogue: 0,0:12:17.33,0:12:19.45,Default,,0,0,0,,...a bump, then?
+Dialogue: 0,0:12:19.45,0:12:20.91,Default,,0,0,0,,Bump.
+Dialogue: 0,0:12:20.91,0:12:21.75,Default,,0,0,0,,A lump-like protrusion caused by swelling\Nand bleeding on the outer skull.
+Dialogue: 0,0:12:21.75,0:12:27.70,Default,,0,0,0,,{\an8}"BUMP"
+Dialogue: 0,0:12:21.75,0:12:27.70,Default,,0,0,0,,A lump-like protrusion caused by swelling\Nand bleeding on the outer skull.
+Dialogue: 0,0:12:33.25,0:12:35.83,Default,,0,0,0,,Stop the internal bleeding...
+Dialogue: 0,0:12:36.37,0:12:36.75,Default,,0,0,0,,{\an8}"GRIP"
+Dialogue: 0,0:12:36.75,0:12:37.12,Default,,0,0,0,,{\an8}"GRIP"
+Dialogue: 0,0:12:36.75,0:12:37.12,Default,,0,0,0,,Looks like it's time for me to step up!
+Dialogue: 0,0:12:37.12,0:12:39.83,Default,,0,0,0,,Looks like it's time for me to step up!
+Dialogue: 0,0:12:39.83,0:12:41.75,Default,,0,0,0,,That's what I like to hear!
+Dialogue: 0,0:12:41.75,0:12:44.29,Default,,0,0,0,,Give it your all, Backward Cap!
+Dialogue: 0,0:12:45.16,0:12:46.83,Default,,0,0,0,,Right!
+Dialogue: 0,0:12:46.83,0:12:49.58,Default,,0,0,0,,I'll do my best!
+Dialogue: 0,0:12:49.58,0:12:51.91,Default,,0,0,0,,And as for us Neutrophils...
+Dialogue: 0,0:12:51.91,0:12:53.87,Default,,0,0,0,,No. 4989! You ready?
+Dialogue: 0,0:12:53.87,0:12:57.45,Default,,0,0,0,,Yeah! I know what to do!
+Dialogue: 0,0:12:57.45,0:13:01.16,Default,,0,0,0,,Internal bleeding is a hemorrhage\Noccurring under the skin.
+Dialogue: 0,0:13:01.16,0:13:05.79,Default,,0,0,0,,Which means that there's no wound that can\Nserve as a pathway for enemy intruders.
+Dialogue: 0,0:13:05.79,0:13:07.16,Default,,0,0,0,,In other words...
+Dialogue: 0,0:13:07.16,0:13:09.79,Default,,0,0,0,,...what we can do as Neutrophils is...
+Dialogue: 0,0:13:10.95,0:13:12.37,Default,,0,0,0,,...nothing.
+Dialogue: 0,0:13:12.37,0:13:15.87,Default,,0,0,0,,All right! Let's work hard\Nat our jobs today, too!
+Dialogue: 0,0:13:15.87,0:13:17.16,Default,,0,0,0,,Okay!
+Dialogue: 0,0:13:20.20,0:13:22.08,Default,,0,0,0,,{\i1}Cells at Work!!{\i0}
+Dialogue: 0,0:13:25.25,0:13:28.20,Default,,0,0,0,,{\i1}Cells at Work!!{\i0}
+Dialogue: 0,0:13:28.20,0:13:31.87,Default,,0,0,0,,All right, everybody, listen up!
+Dialogue: 0,0:13:31.87,0:13:36.12,Default,,0,0,0,,This is internal bleeding,\Nbut it's the same job as always.
+Dialogue: 0,0:13:36.12,0:13:40.04,Default,,0,0,0,,We're going to assemble in the ruptured area,\Nform a primary blood clot,
+Dialogue: 0,0:13:40.04,0:13:43.79,Default,,0,0,0,,then form a secondary blood clot by sticking the\NRed and White Blood Cells together with fibrin,
+Dialogue: 0,0:13:43.79,0:13:46.37,Default,,0,0,0,,to stop the bleeding!
+Dialogue: 0,0:13:46.37,0:13:50.29,Default,,0,0,0,,We have a wide area to cover,\Nso it won't be easy, but let's do our best!
+Dialogue: 0,0:13:50.29,0:13:52.95,Default,,0,0,0,,Okay!
+Dialogue: 0,0:13:52.95,0:13:55.08,Default,,0,0,0,,There's damage here, too!
+Dialogue: 0,0:13:55.08,0:13:57.41,Default,,0,0,0,,Anyone who's free, please come over here!
+Dialogue: 0,0:13:57.41,0:13:58.91,Default,,0,0,0,,It's clotted!
+Dialogue: 0,0:13:58.91,0:14:01.00,Default,,0,0,0,,We can cast the fibrin now!
+Dialogue: 0,0:14:01.00,0:14:03.66,Default,,0,0,0,,Please bring us the coagulation factors!
+Dialogue: 0,0:14:03.66,0:14:05.87,Default,,0,0,0,,Okay!
+Dialogue: 0,0:14:05.87,0:14:07.45,Default,,0,0,0,,The coagulation factor!
+Dialogue: 0,0:14:07.45,0:14:11.00,Default,,0,0,0,,Backward Cap, you have\Na really great attitude!
+Dialogue: 0,0:14:11.00,0:14:14.00,Default,,0,0,0,,She's right! Good for you, Backward Cap!
+Dialogue: 0,0:14:14.00,0:14:18.20,Default,,0,0,0,,It's not about whether you're strong or not!\NSometimes a good attitude's all you need!
+Dialogue: 0,0:14:18.20,0:14:21.79,Default,,0,0,0,,Bad news, everybody! Listen, listen!
+Dialogue: 0,0:14:21.79,0:14:25.08,Default,,0,0,0,,We don't have enough coagulation factors!
+Dialogue: 0,0:14:25.08,0:14:26.62,Default,,0,0,0,,Don't worry! Backward Cap's on it--
+Dialogue: 0,0:14:26.62,0:14:28.83,Default,,0,0,0,,Listen, listen! It's not that!
+Dialogue: 0,0:14:28.83,0:14:31.00,Default,,0,0,0,,The really bad news we're talking about is...
+Dialogue: 0,0:14:31.00,0:14:32.54,Default,,0,0,0,,Look at that!
+Dialogue: 0,0:14:33.66,0:14:35.83,Default,,0,0,0,,That's...
+Dialogue: 0,0:14:35.83,0:14:37.66,Default,,0,0,0,,Sorry!
+Dialogue: 0,0:14:37.66,0:14:41.37,Default,,0,0,0,,The damaged area is too big\Nfor us to close up, right?
+Dialogue: 0,0:14:41.37,0:14:42.50,Default,,0,0,0,,What should we do?
+Dialogue: 0,0:14:42.50,0:14:46.45,Default,,0,0,0,,Looks like we'll have to assemble far and wide\Nand close the whole thing off at once.
+Dialogue: 0,0:14:46.45,0:14:47.75,Default,,0,0,0,,Everybody, gather round!
+Dialogue: 0,0:14:47.75,0:14:50.75,Default,,0,0,0,,We're going to join forces\Nand form a primary blood clot together!
+Dialogue: 0,0:14:50.75,0:14:53.66,Default,,0,0,0,,Come on, you, too, Backward Cap, hurry!
+Dialogue: 0,0:14:53.66,0:14:57.29,Default,,0,0,0,,Uh-oh! Primary blood clots are what\NBackward Cap has trouble with! Jeez!
+Dialogue: 0,0:14:57.29,0:14:59.58,Default,,0,0,0,,Y-You can do it, Backward Cap!
+Dialogue: 0,0:14:59.58,0:15:01.33,Default,,0,0,0,,Who's Backward Cap?
+Dialogue: 0,0:15:01.33,0:15:02.37,Default,,0,0,0,,{\an8}"PLOP"
+Dialogue: 0,0:15:01.33,0:15:02.37,Default,,0,0,0,,Plop!
+Dialogue: 0,0:15:02.37,0:15:06.00,Default,,0,0,0,,I see, so this gives you trouble, Backward Cap!\NWh-What should we do?
+Dialogue: 0,0:15:06.00,0:15:09.45,Default,,0,0,0,,Is there anyone who can\Ntake Backward Cap's place?
+Dialogue: 0,0:15:09.45,0:15:11.29,Default,,0,0,0,,Hold on a second!
+Dialogue: 0,0:15:11.29,0:15:15.12,Default,,0,0,0,,Primary blood clot... We all need to unite\Nand work as one right now, but I...
+Dialogue: 0,0:15:15.12,0:15:15.79,Default,,0,0,0,,{\an8}"BONK"
+Dialogue: 0,0:15:15.12,0:15:15.79,Default,,0,0,0,,Primary blood clot... We all need to unite\Nand work as one right now, but I...
+Dialogue: 0,0:15:15.79,0:15:19.58,Default,,0,0,0,,{\an8}"BONK"
+Dialogue: 0,0:15:15.79,0:15:19.58,Default,,0,0,0,,If I'm like this, I'm going to\Nthrow everyone else off, too!
+Dialogue: 0,0:15:20.79,0:15:23.20,Default,,0,0,0,,What the cell are you doing?
+Dialogue: 0,0:15:24.37,0:15:26.70,Default,,0,0,0,,Lackadaisical! No motivation whatsoever!
+Dialogue: 0,0:15:26.70,0:15:27.58,Default,,0,0,0,,{\an8}"MEGAKARYOCYTE"
+Dialogue: 0,0:15:26.70,0:15:27.58,Default,,0,0,0,,What a bunch of slackers! Asleep at the wheel!
+Dialogue: 0,0:15:27.58,0:15:29.41,Default,,0,0,0,,What a bunch of slackers! Asleep at the wheel!
+Dialogue: 0,0:15:29.41,0:15:31.50,Default,,0,0,0,,Little squirts!
+Dialogue: 0,0:15:31.50,0:15:33.08,Default,,0,0,0,,Megakaryocyte.
+Dialogue: 0,0:15:33.08,0:15:35.95,Default,,0,0,0,,The cell that produces Platelets.
+Dialogue: 0,0:15:35.95,0:15:40.70,Default,,0,0,0,,The largest of all the cells in the bone marrow.
+Dialogue: 0,0:15:40.70,0:15:42.83,Default,,0,0,0,,--Master Megakaryocyte!\N--Master!
+Dialogue: 0,0:15:42.83,0:15:45.45,Default,,0,0,0,,So, I'm worried and come to check\Non you, and what do I find?
+Dialogue: 0,0:15:45.45,0:15:48.41,Default,,0,0,0,,Seriously, you call yourselves my apprentices?
+Dialogue: 0,0:15:48.41,0:15:49.70,Default,,0,0,0,,I know I taught you!
+Dialogue: 0,0:15:49.70,0:15:52.00,Default,,0,0,0,,That since there aren't much in the\Nway of defensive barriers like muscles
+Dialogue: 0,0:15:52.00,0:15:55.66,Default,,0,0,0,,or fat on the skull, the veins are\Neasily ruptured by external trauma!
+Dialogue: 0,0:15:55.66,0:15:58.66,Default,,0,0,0,,That because of all the capillaries,\Nbleeding there leads to catastrophe!
+Dialogue: 0,0:15:58.66,0:16:01.37,Default,,0,0,0,,That it's dangerous when the internal bleeding\Ncan't be stopped! Remember?
+Dialogue: 0,0:16:01.37,0:16:04.00,Default,,0,0,0,,W-We're very sorry, Master!
+Dialogue: 0,0:16:05.12,0:16:06.66,Default,,0,0,0,,That's not the way to go, Megakaryocyte!
+Dialogue: 0,0:16:06.66,0:16:09.66,Default,,0,0,0,,Putting pressure on Backward Cap now\Nwill only backfire in the end!
+Dialogue: 0,0:16:09.66,0:16:11.95,Default,,0,0,0,,Ugh, the wind's smothering my voice!
+Dialogue: 0,0:16:11.95,0:16:15.12,Default,,0,0,0,,I said, who is this Backward Cap anyway?
+Dialogue: 0,0:16:15.12,0:16:17.00,Default,,0,0,0,,Just look at that!
+Dialogue: 0,0:16:17.00,0:16:19.83,Default,,0,0,0,,Thanks to that tongue-lashing,\Nshe's curled up into a ball!
+Dialogue: 0,0:16:19.83,0:16:20.95,Default,,0,0,0,,I don't get it!
+Dialogue: 0,0:16:20.95,0:16:25.37,Default,,0,0,0,,To me, it just seems like she's only yelling\Nbecause it makes her feel good.
+Dialogue: 0,0:16:25.37,0:16:26.45,Default,,0,0,0,,But could it be
+Dialogue: 0,0:16:26.45,0:16:31.20,Default,,0,0,0,,that she has the ability to bring the\NPlatelets together and resolve this issue?
+Dialogue: 0,0:16:31.20,0:16:33.45,Default,,0,0,0,,Does she actually have a plan?
+Dialogue: 0,0:16:33.45,0:16:34.95,Default,,0,0,0,,All right.
+Dialogue: 0,0:16:34.95,0:16:39.66,Default,,0,0,0,,Now, how can I goad\Nthese useless brats into action?
+Dialogue: 0,0:16:39.66,0:16:42.16,Default,,0,0,0,,Okay, I've got it.
+Dialogue: 0,0:16:42.83,0:16:43.16,Default,,0,0,0,,{\an8}"WHOOSH"
+Dialogue: 0,0:16:43.16,0:16:45.87,Default,,0,0,0,,{\an8}"WHOOSH"
+Dialogue: 0,0:16:43.16,0:16:45.87,Default,,0,0,0,,Listen up, little ones!
+Dialogue: 0,0:16:45.87,0:16:47.20,Default,,0,0,0,,Ready?
+Dialogue: 0,0:16:48.08,0:16:52.83,Default,,0,0,0,,Whoever does the best job today...
+Dialogue: 0,0:16:52.83,0:16:58.20,Default,,0,0,0,,...will get this special "You Did a Great Job\Nas a Platelet / Good Kid" gold medal!
+Dialogue: 0,0:16:58.20,0:17:01.00,Default,,0,0,0,,{\an8}"WOW"
+Dialogue: 0,0:17:01.00,0:17:02.58,Default,,0,0,0,,I'm going to try harder!
+Dialogue: 0,0:17:02.58,0:17:03.54,Default,,0,0,0,,Get to it!
+Dialogue: 0,0:17:03.54,0:17:05.41,Default,,0,0,0,,--A medal!\N--A medal!
+Dialogue: 0,0:17:05.41,0:17:08.16,Default,,0,0,0,,A gold medal!
+Dialogue: 0,0:17:08.16,0:17:10.91,Default,,0,0,0,,She's bribing them.
+Dialogue: 0,0:17:10.91,0:17:13.16,Default,,0,0,0,,Show me what you're made of, little ones.
+Dialogue: 0,0:17:13.16,0:17:16.16,Default,,0,0,0,,Let's see what you can do!
+Dialogue: 0,0:17:16.16,0:17:20.25,Default,,0,0,0,,Heave-ho! Heave-ho! Heave-ho!
+Dialogue: 0,0:17:20.25,0:17:21.95,Default,,0,0,0,,Here are the coagulation factors!
+Dialogue: 0,0:17:21.95,0:17:23.16,Default,,0,0,0,,Okay!
+Dialogue: 0,0:17:23.16,0:17:24.00,Default,,0,0,0,,{\an8}"BOOM"
+Dialogue: 0,0:17:24.00,0:17:26.79,Default,,0,0,0,,Primary Platelet blood clot!
+Dialogue: 0,0:17:26.79,0:17:30.00,Default,,0,0,0,,Ah, impressive clumping.
+Dialogue: 0,0:17:30.00,0:17:32.79,Default,,0,0,0,,You're compensating for what you lack\Nin numbers with your technique.
+Dialogue: 0,0:17:32.79,0:17:35.37,Default,,0,0,0,,Not only that, but look at that total stability.
+Dialogue: 0,0:17:35.37,0:17:38.25,Default,,0,0,0,,I don't know if it's your thirst\Nfor a gold medal or just plain guts...
+Dialogue: 0,0:17:38.25,0:17:39.70,Default,,0,0,0,,Right!
+Dialogue: 0,0:17:40.91,0:17:42.37,Default,,0,0,0,,All righty!
+Dialogue: 0,0:17:42.37,0:17:44.87,Default,,0,0,0,,Here! The last of the coagulation factors!
+Dialogue: 0,0:17:44.87,0:17:47.12,Default,,0,0,0,,--Thanks!\N--Sure!
+Dialogue: 0,0:17:47.12,0:17:49.75,Default,,0,0,0,,All right, now we can...
+Dialogue: 0,0:17:49.75,0:17:50.54,Default,,0,0,0,,{\an8}"SLIP"
+Dialogue: 0,0:17:51.37,0:17:52.70,Default,,0,0,0,,What the...
+Dialogue: 0,0:17:53.70,0:17:57.79,Default,,0,0,0,,O-Oh no! Our precious coagulation factor!
+Dialogue: 0,0:17:59.37,0:18:01.79,Default,,0,0,0,,Come back here!
+Dialogue: 0,0:18:03.08,0:18:06.95,Default,,0,0,0,,Backward Cap!
+Dialogue: 0,0:18:09.58,0:18:10.16,Default,,0,0,0,,{\an8}"SNAP"
+Dialogue: 0,0:18:10.16,0:18:13.12,Default,,0,0,0,,I did it! I got it!
+Dialogue: 0,0:18:14.25,0:18:17.50,Default,,0,0,0,,Everybody! We're going to do\Nthat clumping move now!
+Dialogue: 0,0:18:17.50,0:18:22.25,Default,,0,0,0,,But that formation is so hard,\Nwe've never managed to do it even once!
+Dialogue: 0,0:18:22.25,0:18:23.50,Default,,0,0,0,,Don't worry!
+Dialogue: 0,0:18:23.50,0:18:25.83,Default,,0,0,0,,I'm sure we can make it this time...
+Dialogue: 0,0:18:25.83,0:18:28.45,Default,,0,0,0,,...if we all work together as one!
+Dialogue: 0,0:18:28.45,0:18:30.45,Default,,0,0,0,,O-Okay!
+Dialogue: 0,0:18:31.66,0:18:35.66,Default,,0,0,0,,Go!
+Dialogue: 0,0:18:35.66,0:18:38.16,Default,,0,0,0,,Now, that's an incredible super skill!
+Dialogue: 0,0:18:38.16,0:18:41.79,Default,,0,0,0,,Backward Cap! I'm coming!
+Dialogue: 0,0:18:47.08,0:18:48.91,Default,,0,0,0,,Don't let go!
+Dialogue: 0,0:18:48.91,0:18:51.79,Default,,0,0,0,,Hold onto my hand and the coagulation factor!
+Dialogue: 0,0:18:51.79,0:18:52.75,Default,,0,0,0,,Okay!
+Dialogue: 0,0:18:52.75,0:18:56.04,Default,,0,0,0,,It's all good! Don't worry, Leader!
+Dialogue: 0,0:18:56.04,0:18:59.20,Default,,0,0,0,,I'm not letting go,\NI know for sure that I won't ever let go!
+Dialogue: 0,0:18:59.20,0:19:02.66,Default,,0,0,0,,That's the spirit, Backward Cap!\NAll your training is paying off now!
+Dialogue: 0,0:19:02.66,0:19:05.20,Default,,0,0,0,,You've gained a little strength\Nin those arms, huh?
+Dialogue: 0,0:19:05.20,0:19:06.70,Default,,0,0,0,,Good for you!
+Dialogue: 0,0:19:11.54,0:19:16.58,Default,,0,0,0,,Excellent! What amazing cohesion!\NLook at you, rising to the occasion!
+Dialogue: 0,0:19:16.58,0:19:20.37,Default,,0,0,0,,To think that even I'm floored\Nby your growth as your master!
+Dialogue: 0,0:19:20.37,0:19:23.58,Default,,0,0,0,,You little ones are truly something else!
+Dialogue: 0,0:19:25.50,0:19:26.79,Default,,0,0,0,,My little ones!
+Dialogue: 0,0:19:26.79,0:19:30.37,Default,,0,0,0,,Thanks to your efforts, we were able to keep\Ntoday's hemorrhage from escalating,
+Dialogue: 0,0:19:30.37,0:19:31.91,Default,,0,0,0,,and we've stopped the bleeding!
+Dialogue: 0,0:19:31.91,0:19:34.54,Default,,0,0,0,,Good job! I commend you for your hard work!
+Dialogue: 0,0:19:34.54,0:19:35.66,Default,,0,0,0,,Yes, Master!
+Dialogue: 0,0:19:35.66,0:19:39.54,Default,,0,0,0,,But I can't make up my mind about something.
+Dialogue: 0,0:19:39.54,0:19:43.66,Default,,0,0,0,,Who it is that I should award\Nthe gold medal to, you know?
+Dialogue: 0,0:19:43.66,0:19:44.83,Default,,0,0,0,,And why is that?
+Dialogue: 0,0:19:44.83,0:19:48.75,Default,,0,0,0,,Because although it's true that Backward Cap\Nmustered her courage and came up clutch for us,
+Dialogue: 0,0:19:48.75,0:19:54.45,Default,,0,0,0,,still, she was too sluggish before that,\Nduring clotting! You have to try harder, okay?
+Dialogue: 0,0:19:56.04,0:19:58.25,Default,,0,0,0,,Leader, you displayed some impressive\Nsupervision skills,
+Dialogue: 0,0:19:58.25,0:20:02.41,Default,,0,0,0,,but it was also you who dropped\Nthe coagulation factor! A careless mistake!
+Dialogue: 0,0:20:02.87,0:20:03.95,Default,,0,0,0,,{\an8}"HMM"
+Dialogue: 0,0:20:03.95,0:20:06.29,Default,,0,0,0,,You all worked very hard,
+Dialogue: 0,0:20:06.29,0:20:13.54,Default,,0,0,0,,but it's not like I saw an ultra-good kid\Nwho stood head and shoulders above the rest.
+Dialogue: 0,0:20:13.54,0:20:17.00,Default,,0,0,0,,So, today I have no choice but to...
+Dialogue: 0,0:20:20.00,0:20:21.41,Default,,0,0,0,,...give you all a gold medal!
+Dialogue: 0,0:20:21.41,0:20:22.37,Default,,0,0,0,,{\an8}"CLATTER"\N"CLANG"
+Dialogue: 0,0:20:21.41,0:20:22.37,Default,,0,0,0,,...give you all a gold medal!
+Dialogue: 0,0:20:22.37,0:20:24.41,Default,,0,0,0,,{\an8}"CLATTER"\N"CLANG"
+Dialogue: 0,0:20:22.37,0:20:24.41,Default,,0,0,0,,Master!
+Dialogue: 0,0:20:24.41,0:20:28.45,Default,,0,0,0,,{\an8}"YAY"
+Dialogue: 0,0:20:24.41,0:20:28.45,Default,,0,0,0,,Yay! Yay!
+Dialogue: 0,0:20:28.45,0:20:30.41,Default,,0,0,0,,Backward Cap...
+Dialogue: 0,0:20:30.41,0:20:32.79,Default,,0,0,0,,You really came through for us today!
+Dialogue: 0,0:20:32.79,0:20:36.83,Default,,0,0,0,,It was your efforts that brought\Neveryone else together as one!
+Dialogue: 0,0:20:36.83,0:20:38.54,Default,,0,0,0,,Master!
+Dialogue: 0,0:20:38.54,0:20:41.50,Default,,0,0,0,,Since you've always been twice\Nas weak as the others,
+Dialogue: 0,0:20:41.50,0:20:46.29,Default,,0,0,0,,I always worried if you'd make it or not.\NBut now, you've set my mind at ease.
+Dialogue: 0,0:20:46.29,0:20:51.00,Default,,0,0,0,,Backward Cap, as an apprentice,\Nyou're my pride and joy!
+Dialogue: 0,0:20:51.00,0:20:53.54,Default,,0,0,0,,--Master! Master!
+Dialogue: 0,0:20:53.54,0:20:55.54,Default,,0,0,0,,--Hey you!\N--Master! Master!
+Dialogue: 0,0:20:55.54,0:20:56.91,Default,,0,0,0,,That's a relief.
+Dialogue: 0,0:20:56.91,0:21:01.41,Default,,0,0,0,,I had no clue how that was going to turn out,\Nbut it looks like I worried too much.
+Dialogue: 0,0:21:01.41,0:21:04.95,Default,,0,0,0,,Backward Cap, not only do you\Nhave a positive attitude,
+Dialogue: 0,0:21:04.95,0:21:08.70,Default,,0,0,0,,but you also have great friends\Nand a great master.
+Dialogue: 0,0:21:08.70,0:21:12.41,Default,,0,0,0,,There was no way that you wouldn't\Nfind a way to overcome that jam!
+Dialogue: 0,0:21:12.41,0:21:16.50,Default,,0,0,0,,Always cherish the memory of today,\Nas well as that gold medal.
+Dialogue: 0,0:21:16.50,0:21:17.95,Default,,0,0,0,,Backward Cap--
+Dialogue: 0,0:21:17.95,0:21:24.29,Default,,0,0,0,,Gold medal! Gold medal!\NGold medal! Gold medal!
+Dialogue: 0,0:21:24.29,0:21:26.79,Default,,0,0,0,,Master!
+Dialogue: 0,0:21:26.79,0:21:30.70,Default,,0,0,0,,See you, little ones!\NDo your best next time, too!
+Dialogue: 0,0:21:30.70,0:21:33.00,Default,,0,0,0,,Okay!
+Dialogue: 0,0:23:05.04,0:23:06.33,Default,,0,0,0,,--All right! All right! All right!
+Dialogue: 0,0:23:06.33,0:23:10.75,Default,,0,0,0,,--Here are more blood cells for the clot!\N--All right! All right! All right!
+Dialogue: 0,0:23:10.75,0:23:14.20,Default,,0,0,0,,White Blood Cell! Good job!
+Dialogue: 0,0:23:14.20,0:23:17.29,Default,,0,0,0,,Oh, right. So, you're safe\Nand sound. That's good.
+Dialogue: 0,0:23:17.29,0:23:22.29,Default,,0,0,0,,Huh? You have an ever-so-slightly hurt look\Non your face. Are you all right?
+Dialogue: 0,0:23:22.29,0:23:24.95,Default,,0,0,0,,Sure. Hey, it's nothing.
+Dialogue: 0,0:23:24.95,0:23:28.50,Default,,0,0,0,,The mood swings this guy goes through\Nover the most trivial stuff!
+Dialogue: 0,0:23:28.50,0:23:30.37,Default,,0,0,0,,Just because he got a little trampled on.
+Dialogue: 0,0:23:30.37,0:23:31.25,Default,,0,0,0,,Trampled on?
+Dialogue: 0,0:23:31.25,0:23:33.50,Default,,0,0,0,,Well, I'm sure it wasn't on purpose, so...
+Dialogue: 0,0:23:33.50,0:23:35.12,Default,,0,0,0,,Who was it that trampled on you?
+Dialogue: 0,0:23:35.12,0:23:36.91,Default,,0,0,0,,Well, actually...
+Dialogue: 0,0:23:37.04,0:23:37.66,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:37.66,0:23:39.29,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:37.66,0:23:39.29,Default,,0,0,0,,Memory Cell did mention something.
+Dialogue: 0,0:23:39.29,0:23:40.12,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:39.29,0:23:40.12,Default,,0,0,0,,What did he say?
+Dialogue: 0,0:23:40.12,0:23:41.91,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:40.12,0:23:41.91,Default,,0,0,0,,That the world's going to end\Nfor sure this time.
+Dialogue: 0,0:23:41.91,0:23:43.83,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:41.91,0:23:43.83,Default,,0,0,0,,He has a feeling that it may\Nor may not happen.
+Dialogue: 0,0:23:43.83,0:23:44.75,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:43.83,0:23:44.75,Default,,0,0,0,,So, which is it?
+Dialogue: 0,0:23:44.75,0:23:46.50,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:44.75,0:23:46.50,Default,,0,0,0,,Next episode of {\i1}Cells at Work!!{\i0},
+Dialogue: 0,0:23:46.50,0:23:46.91,Default,,0,0,0,,"NEXT EPISODE PREVIEW"\N"Acquired Immunity/Peyer's Patch."
+Dialogue: 0,0:23:46.91,0:23:48.91,Default,,0,0,0,,{\an8}"EPISODE 2:\NACQUIRED IMMUNITY/PEYER'S PATCH"
+Dialogue: 0,0:23:46.91,0:23:48.91,Default,,0,0,0,,"Acquired Immunity/Peyer's Patch."
+Dialogue: 0,0:23:48.91,0:23:51.37,Default,,0,0,0,,{\an8}"EPISODE 2:\NACQUIRED IMMUNITY/PEYER'S PATCH"
+Dialogue: 0,0:23:48.91,0:23:51.37,Default,,0,0,0,,Work hard, everyday!
+Dialogue: 0,0:23:51.37,0:23:52.00,Default,,0,0,0,,{\an8}"EPISODE 2:\NACQUIRED IMMUNITY/PEYER'S PATCH"
