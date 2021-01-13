@@ -23,7 +23,8 @@ Style: Signs,Arial,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
-Dialogue: 0,0:00:50.11,0:00:50.99,Signs,,0,0,0,,"WHITE BLOOD CELL"
+Comment: 0,0:00:50.11,0:00:50.99,Signs,skip?,0,0,0,,# WHITE BLOOD CELL #
+Comment: 0,0:02:53.99,0:03:02.33,Signs,,0,0,0,,# Box labels #
 Dialogue: 0,0:02:53.99,0:03:02.33,Signs,,0,0,0,,"FRAGILE"\N"CONDENSED GAS"
 Comment: 0,0:03:28.73,0:03:30.73,Signs,,0,0,0,,# Artery #
 Dialogue: 0,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=14=18}{\frz7.279\fnKreon\fs85\fsp5\b1\bord4\3c&HC0D3EC&\c&HC0D3EC&\blur0.8\fax-0.13\1a&HFF&\3a&H80&\pos(699.7,668.73)}A
@@ -44,7 +45,7 @@ Dialogue: 2,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\frz-4.238\fnKreon\fs85
 Dialogue: 0,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\frz-6.754\fnKreon\fs85\fsp5\b1\bord4\3c&HC0D3EC&\c&HC0D3EC&\blur0.8\fax0.12\1a&HFF&\3a&H80&\pos(898.31,668.7)}Y
 Dialogue: 1,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\frz-6.754\fnKreon\fs85\fsp5\b1\bord4\3c&HC0D3EC&\c&HC0D3EC&\blur0.8\fax0.12\1a&HFF&\3a&H2D&\iclip(m 666 662.67 b 740 647 870 648.33 938 663.33 l 939.33 674 b 870.33 658.67 740.33 659.33 666 674)\pos(898.31,668.7)}Y
 Dialogue: 2,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\frz-6.754\fnKreon\fs85\fsp5\b1\bord0\c&H131946&\blur0.8\fax0.12\4a&HFF&\1a&H2D&\pos(898.31,668.7)}Y
-Comment: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,# EPISODE 1: BUMP #
+Comment: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,# Episode Title #
 Dialogue: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,"EPISODE 1:\NBUMP"
 Comment: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,# Cell shirt #
 Comment: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(481.6,464)\p1\c&HB9C0CB&}m -37 -69 l 46 -71 -19 110 -99 113
@@ -67,30 +68,49 @@ Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,557.00,533.00
 Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,570.00,533.00,583.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HAAB1BC&}m -37 -69 l 46 -71 -19 110 -99 113
 Dialogue: 1,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=18}{\fnKarma\blur0.8\c&H080F19&\fs70\frz8.49\fax-0.45\pos(489.73,468.13)}Cell
 Comment: 0,0:04:05.93,0:04:08.44,Signs,,0,0,0,,# STING STING #
-Dialogue: 0,0:05:06.87,0:05:10.58,Signs,,0,0,0,,"GERM SOUP"
-Dialogue: 0,0:05:40.28,0:05:47.91,Signs,,0,0,0,,"RELAXING TEA"
+Comment: 0,0:05:06.87,0:05:10.58,Signs,,0,0,0,,# GERM SOUP #
+Comment: 0,0:05:40.28,0:05:47.91,Signs,skip?,0,0,0,,# WHITE BLOOD CELL #
+Comment: 0,0:05:40.28,0:05:47.91,Signs,,0,0,0,,# RELAXING TEA #
+Comment: 0,0:07:22.25,0:07:24.47,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:07:22.25,0:07:24.47,Signs,,0,0,0,,"STUMBLE STUMBLE"
 Dialogue: 0,0:07:24.51,0:07:25.26,Signs,,0,0,0,,"BAM'
 Dialogue: 0,0:07:26.47,0:07:27.68,Signs,,0,0,0,,"PLOP"
 Dialogue: 0,0:07:45.86,0:07:49.99,Signs,,0,0,0,,"BLUSH BLUSH"
-Dialogue: 0,0:07:49.82,0:07:50.32,Signs,,0,0,0,,"PLATELETS"
+Comment: 0,0:07:49.82,0:07:50.32,Signs,skip?,0,0,0,,# Platelet hat sweep #
+Comment: 0,0:08:19.23,0:08:19.23,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:08:19.23,0:08:20.35,Signs,,0,0,0,,"PLOP"
-Dialogue: 0,0:08:55.77,0:08:57.60,Signs,,0,0,0,,"SNACK"
+Comment: 0,0:08:51.84,0:09:02.23,Signs,skip?,0,0,0,,# Platelet hats #
+Comment: 0,0:08:55.77,0:08:57.60,Signs,,0,0,0,,# SNACK #
+Comment: 0,0:09:27.59,0:09:27.59,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:09:27.59,0:09:32.84,Signs,,0,0,0,,"TREMBLE TREMBLE"
 Dialogue: 0,0:09:29.09,0:09:32.84,Signs,,0,0,0,,"CLENCH"
+Comment: 0,0:09:32.84,0:09:35.26,Signs,skip?,0,0,0,,# WHITE BLOOD CELL #
+Comment: 0,0:12:09.67,0:12:09.67,Signs,,0,0,0,,# Blood cells sfx #
 Dialogue: 0,0:12:09.67,0:12:15.67,Signs,,0,0,0,,"BUMP"
+Comment: 0,0:12:24.35,0:12:24.35,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:12:24.35,0:12:25.10,Signs,,0,0,0,,"GRIP"
+Comment: 0,0:14:49.33,0:14:49.33,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:14:49.33,0:14:50.45,Signs,,0,0,0,,"PLOP"
+Comment: 0,0:12:24.35,0:12:24.35,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:15:03.09,0:15:07.55,Signs,,0,0,0,,"BONK"
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,"MEGAKARYOCYTE"
+Comment: 0,0:15:14.69,0:15:15.56,Signs,probably only unskipped hat here,0,0,0,,# MEGAKARYOCYTE #
+Comment: 0,0:16:30.80,0:16:33.76,Signs,,0,0,0,,# Megakaryocyte sfx #
 Dialogue: 0,0:16:30.80,0:16:33.76,Signs,,0,0,0,,"WHOOSH"
+Comment: 0,0:16:46.19,0:16:46.19,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:16:46.19,0:16:49.11,Signs,,0,0,0,,"WOW"
+Comment: 0,0:17:11.09,0:17:11.09,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:17:11.09,0:17:12.09,Signs,,0,0,0,,"BOOM"
+Comment: 0,0:17:37.70,0:17:37.70,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:17:37.70,0:17:38.58,Signs,,0,0,0,,"SLIP"
+Comment: 0,0:17:57.56,0:17:57.56,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:17:57.56,0:17:58.02,Signs,,0,0,0,,"SNAP"
+Comment: 0,0:19:50.84,0:19:53.80,Signs,,0,0,0,,# Megakaryocyte sfx #
 Dialogue: 0,0:19:50.84,0:19:52.17,Signs,,0,0,0,,"HMM"
+Comment: 0,0:20:09.15,0:20:12.11,Signs,,0,0,0,,# Medals sfx #
 Dialogue: 0,0:20:09.15,0:20:12.44,Signs,,0,0,0,,"CLATTER"\N"CLANG"
+Comment: 0,0:20:12.44,0:20:12.44,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:20:12.44,0:20:15.90,Signs,,0,0,0,,"YAY"
+Comment: 0,0:23:25.01,0:23:25.01,Signs,,0,0,0,,# Next Episode Preview #
 Dialogue: 0,0:23:25.01,0:23:34.89,Signs,,0,0,0,,"NEXT EPISODE PREVIEW"
 Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,"EPISODE 2:\NACQUIRED IMMUNITY/PEYER'S PATCH"
 
