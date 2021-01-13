@@ -46,7 +46,7 @@ Dialogue: 0,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\frz-6.754\fnKreon\fs85
 Dialogue: 1,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\frz-6.754\fnKreon\fs85\fsp5\b1\bord4\3c&HC0D3EC&\c&HC0D3EC&\blur0.8\fax0.12\1a&HFF&\3a&H2D&\iclip(m 666 662.67 b 740 647 870 648.33 938 663.33 l 939.33 674 b 870.33 658.67 740.33 659.33 666 674)\pos(898.31,668.7)}Y
 Dialogue: 2,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\frz-6.754\fnKreon\fs85\fsp5\b1\bord0\c&H131946&\blur0.8\fax0.12\4a&HFF&\1a&H2D&\pos(898.31,668.7)}Y
 Comment: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,# Episode Title #
-Dialogue: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,"EPISODE 1:\NBUMP"
+Dialogue: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,{=30}{\fs81\fnFOT-Rodin Pro EB\b0\c&H0000FF&\blur0.7\pos(800,666)}Chapter 1: Bump
 Comment: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,# Cell shirt #
 Comment: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(481.6,464)\p1\c&HB9C0CB&}m -37 -69 l 46 -71 -19 110 -99 113
 Comment: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(481.6,464)\p1\c&HAAB1BC&}m -37 -69 l 46 -71 -19 110 -99 113
@@ -111,11 +111,18 @@ Dialogue: 0,0:20:09.15,0:20:12.44,Signs,,0,0,0,,"CLATTER"\N"CLANG"
 Comment: 0,0:20:12.44,0:20:12.44,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:20:12.44,0:20:15.90,Signs,,0,0,0,,"YAY"
 Comment: 0,0:23:25.01,0:23:25.01,Signs,,0,0,0,,# Next Episode Preview #
-Dialogue: 0,0:23:25.01,0:23:34.89,Signs,,0,0,0,,"NEXT EPISODE PREVIEW"
-Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,"EPISODE 2:\NACQUIRED IMMUNITY/PEYER'S PATCH"
+Dialogue: 0,0:23:25.01,0:23:34.89,Signs,,0,0,0,,{=18}{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\bord4\c&HFFFFE8&\3c&HFFFFE8&\blur0.8}Next Time
+Dialogue: 1,0:23:25.01,0:23:34.89,Signs,,0,0,0,,{=18}{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\xshad-0.3\c&H0100FF&\4c&H000045&\4a&H64&\blur0.8}Next Time
+Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\fnFOT-Rodin Pro EB\fs60\b0\bord4\blur0.8\3c&HFFFFF1&\c&HFFFFF1&\pos(325,650)}Chapter 2
+Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\fnFOT-Rodin Pro EB\fs60\b0\bord0\blur0.8\c&H0000FF&\pos(325,650)\4a&H80&\4c&H000045&\xshad-0.1}Chapter 2
+Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\fnFOT-Rodin Pro EB\fs70\b0\bord4\blur0.8\3c&HFFFFF1&\c&HFFFFF1&\pos(325,721)}Acquired Immunity
+Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\fnFOT-Rodin Pro EB\fs70\b0\bord0\blur0.8\c&H0000FF&\pos(325,721)\4a&H80&\4c&H000045&\xshad-0.1}Acquired Immunity
+Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\fnFOT-Rodin Pro EB\fs70\b0\bord4\blur0.8\3c&HFFFFF1&\c&HFFFFF1&\pos(325,791)}Peyer's Patch
+Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\fnFOT-Rodin Pro EB\fs70\b0\bord0\blur0.8\c&H0000FF&\pos(325,791)\4a&H80&\4c&H000045&\xshad-0.1}Peyer's Patch
 
 [Aegisub Extradata]
 Data: 14,l0.MoveAlongPath,e{"orgLine"#3A"{\\fsp5\\frz2\\fnKreon\\bord4\\fs85\\3c&HC0D3EC&\\c&H24285B&\\b1\\pos(787.2#2C660.6)\\clip(m 679.33 671.33 l 716.36 666.6 b 762.62 662.48 811.42 661.8 857.71 664.75 904 667.7 947.78 674.28 984 684.67)}ARTERY"#2C"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"be48f302-f0e4-4146-b146-b312e276156e"}
 Data: 15,l0.MoveAlongPath,e{"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"be48f302-f0e4-4146-b146-b312e276156e"}
 Data: 18,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A3}
 Data: 19,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A1}
+Data: 30,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A2}
