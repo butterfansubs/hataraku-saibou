@@ -46,8 +46,27 @@ Dialogue: 1,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\frz-6.754\fnKreon\fs85
 Dialogue: 2,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\frz-6.754\fnKreon\fs85\fsp5\b1\bord0\c&H131946&\blur0.8\fax0.12\4a&HFF&\1a&H2D&\pos(898.31,668.7)}Y
 Comment: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,# EPISODE 1: BUMP #
 Dialogue: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,"EPISODE 1:\NBUMP"
-Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,"CELL"
-Dialogue: 0,0:04:05.93,0:04:08.44,Signs,,0,0,0,,"STING STING"
+Comment: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,# Cell shirt #
+Comment: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(481.6,464)\p1\c&HB9C0CB&}m -37 -69 l 46 -71 -19 110 -99 113
+Comment: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(481.6,464)\p1\c&HAAB1BC&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377,388,533,389)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HB9C0CB&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,389.00,533.00,401.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HB8BFCA&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,401.00,533.00,414.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HB7BEC9&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,414.00,533.00,427.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HB6BDC8&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,427.00,533.00,440.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HB5BCC7&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,440.00,533.00,453.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HB4BBC6&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,453.00,533.00,466.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HB3BAC5&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,466.00,533.00,479.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HB2B9C4&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,479.00,533.00,492.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HB1B8C3&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,492.00,533.00,505.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HB0B7C2&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,505.00,533.00,518.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HAFB6C1&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,518.00,533.00,531.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HAEB5C0&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,531.00,533.00,544.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HADB4BF&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,544.00,533.00,557.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HACB3BE&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,557.00,533.00,570.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HABB2BD&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\clip(377.00,570.00,533.00,583.00)\pos(481.6,464)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HAAB1BC&}m -37 -69 l 46 -71 -19 110 -99 113
+Dialogue: 1,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=18}{\fnKarma\blur0.8\c&H080F19&\fs70\frz8.49\fax-0.45\pos(489.73,468.13)}Cell
+Comment: 0,0:04:05.93,0:04:08.44,Signs,,0,0,0,,# STING STING #
 Dialogue: 0,0:05:06.87,0:05:10.58,Signs,,0,0,0,,"GERM SOUP"
 Dialogue: 0,0:05:40.28,0:05:47.91,Signs,,0,0,0,,"RELAXING TEA"
 Dialogue: 0,0:07:22.25,0:07:24.47,Signs,,0,0,0,,"STUMBLE STUMBLE"
@@ -79,3 +98,4 @@ Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,"EPISODE 2:\NACQUIRED IMMUNITY/P
 Data: 14,l0.MoveAlongPath,e{"orgLine"#3A"{\\fsp5\\frz2\\fnKreon\\bord4\\fs85\\3c&HC0D3EC&\\c&H24285B&\\b1\\pos(787.2#2C660.6)\\clip(m 679.33 671.33 l 716.36 666.6 b 762.62 662.48 811.42 661.8 857.71 664.75 904 667.7 947.78 674.28 984 684.67)}ARTERY"#2C"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"be48f302-f0e4-4146-b146-b312e276156e"}
 Data: 15,l0.MoveAlongPath,e{"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"be48f302-f0e4-4146-b146-b312e276156e"}
 Data: 18,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A3}
+Data: 19,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A1}
