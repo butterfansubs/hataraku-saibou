@@ -6,8 +6,8 @@ ScriptType: v4.00+
 PlayDepth: 0
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-PlayResX: 1920
-PlayResY: 1080
+PlayResX: 1600
+PlayResY: 900
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
@@ -24,9 +24,9 @@ Video Position: 9129
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Kirinashi,75,&H00FFFFFF,&H00FFFFFF,&H00000000,&H87000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,165,165,60,1
-Style: Default-Alt,Kirinashi,75,&H00FFFFFF,&H00FFFFFF,&H00743E15,&HCC000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,165,165,60,1
-Style: Signs,Arial,60,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,0,1
+Style: Default,Kirinashi,63,&H00FFFFFF,&H00FFFFFF,&H00000000,&H87000000,-1,0,0,0,100,100,0,0,1,3,1.25,2,138,138,50,1
+Style: Default-Alt,Kirinashi,63,&H00FFFFFF,&H00FFFFFF,&H00743E15,&HCC000000,-1,0,0,0,100,100,0,0,1,3,1.25,2,138,138,50,1
+Style: Signs,Arial,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -139,9 +139,9 @@ Dialogue: 10,0:08:16.37,0:08:18.14,Default,,0,0,0,,Are you okay?
 Dialogue: 10,0:08:18.89,0:08:20.78,Default,,0,0,0,,Plop!
 Dialogue: 10,0:08:20.78,0:08:24.36,Default,,0,0,0,,Are you all right? Leader? Backward Cap?
 Comment: 10,0:08:20.78,0:08:23.86,Default,,0,0,0,,Are you all right? Leader? Backward Cap?
-Comment: 10,0:08:23.86,0:08:23.98,Default,,0,0,0,,{\clip(m 396.53 940.26 l 472.1 984.08 544.69 1019.57 585.58 1030.29 1678.8 1030.8 1693.2 916.8)}Are you all right? Leader? Backward Cap?
-Comment: 10,0:08:23.98,0:08:24.11,Default,,0,0,0,,{\clip(m 566.4 948 l 610.77 974.48 692.96 1013.17 742.38 1033.49 1678.8 1030.8 1693.2 916.8)}Are you all right? Leader? Backward Cap?
-Comment: 10,0:08:24.11,0:08:24.36,Default,,0,0,0,,{\clip(m 709.2 934.8 l 752.37 963.01 825.89 1004.77 886.38 1035.89 1678.8 1030.8 1693.2 916.8)}Are you all right? Leader? Backward Cap?
+Comment: 10,0:08:23.86,0:08:23.98,Default,,0,0,0,,{\clip(m 330.5 783.5 l 393.375 820.125 453.875 849.625 488 858.625 1399 859 1411 764)}Are you all right? Leader? Backward Cap?
+Comment: 10,0:08:23.98,0:08:24.11,Default,,0,0,0,,{\clip(m 472 790 l 509 812.125 577.5 844.25 618.625 861.25 1399 859 1411 764)}Are you all right? Leader? Backward Cap?
+Comment: 10,0:08:24.11,0:08:24.36,Default,,0,0,0,,{\clip(m 591 779 l 627 802.5 688.25 837.25 738.625 863.25 1399 859 1411 764)}Are you all right? Leader? Backward Cap?
 Dialogue: 10,0:08:24.36,0:08:26.65,Default,,0,0,0,,So, they call you Backward Cap, huh?
 Dialogue: 10,0:08:28.07,0:08:33.92,Default,,0,0,0,,Since we're so tiny, at work, we form clumps\N to make up for our lack of height.
 Dialogue: 10,0:08:33.92,0:08:39.04,Default,,0,0,0,,And there's nothing more important than working as one...
@@ -237,7 +237,7 @@ Dialogue: 10,0:13:28.12,0:13:31.98,Default,,0,0,0,,then stick the red and white 
 Dialogue: 10,0:13:31.98,0:13:34.13,Default,,0,0,0,,to form a secondary clot and stop the bleeding!
 Dialogue: 10,0:13:34.13,0:13:38.13,Default,,0,0,0,,We have a wide area to cover,\N so it won't be easy, but let's do our best!
 Dialogue: 10,0:13:38.13,0:13:40.42,Default,,0,0,0,,Okay!
-Dialogue: 10,0:13:40.42,0:13:40.47,Default,,0,0,0,,{\clip(m 875.17 1020.2 l 891.41 1008.72 901.01 998.48 906.24 989.28 908.6 980.47 913.33 970.62 926.39 975.77 931.23 977.3 936.51 975.73 939.37 971.2 947.69 970.18 959.4 960.13 962.17 973.32 968.35 980.32 975.1 978.78 977.68 976.09 980.87 970.62 982.25 960.61 1006.31 959.88 1013.2 959.02 1046.53 925.92 1061.53 967.33 1076.56 1011.76 1069.73 1023.66 954.6 1046.44)}Okay!
+Dialogue: 10,0:13:40.42,0:13:40.47,Default,,0,0,0,,{\clip(m 729.25 850.125 l 742.875 840.625 750.875 832.125 755.25 824.375 757.125 817 761.125 808.875 772 813.125 776 814.375 780.375 813.125 782.75 809.375 789.75 808.5 799.5 800.125 801.75 811.125 807 816.875 812.625 815.625 814.75 813.375 817.375 808.875 818.5 800.5 838.625 799.875 844.375 799.125 872.125 771.625 884.625 806.125 897.125 843.125 891.5 853 795.5 872)}Okay!
 Dialogue: 10,0:13:40.99,0:13:43.09,Default,,0,0,0,,There's damage here, too!
 Dialogue: 10,0:13:43.09,0:13:45.30,Default,,0,0,0,,Anyone who's free, please come over here!
 Dialogue: 10,0:13:45.30,0:13:46.51,Default,,0,0,0,,It's clotted!
