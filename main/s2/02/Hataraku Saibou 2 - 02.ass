@@ -25,14 +25,9 @@ Style: Signs,Arial,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.00,0:01:43.08,Default,,0,0,0,,{\an8}"EPISODE 2:\NACQUIRED IMMUNITY"
-Dialogue: 0,0:01:43.08,0:01:45.37,Default,,0,0,0,,{\an8}"EPISODE 2:\NACQUIRED IMMUNITY"
 Dialogue: 0,0:01:43.08,0:01:45.37,Default,,0,0,0,,"Acquired Immunity."
-Dialogue: 0,0:01:45.37,0:01:47.00,Default,,0,0,0,,{\an8}"EPISODE 2:\NACQUIRED IMMUNITY"
 Dialogue: 0,0:01:50.37,0:01:52.12,Default,,0,0,0,,What's this?
 Dialogue: 0,0:01:52.12,0:01:54.83,Default,,0,0,0,,What are all these images I'm seeing?
-Dialogue: 0,0:01:54.83,0:01:57.16,Default,,0,0,0,,{\an8}"WHITE BLOOD CELL"
-Dialogue: 0,0:02:02.20,0:02:06.20,Default,,0,0,0,,{\an8}"CELL"
 Dialogue: 0,0:02:06.37,0:02:08.50,Default,,0,0,0,,They're heading this way!
 Dialogue: 0,0:02:08.50,0:02:10.75,Default,,0,0,0,,They're flowing...
 Dialogue: 0,0:02:10.75,0:02:12.75,Default,,0,0,0,,...right into my mind!
@@ -60,10 +55,8 @@ Dialogue: 0,0:03:35.08,0:03:39.91,Default,,0,0,0,,All Immune Cells in the area,\
 Dialogue: 0,0:03:39.91,0:03:44.70,Default,,0,0,0,,Come on, let's go! If it's a known antigen,\Nwe have to mow them down with antibodies!
 Dialogue: 0,0:03:44.70,0:03:46.79,Default,,0,0,0,,Come on, time to get to work!
 Dialogue: 0,0:03:46.79,0:03:48.70,Default,,0,0,0,,R-Right.
-Dialogue: 0,0:03:48.70,0:03:51.08,Default,,0,0,0,,{\an8}"TOUR ROUTE"
 Dialogue: 0,0:03:48.70,0:03:51.08,Default,,0,0,0,,See? It's that thing\Nhiding in the shadows!
 Dialogue: 0,0:03:51.08,0:03:53.83,Default,,0,0,0,,I wonder what that one is. This is so weird.
-Dialogue: 0,0:04:07.00,0:04:07.87,Default,,0,0,0,,{\an8}"MUMP"
 Dialogue: 0,0:04:07.00,0:04:07.87,Default,,0,0,0,,Mump.
 Dialogue: 0,0:04:07.87,0:04:08.66,Default,,0,0,0,,Mump.
 Dialogue: 0,0:04:09.95,0:04:13.25,Default,,0,0,0,,What is that thing?\NThat's one strange virus.
@@ -71,7 +64,6 @@ Dialogue: 0,0:04:13.25,0:04:15.58,Default,,0,0,0,,Memory, is it in your records?
 Dialogue: 0,0:04:15.58,0:04:17.66,Default,,0,0,0,,Huh? Memory?
 Dialogue: 0,0:04:17.66,0:04:19.20,Default,,0,0,0,,--Get a hold of yourself!\N--Memory!
 Dialogue: 0,0:04:19.20,0:04:22.50,Default,,0,0,0,,It's not like the world's definitely\Ngoing to end just yet!
-Dialogue: 0,0:04:22.50,0:04:25.75,Default,,0,0,0,,{\an8}"ARISE ARISE"
 Dialogue: 0,0:04:22.50,0:04:25.75,Default,,0,0,0,,Use your gift of second sight\Nto find a solution!
 Dialogue: 0,0:04:26.41,0:04:28.45,Default,,0,0,0,,Come to me.
 Dialogue: 0,0:04:29.58,0:04:30.58,Default,,0,0,0,,Come to me!
@@ -149,7 +141,6 @@ Dialogue: 0,0:08:39.45,0:08:43.54,Default,,0,0,0,,Please record the antigen data
 Dialogue: 0,0:08:43.54,0:08:45.70,Default,,0,0,0,,Oh! Will do!
 Dialogue: 0,0:08:50.70,0:08:54.08,Default,,0,0,0,,So, that wasn't me seeing the future,
 Dialogue: 0,0:08:54.08,0:08:54.25,Default,,0,0,0,,but rather images from the past\Nthat I was seeing?
-Dialogue: 0,0:08:54.25,0:08:56.70,Default,,0,0,0,,{\an8}"MEMORIES"
 Dialogue: 0,0:08:54.25,0:08:56.70,Default,,0,0,0,,but rather images from the past\Nthat I was seeing?
 Dialogue: 0,0:08:57.58,0:08:59.04,Default,,0,0,0,,Vaccination.
 Dialogue: 0,0:08:59.04,0:09:01.54,Default,,0,0,0,,To inject a pathogen or toxin\Nin a weakened state in advance
@@ -170,10 +161,7 @@ Dialogue: 0,0:10:04.45,0:10:06.16,Default,,0,0,0,,Target identified.
 Dialogue: 0,0:10:06.16,0:10:09.79,Default,,0,0,0,,Antigen identified. Target, lock on.
 Dialogue: 0,0:10:11.87,0:10:13.83,Default,,0,0,0,,Energy charge complete.
 Dialogue: 0,0:10:13.83,0:10:17.41,Default,,0,0,0,,Eat this, you dirty virus! This is...
-Dialogue: 0,0:10:18.37,0:10:18.87,Default,,0,0,0,,{\an8}"PLEASE TAKE GOOD CARE\NOF B CELL"
-Dialogue: 0,0:10:18.87,0:10:22.54,Default,,0,0,0,,{\an8}"PLEASE TAKE GOOD CARE\NOF B CELL"
 Dialogue: 0,0:10:18.87,0:10:22.54,Default,,0,0,0,,...the power of acquired immunity!
-Dialogue: 0,0:10:22.54,0:10:24.29,Default,,0,0,0,,{\an8}"PLEASE TAKE GOOD CARE\NOF B CELL"
 Dialogue: 0,0:10:22.54,0:10:24.29,Default,,0,0,0,,Acquired immunity.
 Dialogue: 0,0:10:24.29,0:10:30.04,Default,,0,0,0,,Immunity acquired by infection\Nor vaccination after birth.
 Dialogue: 0,0:10:34.33,0:10:36.58,Default,,0,0,0,,And so, thanks to the power\Nof acquired immunity,
@@ -206,11 +194,7 @@ Dialogue: 0,0:11:46.04,0:11:49.25,Default,,0,0,0,,Huh? Should I have kept my mou
 Dialogue: 0,0:11:49.25,0:11:51.16,Default,,0,0,0,,Where's the virus?
 Dialogue: 0,0:11:51.16,0:11:54.75,Default,,0,0,0,,What, is it over already?
 Dialogue: 0,0:11:56.08,0:11:57.79,Default,,0,0,0,,Man, I'm beat.
-Dialogue: 0,0:12:00.00,0:12:01.33,Default,,0,0,0,,{\an8}"PEYER'S PATCH"
-Dialogue: 0,0:12:01.33,0:12:03.16,Default,,0,0,0,,{\an8}"PEYER'S PATCH"\N"Peyer's Patch."
-Dialogue: 0,0:12:03.16,0:12:05.00,Default,,0,0,0,,{\an8}"PEYER'S PATCH"
 Dialogue: 0,0:12:06.50,0:12:07.83,Default,,0,0,0,,Here's the next batch!
-Dialogue: 0,0:12:07.83,0:12:10.45,Default,,0,0,0,,{\an8}"SMALL INTESTINE"
 Dialogue: 0,0:12:07.83,0:12:10.45,Default,,0,0,0,,Lactose, sucrose, maltose!
 Dialogue: 0,0:12:10.45,0:12:12.87,Default,,0,0,0,,Right!
 Dialogue: 0,0:12:12.87,0:12:15.20,Default,,0,0,0,,So, this is the small intestine!
@@ -225,8 +209,6 @@ Dialogue: 0,0:12:35.58,0:12:38.87,Default,,0,0,0,,Didn't anyone teach you, too, 
 Dialogue: 0,0:12:40.45,0:12:43.20,Default,,0,0,0,,I-I know! Why don't I go get us some tea?
 Dialogue: 0,0:12:43.20,0:12:44.50,Default,,0,0,0,,I'll only be a minute!
 Dialogue: 0,0:12:44.50,0:12:46.62,Default,,0,0,0,,Hey, thank you so much!
-Dialogue: 0,0:12:46.62,0:12:47.79,Default,,0,0,0,,{\an8}"PITTER-PATTER"
-Dialogue: 0,0:12:47.79,0:12:48.79,Default,,0,0,0,,{\an8}"PITTER-PATTER"
 Dialogue: 0,0:12:47.79,0:12:48.79,Default,,0,0,0,,Hey, Neutrophil! You sure have the guts.
 Dialogue: 0,0:12:48.79,0:12:51.66,Default,,0,0,0,,Hey, Neutrophil! You sure have the guts.
 Dialogue: 0,0:12:51.66,0:12:56.58,Default,,0,0,0,,Here we are in the intestines, a single membrane\Naway from 120 trillion teeming bacteria,
@@ -292,12 +274,9 @@ Dialogue: 0,0:16:07.29,0:16:10.95,Default,,0,0,0,,by Campylobacters and for Camp
 Dialogue: 0,0:16:10.95,0:16:14.25,Default,,0,0,0,,After which, for the sake of maintaining order\Nin perpetuity and for all eternity...
 Dialogue: 0,0:16:14.25,0:16:15.45,Default,,0,0,0,,All right, fine.
 Dialogue: 0,0:16:15.45,0:16:17.50,Default,,0,0,0,,We'll accept your terms.
-Dialogue: 0,0:16:17.50,0:16:18.54,Default,,0,0,0,,{\an8}"MURMUR"
 Dialogue: 0,0:16:17.50,0:16:18.54,Default,,0,0,0,,We'll accept your terms.
 Dialogue: 0,0:16:18.54,0:16:22.45,Default,,0,0,0,,Once we've done that--\NWhat? No way! You accept?
-Dialogue: 0,0:16:22.45,0:16:25.45,Default,,0,0,0,,{\an8}"IN TRAINING"
 Dialogue: 0,0:16:22.45,0:16:25.45,Default,,0,0,0,,Yippee!
-Dialogue: 0,0:16:25.45,0:16:26.41,Default,,0,0,0,,{\an8}"IN TRAINING"
 Dialogue: 0,0:16:25.45,0:16:26.41,Default,,0,0,0,,What the...
 Dialogue: 0,0:16:26.41,0:16:27.08,Default,,0,0,0,,What the...
 Dialogue: 0,0:16:27.08,0:16:32.16,Default,,0,0,0,,All right! In that case, we'll release\Nthe hostage, but first, do as I say!
@@ -348,7 +327,6 @@ Dialogue: 0,0:18:38.58,0:18:40.62,Default,,0,0,0,,--Hey, don't do it, Intestinal
 Dialogue: 0,0:18:40.62,0:18:43.54,Default,,0,0,0,,--Anything but that! Just don't\Nbreathe a word about that to him!\N--You see, up ahead, there's a spot\Nwhere both villi and membranes are sparse.
 Dialogue: 0,0:18:43.54,0:18:45.50,Default,,0,0,0,,And if I may say so myself,\Nit's about as airtight as a sieve.
 Dialogue: 0,0:18:45.50,0:18:46.62,Default,,0,0,0,,So, I imagine it would be easily\Ninfiltrated by you bacteria.
-Dialogue: 0,0:18:46.62,0:18:49.58,Default,,0,0,0,,{\an8}"TEARY EYES"
 Dialogue: 0,0:18:46.62,0:18:49.58,Default,,0,0,0,,So, I imagine it would be easily\Ninfiltrated by you bacteria.
 Dialogue: 0,0:18:51.25,0:18:53.87,Default,,0,0,0,,By any chance, would you be talking about...
 Dialogue: 0,0:18:53.87,0:18:55.87,Default,,0,0,0,,...this place right here?
@@ -396,8 +374,6 @@ Dialogue: 0,0:21:22.91,0:21:24.12,Default,,0,0,0,,That was...
 Dialogue: 0,0:21:24.12,0:21:26.95,Default,,0,0,0,,...the "M" for "M Cell"!
 Dialogue: 0,0:21:27.91,0:21:29.50,Default,,0,0,0,,That's not fair!
 Dialogue: 0,0:21:29.50,0:21:33.33,Default,,0,0,0,,Shut up! Like fair has anything to do with it!
-Dialogue: 0,0:21:36.08,0:21:37.20,Default,,0,0,0,,{\an8}"CERTIFICATE OF APPRECIATION"
-Dialogue: 0,0:21:37.20,0:21:38.58,Default,,0,0,0,,{\an8}"CERTIFICATE OF APPRECIATION"
 Dialogue: 0,0:21:37.20,0:21:38.58,Default,,0,0,0,,Hey, that sure worked out!
 Dialogue: 0,0:21:38.58,0:21:40.16,Default,,0,0,0,,Hey, that sure worked out!
 Dialogue: 0,0:21:40.16,0:21:42.79,Default,,0,0,0,,Good job, getting him to fall for your trap!
@@ -413,18 +389,10 @@ Dialogue: 0,0:22:11.37,0:22:13.70,Default,,0,0,0,,I wonder if he got lost.
 Dialogue: 0,0:22:13.70,0:22:15.16,Default,,0,0,0,,Uh-oh!
 Dialogue: 0,0:22:15.16,0:22:18.83,Default,,0,0,0,,I totally forgot to get\Nthe Red Blood Cells their tea!
 Dialogue: 0,0:22:18.83,0:22:21.04,Default,,0,0,0,,Okay, so he is a moron after all.
-Dialogue: 0,0:23:36.95,0:23:37.79,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
-Dialogue: 0,0:23:37.79,0:23:39.29,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
 Dialogue: 0,0:23:37.79,0:23:39.29,Default,,0,0,0,,My receptor's picked up something!
-Dialogue: 0,0:23:39.29,0:23:42.37,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
 Dialogue: 0,0:23:39.29,0:23:42.37,Default,,0,0,0,,White Blood Cell!\NThere's a weird mask on the ground!
-Dialogue: 0,0:23:42.37,0:23:44.08,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
 Dialogue: 0,0:23:42.37,0:23:44.08,Default,,0,0,0,,--De-Dengue!\N--De-Dengue!
-Dialogue: 0,0:23:44.08,0:23:46.08,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
 Dialogue: 0,0:23:44.08,0:23:46.08,Default,,0,0,0,,Next episode of {\i1}Cells at Work!!{\i0}...
-Dialogue: 0,0:23:46.08,0:23:46.62,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
 Dialogue: 0,0:23:46.08,0:23:46.62,Default,,0,0,0,,..."Dengue Fever/Acne."
-Dialogue: 0,0:23:46.62,0:23:48.79,Default,,0,0,0,,{\an8}"EPISODE 3:\NDENGUE FEVER/ACNE"
 Dialogue: 0,0:23:46.62,0:23:48.79,Default,,0,0,0,,..."Dengue Fever/Acne."
-Dialogue: 0,0:23:48.79,0:23:51.91,Default,,0,0,0,,{\an8}"EPISODE 3:\NDENGUE FEVER/ACNE"
 Dialogue: 0,0:23:48.79,0:23:51.91,Default,,0,0,0,,Work hard every day!
