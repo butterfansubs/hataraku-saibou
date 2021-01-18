@@ -39,7 +39,7 @@ Dialogue: 1,0:07:06.46,0:07:10.83,Signs - Infobox,,0,0,0,,{\fad(200,200)\an4\bor
 Dialogue: 2,0:07:06.46,0:07:10.83,Signs - Infobox,dialogue overlap,0,0,0,,{=30}{\fad(200,200)\b1\blur0.7\pos(805,739)}COAGULATION FACTOR{\b0\fs45}\NFactor required for the formation of blood clots.
 Dialogue: 0,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{\fad(200,0)\an4\bord2.5\shad0\blur1\p1\pos(927,178)\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}m -25 0 l 590 0 590 220 -25 220
 Dialogue: 1,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{\fad(200,0)\an4\bord0\shad0\blur1\c&HFFFFFF&\p1\pos(927,178)\4a&HFF&}m -25 0 l 590 0 590 220 -25 220
-Dialogue: 2,0:08:12.06,0:08:18.14,Signs - Infobox,TODO,0,0,0,,{=30}{\fad(200,0)\b1\blur0.7\pos(927,178)}PRIMARY HEMOSTASIS{\b0}\N...\N...\N...
+Dialogue: 2,0:08:12.06,0:08:18.14,Signs - Infobox,TODO,0,0,0,,{=30}{\fad(200,0)\b1\blur0.7\pos(927,178)}PRIMARY BLOOD CLOTTING{\b0}\NThe aggregation and clumping together of platelets during blood clot formation. Platelets adhere to and accumulate underneath the vascular endothelial cells.
 Dialogue: 0,0:12:06.63,0:12:15.67,Signs - Infobox,,0,0,0,,{\fad(200,0)\an4\bord2.5\shad0\blur1\pos(97,771)\p1\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)}m -25 0 l 635 0 635 175 -25 175
 Dialogue: 1,0:12:06.63,0:12:15.67,Signs - Infobox,,0,0,0,,{\fad(200,0)\an4\bord0\shad0\blur1\pos(97,771)\c&HFFFFFF&\p1\4a&HFF&}m -25 0 l 635 0 635 175 -25 175
 Dialogue: 2,0:12:06.63,0:12:15.67,Signs - Infobox,dialogue overlap,0,0,0,,{=30}{\fad(200,0)\b1\blur0.7\pos(97,771)}BUMPS{\b0\fs45}\NLump-like protrusions caused by\N swelling and bleeding on the outer skull.
