@@ -339,7 +339,13 @@ Dialogue: 1,0:04:08.35,0:04:08.39,Signs,,0,0,0,,{=30=175}{\pos(767.81,713.37)\fs
 Dialogue: 1,0:04:08.39,0:04:08.43,Signs,,0,0,0,,{=30=175}{\pos(767.81,713.36)\fscx90.87\fscy90.87\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
 Comment: 0,0:05:06.87,0:05:10.58,Signs,TODO,0,0,0,,# GERM SOUP #
 Comment: 0,0:05:40.28,0:05:47.91,Signs,skip?,0,0,0,,# WHITE BLOOD CELL #
-Comment: 0,0:05:40.28,0:05:47.91,Signs,TODO,0,0,0,,# RELAXING TEA #
+Comment: 0,0:05:40.28,0:05:47.91,Signs,TODO,0,0,0,,# WBC Tea #
+Dialogue: 0,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\bord0\shad0\c&H5DD79A&\blur1\p1}m 803 639.8 l 807 713.8 836 715.8 827 733.8 839.51 737.29 859.09 739.45 903 743.8 910 669.8
+Dialogue: 1,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\bord0\shad0\c&H26A558&\blur1\p1}m 850.18 742.69 b 841.04 735.19 839.94 733.03 830.55 724.8 l 825.45 733.52 833.23 739.22
+Dialogue: 1,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{=30}{\frz9.377\blur0.7\fs30\fnComplete in Him\c&H0C0A0F&\pos(839.48,669.24)}Relaxing
+Dialogue: 1,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{=19}{\fnComplete in Him\blur0.6\c&H0C0A0F&\fs60\pos(863.63,715.91)\frz5.78}Tea
+Dialogue: 0,0:05:45.66,0:05:47.91,Signs,,0,0,0,,{=19}{\blur0.6\3c&H046122&\c&H046122&\bord4\pos(962.4,70.8)\frz2.804\fnArial Rounded MT Bold PL}This tea is so good!
+Dialogue: 1,0:05:45.66,0:05:47.91,Signs,,0,0,0,,{=19}{\c&H57FBD7&\blur0.5\bord0\pos(962.4,70.8)\frz2.804\fnArial Rounded MT Bold PL\4a&HFF&}T{*\c&H53FAD2&}h{*\c&H50F9CD&}i{*\c&H4CF8C8&}s {*\c&H45F6BE&}t{*\c&H42F5B9&}e{*\c&H3EF4B4&}a {*\c&H37F2AA&}i{*\c&H34F2A5&}s {*\c&H2DF09B&}s{*\c&H29EF96&}o {*\c&H22ED8C&}g{*\c&H1FEC87&}o{*\c&H1BEB82&}o{*\c&H18EA7D&}d{\c&H15EA78&}!
 Comment: 0,0:07:22.25,0:07:24.47,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:07:22.25,0:07:22.29,Signs,,0,0,0,,{=33}{\pos(625.83,475.84)\frz23.19\fnFOT-PopJoy Std B\fs64\b1\bord7\c&H083109&\3c&H083109&\blur0.6}STUMBLE
 Dialogue: 0,0:07:22.29,0:07:22.33,Signs,,0,0,0,,{=33}{\pos(633.1,473.23)\fscx99.98\fscy99.98\frz23.89\fnFOT-PopJoy Std B\fs64\b1\bord7\c&H083109&\3c&H083109&\blur0.6}STUMBLE
