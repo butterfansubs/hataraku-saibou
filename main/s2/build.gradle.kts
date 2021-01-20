@@ -52,6 +52,8 @@ subs {
                 lang("jpn")
                 default(true)
             }
+            includeChapters(false)
+            attachments { include(false) }
         }
 
         from(merge.item()) {
