@@ -7,7 +7,7 @@ group=Butter ᎓v
 groupmux=Butter :v
 showeng=Cells at Work!!
 showjpn=Hataraku Saibou!!
-title=[${groupmux}] ${showjpn} (${showeng}) - ${episode}: ${eptitle}
+title=[${groupmux}] ${showeng} - ${episode} - ${eptitle}
 episodes={01..12}
 
 showkey=Hataraku Saibou 2
