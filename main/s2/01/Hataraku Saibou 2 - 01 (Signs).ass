@@ -96,17 +96,17 @@ Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\an7\pos(481.6,464)\c&HABB
 Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\an7\pos(481.6,464)\c&HAAB1BC&\blur1\clip(377,570,533,583)\p1}m -37 -69 l 46 -71 -19 110 -99 113
 Dialogue: 1,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=18}{\pos(489.73,468.13)\frz8.49\fax-0.45\fnKarma\fs70\c&H080F19&\blur0.8}Cell
 Comment: 0,0:04:05.93,0:04:08.44,Signs,,0,0,0,,# RBC sfx #
-Dialogue: 0,0:04:05.93,0:04:05.97,Signs,,0,0,0,,{=30=202}{\pos(654.2,576.8)\frz29.88\fnBangers\fs80\bord2.5\c&H06706D&\3c&H06706D&\blur0.7}STING
-Dialogue: 0,0:04:05.97,0:04:06.01,Signs,,0,0,0,,{=30=202}{\pos(654.39,576.64)\fscx99.87\fscy99.87\frz29.88\fnBangers\fs80\bord2.5\c&H06706D&\3c&H06706D&\blur0.7}STING
-Dialogue: 0,0:04:06.01,0:04:06.05,Signs,,0,0,0,,{=30=202}{\pos(654.58,576.49)\fscx99.75\fscy99.75\frz29.88\fnBangers\fs80\bord2.49\c&H06706D&\3c&H06706D&\blur0.7}STING
+Dialogue: 0,0:04:05.93,0:04:05.97,Signs,,0,0,0,,{=30=202}{\pos(654.2,576.8)\frz29.88\fnBangers\fs80\bord2.5\c&H06706D&\3c&H06706D&\1a&HFF&\3a&HA7&\blur0.7}STING
+Dialogue: 0,0:04:05.97,0:04:06.01,Signs,,0,0,0,,{=30=202}{\pos(654.39,576.64)\fscx99.87\fscy99.87\frz29.88\fnBangers\fs80\bord2.5\c&H06706D&\3c&H06706D&\1a&HFF&\3a&H6F&\blur0.7}STING
+Dialogue: 0,0:04:06.01,0:04:06.05,Signs,,0,0,0,,{=30=202}{\pos(654.58,576.49)\fscx99.75\fscy99.75\frz29.88\fnBangers\fs80\bord2.49\c&H06706D&\3c&H06706D&\1a&HFF&\3a&H37&\blur0.7}STING
 Dialogue: 0,0:04:06.05,0:04:06.10,Signs,,0,0,0,,{=30=202}{\pos(654.74,576.32)\fscx99.62\fscy99.62\frz29.88\fnBangers\fs80\bord2.49\c&H06706D&\3c&H06706D&\blur0.7}STING
 Dialogue: 0,0:04:06.10,0:04:06.14,Signs,,0,0,0,,{=30=202}{\pos(654.97,576.13)\fscx99.47\fscy99.47\frz29.88\fnBangers\fs80\bord2.49\c&H06706D&\3c&H06706D&\blur0.7}STING
 Dialogue: 0,0:04:06.14,0:04:06.18,Signs,,0,0,0,,{=30=202}{\pos(655.17,575.94)\fscx99.34\fscy99.34\frz29.88\fnBangers\fs80\bord2.48\c&H06706D&\3c&H06706D&\blur0.7}STING
 Dialogue: 0,0:04:06.18,0:04:06.22,Signs,,0,0,0,,{=30=202}{\pos(655.39,575.74)\fscx99.19\fscy99.19\frz29.88\fnBangers\fs80\bord2.48\c&H06706D&\3c&H06706D&\blur0.7}STING
 Dialogue: 0,0:04:06.22,0:04:06.26,Signs,,0,0,0,,{=30=202}{\pos(655.62,575.53)\fscx99.03\fscy99.03\frz29.88\fnBangers\fs80\bord2.48\c&H06706D&\3c&H06706D&\blur0.7}STING
-Dialogue: 1,0:04:05.93,0:04:05.97,Signs,,0,0,0,,{=30=201}{\pos(654.2,576.8)\frz29.88\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
-Dialogue: 1,0:04:05.97,0:04:06.01,Signs,,0,0,0,,{=30=201}{\pos(654.39,576.64)\fscx99.87\fscy99.87\frz29.88\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
-Dialogue: 1,0:04:06.01,0:04:06.05,Signs,,0,0,0,,{=30=201}{\pos(654.58,576.49)\fscx99.75\fscy99.75\frz29.88\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
+Dialogue: 1,0:04:05.93,0:04:05.97,Signs,,0,0,0,,{=30=201}{\pos(654.2,576.8)\frz29.88\fnBangers\fs80\c&H4FF8EF&\1a&HA7&\4a&HFF&\blur0.7}STING
+Dialogue: 1,0:04:05.97,0:04:06.01,Signs,,0,0,0,,{=30=201}{\pos(654.39,576.64)\fscx99.87\fscy99.87\frz29.88\fnBangers\fs80\c&H4FF8EF&\1a&H6F&\4a&HFF&\blur0.7}STING
+Dialogue: 1,0:04:06.01,0:04:06.05,Signs,,0,0,0,,{=30=201}{\pos(654.58,576.49)\fscx99.75\fscy99.75\frz29.88\fnBangers\fs80\c&H4FF8EF&\1a&H37&\4a&HFF&\blur0.7}STING
 Dialogue: 1,0:04:06.05,0:04:06.10,Signs,,0,0,0,,{=30=201}{\pos(654.74,576.32)\fscx99.62\fscy99.62\frz29.88\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
 Dialogue: 1,0:04:06.10,0:04:06.14,Signs,,0,0,0,,{=30=201}{\pos(654.97,576.13)\fscx99.47\fscy99.47\frz29.88\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
 Dialogue: 1,0:04:06.14,0:04:06.18,Signs,,0,0,0,,{=30=201}{\pos(655.17,575.94)\fscx99.34\fscy99.34\frz29.88\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
@@ -216,17 +216,17 @@ Dialogue: 1,0:04:08.26,0:04:08.31,Signs,,0,0,0,,{=30=189}{\pos(667.43,565.13)\fs
 Dialogue: 1,0:04:08.31,0:04:08.35,Signs,,0,0,0,,{=30=189}{\pos(667.46,565.09)\fscx90.89\fscy90.89\frz29.88\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
 Dialogue: 1,0:04:08.35,0:04:08.39,Signs,,0,0,0,,{=30=189}{\pos(667.48,565.06)\fscx90.87\fscy90.87\frz29.88\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
 Dialogue: 1,0:04:08.39,0:04:08.43,Signs,,0,0,0,,{=30=189}{\pos(667.49,565.05)\fscx90.87\fscy90.87\frz29.88\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
-Dialogue: 0,0:04:05.93,0:04:05.97,Signs,,0,0,0,,{=30=188}{\pos(764.6,740)\frz29.72\fnBangers\fs80\bord2.5\c&H06706D&\3c&H06706D&\blur0.7}STING
-Dialogue: 0,0:04:05.97,0:04:06.01,Signs,,0,0,0,,{=30=188}{\pos(764.65,739.63)\fscx99.87\fscy99.87\frz29.72\fnBangers\fs80\bord2.5\c&H06706D&\3c&H06706D&\blur0.7}STING
-Dialogue: 0,0:04:06.01,0:04:06.05,Signs,,0,0,0,,{=30=188}{\pos(764.7,739.28)\fscx99.75\fscy99.75\frz29.72\fnBangers\fs80\bord2.49\c&H06706D&\3c&H06706D&\blur0.7}STING
+Dialogue: 0,0:04:05.93,0:04:05.97,Signs,,0,0,0,,{=30=188}{\pos(764.6,740)\frz29.72\fnBangers\fs80\bord2.5\c&H06706D&\3c&H06706D&\1a&HFF&\3a&HA7&\blur0.7}STING
+Dialogue: 0,0:04:05.97,0:04:06.01,Signs,,0,0,0,,{=30=188}{\pos(764.65,739.63)\fscx99.87\fscy99.87\frz29.72\fnBangers\fs80\bord2.5\c&H06706D&\3c&H06706D&\1a&HFF&\3a&H6F&\blur0.7}STING
+Dialogue: 0,0:04:06.01,0:04:06.05,Signs,,0,0,0,,{=30=188}{\pos(764.7,739.28)\fscx99.75\fscy99.75\frz29.72\fnBangers\fs80\bord2.49\c&H06706D&\3c&H06706D&\1a&HFF&\3a&H37&\blur0.7}STING
 Dialogue: 0,0:04:06.05,0:04:06.10,Signs,,0,0,0,,{=30=188}{\pos(764.72,738.9)\fscx99.62\fscy99.62\frz29.72\fnBangers\fs80\bord2.49\c&H06706D&\3c&H06706D&\blur0.7}STING
 Dialogue: 0,0:04:06.10,0:04:06.14,Signs,,0,0,0,,{=30=188}{\pos(764.78,738.47)\fscx99.47\fscy99.47\frz29.72\fnBangers\fs80\bord2.49\c&H06706D&\3c&H06706D&\blur0.7}STING
 Dialogue: 0,0:04:06.14,0:04:06.18,Signs,,0,0,0,,{=30=188}{\pos(764.83,738.06)\fscx99.34\fscy99.34\frz29.72\fnBangers\fs80\bord2.48\c&H06706D&\3c&H06706D&\blur0.7}STING
 Dialogue: 0,0:04:06.18,0:04:06.22,Signs,,0,0,0,,{=30=188}{\pos(764.89,737.61)\fscx99.19\fscy99.19\frz29.72\fnBangers\fs80\bord2.48\c&H06706D&\3c&H06706D&\blur0.7}STING
 Dialogue: 0,0:04:06.22,0:04:06.26,Signs,,0,0,0,,{=30=188}{\pos(764.94,737.14)\fscx99.03\fscy99.03\frz29.72\fnBangers\fs80\bord2.48\c&H06706D&\3c&H06706D&\blur0.7}STING
-Dialogue: 1,0:04:05.93,0:04:05.97,Signs,,0,0,0,,{=30=187}{\pos(764.6,740)\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
-Dialogue: 1,0:04:05.97,0:04:06.01,Signs,,0,0,0,,{=30=187}{\pos(764.65,739.63)\fscx99.87\fscy99.87\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
-Dialogue: 1,0:04:06.01,0:04:06.05,Signs,,0,0,0,,{=30=187}{\pos(764.7,739.28)\fscx99.75\fscy99.75\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
+Dialogue: 1,0:04:05.93,0:04:05.97,Signs,,0,0,0,,{=30=187}{\pos(764.6,740)\frz29.72\fnBangers\fs80\c&H4FF8EF&\1a&HA7&\4a&HFF&\blur0.7}STING
+Dialogue: 1,0:04:05.97,0:04:06.01,Signs,,0,0,0,,{=30=187}{\pos(764.65,739.63)\fscx99.87\fscy99.87\frz29.72\fnBangers\fs80\c&H4FF8EF&\1a&H6F&\4a&HFF&\blur0.7}STING
+Dialogue: 1,0:04:06.01,0:04:06.05,Signs,,0,0,0,,{=30=187}{\pos(764.7,739.28)\fscx99.75\fscy99.75\frz29.72\fnBangers\fs80\c&H4FF8EF&\1a&H37&\4a&HFF&\blur0.7}STING
 Dialogue: 1,0:04:06.05,0:04:06.10,Signs,,0,0,0,,{=30=187}{\pos(764.72,738.9)\fscx99.62\fscy99.62\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
 Dialogue: 1,0:04:06.10,0:04:06.14,Signs,,0,0,0,,{=30=187}{\pos(764.78,738.47)\fscx99.47\fscy99.47\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
 Dialogue: 1,0:04:06.14,0:04:06.18,Signs,,0,0,0,,{=30=187}{\pos(764.83,738.06)\fscx99.34\fscy99.34\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
