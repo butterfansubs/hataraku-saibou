@@ -9,3 +9,17 @@
 !*.mscx
 !*.midicsv
 !*.csv
+
+# SubKt files
+!build.gradle.kts
+!gradle.properties
+!gradlew
+!gradlew.bat
+!settings.gradle.kts
+!sub.properties.sample
+!gradle/wrapper/*
+.gradle
+
+# Build targets and temporary files
+dist/
+build/
