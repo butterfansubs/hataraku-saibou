@@ -1,0 +1,29 @@
+## To use: copy this file and name it 'sub.properties'
+## Then edit this line to point to your fonts location
+## Windows paths should work with slashes: D:/path/to/fonts
+FONTSDIR=/path/to/fonts
+
+group=Butter ᎓v
+show=Cells at Work!!
+title=[${group}] ${show} - ${episode}
+episodes={01..12}
+
+showkey=Hataraku Saibou 2
+dialogue=${episode}/${showkey} - ${episode} (Dialogue).ass
+typesetting=${episode}/${showkey} - ${episode} (Signs*).ass
+OP=OP/OP.ass
+ED=ED/ED.ass
+# chapters=${episode}/${showkey}_${episode}_dialogue.ass
+
+premux=${episode}/${showkey} - ${episode} (Premux).mkv
+fonts=${FONTSDIR}/${episode}
+OPfonts=${FONTSDIR}/OP
+EDfonts=${FONTSDIR}/ED
+
+filebase=[${group}] ${show} - ${episode} [${mux.crc}]
+
+muxfile=dist/${filebase}.mkv
+
+01.opsync=0:00:58.06
+
+01.edsync=0:21:22.03
