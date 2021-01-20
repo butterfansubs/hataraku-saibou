@@ -34,7 +34,7 @@ Dialogue: 2,0:04:26.63,0:04:30.79,Signs - Infobox,dialogue overlap,0,0,0,,{=30}{
 Dialogue: 0,0:06:40.42,0:06:42.88,Signs - Infobox,,0,0,0,,{\pos(938,747)\bord2.5\blur1\p1}m -25 0 l 630 0 630 220 -25 220
 Dialogue: 1,0:06:40.42,0:06:42.88,Signs - Infobox,,0,0,0,,{\pos(938,747)\c&HFFFFFF&\4a&HFF&\blur1\p1}m -25 0 l 630 0 630 220 -25 220
 Dialogue: 2,0:06:40.42,0:06:42.88,Signs - Infobox,dialogue overlap,0,0,0,,{=30}{\pos(938,747)\b1\blur0.7}PLATELETS{\fs45\b0}\NWhen blood vessels sustain an injury, \Nthey gather to seal the site of the wound\Nand stop bleeding.
-Dialogue: 0,0:07:05.78,0:07:10.83,Signs - Infobox,,0,0,0,,{\pos(968,739)\bord2.5\1a&HFF&\blur1\fad(200,200)\t(155,200,\1a&H00&)\t(4130,4180,\1a&HFF&)\p1}m -25 0 l 518 0 518 175 -25 175
+Dialogue: 0,0:07:05.78,0:07:10.83,Signs - Infobox,,0,0,0,,{\pos(968,739)\bord2.5\1a&HFF&\blur1\fad(200,200)\t(155,200,\1a&H00&)\t(4850,4890,\1a&HFF&)\p1}m -25 0 l 518 0 518 175 -25 175
 Dialogue: 1,0:07:05.78,0:07:10.83,Signs - Infobox,,0,0,0,,{\pos(968,739)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,200)\p1}m -25 0 l 518 0 518 175 -25 175
 Dialogue: 2,0:07:05.78,0:07:10.83,Signs - Infobox,dialogue overlap,0,0,0,,{=30}{\pos(968,739)\b1\blur0.7\fad(200,200)}COAGULATION FACTOR{\fs45\b0}\NFactor required for the formation \Nof blood clots.
 Dialogue: 0,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{\pos(927,178)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(155,200,\1a&H00&)\p1}m -25 0 l 590 0 590 220 -25 220
