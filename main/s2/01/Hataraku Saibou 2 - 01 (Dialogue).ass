@@ -14,13 +14,12 @@ YCbCr Matrix: TV.709
 Last Style Storage: Default
 Audio File: ep01_raw.mkv
 Video File: ep01_raw.mkv
-Keyframes File: ep01_raw_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 36
-Active Line: 68
-Video Position: 9129
+Scroll Position: 75
+Active Line: 82
+Video Position: 10336
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,8 +64,8 @@ Dialogue: 10,0:04:15.27,0:04:18.86,Default,,0,0,0,,Y-Your face is all scraped up
 Dialogue: 10,0:04:20.60,0:04:22.41,Default,,0,0,0,,Alrighty.
 Dialogue: 10,0:04:22.41,0:04:25.02,Default,,0,0,0,,Hey, if it isn't Red Blood Cell!
 Dialogue: 10,0:04:25.02,0:04:26.33,Default,,0,0,0,,Hey! I know you!
-Dialogue: 10,0:04:27.11,0:04:29.49,Default,,0,0,0,,You're White Blood Cell's friend!
-Dialogue: 10,0:04:29.49,0:04:30.79,Default,,0,0,0,,Hey there!
+Dialogue: 10,0:04:27.11,0:04:29.49,Default,,0,0,0,,{\an8}You're White Blood Cell's friend!
+Dialogue: 10,0:04:29.49,0:04:30.79,Default,,0,0,0,,{\an8}Hey there!
 Dialogue: 10,0:04:31.58,0:04:35.80,Default,,0,0,0,,Listen, I hope you don't mind my asking, but have you seen 1146?
 Dialogue: 10,0:04:35.80,0:04:38.52,Default,,0,0,0,,Now that you mention it, I haven't seen him in a while.
 Dialogue: 10,0:04:38.52,0:04:39.76,Default,,0,0,0,,Are you looking for him?
@@ -109,8 +108,8 @@ Dialogue: 10,0:06:54.60,0:06:57.02,Default,,0,0,0,,Oh, no, that's all right!
 Dialogue: 10,0:06:57.02,0:07:01.57,Default,,0,0,0,,The thing is, I'm training to become a stronger platelet right now.
 Dialogue: 10,0:07:01.57,0:07:04.12,Default,,0,0,0,,I can't put this down under any circumstances!
 Dialogue: 10,0:07:04.12,0:07:05.78,Default,,0,0,0,,Huh? Training?
-Dialogue: 10,0:07:05.78,0:07:09.12,Default,,0,0,0,,Would you mind tossing that coagulation factor my way, please?
-Dialogue: 10,0:07:09.12,0:07:10.45,Default,,0,0,0,,So I can catch it!
+Dialogue: 10,0:07:05.78,0:07:09.12,Default,,0,660,0,,Would you mind tossing that\N coagulation factor my way, please?
+Dialogue: 10,0:07:09.12,0:07:10.45,Default,,0,660,0,,So I can catch it!
 Dialogue: 10,0:07:10.45,0:07:13.25,Default,,0,0,0,,Uh, sure. I don't mind at all.
 Dialogue: 10,0:07:13.25,0:07:14.70,Default,,0,0,0,,Can you handle it?
 Dialogue: 10,0:07:14.70,0:07:15.96,Default,,0,0,0,,Thank you so much!
@@ -209,8 +208,8 @@ Dialogue: 10,0:11:59.50,0:12:01.49,Default,,0,0,0,,This means that there's no wo
 Dialogue: 10,0:12:01.83,0:12:03.91,Default,,0,0,0,,And this is the head area!
 Dialogue: 10,0:12:03.91,0:12:05.29,Default,,0,0,0,,So, this must be...
 Dialogue: 10,0:12:05.29,0:12:06.71,Default,,0,0,0,,...a bump, then?
-Dialogue: 10,0:12:07.46,0:12:08.87,Default,,0,0,0,,Bumps.
-Dialogue: 10,0:12:08.87,0:12:15.67,Default,,0,0,0,,Lump-like protrusions caused by\N swelling and bleeding on the outer skull.
+Dialogue: 10,0:12:07.46,0:12:08.87,Default,,0,0,0,,{\an8}Bumps.
+Dialogue: 10,0:12:08.87,0:12:15.67,Default,,0,0,0,,{\an8}Lump-like protrusions caused by\N swelling and bleeding on the outer skull.
 Dialogue: 10,0:12:21.41,0:12:23.85,Default,,0,0,0,,Internal bleeding's still bleeding...
 Dialogue: 10,0:12:24.75,0:12:27.56,Default,,0,0,0,,Looks like it's time for me to step up!
 Dialogue: 10,0:12:27.56,0:12:29.69,Default,,0,0,0,,That's what I like to hear!
