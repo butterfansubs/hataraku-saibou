@@ -31,6 +31,8 @@ subs {
                 syncTargetTime(getAs<Duration>("edsync"))
             }
         }
+
+        out(get("mergefile"))
     }
 
     // chapters {

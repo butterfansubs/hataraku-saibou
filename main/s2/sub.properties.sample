@@ -22,9 +22,10 @@ fonts=${FONTSDIR}/${episode}
 OPfonts=${FONTSDIR}/OP
 EDfonts=${FONTSDIR}/ED
 
-filebase=[${group}] ${showjpn} (${showeng}) - ${episode} [${mux.crc}]
+filebase=[${group}] ${showjpn} (${showeng}) - ${episode}
 
-muxfile=dist/${filebase}.mkv
+mergefile=dist/${filebase}.ass
+muxfile=dist/${filebase} [${mux.crc}].mkv
 
 01.opsync=0:00:58.06
 
