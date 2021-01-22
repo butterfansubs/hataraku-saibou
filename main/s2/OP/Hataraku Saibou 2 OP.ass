@@ -20,14 +20,8 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Kirinashi,63,&H00FFFFFF,&H00FFFFFF,&H00000000,&H87000000,-1,0,0,0,100,100,0,0,1,3,1.25,2,138,138,50,1
-Style: Default-Alt,Kirinashi,63,&H00FFFFFF,&H00FFFFFF,&H00743E15,&HCC000000,-1,0,0,0,100,100,0,0,1,3,1.25,2,138,138,50,1
-Style: Signs,Arial,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,0,1
-Style: Signs - Infobox,PT Sans,50,&H00000000,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
 Style: OP Romaji,respublica,58,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,40,40,40,1
 Style: OP Lyrics,ResPublica,58,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,40,40,40,1
-Style: ED Romaji,Handgley,58,&H00FAF8FA,&H000000FF,&H00000000,&H004B4B4B,0,0,0,0,100,100,0,0,1,1.8,3.8,8,40,40,40,1
-Style: ED Lyrics,Handgley,58,&H00FAF8FA,&H000000FF,&H00000000,&H004B4B4B,0,0,0,0,100,100,0,0,1,1.5,3.8,2,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
