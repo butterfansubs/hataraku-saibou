@@ -336,7 +336,7 @@ Dialogue: 1,0:04:08.26,0:04:08.31,Signs,,0,0,0,,{=30=175}{\pos(767.79,713.5)\fsc
 Dialogue: 1,0:04:08.31,0:04:08.35,Signs,,0,0,0,,{=30=175}{\pos(767.81,713.42)\fscx90.89\fscy90.89\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
 Dialogue: 1,0:04:08.35,0:04:08.39,Signs,,0,0,0,,{=30=175}{\pos(767.81,713.37)\fscx90.87\fscy90.87\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
 Dialogue: 1,0:04:08.39,0:04:08.43,Signs,,0,0,0,,{=30=175}{\pos(767.81,713.36)\fscx90.87\fscy90.87\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
-Comment: 0,0:05:06.87,0:05:10.58,Signs,TODO,0,0,0,,# GERM SOUP #
+Comment: 0,0:05:06.87,0:05:10.58,Signs,,0,0,0,,# Germ Soup #
 Dialogue: 0,0:05:06.86,0:05:06.91,Signs,,0,0,0,,{=30=212}{\pos(840.6,680.8)\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
 Dialogue: 0,0:05:06.91,0:05:06.95,Signs,,0,0,0,,{=30=212}{\pos(840.34,680.78)\fscx100.19\fscy100.19\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
 Dialogue: 0,0:05:06.95,0:05:06.99,Signs,,0,0,0,,{=30=212}{\pos(840.15,680.72)\fscx100.33\fscy100.33\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
@@ -1081,7 +1081,7 @@ Dialogue: 2,0:08:20.22,0:08:20.27,Signs,,0,0,0,,{=18=73}{\pos(540.97,331.47)\fsc
 Dialogue: 2,0:08:20.27,0:08:20.31,Signs,,0,0,0,,{=18=73}{\pos(540.18,331.22)\fscx159.27\fscy159.27\frz13.86\fry15\frx10\fnFOT-PopJoy Std B\fs140\b1\c&H76FFFF&\4a&HFF&\blur0.8\fade(255,0,255,-1050,-1000,-380,70)}PLOP
 Dialogue: 2,0:08:20.31,0:08:20.35,Signs,,0,0,0,,{=18=73}{\pos(540.39,331.37)\fscx159.19\fscy159.19\frz13.86\fry15\frx10\fnFOT-PopJoy Std B\fs140\b1\c&H76FFFF&\4a&HFF&\blur0.8\fade(255,0,255,-1090,-1040,-420,30)}PLOP
 Comment: 0,0:08:51.84,0:09:02.23,Signs,skip?,0,0,0,,# Platelet hats #
-Comment: 0,0:08:55.77,0:08:57.60,Signs,TODO,0,0,0,,# SNACK #
+Comment: 0,0:08:55.77,0:08:57.60,Signs,skip,0,0,0,,# SNACK #
 Comment: 0,0:09:27.59,0:09:27.59,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:09:27.59,0:09:27.63,Signs,,0,0,0,,{\pos(1184.4,320.9)\frz15.6\fnHandwritten Crystal v2\fs40\bord2.5\c&H611F02&\3c&H611F02&\alpha&HEB&\blur0.6}T
 Dialogue: 1,0:09:27.59,0:09:27.63,Signs,,0,0,0,,{\pos(1184.4,320.9)\frz15.6\fnHandwritten Crystal v2\fs40\c&HD27B20&\alpha&HEB&\4a&HFF&\blur0.6}T
