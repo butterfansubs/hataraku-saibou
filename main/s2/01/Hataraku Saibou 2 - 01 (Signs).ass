@@ -37,9 +37,9 @@ Dialogue: 2,0:06:40.42,0:06:42.88,Signs - Infobox,dialogue overlap,0,0,0,,{=30}{
 Dialogue: 0,0:07:05.78,0:07:10.83,Signs - Infobox,,0,0,0,,{\pos(968,739)\bord2.5\1a&HFF&\blur1\fad(200,200)\t(155,200,\1a&H00&)\t(4850,4890,\1a&HFF&)\p1}m -25 0 l 518 0 518 175 -25 175
 Dialogue: 1,0:07:05.78,0:07:10.83,Signs - Infobox,,0,0,0,,{\pos(968,739)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,200)\p1}m -25 0 l 518 0 518 175 -25 175
 Dialogue: 2,0:07:05.78,0:07:10.83,Signs - Infobox,dialogue overlap,0,0,0,,{=30}{\pos(968,739)\b1\blur0.7\fad(200,200)}COAGULATION FACTOR{\fs45\b0}\NFactor required for the formation \Nof blood clots.
-Dialogue: 0,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{\pos(927,178)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(155,200,\1a&H00&)\p1}m -25 0 l 590 0 590 220 -25 220
-Dialogue: 1,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{\pos(927,178)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -25 0 l 590 0 590 220 -25 220
-Dialogue: 2,0:08:12.06,0:08:18.14,Signs - Infobox,TODO,0,0,0,,{=30}{\pos(927,178)\b1\blur0.7\fad(200,0)}PRIMARY BLOOD CLOTTING{\fs45\b0}\NThe aggregation and clumping together of \Nplatelets during blood clot formation. \NPlatelets adhere to and accumulate \Nunderneath the vascular endothelial cells.
+Dialogue: 0,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{=30}{\bord2.5\blur1\fad(200,0)\1a&HFF&\t(160,200,\1a&H00&)\p1\pos(883,178)}m -25 0 l 661 0 661 265 -25 265
+Dialogue: 1,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{=30}{\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1\pos(883,178)}m -25 0 l 661 0 661 265 -25 265
+Dialogue: 2,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{=30}{\b1\blur0.7\fad(200,0)\pos(883,178)}PRIMARY HEMOSTASIS{\fs45\b0}\NThe aggregation and clumping together of \Nplatelets during blood clot formation. \NPlatelets adhere to and accumulate \Nunderneath the vascular endothelial cells.
 Dialogue: 0,0:12:06.63,0:12:15.67,Signs - Infobox,,0,0,0,,{\pos(97,771)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(155,200,\1a&H00&)\p1}m -25 0 l 635 0 635 175 -25 175
 Dialogue: 1,0:12:06.63,0:12:15.67,Signs - Infobox,,0,0,0,,{\pos(97,771)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -25 0 l 635 0 635 175 -25 175
 Dialogue: 2,0:12:06.63,0:12:15.67,Signs - Infobox,dialogue overlap,0,0,0,,{=30}{\pos(97,771)\b1\blur0.7\fad(200,0)}BUMPS{\fs45\b0}\NLump-like protrusions caused by\N swelling and bleeding on the outer skull.
