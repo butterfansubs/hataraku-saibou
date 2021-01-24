@@ -5176,7 +5176,21 @@ Dialogue: 1,0:15:07.38,0:15:07.42,Signs,,0,0,0,,{=18=101}{\pos(539.73,121.5)\fsc
 Dialogue: 1,0:15:07.42,0:15:07.46,Signs,,0,0,0,,{=18=101}{\pos(539.96,121.71)\fscx100.1\fscy100.1\frz10.65\fnHandy candy\fs83\c&H81FAF8&\4a&HFF&\blur0.8}BONK
 Dialogue: 1,0:15:07.46,0:15:07.51,Signs,,0,0,0,,{=18=101}{\pos(540.18,121.93)\fscx100.04\fscy100.04\frz10.64\fnHandy candy\fs83\c&H81FAF8&\4a&HFF&\blur0.8}BONK
 Dialogue: 1,0:15:07.51,0:15:07.55,Signs,,0,0,0,,{=18=101}{\pos(540.36,122.14)\frz10.64\fnHandy candy\fs83\c&H81FAF8&\4a&HFF&\blur0.8}BONK
-Comment: 0,0:15:14.69,0:15:15.56,Signs,probably only unskipped hat here,0,0,0,,# MEGAKARYOCYTE #
+Comment: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,# Megakaryocyte Hat #
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=215}{\fnKaimin Sora Web\fs145\b900\frz19.499\c&H1D1B17&\pos(313.38,265.34)\blur0.8\fax-0.36}M
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz16.219\c&H1D1B17&\pos(398.59,238.35)\blur0.8\fax-0.3}E
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz13.932\c&H1D1B17&\pos(476.25,217.25)\blur0.8\fax-0.26}G
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz9.984\c&H1D1B17&\pos(560.83,199.52)\blur0.8\fax-0.18}A
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz7.05\c&H1D1B17&\pos(642.49,186.93)\blur0.8\fax-0.13}K
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz2.312\c&H1D1B17&\pos(724.89,180.89)\blur0.8\fax-0.05}A
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-0.994\c&H1D1B17&\pos(805.9,179.56)\blur0.8\fax0.01}R
+Dialogue: 1,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-0.994\c&H2D2D2B&\pos(805.9,179.56)\blur0.8\fax0.01\clip(m 826.97 151.82 l 827.79 233.63 826.11 232.79 825.26 150.7)}R
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-6.023\c&H1D1B17&\pos(882.99,184.78)\blur0.8\fax0.1}Y
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-9.334\c&H1D1B17&\pos(966.17,195.06)\blur0.8\fax0.16}O
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-12.55\c&H1D1B17&\pos(1051.31,211.12)\blur0.8\fax0.21}C
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-15.628\c&H1D1B17&\pos(1128.71,230.9)\blur0.8\fax0.27}Y
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-18.538\c&H1D1B17&\pos(1204.25,254.73)\blur0.8\fax0.33}T
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-21.258\c&H1D1B17&\pos(1276.52,281.22)\blur0.8\fax0.38}E
 Comment: 0,0:16:30.80,0:16:33.76,Signs,,0,0,0,,# Megakaryocyte sfx #
 Dialogue: 0,0:16:30.80,0:16:33.76,Signs,,0,0,0,,{=18}{\move(988,408.24,1038,408.24,0,170)\fnBangers\fs246\bord12\c&H37241E&\3c&H37241E&\1a&HFF&\blur0.8\fad(170,0)\t(50,210,\3c&H141413&\c&H141413&)\t(125,170,\1a&H00&)}W
 Dialogue: 1,0:16:30.80,0:16:33.76,Signs,,0,0,0,,{=18}{\move(988,408.24,1038,408.24,0,170)\fnBangers\fs246\c&H935D58&\4a&HFF&\blur0.8\fad(170,0)}W
@@ -5786,3 +5800,5 @@ Data: 201,a-mo,e{"uuid"#3A"4ffdbcf2-439b-45f2-a3de-8ed30eab900d"#2C"originalText
 Data: 202,a-mo,e{"uuid"#3A"8d946058-5f1c-4681-a2d7-e2b43966db78"#2C"originalText"#3A"{\\frz29.88\\bord2.5\\blur0.7\\3c&H06706D&\\c&H06706D&\\pos(654.2#2C576.8)\\fs80\\fnBangers}STING"}
 Data: 211,a-mo,e{"uuid"#3A"a648f0c6-b2cd-44af-baa8-05f4852ac594"#2C"originalText"#3A"{\\blur0.7\\c&H080E0D&\\fnAR Xingkaibei Web\\b1\\fs70\\frz36.67\\fax-0.38\\pos(1055.3#2C601.8)}S{\\fax-0.38}o{\\fax-0.39}u{\\fax-0.39}p"}
 Data: 212,a-mo,e{"uuid"#3A"30ad1897-2e81-40a5-8230-08d043e74086"#2C"originalText"#3A"{\\blur0.7\\c&H080E0D&\\fnAR Xingkaibei Web\\b1\\fs70\\pos(840.6#2C680.8)\\frz10.61\\fax0.25}G{\\fax0.21}e{\\fax0.17}r{\\fax0.13}m"}
+Data: 215,l0.MoveAlongPath,e{"orgLine"#3A"{\\fnKaimin Sora Web\\fs145\\b900\\c&H0A0807&\\pos(800#2C265.2)\\clip(m 263.33 182.67 b 608 55.33 925.33 18 1380 224)}MEGAKARYOCYTE"#2C"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"f9ea1123-1167-4df9-affb-e2ab52efd25c"}
+Data: 216,l0.MoveAlongPath,e{"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"f9ea1123-1167-4df9-affb-e2ab52efd25c"}
