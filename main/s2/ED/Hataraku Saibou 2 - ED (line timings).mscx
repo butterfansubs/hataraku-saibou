@@ -134,7 +134,8 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"/>
+          <controller ctrl="32" value="17"/>
+          <program value="79"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -263,10 +264,19 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
+          <Chord>
+            <durationType>whole</durationType>
+            <Lyrics>
+              <text>()</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <small>1</small>
+              <velocity>1</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -1004,9 +1014,19 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
+          <Chord>
             <durationType>half</durationType>
-            </Rest>
+            <Lyrics>
+              <text>()</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <small>1</small>
+              <velocity>1</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -1044,9 +1064,19 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
+          <Chord>
             <durationType>half</durationType>
-            </Rest>
+            <Lyrics>
+              <text>()</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <small>1</small>
+              <velocity>1</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -1084,9 +1114,19 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
+          <Chord>
             <durationType>half</durationType>
-            </Rest>
+            <Lyrics>
+              <text>()</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <small>1</small>
+              <velocity>1</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -1124,9 +1164,19 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
+          <Chord>
             <durationType>half</durationType>
-            </Rest>
+            <Lyrics>
+              <text>()</text>
+              </Lyrics>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <small>1</small>
+              <velocity>1</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
