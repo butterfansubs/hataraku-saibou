@@ -12,9 +12,8 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Cells at Work Season Two
-Audio File: ep01_raw_v2.mkv
-Video File: ep01_raw_v2.mkv
-Keyframes File: ep01_raw_v2_keyframes.txt
+Audio File: ../01/Hataraku Saibou 2 - 01 (Premux).mkv
+Video File: ../01/Hataraku Saibou 2 - 01 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -28,177 +27,240 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta ================================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/hataraku-saibou
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== OP ============================
-Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,code once,ln = _G.require 'ln.kara'; ln.init(tenv)
-Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,code once,TAGS = {"\\bord1.9\\shad2.7\\blur1\\3c&H000000&\\b1", "\\bord2.5", "\\c&H122BE9&\\blur0.2"}
-Comment: 0,0:00:58.03,0:00:58.03,OP Romaji,,0,0,0,template line loop 3,!relayer(j-1)!{!ln.line.tag({"fad","an"})!!TAGS[j]!}
-Comment: 0,0:00:58.03,0:00:58.03,OP Lyrics,,0,0,0,template line loop 3,!relayer(j-1)!{!ln.line.tag({"fad","an"})!!TAGS[j]!}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,color = require '0x.color'
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,bg = false
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function is_background() return bg end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function detect_bg() if char.text == '(' then bg = true; end; end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function detect_fg() if char.text == ')' then bg = false; end; end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,RBC_RED = "&H1B39E8&"; WBC_WHITE = "&HFBFDFD&"; PLATELET_BLUE = "&HF6EABC&"; MACROPHAGE_BROWN = "&HB9D4EE&"
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,BG_COLS = {PLATELET_BLUE, MACROPHAGE_BROWN}; FG_COLS = {RBC_RED, WBC_WHITE}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function grad_pair(i) if is_background() then return BG_COLS[i % (#BG_COLS)+1]; else return FG_COLS[i % (#FG_COLS) + 1]; end end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function make_colors(len) local t = {}; for i=0,len/8 do table.insert(t,grad_pair(i)); end; return t; end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function char_t() local cs = line.chars; return (char.center - cs[1].center)/(cs[#cs].center - cs[1].center); end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function get_color(colors) local t = char_t() * (#colors - 1) local n = math.ceil(t) if t == 0 then return colors[1] else return color.interp_rgb(t - n + 1, colors[n], colors[n+1]) end end
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,template line anystyle loop layer 4,!relayer($loop_layer-1)!{!ln.line.tag({"fad","an"})!}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 0,{\blur15\bord6\3a&H50&}
+Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 1,{\bord1.9\shad2.7\blur1\3c&H000000&\b1}
+Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 2,{\bord2.5}
+Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 3,{\c&H122BE9&\blur0.2}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 0 actor rbc,{\3c&H1B39E8&}
+Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 0 actor wbc,{\3c&HFBFDFD&}
+Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin char anystyle noblank layer 0 actor both,{!detect_bg()!\3c!get_color(make_colors(#line.chars))!!detect_fg()!}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,,{OP Starts here in Episode 01}
-Comment: 0,0:00:59.06,0:01:02.01,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Comment: 0,0:01:04.25,0:01:07.00,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Comment: 0,0:01:09.79,0:01:14.46,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}donna mainichi mo sutaato wo kitta nara
-Comment: 0,0:01:14.46,0:01:17.61,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an7\bord1.9\shad2.7\blur1\3c&H000000&\b1}tekipaki patapata tada hashiru dake sa
-Comment: 0,0:01:20.18,0:01:24.81,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}sainan kara hikan saikou no seika wa
-Comment: 0,0:01:24.81,0:01:28.63,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}boroboro yogoreta manma hitoiki tiitaimu
-Comment: 0,0:01:29.26,0:01:34.44,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an7\bord1.9\shad2.7\blur1\3c&H000000&\b1}otsukaresama wo kurikaeshite
-Comment: 0,0:01:34.74,0:01:40.53,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an9\bord1.9\shad2.7\blur1\3c&H000000&\b1}mata guuzen kimi ni aitai (aitai, aitai, aitai)
-Comment: 0,0:01:40.53,0:01:42.57,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}motto tsuyoku naru kara
-Comment: 0,0:01:43.82,0:01:48.29,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}kyou mo nani ga attate (nani ga attate)
-Comment: 0,0:01:48.29,0:01:50.69,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}hatarakunda tte (hatarakunda tte)
-Comment: 0,0:01:50.82,0:01:53.27,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna de (so!) ganbare (so!)
-Comment: 0,0:01:53.42,0:01:56.08,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}ashita no heiwa danpu genshu
-Comment: 0,0:01:56.08,0:01:58.75,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}shinjita michi (shinjita michi)
-Comment: 0,0:01:58.75,0:02:00.95,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}tsukisusunde ike (tsukisusunde ike)
-Comment: 0,0:02:01.18,0:02:03.64,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an9\bord1.9\shad2.7\blur1\3c&H000000&\b1}hitori ja nai shinase wo shinai
-Comment: 0,0:02:03.83,0:02:06.48,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an9\bord1.9\shad2.7\blur1\3c&H000000&\b1}mirakuru shuudan sensu akutowaaku
-Comment: 0,0:02:06.48,0:02:09.11,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna no shi datte hitotsu no shigoto
-Comment: 0,0:02:09.11,0:02:11.78,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna atsumatte hitotsu no shigoto
-Comment: 0,0:02:11.78,0:02:17.33,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}saibou festa hataraku saibou
-Comment: 0,0:02:17.33,0:02:19.80,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou (go, go, go!)
-Comment: 0,0:02:19.80,0:02:22.65,OP Romaji,,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou
-Comment: 0,0:01:09.79,0:01:14.46,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}donna mainichi mo sutaato wo kitta nara
-Comment: 0,0:01:14.46,0:01:17.61,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an3\bord1.9\shad2.7\blur1\3c&H000000&\b1}tekipaki patapata tada hashiru dake sa
-Comment: 0,0:01:20.18,0:01:24.81,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}sainan kara hikan saikou no seika wa
-Comment: 0,0:01:24.81,0:01:28.63,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}boroboro yogoreta manma hitoiki tiitaimu
-Comment: 0,0:01:29.26,0:01:34.44,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an3\bord1.9\shad2.7\blur1\3c&H000000&\b1}otsukaresama wo kurikaeshite
-Comment: 0,0:01:34.74,0:01:40.53,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}mata guuzen kimi ni aitai (aitai, aitai, aitai)
-Comment: 0,0:01:40.53,0:01:42.57,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}motto tsuyoku naru kara
-Comment: 0,0:01:43.82,0:01:48.29,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}kyou mo nani ga attate (nani ga attate)
-Comment: 0,0:01:48.29,0:01:50.69,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}hatarakunda tte (hatarakunda tte)
-Comment: 0,0:01:50.82,0:01:53.27,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna de (so!) ganbare (so!)
-Comment: 0,0:01:53.42,0:01:56.08,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}ashita no heiwa danpu genshu
-Comment: 0,0:01:56.08,0:01:58.75,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}shinjita michi (shinjita michi)
-Comment: 0,0:01:58.75,0:02:00.95,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}tsukisusunde ike (tsukisusunde ike)
-Comment: 0,0:02:01.18,0:02:03.64,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}hitori ja nai shinase wo shinai
-Comment: 0,0:02:03.83,0:02:06.48,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}mirakuru shuudan sensu akutowaaku
-Comment: 0,0:02:06.48,0:02:09.11,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna no shi datte hitotsu no shigoto
-Comment: 0,0:02:09.11,0:02:11.78,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna atsumatte hitotsu no shigoto
-Comment: 0,0:02:11.78,0:02:17.33,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}saibou festa hataraku saibou
-Comment: 0,0:02:17.33,0:02:19.80,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou (go, go, go!)
-Comment: 0,0:02:19.80,0:02:22.65,OP Lyrics,,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou
+Comment: 0,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
+Comment: 0,0:01:04.25,0:01:07.00,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
+Comment: 0,0:01:09.79,0:01:14.46,OP Romaji,rbc,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}donna mainichi mo sutaato wo kitta nara
+Comment: 0,0:01:14.46,0:01:17.61,OP Romaji,rbc,0,0,0,karaoke,{\fad(200,200)\an7\bord1.9\shad2.7\blur1\3c&H000000&\b1}tekipaki patapata tada hashiru dake sa
+Comment: 0,0:01:20.18,0:01:24.81,OP Romaji,wbc,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}sainan kara hikan saikou no seika wa
+Comment: 0,0:01:24.81,0:01:28.63,OP Romaji,wbc,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}boroboro yogoreta manma hitoiki tiitaimu
+Comment: 0,0:01:29.26,0:01:34.44,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an7\bord1.9\shad2.7\blur1\3c&H000000&\b1}otsukaresama wo kurikaeshite
+Comment: 0,0:01:34.74,0:01:40.53,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an9\bord1.9\shad2.7\blur1\3c&H000000&\b1}mata guuzen kimi ni aitai (aitai, aitai, aitai)
+Comment: 0,0:01:40.53,0:01:42.57,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}motto tsuyoku naru kara
+Comment: 0,0:01:43.82,0:01:48.29,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}kyou mo nani ga attate (nani ga attate)
+Comment: 0,0:01:48.29,0:01:50.69,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}hatarakunda tte (hatarakunda tte)
+Comment: 0,0:01:50.82,0:01:53.27,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna de (so!) ganbare (so!)
+Comment: 0,0:01:53.42,0:01:56.08,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}ashita no heiwa danpu genshu
+Comment: 0,0:01:56.08,0:01:58.75,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}shinjita michi (shinjita michi)
+Comment: 0,0:01:58.75,0:02:00.95,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}tsukisusunde ike (tsukisusunde ike)
+Comment: 0,0:02:01.18,0:02:03.64,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an9\bord1.9\shad2.7\blur1\3c&H000000&\b1}hitori ja nai shinase wo shinai
+Comment: 0,0:02:03.83,0:02:06.48,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an9\bord1.9\shad2.7\blur1\3c&H000000&\b1}mirakuru shuudan sensu akutowaaku
+Comment: 0,0:02:06.48,0:02:09.11,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna no shi datte hitotsu no shigoto
+Comment: 0,0:02:09.11,0:02:11.78,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna atsumatte hitotsu no shigoto
+Comment: 0,0:02:11.78,0:02:17.33,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}saibou festa hataraku saibou
+Comment: 0,0:02:17.33,0:02:19.80,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou (go, go, go!)
+Comment: 0,0:02:19.80,0:02:22.65,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou
+Comment: 0,0:01:09.79,0:01:14.46,OP Lyrics,rbc,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}donna mainichi mo sutaato wo kitta nara
+Comment: 0,0:01:14.46,0:01:17.61,OP Lyrics,rbc,0,0,0,karaoke,{\fad(200,200)\an3\bord1.9\shad2.7\blur1\3c&H000000&\b1}tekipaki patapata tada hashiru dake sa
+Comment: 0,0:01:20.18,0:01:24.81,OP Lyrics,wbc,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}sainan kara hikan saikou no seika wa
+Comment: 0,0:01:24.81,0:01:28.63,OP Lyrics,wbc,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}boroboro yogoreta manma hitoiki tiitaimu
+Comment: 0,0:01:29.26,0:01:34.44,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an3\bord1.9\shad2.7\blur1\3c&H000000&\b1}otsukaresama wo kurikaeshite
+Comment: 0,0:01:34.74,0:01:40.53,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}mata guuzen kimi ni aitai (aitai, aitai, aitai)
+Comment: 0,0:01:40.53,0:01:42.57,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}motto tsuyoku naru kara
+Comment: 0,0:01:43.82,0:01:48.29,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}kyou mo nani ga attate (nani ga attate)
+Comment: 0,0:01:48.29,0:01:50.69,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}hatarakunda tte (hatarakunda tte)
+Comment: 0,0:01:50.82,0:01:53.27,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna de (so!) ganbare (so!)
+Comment: 0,0:01:53.42,0:01:56.08,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}ashita no heiwa danpu genshu
+Comment: 0,0:01:56.08,0:01:58.75,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}shinjita michi (shinjita michi)
+Comment: 0,0:01:58.75,0:02:00.95,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}tsukisusunde ike (tsukisusunde ike)
+Comment: 0,0:02:01.18,0:02:03.64,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}hitori ja nai shinase wo shinai
+Comment: 0,0:02:03.83,0:02:06.48,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}mirakuru shuudan sensu akutowaaku
+Comment: 0,0:02:06.48,0:02:09.11,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna no shi datte hitotsu no shigoto
+Comment: 0,0:02:09.11,0:02:11.78,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna atsumatte hitotsu no shigoto
+Comment: 0,0:02:11.78,0:02:17.33,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}saibou festa hataraku saibou
+Comment: 0,0:02:17.33,0:02:19.80,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou (go, go, go!)
+Comment: 0,0:02:19.80,0:02:22.65,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou
 Comment: 0,0:02:28.00,0:02:28.00,Default,,0,0,0,,{OP Ends here}
-Dialogue: 0,0:00:59.06,0:01:02.01,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Dialogue: 1,0:00:59.06,0:01:02.01,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Dialogue: 2,0:00:59.06,0:01:02.01,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Dialogue: 0,0:01:04.25,0:01:07.00,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Dialogue: 1,0:01:04.25,0:01:07.00,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Dialogue: 2,0:01:04.25,0:01:07.00,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Dialogue: 0,0:01:09.79,0:01:14.46,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}donna mainichi mo sutaato wo kitta nara
-Dialogue: 1,0:01:09.79,0:01:14.46,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}donna mainichi mo sutaato wo kitta nara
-Dialogue: 2,0:01:09.79,0:01:14.46,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}donna mainichi mo sutaato wo kitta nara
-Dialogue: 0,0:01:09.79,0:01:14.46,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}donna mainichi mo sutaato wo kitta nara
-Dialogue: 1,0:01:09.79,0:01:14.46,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}donna mainichi mo sutaato wo kitta nara
-Dialogue: 2,0:01:09.79,0:01:14.46,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}donna mainichi mo sutaato wo kitta nara
-Dialogue: 0,0:01:14.46,0:01:17.61,OP Romaji,,0,0,0,fx,{\fad(200,200)\an7\bord1.9\shad2.7\blur1\3c&H000000&\b1}tekipaki patapata tada hashiru dake sa
-Dialogue: 1,0:01:14.46,0:01:17.61,OP Romaji,,0,0,0,fx,{\fad(200,200)\an7\bord2.5}tekipaki patapata tada hashiru dake sa
-Dialogue: 2,0:01:14.46,0:01:17.61,OP Romaji,,0,0,0,fx,{\fad(200,200)\an7\c&H122BE9&\blur0.2}tekipaki patapata tada hashiru dake sa
-Dialogue: 0,0:01:14.46,0:01:17.61,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an3\bord1.9\shad2.7\blur1\3c&H000000&\b1}tekipaki patapata tada hashiru dake sa
-Dialogue: 1,0:01:14.46,0:01:17.61,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an3\bord2.5}tekipaki patapata tada hashiru dake sa
-Dialogue: 2,0:01:14.46,0:01:17.61,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an3\c&H122BE9&\blur0.2}tekipaki patapata tada hashiru dake sa
-Dialogue: 0,0:01:20.18,0:01:24.81,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}sainan kara hikan saikou no seika wa
-Dialogue: 1,0:01:20.18,0:01:24.81,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}sainan kara hikan saikou no seika wa
-Dialogue: 2,0:01:20.18,0:01:24.81,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}sainan kara hikan saikou no seika wa
-Dialogue: 0,0:01:20.18,0:01:24.81,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}sainan kara hikan saikou no seika wa
-Dialogue: 1,0:01:20.18,0:01:24.81,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}sainan kara hikan saikou no seika wa
-Dialogue: 2,0:01:20.18,0:01:24.81,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}sainan kara hikan saikou no seika wa
-Dialogue: 0,0:01:24.81,0:01:28.63,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}boroboro yogoreta manma hitoiki tiitaimu
-Dialogue: 1,0:01:24.81,0:01:28.63,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}boroboro yogoreta manma hitoiki tiitaimu
-Dialogue: 2,0:01:24.81,0:01:28.63,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}boroboro yogoreta manma hitoiki tiitaimu
-Dialogue: 0,0:01:24.81,0:01:28.63,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}boroboro yogoreta manma hitoiki tiitaimu
-Dialogue: 1,0:01:24.81,0:01:28.63,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}boroboro yogoreta manma hitoiki tiitaimu
-Dialogue: 2,0:01:24.81,0:01:28.63,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}boroboro yogoreta manma hitoiki tiitaimu
-Dialogue: 0,0:01:29.26,0:01:34.44,OP Romaji,,0,0,0,fx,{\fad(200,200)\an7\bord1.9\shad2.7\blur1\3c&H000000&\b1}otsukaresama wo kurikaeshite
-Dialogue: 1,0:01:29.26,0:01:34.44,OP Romaji,,0,0,0,fx,{\fad(200,200)\an7\bord2.5}otsukaresama wo kurikaeshite
-Dialogue: 2,0:01:29.26,0:01:34.44,OP Romaji,,0,0,0,fx,{\fad(200,200)\an7\c&H122BE9&\blur0.2}otsukaresama wo kurikaeshite
-Dialogue: 0,0:01:29.26,0:01:34.44,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an3\bord1.9\shad2.7\blur1\3c&H000000&\b1}otsukaresama wo kurikaeshite
-Dialogue: 1,0:01:29.26,0:01:34.44,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an3\bord2.5}otsukaresama wo kurikaeshite
-Dialogue: 2,0:01:29.26,0:01:34.44,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an3\c&H122BE9&\blur0.2}otsukaresama wo kurikaeshite
-Dialogue: 0,0:01:34.74,0:01:40.53,OP Romaji,,0,0,0,fx,{\fad(200,200)\an9\bord1.9\shad2.7\blur1\3c&H000000&\b1}mata guuzen kimi ni aitai (aitai, aitai, aitai)
-Dialogue: 1,0:01:34.74,0:01:40.53,OP Romaji,,0,0,0,fx,{\fad(200,200)\an9\bord2.5}mata guuzen kimi ni aitai (aitai, aitai, aitai)
-Dialogue: 2,0:01:34.74,0:01:40.53,OP Romaji,,0,0,0,fx,{\fad(200,200)\an9\c&H122BE9&\blur0.2}mata guuzen kimi ni aitai (aitai, aitai, aitai)
-Dialogue: 0,0:01:34.74,0:01:40.53,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}mata guuzen kimi ni aitai (aitai, aitai, aitai)
-Dialogue: 1,0:01:34.74,0:01:40.53,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an1\bord2.5}mata guuzen kimi ni aitai (aitai, aitai, aitai)
-Dialogue: 2,0:01:34.74,0:01:40.53,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an1\c&H122BE9&\blur0.2}mata guuzen kimi ni aitai (aitai, aitai, aitai)
-Dialogue: 0,0:01:40.53,0:01:42.57,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}motto tsuyoku naru kara
-Dialogue: 1,0:01:40.53,0:01:42.57,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}motto tsuyoku naru kara
-Dialogue: 2,0:01:40.53,0:01:42.57,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}motto tsuyoku naru kara
-Dialogue: 0,0:01:40.53,0:01:42.57,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}motto tsuyoku naru kara
-Dialogue: 1,0:01:40.53,0:01:42.57,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}motto tsuyoku naru kara
-Dialogue: 2,0:01:40.53,0:01:42.57,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}motto tsuyoku naru kara
-Dialogue: 0,0:01:43.82,0:01:48.29,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}kyou mo nani ga attate (nani ga attate)
-Dialogue: 1,0:01:43.82,0:01:48.29,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}kyou mo nani ga attate (nani ga attate)
-Dialogue: 2,0:01:43.82,0:01:48.29,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}kyou mo nani ga attate (nani ga attate)
-Dialogue: 0,0:01:43.82,0:01:48.29,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}kyou mo nani ga attate (nani ga attate)
-Dialogue: 1,0:01:43.82,0:01:48.29,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}kyou mo nani ga attate (nani ga attate)
-Dialogue: 2,0:01:43.82,0:01:48.29,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}kyou mo nani ga attate (nani ga attate)
-Dialogue: 0,0:01:48.29,0:01:50.69,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}hatarakunda tte (hatarakunda tte)
-Dialogue: 1,0:01:48.29,0:01:50.69,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}hatarakunda tte (hatarakunda tte)
-Dialogue: 2,0:01:48.29,0:01:50.69,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}hatarakunda tte (hatarakunda tte)
-Dialogue: 0,0:01:48.29,0:01:50.69,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}hatarakunda tte (hatarakunda tte)
-Dialogue: 1,0:01:48.29,0:01:50.69,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}hatarakunda tte (hatarakunda tte)
-Dialogue: 2,0:01:48.29,0:01:50.69,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}hatarakunda tte (hatarakunda tte)
-Dialogue: 0,0:01:50.82,0:01:53.27,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna de (so!) ganbare (so!)
-Dialogue: 1,0:01:50.82,0:01:53.27,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}minna de (so!) ganbare (so!)
-Dialogue: 2,0:01:50.82,0:01:53.27,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}minna de (so!) ganbare (so!)
-Dialogue: 0,0:01:50.82,0:01:53.27,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna de (so!) ganbare (so!)
-Dialogue: 1,0:01:50.82,0:01:53.27,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}minna de (so!) ganbare (so!)
-Dialogue: 2,0:01:50.82,0:01:53.27,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}minna de (so!) ganbare (so!)
-Dialogue: 0,0:01:53.42,0:01:56.08,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}ashita no heiwa danpu genshu
-Dialogue: 1,0:01:53.42,0:01:56.08,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}ashita no heiwa danpu genshu
-Dialogue: 2,0:01:53.42,0:01:56.08,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}ashita no heiwa danpu genshu
-Dialogue: 0,0:01:53.42,0:01:56.08,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}ashita no heiwa danpu genshu
-Dialogue: 1,0:01:53.42,0:01:56.08,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}ashita no heiwa danpu genshu
-Dialogue: 2,0:01:53.42,0:01:56.08,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}ashita no heiwa danpu genshu
-Dialogue: 0,0:01:56.08,0:01:58.75,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}shinjita michi (shinjita michi)
-Dialogue: 1,0:01:56.08,0:01:58.75,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}shinjita michi (shinjita michi)
-Dialogue: 2,0:01:56.08,0:01:58.75,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}shinjita michi (shinjita michi)
-Dialogue: 0,0:01:56.08,0:01:58.75,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}shinjita michi (shinjita michi)
-Dialogue: 1,0:01:56.08,0:01:58.75,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}shinjita michi (shinjita michi)
-Dialogue: 2,0:01:56.08,0:01:58.75,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}shinjita michi (shinjita michi)
-Dialogue: 0,0:01:58.75,0:02:00.95,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}tsukisusunde ike (tsukisusunde ike)
-Dialogue: 1,0:01:58.75,0:02:00.95,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}tsukisusunde ike (tsukisusunde ike)
-Dialogue: 2,0:01:58.75,0:02:00.95,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}tsukisusunde ike (tsukisusunde ike)
-Dialogue: 0,0:01:58.75,0:02:00.95,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}tsukisusunde ike (tsukisusunde ike)
-Dialogue: 1,0:01:58.75,0:02:00.95,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}tsukisusunde ike (tsukisusunde ike)
-Dialogue: 2,0:01:58.75,0:02:00.95,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}tsukisusunde ike (tsukisusunde ike)
-Dialogue: 0,0:02:01.18,0:02:03.64,OP Romaji,,0,0,0,fx,{\fad(200,200)\an9\bord1.9\shad2.7\blur1\3c&H000000&\b1}hitori ja nai shinase wo shinai
-Dialogue: 1,0:02:01.18,0:02:03.64,OP Romaji,,0,0,0,fx,{\fad(200,200)\an9\bord2.5}hitori ja nai shinase wo shinai
-Dialogue: 2,0:02:01.18,0:02:03.64,OP Romaji,,0,0,0,fx,{\fad(200,200)\an9\c&H122BE9&\blur0.2}hitori ja nai shinase wo shinai
-Dialogue: 0,0:02:01.18,0:02:03.64,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}hitori ja nai shinase wo shinai
-Dialogue: 1,0:02:01.18,0:02:03.64,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an1\bord2.5}hitori ja nai shinase wo shinai
-Dialogue: 2,0:02:01.18,0:02:03.64,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an1\c&H122BE9&\blur0.2}hitori ja nai shinase wo shinai
-Dialogue: 0,0:02:03.83,0:02:06.48,OP Romaji,,0,0,0,fx,{\fad(200,200)\an9\bord1.9\shad2.7\blur1\3c&H000000&\b1}mirakuru shuudan sensu akutowaaku
-Dialogue: 1,0:02:03.83,0:02:06.48,OP Romaji,,0,0,0,fx,{\fad(200,200)\an9\bord2.5}mirakuru shuudan sensu akutowaaku
-Dialogue: 2,0:02:03.83,0:02:06.48,OP Romaji,,0,0,0,fx,{\fad(200,200)\an9\c&H122BE9&\blur0.2}mirakuru shuudan sensu akutowaaku
-Dialogue: 0,0:02:03.83,0:02:06.48,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}mirakuru shuudan sensu akutowaaku
-Dialogue: 1,0:02:03.83,0:02:06.48,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an1\bord2.5}mirakuru shuudan sensu akutowaaku
-Dialogue: 2,0:02:03.83,0:02:06.48,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an1\c&H122BE9&\blur0.2}mirakuru shuudan sensu akutowaaku
-Dialogue: 0,0:02:06.48,0:02:09.11,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna no shi datte hitotsu no shigoto
-Dialogue: 1,0:02:06.48,0:02:09.11,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}minna no shi datte hitotsu no shigoto
-Dialogue: 2,0:02:06.48,0:02:09.11,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}minna no shi datte hitotsu no shigoto
-Dialogue: 0,0:02:06.48,0:02:09.11,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna no shi datte hitotsu no shigoto
-Dialogue: 1,0:02:06.48,0:02:09.11,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}minna no shi datte hitotsu no shigoto
-Dialogue: 2,0:02:06.48,0:02:09.11,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}minna no shi datte hitotsu no shigoto
-Dialogue: 0,0:02:09.11,0:02:11.78,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna atsumatte hitotsu no shigoto
-Dialogue: 1,0:02:09.11,0:02:11.78,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}minna atsumatte hitotsu no shigoto
-Dialogue: 2,0:02:09.11,0:02:11.78,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}minna atsumatte hitotsu no shigoto
-Dialogue: 0,0:02:09.11,0:02:11.78,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna atsumatte hitotsu no shigoto
-Dialogue: 1,0:02:09.11,0:02:11.78,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}minna atsumatte hitotsu no shigoto
-Dialogue: 2,0:02:09.11,0:02:11.78,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}minna atsumatte hitotsu no shigoto
-Dialogue: 0,0:02:11.78,0:02:17.33,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}saibou festa hataraku saibou
-Dialogue: 1,0:02:11.78,0:02:17.33,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}saibou festa hataraku saibou
-Dialogue: 2,0:02:11.78,0:02:17.33,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}saibou festa hataraku saibou
-Dialogue: 0,0:02:11.78,0:02:17.33,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}saibou festa hataraku saibou
-Dialogue: 1,0:02:11.78,0:02:17.33,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}saibou festa hataraku saibou
-Dialogue: 2,0:02:11.78,0:02:17.33,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}saibou festa hataraku saibou
-Dialogue: 0,0:02:17.33,0:02:19.80,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou (go, go, go!)
-Dialogue: 1,0:02:17.33,0:02:19.80,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}Go go go go go go! saikou (go, go, go!)
-Dialogue: 2,0:02:17.33,0:02:19.80,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}Go go go go go go! saikou (go, go, go!)
-Dialogue: 0,0:02:17.33,0:02:19.80,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou (go, go, go!)
-Dialogue: 1,0:02:17.33,0:02:19.80,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}Go go go go go go! saikou (go, go, go!)
-Dialogue: 2,0:02:17.33,0:02:19.80,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}Go go go go go go! saikou (go, go, go!)
-Dialogue: 0,0:02:19.80,0:02:22.65,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou
-Dialogue: 1,0:02:19.80,0:02:22.65,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\bord2.5}Go go go go go go! saikou
-Dialogue: 2,0:02:19.80,0:02:22.65,OP Romaji,,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}Go go go go go go! saikou
-Dialogue: 0,0:02:19.80,0:02:22.65,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou
-Dialogue: 1,0:02:19.80,0:02:22.65,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\bord2.5}Go go go go go go! saikou
-Dialogue: 2,0:02:19.80,0:02:22.65,OP Lyrics,,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}Go go go go go go! saikou
+Dialogue: 0,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}W{\3c&H3E58EB&}o{\3c&H5F74EE&}w{\3c&H788AF1&}, {\3c&HA1AEF5&}w{\3c&HC1CBF8&}o{\3c&HE2E7FB&}w{\3c&HFAFDFD&}, {\3c&HD2D9F9&}w{\3c&HB1BCF6&}o{\3c&H909FF3&}w{\3c&H7789F1&}, {\3c&H4E66ED&}w{\3c&H2E49EA&}o{\3c&H2946E9&}w{\3c&H435CEC&}, {\3c&H6B7FF0&}w{\3c&H8C9CF3&}o{\3c&HADB9F6&}w{\3c&HC6CFF8&}, {\3c&HEFF2FC&}w{\3c&HE6EBFB&}o{\3c&HC6CEF8&}w{\3c&HACB8F6&}, {\3c&H8495F2&}w{\3c&H6378EF&}o{\3c&H425BEC&}w{\3c&H2945E9&}, {\3c&H3650EA&}w{\3c&H576DEE&}o{\3c&H778AF1&}w{\3c&H91A0F3&}, {\3c&HB9C3F7&}w{\3c&HDAE0FA&}o{\3c&HFBFDFD&}w
+Dialogue: 1,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
+Dialogue: 2,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}Wow, wow, wow, wow, wow, wow, wow, wow, wow
+Dialogue: 3,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}Wow, wow, wow, wow, wow, wow, wow, wow, wow
+Dialogue: 0,0:01:04.25,0:01:07.00,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}W{\3c&H3E58EB&}o{\3c&H5F74EE&}w{\3c&H788AF1&}, {\3c&HA1AEF5&}w{\3c&HC1CBF8&}o{\3c&HE2E7FB&}w{\3c&HFAFDFD&}, {\3c&HD2D9F9&}w{\3c&HB1BCF6&}o{\3c&H909FF3&}w{\3c&H7789F1&}, {\3c&H4E66ED&}w{\3c&H2E49EA&}o{\3c&H2946E9&}w{\3c&H435CEC&}, {\3c&H6B7FF0&}w{\3c&H8C9CF3&}o{\3c&HADB9F6&}w{\3c&HC6CFF8&}, {\3c&HEFF2FC&}w{\3c&HE6EBFB&}o{\3c&HC6CEF8&}w{\3c&HACB8F6&}, {\3c&H8495F2&}w{\3c&H6378EF&}o{\3c&H425BEC&}w{\3c&H2945E9&}, {\3c&H3650EA&}w{\3c&H576DEE&}o{\3c&H778AF1&}w{\3c&H91A0F3&}, {\3c&HB9C3F7&}w{\3c&HDAE0FA&}o{\3c&HFBFDFD&}w
+Dialogue: 1,0:01:04.25,0:01:07.00,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
+Dialogue: 2,0:01:04.25,0:01:07.00,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}Wow, wow, wow, wow, wow, wow, wow, wow, wow
+Dialogue: 3,0:01:04.25,0:01:07.00,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}Wow, wow, wow, wow, wow, wow, wow, wow, wow
+Dialogue: 0,0:01:09.79,0:01:14.46,OP Romaji,rbc,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}donna mainichi mo sutaato wo kitta nara
+Dialogue: 1,0:01:09.79,0:01:14.46,OP Romaji,rbc,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}donna mainichi mo sutaato wo kitta nara
+Dialogue: 2,0:01:09.79,0:01:14.46,OP Romaji,rbc,0,0,0,fx,{\fad(200,200)\an8\bord2.5}donna mainichi mo sutaato wo kitta nara
+Dialogue: 3,0:01:09.79,0:01:14.46,OP Romaji,rbc,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}donna mainichi mo sutaato wo kitta nara
+Dialogue: 0,0:01:14.46,0:01:17.61,OP Romaji,rbc,0,0,0,fx,{\fad(200,200)\an7\blur15\bord6\3a&H50&\3c&H1B39E8&}tekipaki patapata tada hashiru dake sa
+Dialogue: 1,0:01:14.46,0:01:17.61,OP Romaji,rbc,0,0,0,fx,{\fad(200,200)\an7\bord1.9\shad2.7\blur1\3c&H000000&\b1}tekipaki patapata tada hashiru dake sa
+Dialogue: 2,0:01:14.46,0:01:17.61,OP Romaji,rbc,0,0,0,fx,{\fad(200,200)\an7\bord2.5}tekipaki patapata tada hashiru dake sa
+Dialogue: 3,0:01:14.46,0:01:17.61,OP Romaji,rbc,0,0,0,fx,{\fad(200,200)\an7\c&H122BE9&\blur0.2}tekipaki patapata tada hashiru dake sa
+Dialogue: 0,0:01:20.18,0:01:24.81,OP Romaji,wbc,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&HFBFDFD&}sainan kara hikan saikou no seika wa
+Dialogue: 1,0:01:20.18,0:01:24.81,OP Romaji,wbc,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}sainan kara hikan saikou no seika wa
+Dialogue: 2,0:01:20.18,0:01:24.81,OP Romaji,wbc,0,0,0,fx,{\fad(200,200)\an8\bord2.5}sainan kara hikan saikou no seika wa
+Dialogue: 3,0:01:20.18,0:01:24.81,OP Romaji,wbc,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}sainan kara hikan saikou no seika wa
+Dialogue: 0,0:01:24.81,0:01:28.63,OP Romaji,wbc,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&HFBFDFD&}boroboro yogoreta manma hitoiki tiitaimu
+Dialogue: 1,0:01:24.81,0:01:28.63,OP Romaji,wbc,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}boroboro yogoreta manma hitoiki tiitaimu
+Dialogue: 2,0:01:24.81,0:01:28.63,OP Romaji,wbc,0,0,0,fx,{\fad(200,200)\an8\bord2.5}boroboro yogoreta manma hitoiki tiitaimu
+Dialogue: 3,0:01:24.81,0:01:28.63,OP Romaji,wbc,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}boroboro yogoreta manma hitoiki tiitaimu
+Dialogue: 0,0:01:29.26,0:01:34.44,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an7\blur15\bord6\3a&H50&\3c&H1B39E8&}o{\3c&H324DEA&}t{\3c&H465FEC&}s{\3c&H6075EE&}u{\3c&H7C8EF1&}k{\3c&H98A7F4&}a{\3c&HAFBAF6&}r{\3c&HC4CDF8&}e{\3c&HDDE3FA&}s{\3c&HF7F9FD&}a{\3c&HDCE2FA&}m{\3c&HB8C3F7&}a {\3c&H8696F2&}w{\3c&H6378EF&}o {\3c&H3751EB&}k{\3c&H1C3AE8&}u{\3c&H334EEA&}r{\3c&H425BEC&}i{\3c&H566DEE&}k{\3c&H7285F0&}a{\3c&H8E9DF3&}e{\3c&HA6B3F5&}s{\3c&HC0CAF8&}h{\3c&HD6DCFA&}i{\3c&HE5EAFB&}t{\3c&HFBFDFD&}e
+Dialogue: 1,0:01:29.26,0:01:34.44,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an7\bord1.9\shad2.7\blur1\3c&H000000&\b1}otsukaresama wo kurikaeshite
+Dialogue: 2,0:01:29.26,0:01:34.44,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an7\bord2.5}otsukaresama wo kurikaeshite
+Dialogue: 3,0:01:29.26,0:01:34.44,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an7\c&H122BE9&\blur0.2}otsukaresama wo kurikaeshite
+Dialogue: 0,0:01:34.74,0:01:40.53,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an9\blur15\bord6\3a&H50&\3c&H1B39E8&}m{\3c&H445DEC&}a{\3c&H5F74EE&}t{\3c&H798BF1&}a {\3c&HACB8F6&}g{\3c&HCED5F9&}u{\3c&HEFF3FC&}u{\3c&HE8ECFB&}z{\3c&HCBD3F8&}e{\3c&HABB7F5&}n {\3c&H7789F1&}k{\3c&H5F75EE&}i{\3c&H3E58EB&}m{\3c&H1E3BE8&}i {\3c&H445DEC&}n{\3c&H5D72EE&}i {\3c&H8898F2&}a{\3c&HA0ADF4&}i{\3c&HB2BDF6&}t{\3c&HCCD4F9&}a{\3c&HE4E9FB&}i {\3c&HBDD5EB&}({\3c&HC3D8E5&}a{\3c&HCADAE0&}i{\3c&HCFDCDC&}t{\3c&HD6DED6&}a{\3c&HDDE1D1&}i{\3c&HE1E2CD&}, {\3c&HECE7C4&}a{\3c&HF3E9BF&}i{\3c&HF4E9BD&}t{\3c&HEDE7C3&}a{\3c&HE6E4C9&}i{\3c&HE2E3CC&}, {\3c&HD7DFD6&}a{\3c&HD0DCDB&}i{\3c&HCBDBDF&}t{\3c&HC4D8E5&}a{\3c&HBED6EA&}i{\3c&HB9D4EE&})
+Dialogue: 1,0:01:34.74,0:01:40.53,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an9\bord1.9\shad2.7\blur1\3c&H000000&\b1}mata guuzen kimi ni aitai (aitai, aitai, aitai)
+Dialogue: 2,0:01:34.74,0:01:40.53,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an9\bord2.5}mata guuzen kimi ni aitai (aitai, aitai, aitai)
+Dialogue: 3,0:01:34.74,0:01:40.53,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an9\c&H122BE9&\blur0.2}mata guuzen kimi ni aitai (aitai, aitai, aitai)
+Dialogue: 0,0:01:40.53,0:01:42.57,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}m{\3c&H3953EB&}o{\3c&H4C64ED&}t{\3c&H5A71EE&}t{\3c&H6E81F0&}o {\3c&H8E9EF3&}t{\3c&H9FADF4&}s{\3c&HB5C0F6&}u{\3c&HCDD5F9&}y{\3c&HE6EAFB&}o{\3c&HF9FBFD&}k{\3c&HE1E6FB&}u {\3c&HBBC5F7&}n{\3c&HA3B0F5&}a{\3c&H90A0F3&}r{\3c&H7D8FF1&}u {\3c&H586EEE&}k{\3c&H415AEC&}a{\3c&H2E49EA&}r{\3c&H1B39E8&}a
+Dialogue: 1,0:01:40.53,0:01:42.57,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}motto tsuyoku naru kara
+Dialogue: 2,0:01:40.53,0:01:42.57,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}motto tsuyoku naru kara
+Dialogue: 3,0:01:40.53,0:01:42.57,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}motto tsuyoku naru kara
+Dialogue: 0,0:01:43.82,0:01:48.29,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}k{\3c&H3852EB&}y{\3c&H556CED&}o{\3c&H7285F0&}u {\3c&HA6B3F5&}m{\3c&HCAD2F8&}o {\3c&HF8FAFD&}n{\3c&HE1E7FB&}a{\3c&HC4CDF8&}n{\3c&HAFBAF6&}i {\3c&H8A9AF2&}g{\3c&H6D81F0&}a {\3c&H415AEC&}a{\3c&H2A46E9&}t{\3c&H1D3BE8&}t{\3c&H344FEA&}a{\3c&H4B63ED&}t{\3c&H6176EF&}e {\3c&HD9DFD4&}({\3c&HD3DDD9&}n{\3c&HCBDADF&}a{\3c&HC3D8E6&}n{\3c&HBDD5EB&}i {\3c&HBFD6E9&}g{\3c&HC7D9E3&}a {\3c&HD3DDD9&}a{\3c&HD9E0D4&}t{\3c&HDEE1D0&}t{\3c&HE4E4CB&}a{\3c&HEAE6C6&}t{\3c&HF0E8C1&}e{\3c&HF6EABC&})
+Dialogue: 1,0:01:43.82,0:01:48.29,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}kyou mo nani ga attate (nani ga attate)
+Dialogue: 2,0:01:43.82,0:01:48.29,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}kyou mo nani ga attate (nani ga attate)
+Dialogue: 3,0:01:43.82,0:01:48.29,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}kyou mo nani ga attate (nani ga attate)
+Dialogue: 0,0:01:48.29,0:01:50.69,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}h{\3c&H3D57EB&}a{\3c&H586EEE&}t{\3c&H7386F0&}a{\3c&H8D9DF3&}r{\3c&HA8B4F5&}a{\3c&HC9D1F8&}k{\3c&HEAEEFB&}u{\3c&HEAEEFB&}n{\3c&HC8D0F8&}d{\3c&HA6B3F5&}a {\3c&H788BF1&}t{\3c&H6479EF&}t{\3c&H4A62EC&}e {\3c&HF5EABD&}({\3c&HF0E8C1&}h{\3c&HE7E4C9&}a{\3c&HDFE2CF&}t{\3c&HD8DFD5&}a{\3c&HD1DDDB&}r{\3c&HCADAE0&}a{\3c&HC1D7E8&}k{\3c&HBBD5ED&}u{\3c&HC4D8E5&}n{\3c&HCDDBDD&}d{\3c&HD6DFD6&}a {\3c&HE3E3CC&}t{\3c&HE8E5C7&}t{\3c&HEFE8C1&}e{\3c&HF6EABC&})
+Dialogue: 1,0:01:48.29,0:01:50.69,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}hatarakunda tte (hatarakunda tte)
+Dialogue: 2,0:01:48.29,0:01:50.69,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}hatarakunda tte (hatarakunda tte)
+Dialogue: 3,0:01:48.29,0:01:50.69,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}hatarakunda tte (hatarakunda tte)
+Dialogue: 0,0:01:50.82,0:01:53.27,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}m{\3c&H3A54EB&}i{\3c&H5169ED&}n{\3c&H7285F0&}n{\3c&H91A1F3&}a {\3c&HC2CBF8&}d{\3c&HE1E6FB&}e {\3c&HBDD5EB&}({\3c&HC3D7E6&}s{\3c&HCADAE0&}o{\3c&HD1DDDB&}!{\3c&HD5DED7&}) {\3c&H6A7EEF&}g{\3c&H4B63ED&}a{\3c&H2C48EA&}n{\3c&H2A46E9&}b{\3c&H4961EC&}a{\3c&H6277EF&}r{\3c&H7A8CF1&}e {\3c&HD1DDDA&}({\3c&HCBDBDF&}s{\3c&HC4D8E5&}o{\3c&HBDD6EA&}!{\3c&HB9D4EE&})
+Dialogue: 1,0:01:50.82,0:01:53.27,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna de (so!) ganbare (so!)
+Dialogue: 2,0:01:50.82,0:01:53.27,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}minna de (so!) ganbare (so!)
+Dialogue: 3,0:01:50.82,0:01:53.27,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}minna de (so!) ganbare (so!)
+Dialogue: 0,0:01:53.42,0:01:56.08,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}a{\3c&H344FEA&}s{\3c&H4E65ED&}h{\3c&H6378EF&}i{\3c&H7285F0&}t{\3c&H8999F2&}a {\3c&HB5C0F6&}n{\3c&HD2D9F9&}o {\3c&HF8FAFD&}h{\3c&HDCE2FA&}e{\3c&HC8D1F8&}i{\3c&HAEB9F6&}w{\3c&H8C9CF3&}a {\3c&H6075EE&}d{\3c&H445DEC&}a{\3c&H2744E9&}n{\3c&H2B47EA&}p{\3c&H4860EC&}u {\3c&H7487F0&}g{\3c&H8F9FF3&}e{\3c&HABB7F5&}n{\3c&HC5CDF8&}s{\3c&HDEE4FA&}h{\3c&HFBFDFD&}u
+Dialogue: 1,0:01:53.42,0:01:56.08,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}ashita no heiwa danpu genshu
+Dialogue: 2,0:01:53.42,0:01:56.08,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}ashita no heiwa danpu genshu
+Dialogue: 3,0:01:53.42,0:01:56.08,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}ashita no heiwa danpu genshu
+Dialogue: 0,0:01:56.08,0:01:58.75,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}s{\3c&H3651EB&}h{\3c&H4C64ED&}i{\3c&H6378EF&}n{\3c&H798CF1&}j{\3c&H8898F2&}i{\3c&H98A6F4&}t{\3c&HB0BBF6&}a {\3c&HE6EAFB&}m{\3c&HF3F6FC&}i{\3c&HDFE4FA&}c{\3c&HC3CCF8&}h{\3c&HADB8F6&}i {\3c&HD7DFD5&}({\3c&HDDE1D1&}s{\3c&HE4E3CB&}h{\3c&HEAE6C6&}i{\3c&HF0E8C1&}n{\3c&HF6EABC&}j{\3c&HF2E9BF&}i{\3c&HEDE7C3&}t{\3c&HE7E5C8&}a {\3c&HD8DFD4&}m{\3c&HD0DCDB&}i{\3c&HCBDADF&}c{\3c&HC3D8E6&}h{\3c&HBDD5EB&}i{\3c&HB9D4EE&})
+Dialogue: 1,0:01:56.08,0:01:58.75,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}shinjita michi (shinjita michi)
+Dialogue: 2,0:01:56.08,0:01:58.75,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}shinjita michi (shinjita michi)
+Dialogue: 3,0:01:56.08,0:01:58.75,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}shinjita michi (shinjita michi)
+Dialogue: 0,0:01:58.75,0:02:00.95,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}t{\3c&H324DEA&}s{\3c&H4F66ED&}u{\3c&H6F82F0&}k{\3c&H8697F2&}i{\3c&H9AA8F4&}s{\3c&HB8C2F7&}u{\3c&HD5DCF9&}s{\3c&HF2F5FC&}u{\3c&HE3E8FB&}n{\3c&HC2CCF8&}d{\3c&HA3B0F5&}e {\3c&H7B8DF1&}i{\3c&H6378EF&}k{\3c&H455EEC&}e {\3c&HF6EABC&}({\3c&HF1E8C0&}t{\3c&HEBE6C5&}s{\3c&HE3E3CC&}u{\3c&HDAE0D3&}k{\3c&HD4DED8&}i{\3c&HCEDCDD&}s{\3c&HC6D9E3&}u{\3c&HBED6EA&}s{\3c&HBCD5EC&}u{\3c&HC5D8E5&}n{\3c&HCDDBDD&}d{\3c&HD6DED6&}e {\3c&HE1E2CD&}i{\3c&HE7E5C8&}k{\3c&HF0E8C1&}e{\3c&HF6EABC&})
+Dialogue: 1,0:01:58.75,0:02:00.95,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}tsukisusunde ike (tsukisusunde ike)
+Dialogue: 2,0:01:58.75,0:02:00.95,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}tsukisusunde ike (tsukisusunde ike)
+Dialogue: 3,0:01:58.75,0:02:00.95,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}tsukisusunde ike (tsukisusunde ike)
+Dialogue: 0,0:02:01.18,0:02:03.64,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an9\blur15\bord6\3a&H50&\3c&H1B39E8&}h{\3c&H304CEA&}i{\3c&H4059EB&}t{\3c&H576DEE&}o{\3c&H6E81F0&}r{\3c&H7D8FF1&}i {\3c&H9BA9F4&}j{\3c&HB0BCF6&}a {\3c&HDDE3FA&}n{\3c&HFAFCFD&}a{\3c&HE7EBFB&}i {\3c&HC4CDF8&}s{\3c&HAAB6F5&}h{\3c&H95A4F3&}i{\3c&H7F91F1&}n{\3c&H6378EF&}a{\3c&H4961EC&}s{\3c&H304CEA&}e {\3c&H3752EB&}w{\3c&H5A70EE&}o {\3c&H8495F2&}s{\3c&H9EACF4&}h{\3c&HB4BFF6&}i{\3c&HC9D1F8&}n{\3c&HE6EBFB&}a{\3c&HFBFDFD&}i
+Dialogue: 1,0:02:01.18,0:02:03.64,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an9\bord1.9\shad2.7\blur1\3c&H000000&\b1}hitori ja nai shinase wo shinai
+Dialogue: 2,0:02:01.18,0:02:03.64,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an9\bord2.5}hitori ja nai shinase wo shinai
+Dialogue: 3,0:02:01.18,0:02:03.64,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an9\c&H122BE9&\blur0.2}hitori ja nai shinase wo shinai
+Dialogue: 0,0:02:03.83,0:02:06.48,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an9\blur15\bord6\3a&H50&\3c&H1B39E8&}m{\3c&H3A54EB&}i{\3c&H4A62EC&}r{\3c&H6277EF&}a{\3c&H8192F2&}k{\3c&H9FADF4&}u{\3c&HB8C2F7&}r{\3c&HD1D8F9&}u {\3c&HF8FAFD&}s{\3c&HDCE1FA&}h{\3c&HBCC6F7&}u{\3c&H9DAAF4&}u{\3c&H7D8FF1&}d{\3c&H5F74EE&}a{\3c&H3F59EB&}n {\3c&H2441E9&}s{\3c&H3F58EB&}e{\3c&H5D73EE&}n{\3c&H798CF1&}s{\3c&H95A4F3&}u {\3c&HC6CFF8&}a{\3c&HE4E9FB&}k{\3c&HF3F6FC&}u{\3c&HDAE0FA&}t{\3c&HC1CAF8&}o{\3c&H9CAAF4&}w{\3c&H7789F1&}a{\3c&H586EEE&}a{\3c&H3A54EB&}k{\3c&H1B39E8&}u
+Dialogue: 1,0:02:03.83,0:02:06.48,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an9\bord1.9\shad2.7\blur1\3c&H000000&\b1}mirakuru shuudan sensu akutowaaku
+Dialogue: 2,0:02:03.83,0:02:06.48,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an9\bord2.5}mirakuru shuudan sensu akutowaaku
+Dialogue: 3,0:02:03.83,0:02:06.48,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an9\c&H122BE9&\blur0.2}mirakuru shuudan sensu akutowaaku
+Dialogue: 0,0:02:06.48,0:02:09.11,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}m{\3c&H3954EB&}i{\3c&H5168ED&}n{\3c&H7084F0&}n{\3c&H8F9FF3&}a {\3c&HC0C9F7&}n{\3c&HDFE5FA&}o {\3c&HE9EEFB&}s{\3c&HCDD5F9&}h{\3c&HB6C1F7&}i {\3c&H8E9EF3&}d{\3c&H7083F0&}a{\3c&H576EEE&}t{\3c&H445DEC&}t{\3c&H2D49EA&}e {\3c&H3953EB&}h{\3c&H5067ED&}i{\3c&H6076EE&}t{\3c&H798BF1&}o{\3c&H92A1F3&}t{\3c&HA7B4F5&}s{\3c&HC3CCF8&}u {\3c&HF4F7FC&}n{\3c&HE2E7FB&}o {\3c&HB5C0F6&}s{\3c&H99A7F4&}h{\3c&H8293F2&}i{\3c&H6B7FF0&}g{\3c&H4D64ED&}o{\3c&H344FEA&}t{\3c&H1B39E8&}o
+Dialogue: 1,0:02:06.48,0:02:09.11,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna no shi datte hitotsu no shigoto
+Dialogue: 2,0:02:06.48,0:02:09.11,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}minna no shi datte hitotsu no shigoto
+Dialogue: 3,0:02:06.48,0:02:09.11,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}minna no shi datte hitotsu no shigoto
+Dialogue: 0,0:02:09.11,0:02:11.78,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}m{\3c&H3B55EB&}i{\3c&H546BED&}n{\3c&H7588F0&}n{\3c&H96A5F4&}a {\3c&HC9D1F8&}a{\3c&HE3E8FB&}t{\3c&HF9FCFD&}s{\3c&HDFE5FA&}u{\3c&HB6C1F7&}m{\3c&H8E9DF3&}a{\3c&H7487F0&}t{\3c&H6076EE&}t{\3c&H4760EC&}e {\3c&H213EE9&}h{\3c&H3953EB&}i{\3c&H4B63EC&}t{\3c&H657AEF&}o{\3c&H7F91F1&}t{\3c&H96A5F4&}s{\3c&HB3BEF6&}u {\3c&HE7ECFB&}n{\3c&HEEF1FC&}o {\3c&HBEC8F7&}s{\3c&HA0AEF4&}h{\3c&H8898F2&}i{\3c&H7083F0&}g{\3c&H4F67ED&}o{\3c&H3550EA&}t{\3c&H1B39E8&}o
+Dialogue: 1,0:02:09.11,0:02:11.78,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna atsumatte hitotsu no shigoto
+Dialogue: 2,0:02:09.11,0:02:11.78,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}minna atsumatte hitotsu no shigoto
+Dialogue: 3,0:02:09.11,0:02:11.78,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}minna atsumatte hitotsu no shigoto
+Dialogue: 0,0:02:11.78,0:02:17.33,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}s{\3c&H3650EB&}a{\3c&H4C64ED&}i{\3c&H6277EF&}b{\3c&H8091F1&}o{\3c&H9EACF4&}u {\3c&HC7CFF8&}f{\3c&HDCE2FA&}e{\3c&HF6F9FD&}s{\3c&HEBEFFB&}t{\3c&HD3DAF9&}a {\3c&HA3B0F5&}h{\3c&H8596F2&}a{\3c&H6D81F0&}t{\3c&H556CED&}a{\3c&H3E57EB&}r{\3c&H2643E9&}a{\3c&H2E49EA&}k{\3c&H4B63ED&}u {\3c&H788AF1&}s{\3c&H92A1F3&}a{\3c&HA8B5F5&}i{\3c&HBEC8F7&}b{\3c&HDDE2FA&}o{\3c&HFBFDFD&}u
+Dialogue: 1,0:02:11.78,0:02:17.33,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}saibou festa hataraku saibou
+Dialogue: 2,0:02:11.78,0:02:17.33,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}saibou festa hataraku saibou
+Dialogue: 3,0:02:11.78,0:02:17.33,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}saibou festa hataraku saibou
+Dialogue: 0,0:02:17.33,0:02:19.80,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}G{\3c&H3C56EB&}o {\3c&H6A7EEF&}g{\3c&H8797F2&}o {\3c&HB5C0F6&}g{\3c&HD2D9F9&}o {\3c&HF6F9FD&}g{\3c&HD9DFFA&}o {\3c&HABB7F5&}g{\3c&H8E9DF3&}o {\3c&H6075EE&}g{\3c&H435CEC&}o{\3c&H2D49EA&}! {\3c&H2C48EA&}s{\3c&H475FEC&}a{\3c&H5C72EE&}i{\3c&H7184F0&}k{\3c&H8E9EF3&}o{\3c&HACB8F6&}u {\3c&HC4D8E5&}({\3c&HBED6EA&}g{\3c&HBCD5EB&}o{\3c&HC2D7E7&}, {\3c&HCCDBDE&}g{\3c&HD4DED8&}o{\3c&HDAE0D3&}, {\3c&HE4E4CB&}g{\3c&HECE6C4&}o{\3c&HF2E9BF&}!{\3c&HF6EABC&})
+Dialogue: 1,0:02:17.33,0:02:19.80,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou (go, go, go!)
+Dialogue: 2,0:02:17.33,0:02:19.80,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}Go go go go go go! saikou (go, go, go!)
+Dialogue: 3,0:02:17.33,0:02:19.80,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}Go go go go go go! saikou (go, go, go!)
+Dialogue: 0,0:02:19.80,0:02:22.65,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}G{\3c&H405AEB&}o {\3c&H7487F0&}g{\3c&H95A4F3&}o {\3c&HC9D2F8&}g{\3c&HEBEFFB&}o {\3c&HD7DEFA&}g{\3c&HB6C1F7&}o {\3c&H8293F2&}g{\3c&H6176EF&}o {\3c&H2D49EA&}g{\3c&H2A46E9&}o{\3c&H435CEC&}! {\3c&H6B7FEF&}s{\3c&H8899F2&}a{\3c&HA1AEF5&}i{\3c&HB9C3F7&}k{\3c&HD9E0FA&}o{\3c&HFBFDFD&}u
+Dialogue: 1,0:02:19.80,0:02:22.65,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou
+Dialogue: 2,0:02:19.80,0:02:22.65,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}Go go go go go go! saikou
+Dialogue: 3,0:02:19.80,0:02:22.65,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}Go go go go go go! saikou
+Dialogue: 0,0:01:09.79,0:01:14.46,OP Lyrics,rbc,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}donna mainichi mo sutaato wo kitta nara
+Dialogue: 1,0:01:09.79,0:01:14.46,OP Lyrics,rbc,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}donna mainichi mo sutaato wo kitta nara
+Dialogue: 2,0:01:09.79,0:01:14.46,OP Lyrics,rbc,0,0,0,fx,{\fad(200,200)\an2\bord2.5}donna mainichi mo sutaato wo kitta nara
+Dialogue: 3,0:01:09.79,0:01:14.46,OP Lyrics,rbc,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}donna mainichi mo sutaato wo kitta nara
+Dialogue: 0,0:01:14.46,0:01:17.61,OP Lyrics,rbc,0,0,0,fx,{\fad(200,200)\an3\blur15\bord6\3a&H50&\3c&H1B39E8&}tekipaki patapata tada hashiru dake sa
+Dialogue: 1,0:01:14.46,0:01:17.61,OP Lyrics,rbc,0,0,0,fx,{\fad(200,200)\an3\bord1.9\shad2.7\blur1\3c&H000000&\b1}tekipaki patapata tada hashiru dake sa
+Dialogue: 2,0:01:14.46,0:01:17.61,OP Lyrics,rbc,0,0,0,fx,{\fad(200,200)\an3\bord2.5}tekipaki patapata tada hashiru dake sa
+Dialogue: 3,0:01:14.46,0:01:17.61,OP Lyrics,rbc,0,0,0,fx,{\fad(200,200)\an3\c&H122BE9&\blur0.2}tekipaki patapata tada hashiru dake sa
+Dialogue: 0,0:01:20.18,0:01:24.81,OP Lyrics,wbc,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&HFBFDFD&}sainan kara hikan saikou no seika wa
+Dialogue: 1,0:01:20.18,0:01:24.81,OP Lyrics,wbc,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}sainan kara hikan saikou no seika wa
+Dialogue: 2,0:01:20.18,0:01:24.81,OP Lyrics,wbc,0,0,0,fx,{\fad(200,200)\an2\bord2.5}sainan kara hikan saikou no seika wa
+Dialogue: 3,0:01:20.18,0:01:24.81,OP Lyrics,wbc,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}sainan kara hikan saikou no seika wa
+Dialogue: 0,0:01:24.81,0:01:28.63,OP Lyrics,wbc,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&HFBFDFD&}boroboro yogoreta manma hitoiki tiitaimu
+Dialogue: 1,0:01:24.81,0:01:28.63,OP Lyrics,wbc,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}boroboro yogoreta manma hitoiki tiitaimu
+Dialogue: 2,0:01:24.81,0:01:28.63,OP Lyrics,wbc,0,0,0,fx,{\fad(200,200)\an2\bord2.5}boroboro yogoreta manma hitoiki tiitaimu
+Dialogue: 3,0:01:24.81,0:01:28.63,OP Lyrics,wbc,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}boroboro yogoreta manma hitoiki tiitaimu
+Dialogue: 0,0:01:29.26,0:01:34.44,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an3\blur15\bord6\3a&H50&\3c&H1B39E8&}o{\3c&H324DEA&}t{\3c&H465FEC&}s{\3c&H6075EE&}u{\3c&H7C8EF1&}k{\3c&H98A7F4&}a{\3c&HAFBAF6&}r{\3c&HC4CDF8&}e{\3c&HDDE3FA&}s{\3c&HF7F9FD&}a{\3c&HDCE2FA&}m{\3c&HB8C3F7&}a {\3c&H8696F2&}w{\3c&H6378EF&}o {\3c&H3751EB&}k{\3c&H1C3AE8&}u{\3c&H334EEA&}r{\3c&H425BEC&}i{\3c&H566DEE&}k{\3c&H7285F0&}a{\3c&H8E9DF3&}e{\3c&HA6B3F5&}s{\3c&HC0CAF8&}h{\3c&HD6DCFA&}i{\3c&HE5EAFB&}t{\3c&HFBFDFD&}e
+Dialogue: 1,0:01:29.26,0:01:34.44,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an3\bord1.9\shad2.7\blur1\3c&H000000&\b1}otsukaresama wo kurikaeshite
+Dialogue: 2,0:01:29.26,0:01:34.44,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an3\bord2.5}otsukaresama wo kurikaeshite
+Dialogue: 3,0:01:29.26,0:01:34.44,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an3\c&H122BE9&\blur0.2}otsukaresama wo kurikaeshite
+Dialogue: 0,0:01:34.74,0:01:40.53,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an1\blur15\bord6\3a&H50&\3c&H1B39E8&}m{\3c&H445DEC&}a{\3c&H5F74EE&}t{\3c&H798BF1&}a {\3c&HACB8F6&}g{\3c&HCED5F9&}u{\3c&HEFF3FC&}u{\3c&HE8ECFB&}z{\3c&HCBD3F8&}e{\3c&HABB7F5&}n {\3c&H7789F1&}k{\3c&H5F75EE&}i{\3c&H3E58EB&}m{\3c&H1E3BE8&}i {\3c&H445DEC&}n{\3c&H5D72EE&}i {\3c&H8898F2&}a{\3c&HA0ADF4&}i{\3c&HB2BDF6&}t{\3c&HCCD4F9&}a{\3c&HE4E9FB&}i {\3c&HBDD5EB&}({\3c&HC3D8E5&}a{\3c&HCADAE0&}i{\3c&HCFDCDC&}t{\3c&HD6DED6&}a{\3c&HDDE1D1&}i{\3c&HE1E2CD&}, {\3c&HECE7C4&}a{\3c&HF3E9BF&}i{\3c&HF4E9BD&}t{\3c&HEDE7C3&}a{\3c&HE6E4C9&}i{\3c&HE2E3CC&}, {\3c&HD7DFD6&}a{\3c&HD0DCDB&}i{\3c&HCBDBDF&}t{\3c&HC4D8E5&}a{\3c&HBED6EA&}i{\3c&HB9D4EE&})
+Dialogue: 1,0:01:34.74,0:01:40.53,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}mata guuzen kimi ni aitai (aitai, aitai, aitai)
+Dialogue: 2,0:01:34.74,0:01:40.53,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an1\bord2.5}mata guuzen kimi ni aitai (aitai, aitai, aitai)
+Dialogue: 3,0:01:34.74,0:01:40.53,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an1\c&H122BE9&\blur0.2}mata guuzen kimi ni aitai (aitai, aitai, aitai)
+Dialogue: 0,0:01:40.53,0:01:42.57,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}m{\3c&H3953EB&}o{\3c&H4C64ED&}t{\3c&H5A71EE&}t{\3c&H6E81F0&}o {\3c&H8E9EF3&}t{\3c&H9FADF4&}s{\3c&HB5C0F6&}u{\3c&HCDD5F9&}y{\3c&HE6EAFB&}o{\3c&HF9FBFD&}k{\3c&HE1E6FB&}u {\3c&HBBC5F7&}n{\3c&HA3B0F5&}a{\3c&H90A0F3&}r{\3c&H7D8FF1&}u {\3c&H586EEE&}k{\3c&H415AEC&}a{\3c&H2E49EA&}r{\3c&H1B39E8&}a
+Dialogue: 1,0:01:40.53,0:01:42.57,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}motto tsuyoku naru kara
+Dialogue: 2,0:01:40.53,0:01:42.57,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord2.5}motto tsuyoku naru kara
+Dialogue: 3,0:01:40.53,0:01:42.57,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}motto tsuyoku naru kara
+Dialogue: 0,0:01:43.82,0:01:48.29,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}k{\3c&H3852EB&}y{\3c&H556CED&}o{\3c&H7285F0&}u {\3c&HA6B3F5&}m{\3c&HCAD2F8&}o {\3c&HF8FAFD&}n{\3c&HE1E7FB&}a{\3c&HC4CDF8&}n{\3c&HAFBAF6&}i {\3c&H8A9AF2&}g{\3c&H6D81F0&}a {\3c&H415AEC&}a{\3c&H2A46E9&}t{\3c&H1D3BE8&}t{\3c&H344FEA&}a{\3c&H4B63ED&}t{\3c&H6176EF&}e {\3c&HD9DFD4&}({\3c&HD3DDD9&}n{\3c&HCBDADF&}a{\3c&HC3D8E6&}n{\3c&HBDD5EB&}i {\3c&HBFD6E9&}g{\3c&HC7D9E3&}a {\3c&HD3DDD9&}a{\3c&HD9E0D4&}t{\3c&HDEE1D0&}t{\3c&HE4E4CB&}a{\3c&HEAE6C6&}t{\3c&HF0E8C1&}e{\3c&HF6EABC&})
+Dialogue: 1,0:01:43.82,0:01:48.29,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}kyou mo nani ga attate (nani ga attate)
+Dialogue: 2,0:01:43.82,0:01:48.29,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord2.5}kyou mo nani ga attate (nani ga attate)
+Dialogue: 3,0:01:43.82,0:01:48.29,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}kyou mo nani ga attate (nani ga attate)
+Dialogue: 0,0:01:48.29,0:01:50.69,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}h{\3c&H3D57EB&}a{\3c&H586EEE&}t{\3c&H7386F0&}a{\3c&H8D9DF3&}r{\3c&HA8B4F5&}a{\3c&HC9D1F8&}k{\3c&HEAEEFB&}u{\3c&HEAEEFB&}n{\3c&HC8D0F8&}d{\3c&HA6B3F5&}a {\3c&H788BF1&}t{\3c&H6479EF&}t{\3c&H4A62EC&}e {\3c&HF5EABD&}({\3c&HF0E8C1&}h{\3c&HE7E4C9&}a{\3c&HDFE2CF&}t{\3c&HD8DFD5&}a{\3c&HD1DDDB&}r{\3c&HCADAE0&}a{\3c&HC1D7E8&}k{\3c&HBBD5ED&}u{\3c&HC4D8E5&}n{\3c&HCDDBDD&}d{\3c&HD6DFD6&}a {\3c&HE3E3CC&}t{\3c&HE8E5C7&}t{\3c&HEFE8C1&}e{\3c&HF6EABC&})
+Dialogue: 1,0:01:48.29,0:01:50.69,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}hatarakunda tte (hatarakunda tte)
+Dialogue: 2,0:01:48.29,0:01:50.69,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord2.5}hatarakunda tte (hatarakunda tte)
+Dialogue: 3,0:01:48.29,0:01:50.69,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}hatarakunda tte (hatarakunda tte)
+Dialogue: 0,0:01:50.82,0:01:53.27,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}m{\3c&H3A54EB&}i{\3c&H5169ED&}n{\3c&H7285F0&}n{\3c&H91A1F3&}a {\3c&HC2CBF8&}d{\3c&HE1E6FB&}e {\3c&HBDD5EB&}({\3c&HC3D7E6&}s{\3c&HCADAE0&}o{\3c&HD1DDDB&}!{\3c&HD5DED7&}) {\3c&H6A7EEF&}g{\3c&H4B63ED&}a{\3c&H2C48EA&}n{\3c&H2A46E9&}b{\3c&H4961EC&}a{\3c&H6277EF&}r{\3c&H7A8CF1&}e {\3c&HD1DDDA&}({\3c&HCBDBDF&}s{\3c&HC4D8E5&}o{\3c&HBDD6EA&}!{\3c&HB9D4EE&})
+Dialogue: 1,0:01:50.82,0:01:53.27,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna de (so!) ganbare (so!)
+Dialogue: 2,0:01:50.82,0:01:53.27,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord2.5}minna de (so!) ganbare (so!)
+Dialogue: 3,0:01:50.82,0:01:53.27,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}minna de (so!) ganbare (so!)
+Dialogue: 0,0:01:53.42,0:01:56.08,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}a{\3c&H344FEA&}s{\3c&H4E65ED&}h{\3c&H6378EF&}i{\3c&H7285F0&}t{\3c&H8999F2&}a {\3c&HB5C0F6&}n{\3c&HD2D9F9&}o {\3c&HF8FAFD&}h{\3c&HDCE2FA&}e{\3c&HC8D1F8&}i{\3c&HAEB9F6&}w{\3c&H8C9CF3&}a {\3c&H6075EE&}d{\3c&H445DEC&}a{\3c&H2744E9&}n{\3c&H2B47EA&}p{\3c&H4860EC&}u {\3c&H7487F0&}g{\3c&H8F9FF3&}e{\3c&HABB7F5&}n{\3c&HC5CDF8&}s{\3c&HDEE4FA&}h{\3c&HFBFDFD&}u
+Dialogue: 1,0:01:53.42,0:01:56.08,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}ashita no heiwa danpu genshu
+Dialogue: 2,0:01:53.42,0:01:56.08,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord2.5}ashita no heiwa danpu genshu
+Dialogue: 3,0:01:53.42,0:01:56.08,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}ashita no heiwa danpu genshu
+Dialogue: 0,0:01:56.08,0:01:58.75,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}s{\3c&H3651EB&}h{\3c&H4C64ED&}i{\3c&H6378EF&}n{\3c&H798CF1&}j{\3c&H8898F2&}i{\3c&H98A6F4&}t{\3c&HB0BBF6&}a {\3c&HE6EAFB&}m{\3c&HF3F6FC&}i{\3c&HDFE4FA&}c{\3c&HC3CCF8&}h{\3c&HADB8F6&}i {\3c&HD7DFD5&}({\3c&HDDE1D1&}s{\3c&HE4E3CB&}h{\3c&HEAE6C6&}i{\3c&HF0E8C1&}n{\3c&HF6EABC&}j{\3c&HF2E9BF&}i{\3c&HEDE7C3&}t{\3c&HE7E5C8&}a {\3c&HD8DFD4&}m{\3c&HD0DCDB&}i{\3c&HCBDADF&}c{\3c&HC3D8E6&}h{\3c&HBDD5EB&}i{\3c&HB9D4EE&})
+Dialogue: 1,0:01:56.08,0:01:58.75,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}shinjita michi (shinjita michi)
+Dialogue: 2,0:01:56.08,0:01:58.75,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord2.5}shinjita michi (shinjita michi)
+Dialogue: 3,0:01:56.08,0:01:58.75,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}shinjita michi (shinjita michi)
+Dialogue: 0,0:01:58.75,0:02:00.95,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}t{\3c&H324DEA&}s{\3c&H4F66ED&}u{\3c&H6F82F0&}k{\3c&H8697F2&}i{\3c&H9AA8F4&}s{\3c&HB8C2F7&}u{\3c&HD5DCF9&}s{\3c&HF2F5FC&}u{\3c&HE3E8FB&}n{\3c&HC2CCF8&}d{\3c&HA3B0F5&}e {\3c&H7B8DF1&}i{\3c&H6378EF&}k{\3c&H455EEC&}e {\3c&HF6EABC&}({\3c&HF1E8C0&}t{\3c&HEBE6C5&}s{\3c&HE3E3CC&}u{\3c&HDAE0D3&}k{\3c&HD4DED8&}i{\3c&HCEDCDD&}s{\3c&HC6D9E3&}u{\3c&HBED6EA&}s{\3c&HBCD5EC&}u{\3c&HC5D8E5&}n{\3c&HCDDBDD&}d{\3c&HD6DED6&}e {\3c&HE1E2CD&}i{\3c&HE7E5C8&}k{\3c&HF0E8C1&}e{\3c&HF6EABC&})
+Dialogue: 1,0:01:58.75,0:02:00.95,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}tsukisusunde ike (tsukisusunde ike)
+Dialogue: 2,0:01:58.75,0:02:00.95,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord2.5}tsukisusunde ike (tsukisusunde ike)
+Dialogue: 3,0:01:58.75,0:02:00.95,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}tsukisusunde ike (tsukisusunde ike)
+Dialogue: 0,0:02:01.18,0:02:03.64,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an1\blur15\bord6\3a&H50&\3c&H1B39E8&}h{\3c&H304CEA&}i{\3c&H4059EB&}t{\3c&H576DEE&}o{\3c&H6E81F0&}r{\3c&H7D8FF1&}i {\3c&H9BA9F4&}j{\3c&HB0BCF6&}a {\3c&HDDE3FA&}n{\3c&HFAFCFD&}a{\3c&HE7EBFB&}i {\3c&HC4CDF8&}s{\3c&HAAB6F5&}h{\3c&H95A4F3&}i{\3c&H7F91F1&}n{\3c&H6378EF&}a{\3c&H4961EC&}s{\3c&H304CEA&}e {\3c&H3752EB&}w{\3c&H5A70EE&}o {\3c&H8495F2&}s{\3c&H9EACF4&}h{\3c&HB4BFF6&}i{\3c&HC9D1F8&}n{\3c&HE6EBFB&}a{\3c&HFBFDFD&}i
+Dialogue: 1,0:02:01.18,0:02:03.64,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}hitori ja nai shinase wo shinai
+Dialogue: 2,0:02:01.18,0:02:03.64,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an1\bord2.5}hitori ja nai shinase wo shinai
+Dialogue: 3,0:02:01.18,0:02:03.64,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an1\c&H122BE9&\blur0.2}hitori ja nai shinase wo shinai
+Dialogue: 0,0:02:03.83,0:02:06.48,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an1\blur15\bord6\3a&H50&\3c&H1B39E8&}m{\3c&H3A54EB&}i{\3c&H4A62EC&}r{\3c&H6277EF&}a{\3c&H8192F2&}k{\3c&H9FADF4&}u{\3c&HB8C2F7&}r{\3c&HD1D8F9&}u {\3c&HF8FAFD&}s{\3c&HDCE1FA&}h{\3c&HBCC6F7&}u{\3c&H9DAAF4&}u{\3c&H7D8FF1&}d{\3c&H5F74EE&}a{\3c&H3F59EB&}n {\3c&H2441E9&}s{\3c&H3F58EB&}e{\3c&H5D73EE&}n{\3c&H798CF1&}s{\3c&H95A4F3&}u {\3c&HC6CFF8&}a{\3c&HE4E9FB&}k{\3c&HF3F6FC&}u{\3c&HDAE0FA&}t{\3c&HC1CAF8&}o{\3c&H9CAAF4&}w{\3c&H7789F1&}a{\3c&H586EEE&}a{\3c&H3A54EB&}k{\3c&H1B39E8&}u
+Dialogue: 1,0:02:03.83,0:02:06.48,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}mirakuru shuudan sensu akutowaaku
+Dialogue: 2,0:02:03.83,0:02:06.48,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an1\bord2.5}mirakuru shuudan sensu akutowaaku
+Dialogue: 3,0:02:03.83,0:02:06.48,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an1\c&H122BE9&\blur0.2}mirakuru shuudan sensu akutowaaku
+Dialogue: 0,0:02:06.48,0:02:09.11,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}m{\3c&H3954EB&}i{\3c&H5168ED&}n{\3c&H7084F0&}n{\3c&H8F9FF3&}a {\3c&HC0C9F7&}n{\3c&HDFE5FA&}o {\3c&HE9EEFB&}s{\3c&HCDD5F9&}h{\3c&HB6C1F7&}i {\3c&H8E9EF3&}d{\3c&H7083F0&}a{\3c&H576EEE&}t{\3c&H445DEC&}t{\3c&H2D49EA&}e {\3c&H3953EB&}h{\3c&H5067ED&}i{\3c&H6076EE&}t{\3c&H798BF1&}o{\3c&H92A1F3&}t{\3c&HA7B4F5&}s{\3c&HC3CCF8&}u {\3c&HF4F7FC&}n{\3c&HE2E7FB&}o {\3c&HB5C0F6&}s{\3c&H99A7F4&}h{\3c&H8293F2&}i{\3c&H6B7FF0&}g{\3c&H4D64ED&}o{\3c&H344FEA&}t{\3c&H1B39E8&}o
+Dialogue: 1,0:02:06.48,0:02:09.11,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna no shi datte hitotsu no shigoto
+Dialogue: 2,0:02:06.48,0:02:09.11,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord2.5}minna no shi datte hitotsu no shigoto
+Dialogue: 3,0:02:06.48,0:02:09.11,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}minna no shi datte hitotsu no shigoto
+Dialogue: 0,0:02:09.11,0:02:11.78,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}m{\3c&H3B55EB&}i{\3c&H546BED&}n{\3c&H7588F0&}n{\3c&H96A5F4&}a {\3c&HC9D1F8&}a{\3c&HE3E8FB&}t{\3c&HF9FCFD&}s{\3c&HDFE5FA&}u{\3c&HB6C1F7&}m{\3c&H8E9DF3&}a{\3c&H7487F0&}t{\3c&H6076EE&}t{\3c&H4760EC&}e {\3c&H213EE9&}h{\3c&H3953EB&}i{\3c&H4B63EC&}t{\3c&H657AEF&}o{\3c&H7F91F1&}t{\3c&H96A5F4&}s{\3c&HB3BEF6&}u {\3c&HE7ECFB&}n{\3c&HEEF1FC&}o {\3c&HBEC8F7&}s{\3c&HA0AEF4&}h{\3c&H8898F2&}i{\3c&H7083F0&}g{\3c&H4F67ED&}o{\3c&H3550EA&}t{\3c&H1B39E8&}o
+Dialogue: 1,0:02:09.11,0:02:11.78,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna atsumatte hitotsu no shigoto
+Dialogue: 2,0:02:09.11,0:02:11.78,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord2.5}minna atsumatte hitotsu no shigoto
+Dialogue: 3,0:02:09.11,0:02:11.78,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}minna atsumatte hitotsu no shigoto
+Dialogue: 0,0:02:11.78,0:02:17.33,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}s{\3c&H3650EB&}a{\3c&H4C64ED&}i{\3c&H6277EF&}b{\3c&H8091F1&}o{\3c&H9EACF4&}u {\3c&HC7CFF8&}f{\3c&HDCE2FA&}e{\3c&HF6F9FD&}s{\3c&HEBEFFB&}t{\3c&HD3DAF9&}a {\3c&HA3B0F5&}h{\3c&H8596F2&}a{\3c&H6D81F0&}t{\3c&H556CED&}a{\3c&H3E57EB&}r{\3c&H2643E9&}a{\3c&H2E49EA&}k{\3c&H4B63ED&}u {\3c&H788AF1&}s{\3c&H92A1F3&}a{\3c&HA8B5F5&}i{\3c&HBEC8F7&}b{\3c&HDDE2FA&}o{\3c&HFBFDFD&}u
+Dialogue: 1,0:02:11.78,0:02:17.33,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}saibou festa hataraku saibou
+Dialogue: 2,0:02:11.78,0:02:17.33,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord2.5}saibou festa hataraku saibou
+Dialogue: 3,0:02:11.78,0:02:17.33,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}saibou festa hataraku saibou
+Dialogue: 0,0:02:17.33,0:02:19.80,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}G{\3c&H3C56EB&}o {\3c&H6A7EEF&}g{\3c&H8797F2&}o {\3c&HB5C0F6&}g{\3c&HD2D9F9&}o {\3c&HF6F9FD&}g{\3c&HD9DFFA&}o {\3c&HABB7F5&}g{\3c&H8E9DF3&}o {\3c&H6075EE&}g{\3c&H435CEC&}o{\3c&H2D49EA&}! {\3c&H2C48EA&}s{\3c&H475FEC&}a{\3c&H5C72EE&}i{\3c&H7184F0&}k{\3c&H8E9EF3&}o{\3c&HACB8F6&}u {\3c&HC4D8E5&}({\3c&HBED6EA&}g{\3c&HBCD5EB&}o{\3c&HC2D7E7&}, {\3c&HCCDBDE&}g{\3c&HD4DED8&}o{\3c&HDAE0D3&}, {\3c&HE4E4CB&}g{\3c&HECE6C4&}o{\3c&HF2E9BF&}!{\3c&HF6EABC&})
+Dialogue: 1,0:02:17.33,0:02:19.80,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou (go, go, go!)
+Dialogue: 2,0:02:17.33,0:02:19.80,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord2.5}Go go go go go go! saikou (go, go, go!)
+Dialogue: 3,0:02:17.33,0:02:19.80,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}Go go go go go go! saikou (go, go, go!)
+Dialogue: 0,0:02:19.80,0:02:22.65,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}G{\3c&H405AEB&}o {\3c&H7487F0&}g{\3c&H95A4F3&}o {\3c&HC9D2F8&}g{\3c&HEBEFFB&}o {\3c&HD7DEFA&}g{\3c&HB6C1F7&}o {\3c&H8293F2&}g{\3c&H6176EF&}o {\3c&H2D49EA&}g{\3c&H2A46E9&}o{\3c&H435CEC&}! {\3c&H6B7FEF&}s{\3c&H8899F2&}a{\3c&HA1AEF5&}i{\3c&HB9C3F7&}k{\3c&HD9E0FA&}o{\3c&HFBFDFD&}u
+Dialogue: 1,0:02:19.80,0:02:22.65,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou
+Dialogue: 2,0:02:19.80,0:02:22.65,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\bord2.5}Go go go go go go! saikou
+Dialogue: 3,0:02:19.80,0:02:22.65,OP Lyrics,both,0,0,0,fx,{\fad(200,200)\an2\c&H122BE9&\blur0.2}Go go go go go go! saikou
