@@ -36,7 +36,7 @@ subs {
     }
 
     chapters {
-        from(merge.item())
+        from(get("chapters"))
     }
 
     mux {

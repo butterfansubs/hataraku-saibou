@@ -52,7 +52,7 @@ Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 0 acto
 Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 0 actor wbc,{\3c&HFBFDFD&}
 Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin char anystyle noblank layer 0 actor both,{!detect_bg()!\3c!get_color(make_colors(#line.chars))!!detect_fg()!}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:58.03,0:00:58.03,Default,chptr,0,0,0,sync,{OP}
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,sync,{OP}
 Comment: 0,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
 Comment: 0,0:01:04.25,0:01:07.00,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
 Comment: 0,0:01:09.79,0:01:14.46,OP Romaji,rbc,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}donna mainichi mo sutaato wo kitta nara

@@ -15,6 +15,7 @@ dialogue=${episode}/${showkey} - ${episode} (Dialogue).ass
 typesetting=${episode}/${showkey} - ${episode} (Signs*).ass
 OP=OP/Hataraku Saibou 2 - OP.ass
 ED=ED/Hataraku Saibou 2 - ED.ass
+chapters=${dialogue}
 
 premux=${episode}/${showkey} - ${episode} (Premux).mkv
 fonts=${FONTSDIR}/${episode}

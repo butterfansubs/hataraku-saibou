@@ -32,7 +32,7 @@ Comment: 0,0:21:22.00,0:21:22.00,Default,,0,0,0,code once,ln = _G.require 'ln.ka
 Comment: 0,0:21:22.00,0:21:22.00,Default,,0,0,0,code once,TAGS = {"\\blur2\\4a&H254&", "\\shad0\\bord0.7\\blur0.7", "\\shad0\\bord0\\blur1.2"}
 Comment: 0,0:21:22.00,0:21:22.00,ED Romaji,,0,0,0,template line loop 3,!relayer(j-1)!{!ln.line.tag({"fad"})!!TAGS[j]!}
 Comment: 0,0:21:22.00,0:21:22.00,ED Lyrics,,0,0,0,template line loop 3,!relayer(j-1)!{!ln.line.tag({"fad"})!!TAGS[j]!}
-Comment: 0,0:21:22.00,0:21:22.00,Default,chptr,0,0,0,sync,{ED}
+Comment: 0,0:21:22.01,0:21:22.01,Default,,0,0,0,sync,{ED}
 Comment: 0,0:21:22.33,0:21:26.08,ED Romaji,,0,0,0,karaoke,{\fad(250,250)\blur2\4a&H254&\}egao purasu issho nara
 Comment: 0,0:21:26.44,0:21:30.66,ED Romaji,,0,0,0,karaoke,{\fad(250,250)\blur2\4a&H254&\}namida niji ni naru
 Comment: 0,0:21:36.81,0:21:40.44,ED Romaji,,0,0,0,karaoke,{\fad(250,250)\blur2\4a&H254&\}ureshii kimochi afureru hi wa
