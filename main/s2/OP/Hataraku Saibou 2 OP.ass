@@ -52,7 +52,7 @@ Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 0 acto
 Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 0 actor wbc,{\3c&HFBFDFD&}
 Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin char anystyle noblank layer 0 actor both,{!detect_bg()!\3c!get_color(make_colors(#line.chars))!!detect_fg()!}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,,{OP Starts here in Episode 01}
+Comment: 0,0:00:58.03,0:00:58.03,Default,chptr,0,0,0,sync,{OP}
 Comment: 0,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
 Comment: 0,0:01:04.25,0:01:07.00,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
 Comment: 0,0:01:09.79,0:01:14.46,OP Romaji,rbc,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}donna mainichi mo sutaato wo kitta nara
@@ -95,7 +95,6 @@ Comment: 0,0:02:09.11,0:02:11.78,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2
 Comment: 0,0:02:11.78,0:02:17.33,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}saibou festa hataraku saibou
 Comment: 0,0:02:17.33,0:02:19.80,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou (go, go, go!)
 Comment: 0,0:02:19.80,0:02:22.65,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou
-Comment: 0,0:02:28.00,0:02:28.00,Default,,0,0,0,,{OP Ends here}
 Dialogue: 0,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}W{\3c&H3E58EB&}o{\3c&H5F74EE&}w{\3c&H788AF1&}, {\3c&HA1AEF5&}w{\3c&HC1CBF8&}o{\3c&HE2E7FB&}w{\3c&HFAFDFD&}, {\3c&HD2D9F9&}w{\3c&HB1BCF6&}o{\3c&H909FF3&}w{\3c&H7789F1&}, {\3c&H4E66ED&}w{\3c&H2E49EA&}o{\3c&H2946E9&}w{\3c&H435CEC&}, {\3c&H6B7FF0&}w{\3c&H8C9CF3&}o{\3c&HADB9F6&}w{\3c&HC6CFF8&}, {\3c&HEFF2FC&}w{\3c&HE6EBFB&}o{\3c&HC6CEF8&}w{\3c&HACB8F6&}, {\3c&H8495F2&}w{\3c&H6378EF&}o{\3c&H425BEC&}w{\3c&H2945E9&}, {\3c&H3650EA&}w{\3c&H576DEE&}o{\3c&H778AF1&}w{\3c&H91A0F3&}, {\3c&HB9C3F7&}w{\3c&HDAE0FA&}o{\3c&HFBFDFD&}w
 Dialogue: 1,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
 Dialogue: 2,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}Wow, wow, wow, wow, wow, wow, wow, wow, wow

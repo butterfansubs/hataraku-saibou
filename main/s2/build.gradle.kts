@@ -35,9 +35,9 @@ subs {
         out(get("mergefile"))
     }
 
-    // chapters {
-    //     from(get("chapters"))
-    // }
+    chapters {
+        from(merge.item())
+    }
 
     mux {
         // uncomment this line to disable font validation if necessary
@@ -66,9 +66,9 @@ subs {
             }
         }
 
-        // chapters(chapters.item()) {
-        //     lang("eng")
-        // }
+        chapters(chapters.item()) {
+            lang("eng")
+        }
 
         attach(get("fonts")) {
             includeExtensions("ttf", "otf")
