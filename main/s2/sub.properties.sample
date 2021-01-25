@@ -27,8 +27,4 @@ filebase=[${group}] ${showjpn} (${showeng}) - ${episode}
 mergefile=dist/${filebase}.ass
 muxfile=dist/${filebase} [${mux.crc}].mkv
 
-01.opsync=0:00:58.06
-
-01.edsync=0:21:22.03
-
 01.eptitle=Bump

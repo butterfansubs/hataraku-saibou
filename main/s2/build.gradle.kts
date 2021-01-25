@@ -20,16 +20,14 @@ subs {
 
         from(getList("typesetting"))
 
-        if (file(get("OP")).exists()) {
-            from(get("OP")) {
-                syncTargetTime(getAs<Duration>("opsync"))
-            }
+        from(get("OP")) {
+            syncSourceLine("sync", EventLineAccessor.EFFECT)
+            syncTargetLine("OP", EventLineAccessor.TEXT)
         }
 
-        if (file(get("ED")).exists()) {
-            from(get("ED")) {
-                syncTargetTime(getAs<Duration>("edsync"))
-            }
+        from(get("ED")) {
+            syncSourceLine("sync", EventLineAccessor.EFFECT)
+            syncTargetLine("ED", EventLineAccessor.TEXT)
         }
 
         out(get("mergefile"))
