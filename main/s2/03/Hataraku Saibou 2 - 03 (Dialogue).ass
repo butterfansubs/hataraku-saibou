@@ -18,9 +18,9 @@ Keyframes File: ep03_raw_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 240
-Active Line: 281
-Video Position: 20283
+Scroll Position: 351
+Active Line: 362
+Video Position: 33687
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,6 +29,7 @@ Style: Default-Alt,Kirinashi,63,&H00FFFFFF,&H00FFFFFF,&H00743E15,&HCC000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,chptr,{Prologue}
 Dialogue: 10,0:00:02.11,0:00:03.48,Default,,0,0,0,,Hello!
 Dialogue: 10,0:00:03.94,0:00:06.99,Default,,0,0,0,,I've come to deliver your oxygen and nutrients!
 Dialogue: 10,0:00:07.32,0:00:11.91,Default,,0,0,0,,Boy, have I been waiting for these! I'm starving!
@@ -52,6 +53,8 @@ Dialogue: 10,0:01:02.92,0:01:03.71,Default,,0,0,0,,What's going on?
 Dialogue: 10,0:01:04.04,0:01:05.67,Default,,0,0,0,,Where's the antigen?
 Dialogue: 10,0:01:07.26,0:01:09.55,Default,,0,0,0,,Wh-White Blood Cell! I-It's all right!
 Dialogue: 10,0:01:11.47,0:01:14.97,Default,,0,0,0,,Achoo!
+Comment: 0,0:01:14.97,0:01:14.97,Default,,0,0,0,chptr,{OP}
+Comment: 0,0:02:45.02,0:02:45.02,Default,,0,0,0,chptr,{Part A}
 Dialogue: 10,0:02:48.28,0:02:50.62,Default,,520,0,0,,I take a little break, and look what happens.
 Dialogue: 10,0:02:50.62,0:02:55.02,Default,,0,0,0,,Not exactly a breeze, reacting to each and every harmful material.
 Dialogue: 10,0:02:55.02,0:02:58.02,Default,,0,0,0,,Well, but it is my job, I guess.
@@ -210,6 +213,7 @@ Dialogue: 10,0:11:46.65,0:11:49.22,Default,,0,0,0,,Did the wind break your umbre
 Dialogue: 10,0:11:50.61,0:11:51.22,Default,,0,0,0,,Yes.
 Dialogue: 10,0:11:51.22,0:11:52.07,Default,,0,0,0,,Why, you...
 Dialogue: 10,0:11:52.34,0:11:55.62,Default,,0,0,0,,...public hazard cell!
+Comment: 0,0:11:56.99,0:11:56.99,Default,,0,0,0,chptr,{Part B}
 Dialogue: 10,0:12:07.99,0:12:09.96,Default,,0,0,0,,This inflammatory response...
 Dialogue: 10,0:12:10.82,0:12:12.16,Default,,0,0,0,,{\i1}Hair root.
 Dialogue: 10,0:12:12.16,0:12:16.42,Default,,0,0,0,,{\i1}The part of a hair embedded under the skin. The tissue where hair is developed.
@@ -387,6 +391,7 @@ Dialogue: 10,0:23:08.38,0:23:11.12,Default,,0,0,0,,Did you, uh, switch jobs?
 Dialogue: 10,0:23:11.68,0:23:13.77,Default,,0,0,0,,No, I just... you know...
 Dialogue: 10,0:23:15.73,0:23:17.77,Default,,0,0,0,,Big Brother, this is for you.
 Dialogue: 10,0:23:21.48,0:23:23.14,Default,,0,0,0,,It's a token of my gratitude!
+Comment: 0,0:23:25.01,0:23:25.01,Default,,0,0,0,chptr,{Preview}
 Dialogue: 10,0:23:25.70,0:23:29.22,Default,,0,0,0,,H. pylori go, "piro-piro," so what makes a sound like, "new-new"?
 Dialogue: 10,0:23:29.22,0:23:30.22,Default,,0,0,0,,A new employee?
 Dialogue: 10,0:23:30.22,0:23:31.97,Default,,0,0,0,,The answer is...
