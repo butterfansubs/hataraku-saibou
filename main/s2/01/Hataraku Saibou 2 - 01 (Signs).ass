@@ -25,33 +25,54 @@ Style: Signs - Infobox,PT Sans,50,&H00000000,&H00002EFF,&H00000000,&H00000000,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Infoboxes ==
-Dialogue: 0,0:04:04.97,0:04:08.44,Signs - Infobox,,0,0,0,,{\pos(88,179)\bord2.5\blur1\p1}m -25 0 l 570 0 570 220 -25 220
-Dialogue: 1,0:04:04.97,0:04:08.44,Signs - Infobox,,0,0,0,,{\pos(88,179)\c&HFFFFFF&\4a&HFF&\blur1\p1}m -25 0 l 570 0 570 220 -25 220
-Dialogue: 2,0:04:04.97,0:04:08.44,Signs - Infobox,,0,0,0,,{=30}{\pos(88,179)\b1\blur0.7}RED BLOOD CELL{\fs45\b0}\NHer red color is due to haemoglobin.\NShe transports oxygen and carbon\Ndioxide around the body.
-Dialogue: 0,0:04:26.63,0:04:30.79,Signs - Infobox,,0,0,0,,{\pos(866,751)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(155,200,\1a&H00&)\p1}m -25 0 l 690 0 690 220 -25 220
-Dialogue: 1,0:04:26.63,0:04:30.79,Signs - Infobox,,0,0,0,,{\pos(866,751)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -25 0 l 690 0 690 220 -25 220
-Dialogue: 2,0:04:26.63,0:04:30.79,Signs - Infobox,dialogue overlap,0,0,0,,{=30}{\pos(866,751)\b1\blur0.7\fad(200,0)}WHITE BLOOD CELL (NEUTROPHIL){\fs45\b0}\NHis main job is to destroy foreign substances\Nentering the body from outside, such as\Nbacteria and viruses.
-Dialogue: 0,0:06:40.42,0:06:42.88,Signs - Infobox,,0,0,0,,{\pos(938,747)\bord2.5\blur1\p1}m -25 0 l 630 0 630 220 -25 220
-Dialogue: 1,0:06:40.42,0:06:42.88,Signs - Infobox,,0,0,0,,{\pos(938,747)\c&HFFFFFF&\4a&HFF&\blur1\p1}m -25 0 l 630 0 630 220 -25 220
-Dialogue: 2,0:06:40.42,0:06:42.88,Signs - Infobox,dialogue overlap,0,0,0,,{=30}{\pos(938,747)\b1\blur0.7}PLATELETS{\fs45\b0}\NWhen blood vessels sustain an injury, \Nthey gather to seal the site of the wound\Nand stop bleeding.
-Dialogue: 0,0:07:05.78,0:07:10.83,Signs - Infobox,,0,0,0,,{\pos(968,739)\bord2.5\1a&HFF&\blur1\fad(200,200)\t(155,200,\1a&H00&)\t(4850,4890,\1a&HFF&)\p1}m -25 0 l 518 0 518 175 -25 175
-Dialogue: 1,0:07:05.78,0:07:10.83,Signs - Infobox,,0,0,0,,{\pos(968,739)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,200)\p1}m -25 0 l 518 0 518 175 -25 175
-Dialogue: 2,0:07:05.78,0:07:10.83,Signs - Infobox,dialogue overlap,0,0,0,,{=30}{\pos(968,739)\b1\blur0.7\fad(200,200)}COAGULATION FACTOR{\fs45\b0}\NFactor required for the formation \Nof blood clots.
-Dialogue: 0,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{=30}{\bord2.5\blur1\fad(200,0)\1a&HFF&\t(160,200,\1a&H00&)\p1\pos(883,178)}m -25 0 l 661 0 661 265 -25 265
-Dialogue: 1,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{=30}{\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1\pos(883,178)}m -25 0 l 661 0 661 265 -25 265
-Dialogue: 2,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{=30}{\b1\blur0.7\fad(200,0)\pos(883,178)}PRIMARY HEMOSTASIS{\fs45\b0}\NThe aggregation and clumping together of \Nplatelets during blood clot formation. \NPlatelets adhere to and accumulate \Nunderneath the vascular endothelial cells.
-Dialogue: 0,0:12:06.63,0:12:15.67,Signs - Infobox,,0,0,0,,{\pos(97,771)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(155,200,\1a&H00&)\p1}m -25 0 l 635 0 635 175 -25 175
-Dialogue: 1,0:12:06.63,0:12:15.67,Signs - Infobox,,0,0,0,,{\pos(97,771)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -25 0 l 635 0 635 175 -25 175
-Dialogue: 2,0:12:06.63,0:12:15.67,Signs - Infobox,dialogue overlap,0,0,0,,{=30}{\pos(97,771)\b1\blur0.7\fad(200,0)}BUMPS{\fs45\b0}\NLump-like protrusions caused by\N swelling and bleeding on the outer skull.
-Dialogue: 0,0:13:28.12,0:13:33.13,Signs - Infobox,,0,0,0,,{\pos(959,153)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(155,200,\1a&H00&)\p1}m -25 0 l 610 0 610 130 -25 130
-Dialogue: 1,0:13:28.12,0:13:33.13,Signs - Infobox,,0,0,0,,{\pos(959,153)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -25 0 l 610 0 610 130 -25 130
-Dialogue: 2,0:13:28.12,0:13:33.13,Signs - Infobox,,0,0,0,,{=30}{\pos(959,153)\b1\blur0.7\fad(200,0)}FIBRIN{\fs45\b0}\NProtein used for coagulating the blood.
-Dialogue: 0,0:15:18.86,0:15:27.95,Signs - Infobox,,0,0,0,,{\pos(853,164)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(155,200,\1a&H00&)\p1}m -25 0 l 720 0 720 175 -25 175
-Dialogue: 1,0:15:18.86,0:15:27.95,Signs - Infobox,,0,0,0,,{\pos(853,164)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -25 0 l 720 0 720 175 -25 175
-Dialogue: 2,0:15:18.86,0:15:27.95,Signs - Infobox,,0,0,0,,{=30}{\pos(853,164)\b1\blur0.7\fad(200,0)}MEGAKARYOCYTES\N{\fs45\b0}The cells that produce platelets.\NThe largest of all the cells in the bone marrow.
+Dialogue: 0,0:04:04.97,0:04:08.44,Signs - Infobox,,0,0,0,,{\pos(88,179)\bord2.5\blur1\p1}m -25 0 l 569 0 569 220 -25 220
+Dialogue: 1,0:04:04.97,0:04:08.44,Signs - Infobox,,0,0,0,,{\pos(88,179)\c&HFFFFFF&\4a&HFF&\blur1\p1}m -25 0 l 569 0 569 220 -25 220
+Dialogue: 2,0:04:04.97,0:04:08.44,Signs - Infobox,,0,0,0,,{\an1\pos(88,136)\b1\blur0.7}RED BLOOD CELL
+Dialogue: 2,0:04:04.97,0:04:08.44,Signs - Infobox,,0,0,0,,{\an1\pos(88,181)\fs45\blur0.7}Her red color is due to haemoglobin.
+Dialogue: 2,0:04:04.97,0:04:08.44,Signs - Infobox,,0,0,0,,{\an1\pos(88,226)\fs45\blur0.7}She transports oxygen and carbon
+Dialogue: 2,0:04:04.97,0:04:08.44,Signs - Infobox,,0,0,0,,{\an1\pos(88,271)\fs45\blur0.7}dioxide around the body.
+Dialogue: 0,0:04:26.63,0:04:30.79,Signs - Infobox,dialogue overlap,0,0,0,,{\pos(866,751)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(160,200,\1a&H00&)\p1}m -25 0 l 690 0 690 220 -25 220
+Dialogue: 1,0:04:26.63,0:04:30.79,Signs - Infobox,dialogue overlap,0,0,0,,{\pos(866,751)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -25 0 l 690 0 690 220 -25 220
+Dialogue: 2,0:04:26.63,0:04:30.79,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(866,708)\b1\blur0.7\fad(200,0)}WHITE BLOOD CELL (NEUTROPHIL)
+Dialogue: 2,0:04:26.63,0:04:30.79,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(866,753)\fs45\blur0.7\fad(200,0)}His main job is to destroy foreign substances
+Dialogue: 2,0:04:26.63,0:04:30.79,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(866,798)\fs45\blur0.7\fad(200,0)}entering the body from outside, such as
+Dialogue: 2,0:04:26.63,0:04:30.79,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(866,843)\fs45\blur0.7\fad(200,0)}bacteria and viruses.
+Dialogue: 0,0:06:40.42,0:06:42.88,Signs - Infobox,dialogue overlap,0,0,0,,{\pos(938,747)\bord2.5\blur1\p1}m -25 0 l 631 0 631 220 -25 220
+Dialogue: 1,0:06:40.42,0:06:42.88,Signs - Infobox,dialogue overlap,0,0,0,,{\pos(938,747)\c&HFFFFFF&\4a&HFF&\blur1\p1}m -25 0 l 631 0 631 220 -25 220
+Dialogue: 2,0:06:40.42,0:06:42.88,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(938,704)\b1\blur0.7}PLATELETS
+Dialogue: 2,0:06:40.42,0:06:42.88,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(938,749)\fs45\blur0.7}When blood vessels sustain an injury,
+Dialogue: 2,0:06:40.42,0:06:42.88,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(938,794)\fs45\blur0.7}they gather to seal the site of the wound
+Dialogue: 2,0:06:40.42,0:06:42.88,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(938,839)\fs45\blur0.7}and stop bleeding.
+Dialogue: 0,0:07:05.78,0:07:10.83,Signs - Infobox,dialogue overlap,0,0,0,,{\pos(968,739)\bord2.5\1a&HFF&\blur1\fad(200,200)\t(160,200,\1a&H00&)\t(4850,4890,\1a&HFF&)\p1}m -25 0 l 524 0 524 175 -25 175
+Dialogue: 1,0:07:05.78,0:07:10.83,Signs - Infobox,dialogue overlap,0,0,0,,{\pos(968,739)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,200)\p1}m -25 0 l 524 0 524 175 -25 175
+Dialogue: 2,0:07:05.78,0:07:10.83,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(968,719)\b1\blur0.7\fad(200,200)}COAGULATION FACTOR
+Dialogue: 2,0:07:05.78,0:07:10.83,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(968,764)\fs45\blur0.7\fad(200,200)}Factor required for the formation
+Dialogue: 2,0:07:05.78,0:07:10.83,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(968,809)\fs45\blur0.7\fad(200,200)}of blood clots.
+Dialogue: 0,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{\pos(883,178)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(160,200,\1a&H00&)\p1}m -25 0 l 666 0 666 265 -25 265
+Dialogue: 1,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{\pos(883,178)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -25 0 l 666 0 666 265 -25 265
+Dialogue: 2,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{\an1\pos(883,113)\b1\blur0.7\fad(200,0)}PRIMARY HEMOSTASIS
+Dialogue: 2,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{\an1\pos(883,158)\fs45\blur0.7\fad(200,0)}The aggregation and clumping together of
+Dialogue: 2,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{\an1\pos(883,203)\fs45\blur0.7\fad(200,0)}platelets during blood clot formation.
+Dialogue: 2,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{\an1\pos(883,248)\fs45\blur0.7\fad(200,0)}Platelets adhere to and accumulate
+Dialogue: 2,0:08:12.06,0:08:18.14,Signs - Infobox,,0,0,0,,{\an1\pos(883,293)\fs45\blur0.7\fad(200,0)}underneath the vascular endothelial cells.
+Dialogue: 0,0:12:06.63,0:12:15.67,Signs - Infobox,dialogue overlap,0,0,0,,{\pos(97,771)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(160,200,\1a&H00&)\p1}m -25 0 l 642 0 642 175 -25 175
+Dialogue: 1,0:12:06.63,0:12:15.67,Signs - Infobox,dialogue overlap,0,0,0,,{\pos(97,771)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -25 0 l 642 0 642 175 -25 175
+Dialogue: 2,0:12:06.63,0:12:15.67,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(97,751)\b1\blur0.7\fad(200,0)}BUMPS
+Dialogue: 2,0:12:06.63,0:12:15.67,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(97,796)\fs45\blur0.7\fad(200,0)}Lump-like protrusions caused by
+Dialogue: 2,0:12:06.63,0:12:15.67,Signs - Infobox,dialogue overlap,0,0,0,,{\an1\pos(97,841)\fs45\blur0.7\fad(200,0)} swelling and bleeding on the outer skull.
+Dialogue: 0,0:13:28.12,0:13:33.13,Signs - Infobox,,0,0,0,,{\pos(959,153)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(160,200,\1a&H00&)\p1}m -25 0 l 606 0 606 130 -25 130
+Dialogue: 1,0:13:28.12,0:13:33.13,Signs - Infobox,,0,0,0,,{\pos(959,153)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -25 0 l 606 0 606 130 -25 130
+Dialogue: 2,0:13:28.12,0:13:33.13,Signs - Infobox,,0,0,0,,{\an1\pos(959,155)\b1\blur0.7\fad(200,0)}FIBRIN
+Dialogue: 2,0:13:28.12,0:13:33.13,Signs - Infobox,,0,0,0,,{\an1\pos(959,200)\fs45\blur0.7\fad(200,0)}Protein used for coagulating the blood.
+Dialogue: 0,0:15:18.86,0:15:27.95,Signs - Infobox,,0,0,0,,{\pos(853,164)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(160,200,\1a&H00&)\p1}m -25 0 l 722 0 722 175 -25 175
+Dialogue: 1,0:15:18.86,0:15:27.95,Signs - Infobox,,0,0,0,,{\pos(853,164)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -25 0 l 722 0 722 175 -25 175
+Dialogue: 2,0:15:18.86,0:15:27.95,Signs - Infobox,,0,0,0,,{\an1\pos(853,144)\b1\blur0.7\fad(200,0)}MEGAKARYOCYTES
+Dialogue: 2,0:15:18.86,0:15:27.95,Signs - Infobox,,0,0,0,,{\an1\pos(853,189)\fs45\blur0.7\fad(200,0)}The cells that produce platelets.
+Dialogue: 2,0:15:18.86,0:15:27.95,Signs - Infobox,,0,0,0,,{\an1\pos(853,234)\fs45\blur0.7\fad(200,0)}The largest of all the cells in the bone marrow.
 Dialogue: 0,0:22:54.40,0:22:57.44,Signs - Infobox,,0,0,0,,{\pos(937,153)\bord2.5\1a&HFF&\blur1\fad(200,0)\t(155,200,\1a&H00&)\p1}m -30 0 l 555 0 555 130 -30 130
 Dialogue: 1,0:22:54.40,0:22:57.44,Signs - Infobox,,0,0,0,,{\pos(937,153)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -30 0 l 555 0 555 130 -30 130
-Dialogue: 2,0:22:54.40,0:22:57.44,Signs - Infobox,,0,0,0,,{=30}{\pos(937,153)\b1\blur0.7\fad(200,0)}BLOOD CLOT{\fs45\b0}\NSticky blob of coagulated blood.
+Dialogue: 2,0:22:54.40,0:22:57.44,Signs - Infobox,,0,0,0,,{\an1\pos(937,155)\b1\blur0.7\fad(200,0)}BLOOD CLOT
+Dialogue: 2,0:22:54.40,0:22:57.44,Signs - Infobox,,0,0,0,,{\an1\pos(937,200)\fs45\blur0.7\fad(200,0)}Sticky blob of coagulated blood.
 Comment: 0,0:00:50.11,0:00:50.99,Signs,skip?,0,0,0,,# WHITE BLOOD CELL #
 Comment: 0,0:02:53.99,0:03:02.33,Signs,skip,0,0,0,,# Box labels #
 Comment: 0,0:02:53.99,0:03:02.33,Signs,skip,0,0,0,,"FRAGILE"\N"CONDENSED GAS"
