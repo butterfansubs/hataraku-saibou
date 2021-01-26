@@ -190,7 +190,8 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -203,6 +204,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -265,7 +269,8 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Lyrics>
               <text>()</text>
               </Lyrics>
@@ -277,6 +282,9 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -311,7 +319,8 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -324,6 +333,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -352,7 +364,8 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -365,6 +378,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -393,7 +409,8 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -406,6 +423,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -434,7 +454,8 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -447,6 +468,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -475,7 +499,8 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -488,6 +513,9 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -533,8 +561,21 @@
         </Measure>
       <Measure>
         <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Lyrics>
+              <text>()</text>
+              </Lyrics>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              <small>1</small>
+              <velocity>1</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             </Rest>
           <Chord>
             <durationType>half</durationType>
@@ -880,7 +921,8 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>whole</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -893,6 +935,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -921,7 +966,7 @@
       <Measure>
         <voice>
           <Chord>
-            <dots>2</dots>
+            <dots>1</dots>
             <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
@@ -935,6 +980,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1036,6 +1084,16 @@
               <text>with</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-3/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1050,6 +1108,14 @@
               <text>me</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>3/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1086,6 +1152,16 @@
               <text>with</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-3/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1100,6 +1176,14 @@
               <text>me</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>3/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1136,6 +1220,16 @@
               <text>with</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-3/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1150,6 +1244,14 @@
               <text>me</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>3/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1186,6 +1288,16 @@
               <text>with</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-3/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1200,6 +1312,14 @@
               <text>me</text>
               </Lyrics>
             <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>3/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
