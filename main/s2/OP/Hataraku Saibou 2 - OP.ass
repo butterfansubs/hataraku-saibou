@@ -54,8 +54,8 @@ Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 0 acto
 Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin char anystyle noblank layer 0 actor both,{!detect_bg()!\3c!get_color(make_colors(#line.chars))!!detect_fg()!}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,sync,
-Comment: 0,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Comment: 0,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
+Comment: 0,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}wow, wow, wow, wow, wow, wow, wow, wow, wow
+Comment: 0,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}wow, wow, wow, wow, wow, wow, wow, wow, wow
 Comment: 0,0:01:09.43,0:01:14.62,OP Romaji,rbc,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}donna mainichi mo sutaato wo kitta nara
 Comment: 0,0:01:14.62,0:01:17.54,OP Romaji,rbc,0,0,0,karaoke,{\fad(200,200)\an7\bord1.9\shad2.7\blur1\3c&H000000&\b1}tekipaki patapata tada hashiru dake sa
 Comment: 0,0:01:19.81,0:01:25.00,OP Romaji,wbc,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}sainan kara hikan saikou no seika wa
@@ -76,27 +76,28 @@ Comment: 0,0:02:09.11,0:02:11.70,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8
 Comment: 0,0:02:11.70,0:02:17.22,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}saibou festa hataraku saibou
 Comment: 0,0:02:17.22,0:02:19.81,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou (go, go, go!)
 Comment: 0,0:02:19.81,0:02:22.41,OP Romaji,both,0,0,0,karaoke,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou
-Comment: 0,0:01:09.43,0:01:14.62,OP Lyrics,rbc,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}donna mainichi mo sutaato wo kitta nara
-Comment: 0,0:01:14.62,0:01:17.54,OP Lyrics,rbc,0,0,0,karaoke,{\fad(200,200)\an3\bord1.9\shad2.7\blur1\3c&H000000&\b1}tekipaki patapata tada hashiru dake sa
-Comment: 0,0:01:19.81,0:01:25.00,OP Lyrics,wbc,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}sainan kara hikan saikou no seika wa
-Comment: 0,0:01:25.00,0:01:28.89,OP Lyrics,wbc,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}boroboro yogoreta manma hitoiki tiitaimu
-Comment: 0,0:01:28.89,0:01:34.73,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an3\bord1.9\shad2.7\blur1\3c&H000000&\b1}otsukaresama wo kurikaeshite
-Comment: 0,0:01:34.73,0:01:40.57,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}mata guuzen kimi ni aitai (aitai, aitai, aitai)
-Comment: 0,0:01:40.57,0:01:42.51,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}motto tsuyoku naru kara
-Comment: 0,0:01:43.81,0:01:48.35,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}kyou mo nani ga attate (nani ga attate)
-Comment: 0,0:01:48.35,0:01:50.78,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}hatarakunda tte (hatarakunda tte)
-Comment: 0,0:01:50.78,0:01:53.38,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna de (so!) ganbare (so!)
-Comment: 0,0:01:53.38,0:01:56.14,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}ashita no heiwa danpu genshu
-Comment: 0,0:01:56.14,0:01:58.73,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}shinjita michi (shinjita michi)
-Comment: 0,0:01:58.73,0:02:01.16,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}tsukisusunde ike (tsukisusunde ike)
-Comment: 0,0:02:01.16,0:02:03.76,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}hitori ja nai shinase wo shinai
-Comment: 0,0:02:03.76,0:02:06.51,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}mirakuru shuudan sensu akutowaaku
-Comment: 0,0:02:06.51,0:02:09.11,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna no shi datte hitotsu no shigoto
-Comment: 0,0:02:09.11,0:02:11.70,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}minna atsumatte hitotsu no shigoto
-Comment: 0,0:02:11.70,0:02:17.22,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}saibou festa hataraku saibou
-Comment: 0,0:02:17.22,0:02:19.81,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou (go, go, go!)
-Comment: 0,0:02:19.81,0:02:22.41,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go go go go go go! saikou
-Dialogue: 0,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}W{\3c&H3E58EB&}o{\3c&H5F74EE&}w{\3c&H788AF1&}, {\3c&HA1AEF5&}w{\3c&HC1CBF8&}o{\3c&HE2E7FB&}w{\3c&HFAFDFD&}, {\3c&HD2D9F9&}w{\3c&HB1BCF6&}o{\3c&H909FF3&}w{\3c&H7789F1&}, {\3c&H4E66ED&}w{\3c&H2E49EA&}o{\3c&H2946E9&}w{\3c&H435CEC&}, {\3c&H6B7FF0&}w{\3c&H8C9CF3&}o{\3c&HADB9F6&}w{\3c&HC6CFF8&}, {\3c&HEFF2FC&}w{\3c&HE6EBFB&}o{\3c&HC6CEF8&}w{\3c&HACB8F6&}, {\3c&H8495F2&}w{\3c&H6378EF&}o{\3c&H425BEC&}w{\3c&H2945E9&}, {\3c&H3650EA&}w{\3c&H576DEE&}o{\3c&H778AF1&}w{\3c&H91A0F3&}, {\3c&HB9C3F7&}w{\3c&HDAE0FA&}o{\3c&HFBFDFD&}w
+Comment: 0,0:00:59.06,0:01:01.65,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa
+Comment: 0,0:01:04.24,0:01:06.84,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa
+Comment: 0,0:01:09.43,0:01:14.62,OP Lyrics,rbc,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}As we wake up every day, there's no time to waste, come on
+Comment: 0,0:01:14.62,0:01:17.54,OP Lyrics,rbc,0,0,0,karaoke,{\fad(200,200)\an3\bord1.9\shad2.7\blur1\3c&H000000&\b1}Gotta hurry, dash and scurry, all our work won't finish itself
+Comment: 0,0:01:19.81,0:01:25.00,OP Lyrics,wbc,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Keep on going when we fail, always pushing forward
+Comment: 0,0:01:25.00,0:01:28.89,OP Lyrics,wbc,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}And giving it our all until at last we get a moment for tea time
+Comment: 0,0:01:28.89,0:01:34.73,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an3\bord1.9\shad2.7\blur1\3c&H000000&\b1}And though our rest is short, we head on out once more
+Comment: 0,0:01:34.73,0:01:40.57,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}But I still hope that I'll see you again (again, again, again)
+Comment: 0,0:01:40.57,0:01:42.51,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}'Cause I wanna get stronger again!
+Comment: 0,0:01:43.81,0:01:48.35,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}I wonder what'll go on today? (What'll go on today?)
+Comment: 0,0:01:48.35,0:01:50.78,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}While we're out in the fray (While we're out in the fray)
+Comment: 0,0:01:50.78,0:01:53.38,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Everybody go! (Yeah!) Do the best you can! (Yeah!)
+Comment: 0,0:01:53.38,0:01:56.14,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}So that we can have a peaceful future
+Comment: 0,0:01:56.14,0:01:58.73,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Doing what's in my sight (Doing what's in my sight)
+Comment: 0,0:01:58.73,0:02:01.16,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}What I believe is right (What I believe is right)
+Comment: 0,0:02:01.16,0:02:03.76,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}No one left to cry, no one has to die
+Comment: 0,0:02:03.76,0:02:06.51,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an1\bord1.9\shad2.7\blur1\3c&H000000&\b1}We're the greatest team, the Cells at Work
+Comment: 0,0:02:06.51,0:02:09.11,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}(Though we're all different kinds) We have a single purpose
+Comment: 0,0:02:09.11,0:02:11.70,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}(When we all come gather 'round) We have a single purpose
+Comment: 0,0:02:11.70,0:02:17.22,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}It's a fiesta, all about Cells at Work!
+Comment: 0,0:02:17.22,0:02:19.81,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go, go, go, go, go, go, hey, let's go!
+Comment: 0,0:02:19.81,0:02:22.41,OP Lyrics,both,0,0,0,karaoke,{\fad(200,200)\an2\bord1.9\shad2.7\blur1\3c&H000000&\b1}Go, go, go, go, go, go, hey, let's go!
 Dialogue: 1,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord1.9\shad2.7\blur1\3c&H000000&\b1}Wow, wow, wow, wow, wow, wow, wow, wow, wow
 Dialogue: 2,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\bord2.5}Wow, wow, wow, wow, wow, wow, wow, wow, wow
 Dialogue: 3,0:00:59.06,0:01:02.01,OP Romaji,both,0,0,0,fx,{\fad(200,200)\an8\c&H122BE9&\blur0.2}Wow, wow, wow, wow, wow, wow, wow, wow, wow
