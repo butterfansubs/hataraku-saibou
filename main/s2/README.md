@@ -29,3 +29,7 @@ SubKt will automatically determine which tasks, if any, need to be redone, based
 ### Rendering the OP and ED templates
 
 The song styling is created using karaoke templates. The OP uses [0x.KaraTemplater](https://github.com/The0x539/Aegisub-Scripts) and the [0x.color](https://gist.github.com/The0x539/4e887675fa8378ed0a9da6b6c5576143) library. The ED uses the [KaraOK](https://github.com/logarrhythmic/karaOK) templater. Note that both rely on the `ln.kara` library from KaraOK.
+
+## Creating info boxes
+
+[`petzku.CellsBox.lua`](https://github.com/petzku/Aegisub-Scripts/blob/cells-box/macros/petzku.CellsBox.lua) is a utility that can be used as an aid to generating info boxes.
