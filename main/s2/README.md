@@ -24,6 +24,8 @@ Run `./gradlew mux.${EPISODE}` (e.g. `./gradlew mux.01`) to merge the scripts an
 
 You can also run `./gradlew merge.${EPISODE}` to only merge the scripts. The resulting ASS file will also be placed in `dist/`.
 
+Note that the video file to be used should be named `Hataraku Saibou 2 - ${EPISODE} (Premux).mkv`, and reside in the same directory as the corresponding ASS files.
+
 SubKt will automatically determine which tasks, if any, need to be redone, based on if the source files have changed. However, if the muxed file is deleted and no sources have changed, it will not notice that the file is missing. In this case, you can run it with `--rerun-tasks` to force all tasks to be re-executed.
 
 ### Rendering the OP and ED templates
