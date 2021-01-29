@@ -24,8 +24,9 @@ See the [project boards](https://github.com/butterfansubs/hataraku-saibou/projec
 #### Credits
 
 * **Encoding:** kageru
-* **Translation:** (Funimation)
+* **Translation:** Funimation (dialogue), Cruci (songs)
 * **Editing:** rcombs
-* **Timing:** snyte (01), torchlight (02-)
+* **Timing:** snyte (01, dialogue), torchlight (dialogue), bucket3432 (songs)
 * **Typesetting:** petzku
+* **Styling:** \[:v] (dialogue), Flower (songs)
 * **Quality Checking:** Bunny, bucket3432
