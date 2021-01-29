@@ -14,3 +14,18 @@ Fansubs by ButterFS and :v for the anime _Hataraku Saibou_ (_Cells at Work!_).
 * **Timing:** snyte
 * **Typesetting:** petzku, \[:v] (ep. 11)
 * **Quality Checking:** Bunny, bucket3432
+
+### Season 2
+
+#### Progress
+
+See the [project boards](https://github.com/butterfansubs/hataraku-saibou/projects).
+
+#### Credits
+
+* **Encoding:** kageru
+* **Translation:** (Funimation)
+* **Editing:** rcombs
+* **Timing:** snyte (01), torchlight (02-)
+* **Typesetting:** petzku
+* **Quality Checking:** Bunny, bucket3432
