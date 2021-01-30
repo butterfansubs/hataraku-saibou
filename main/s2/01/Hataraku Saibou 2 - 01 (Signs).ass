@@ -19,6 +19,7 @@ Video AR Value: 1.777778
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Signs,Kirinashi,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs - Eyecatch,Yaldevi Colombo SemiBold,50,&H000000EE,&H00002EFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Signs - Infobox,PT Sans,50,&H00000000,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
 
 [Events]
@@ -4928,20 +4929,33 @@ Comment: 0,0:12:24.35,0:12:24.35,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:12:24.35,0:12:25.10,Signs,,0,0,0,,{=18}{\pos(1288.8,603)\fscx70\fscy70\frz350.5\fnBangers\fs120\bord3\yshad-1\1a&HFF&\3a&HFF&\blur0.8\fad(150,170)\t(150,150,\1a&HFE&)\t(580,580,\1a&HFF&)\t(0.2,\yshad-200\fscx150\fscy150)}GRIP
 Dialogue: 1,0:12:24.35,0:12:25.10,Signs,,0,0,0,,{=18}{\pos(1288.8,603)\fscx70\fscy70\frz350.5\fnBangers\fs120\yshad-1\4c&HFBFAFA&\1a&HFE&\blur0.8\fad(150,170)\t(0.2,\yshad-200\fscx150\fscy150)}GRIP
 Comment: 0,0:13:04.97,0:13:14.98,Signs,,0,0,0,,# Eyecatches #
-Dialogue: 0,0:13:08.43,0:13:08.47,Signs,,0,0,0,,{=217=219}{\fscx112.39\fscy112.39\frz0.07\fade(255,0,255,0,180,250,250)\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(1021.52,703.42)}Cells at Work!!
-Dialogue: 0,0:13:08.47,0:13:08.51,Signs,,0,0,0,,{=217=219}{\fscx104.3\fscy104.3\frz0.07\fade(255,0,255,-40,140,210,210)\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(1005.57,685.19)}Cells at Work!!
-Dialogue: 0,0:13:08.51,0:13:08.55,Signs,,0,0,0,,{=217=219}{\fscx102.39\fscy102.39\frz0.07\fade(255,0,255,-80,100,170,170)\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(1001.82,680.88)}Cells at Work!!
-Dialogue: 0,0:13:08.55,0:13:08.60,Signs,,0,0,0,,{=217=219}{\fscx101.15\fscy101.15\frz0.07\fade(255,0,255,-120,60,130,130)\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(999.36,678.1)}Cells at Work!!
-Dialogue: 0,0:13:08.60,0:13:08.64,Signs,,0,0,0,,{=217=219}{\fscx100.42\fscy100.42\frz0.07\fade(255,0,255,-170,10,80,80)\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(997.94,676.43)}Cells at Work!!
-Dialogue: 0,0:13:08.64,0:13:08.68,Signs,,0,0,0,,{=217=219}{\fscx100\fscy100\frz0\fade(255,0,255,-210,-30,40,40)\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(997.12,675.09)}Cells at Work!!
-Dialogue: 0,0:13:08.68,0:13:09.98,Signs,,0,0,0,,{=217}{\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(997.12,675.09)}Cells at Work!!
-Dialogue: 0,0:13:13.44,0:13:13.48,Signs,,0,0,0,,{=217=219}{\fscx112.39\fscy112.39\frz0.07\fade(255,0,255,0,180,250,250)\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(1021.52,703.42)}Cells at Work!!
-Dialogue: 0,0:13:13.48,0:13:13.52,Signs,,0,0,0,,{=217=219}{\fscx104.3\fscy104.3\frz0.07\fade(255,0,255,-40,140,210,210)\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(1005.57,685.19)}Cells at Work!!
-Dialogue: 0,0:13:13.52,0:13:13.56,Signs,,0,0,0,,{=217=219}{\fscx102.39\fscy102.39\frz0.07\fade(255,0,255,-80,100,170,170)\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(1001.82,680.88)}Cells at Work!!
-Dialogue: 0,0:13:13.56,0:13:13.61,Signs,,0,0,0,,{=217=219}{\fscx101.15\fscy101.15\frz0.07\fade(255,0,255,-120,60,130,130)\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(999.36,678.1)}Cells at Work!!
-Dialogue: 0,0:13:13.61,0:13:13.65,Signs,,0,0,0,,{=217=219}{\fscx100.42\fscy100.42\frz0.07\fade(255,0,255,-170,10,80,80)\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(997.94,676.43)}Cells at Work!!
-Dialogue: 0,0:13:13.65,0:13:13.69,Signs,,0,0,0,,{=217=219}{\fscx100\fscy100\frz0\fade(255,0,255,-210,-30,40,40)\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(997.12,675.09)}Cells at Work!!
-Dialogue: 0,0:13:13.69,0:13:14.99,Signs,,0,0,0,,{=217}{\an5\c&H0000EE&\blur0.9\fnYaldevi Colombo SemiBold\pos(997.12,675.09)}Cells at Work!!
+Dialogue: 0,0:02:25.05,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(887.36,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}C
+Dialogue: 0,0:02:25.04,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(903.86,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}e
+Dialogue: 0,0:02:25.00,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(915.95,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}l
+Dialogue: 0,0:02:25.02,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(924.73,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}l
+Dialogue: 0,0:02:25.01,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(935.68,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}s
+Dialogue: 0,0:02:25.06,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(959.49,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}a
+Dialogue: 0,0:02:25.04,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(972.49,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}t
+Dialogue: 0,0:02:25.14,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1001.4,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}W
+Dialogue: 0,0:02:25.13,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1023.11,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}o
+Dialogue: 0,0:02:25.16,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1036.75,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}r
+Dialogue: 0,0:02:25.11,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1050.1,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}k
+Dialogue: 0,0:02:25.13,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1062.17,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}!
+Dialogue: 0,0:02:25.11,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1070.33,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}!
+Dialogue: 0,0:13:08.43,0:13:08.47,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx112.39\fscy112.39\frz0.07\fade(255,0,255,0,180,250,250)\blur0.9\pos(1021.52,703.42)}Cells at Work!!
+Dialogue: 0,0:13:08.47,0:13:08.51,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx104.3\fscy104.3\frz0.07\fade(255,0,255,-40,140,210,210)\blur0.9\pos(1005.57,685.19)}Cells at Work!!
+Dialogue: 0,0:13:08.51,0:13:08.55,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx102.39\fscy102.39\frz0.07\fade(255,0,255,-80,100,170,170)\blur0.9\pos(1001.82,680.88)}Cells at Work!!
+Dialogue: 0,0:13:08.55,0:13:08.60,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx101.15\fscy101.15\frz0.07\fade(255,0,255,-120,60,130,130)\blur0.9\pos(999.36,678.1)}Cells at Work!!
+Dialogue: 0,0:13:08.60,0:13:08.64,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx100.42\fscy100.42\frz0.07\fade(255,0,255,-170,10,80,80)\blur0.9\pos(997.94,676.43)}Cells at Work!!
+Dialogue: 0,0:13:08.64,0:13:08.68,Signs - Eyecatch,,0,0,0,,{=217=219}{\fade(255,0,255,-210,-30,40,40)\blur0.9\pos(997.12,675.09)}Cells at Work!!
+Dialogue: 0,0:13:08.68,0:13:09.98,Signs - Eyecatch,,0,0,0,,{=217}{\blur0.9\pos(997.12,675.09)}Cells at Work!!
+Dialogue: 0,0:13:13.44,0:13:13.48,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx112.39\fscy112.39\frz0.07\fade(255,0,255,0,180,250,250)\blur0.9\pos(1021.52,703.42)}Cells at Work!!
+Dialogue: 0,0:13:13.48,0:13:13.52,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx104.3\fscy104.3\frz0.07\fade(255,0,255,-40,140,210,210)\blur0.9\pos(1005.57,685.19)}Cells at Work!!
+Dialogue: 0,0:13:13.52,0:13:13.56,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx102.39\fscy102.39\frz0.07\fade(255,0,255,-80,100,170,170)\blur0.9\pos(1001.82,680.88)}Cells at Work!!
+Dialogue: 0,0:13:13.56,0:13:13.61,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx101.15\fscy101.15\frz0.07\fade(255,0,255,-120,60,130,130)\blur0.9\pos(999.36,678.1)}Cells at Work!!
+Dialogue: 0,0:13:13.61,0:13:13.65,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx100.42\fscy100.42\frz0.07\fade(255,0,255,-170,10,80,80)\blur0.9\pos(997.94,676.43)}Cells at Work!!
+Dialogue: 0,0:13:13.65,0:13:13.69,Signs - Eyecatch,,0,0,0,,{=217=219}{\fade(255,0,255,-210,-30,40,40)\blur0.9\pos(997.12,675.09)}Cells at Work!!
+Dialogue: 0,0:13:13.69,0:13:14.99,Signs - Eyecatch,,0,0,0,,{=217}{\blur0.9\pos(997.12,675.09)}Cells at Work!!
 Comment: 0,0:14:49.33,0:14:49.33,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:14:49.32,0:14:49.36,Signs,,0,0,0,,{=18=98}{\pos(142.95,426.08)\fscx156.44\fscy156.44\frz23.92\fnFOT-PopJoy Std B\fs150\b1\bord9.15\shad6.26\c&H1B4CEA&\3c&H1B4CEA&\alpha&HE4&\1a&HFE&\4a&HF5&\blur0.8}PLOP
 Dialogue: 0,0:14:49.36,0:14:49.40,Signs,,0,0,0,,{=18=98}{\pos(475.9,330.24)\fscx120.83\fscy120.83\frz23.92\fnFOT-PopJoy Std B\fs150\b1\bord7.07\shad4.83\c&H1B4CEA&\3c&H1B4CEA&\alpha&HAE&\1a&HFE&\4a&HE1&\blur0.8}PLOP
