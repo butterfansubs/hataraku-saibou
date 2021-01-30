@@ -74,6 +74,47 @@ Dialogue: 0,0:22:54.40,0:22:57.44,Signs - Infobox,,0,0,0,,{\pos(937,153)\bord2.5
 Dialogue: 1,0:22:54.40,0:22:57.44,Signs - Infobox,,0,0,0,,{\pos(937,153)\c&HFFFFFF&\4a&HFF&\blur1\fad(200,0)\p1}m -30 0 l 555 0 555 130 -30 130
 Dialogue: 2,0:22:54.40,0:22:57.44,Signs - Infobox,,0,0,0,,{\an1\pos(937,155)\b1\blur0.7\fad(200,0)}BLOOD CLOT
 Dialogue: 2,0:22:54.40,0:22:57.44,Signs - Infobox,,0,0,0,,{\an1\pos(937,200)\fs45\blur0.7\fad(200,0)}Sticky blob of coagulated blood.
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Titles ==
+Comment: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,# Episode Title #
+Dialogue: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,{=30}{\pos(800,666)\fnFOT-Rodin Pro EB\fs81\c&H0000FF&\blur0.7\b800}Chapter 1: Bump
+Comment: 0,0:23:25.01,0:23:25.01,Signs,,0,0,0,,# Next Episode Preview #
+Dialogue: 0,0:23:25.01,0:23:34.89,Signs,,0,0,0,,{=18}{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\b800\bord4\c&HFFFFE8&\3c&HFFFFE8&\blur0.8}Next Time
+Dialogue: 1,0:23:25.01,0:23:34.89,Signs,,0,0,0,,{=18}{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\b800\xshad-0.3\c&H0100FF&\4c&H000045&\4a&H64&\blur0.8}Next Time
+Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,650)\fnFOT-Rodin Pro EB\fs60\b800\bord4\c&HFFFFF1&\3c&HFFFFF1&\blur0.8}Chapter 2
+Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,650)\fnFOT-Rodin Pro EB\fs60\b800\xshad-0.1\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Chapter 2
+Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,721)\fnFOT-Rodin Pro EB\fs70\b800\bord4\c&HFFFFF1&\3c&HFFFFF1&\blur0.8}Acquired Immunity
+Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,721)\fnFOT-Rodin Pro EB\fs70\b800\xshad-0.1\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Acquired Immunity
+Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,791)\fnFOT-Rodin Pro EB\fs70\b800\bord4\c&HFFFFF1&\3c&HFFFFF1&\blur0.8}Peyer's Patch
+Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,791)\fnFOT-Rodin Pro EB\fs70\b800\xshad-0.1\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Peyer's Patch
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Eyecatches ==
+Dialogue: 0,0:02:25.05,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(887.36,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}C
+Dialogue: 0,0:02:25.04,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(903.86,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}e
+Dialogue: 0,0:02:25.00,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(915.95,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}l
+Dialogue: 0,0:02:25.02,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(924.73,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}l
+Dialogue: 0,0:02:25.01,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(935.68,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}s
+Dialogue: 0,0:02:25.06,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(959.49,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}a
+Dialogue: 0,0:02:25.04,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(972.49,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}t
+Dialogue: 0,0:02:25.14,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1001.4,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}W
+Dialogue: 0,0:02:25.13,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1023.11,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}o
+Dialogue: 0,0:02:25.16,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1036.75,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}r
+Dialogue: 0,0:02:25.11,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1050.1,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}k
+Dialogue: 0,0:02:25.13,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1062.17,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}!
+Dialogue: 0,0:02:25.11,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1070.33,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}!
+Dialogue: 0,0:13:08.43,0:13:08.47,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx112.39\fscy112.39\frz0.07\fade(255,0,255,0,180,250,250)\blur0.9\pos(1021.52,703.42)}Cells at Work!!
+Dialogue: 0,0:13:08.47,0:13:08.51,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx104.3\fscy104.3\frz0.07\fade(255,0,255,-40,140,210,210)\blur0.9\pos(1005.57,685.19)}Cells at Work!!
+Dialogue: 0,0:13:08.51,0:13:08.55,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx102.39\fscy102.39\frz0.07\fade(255,0,255,-80,100,170,170)\blur0.9\pos(1001.82,680.88)}Cells at Work!!
+Dialogue: 0,0:13:08.55,0:13:08.60,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx101.15\fscy101.15\frz0.07\fade(255,0,255,-120,60,130,130)\blur0.9\pos(999.36,678.1)}Cells at Work!!
+Dialogue: 0,0:13:08.60,0:13:08.64,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx100.42\fscy100.42\frz0.07\fade(255,0,255,-170,10,80,80)\blur0.9\pos(997.94,676.43)}Cells at Work!!
+Dialogue: 0,0:13:08.64,0:13:08.68,Signs - Eyecatch,,0,0,0,,{=217=219}{\fade(255,0,255,-210,-30,40,40)\blur0.9\pos(997.12,675.09)}Cells at Work!!
+Dialogue: 0,0:13:08.68,0:13:09.98,Signs - Eyecatch,,0,0,0,,{=217}{\blur0.9\pos(997.12,675.09)}Cells at Work!!
+Dialogue: 0,0:13:13.44,0:13:13.48,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx112.39\fscy112.39\frz0.07\fade(255,0,255,0,180,250,250)\blur0.9\pos(1021.52,703.42)}Cells at Work!!
+Dialogue: 0,0:13:13.48,0:13:13.52,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx104.3\fscy104.3\frz0.07\fade(255,0,255,-40,140,210,210)\blur0.9\pos(1005.57,685.19)}Cells at Work!!
+Dialogue: 0,0:13:13.52,0:13:13.56,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx102.39\fscy102.39\frz0.07\fade(255,0,255,-80,100,170,170)\blur0.9\pos(1001.82,680.88)}Cells at Work!!
+Dialogue: 0,0:13:13.56,0:13:13.61,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx101.15\fscy101.15\frz0.07\fade(255,0,255,-120,60,130,130)\blur0.9\pos(999.36,678.1)}Cells at Work!!
+Dialogue: 0,0:13:13.61,0:13:13.65,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx100.42\fscy100.42\frz0.07\fade(255,0,255,-170,10,80,80)\blur0.9\pos(997.94,676.43)}Cells at Work!!
+Dialogue: 0,0:13:13.65,0:13:13.69,Signs - Eyecatch,,0,0,0,,{=217=219}{\fade(255,0,255,-210,-30,40,40)\blur0.9\pos(997.12,675.09)}Cells at Work!!
+Dialogue: 0,0:13:13.69,0:13:14.99,Signs - Eyecatch,,0,0,0,,{=217}{\blur0.9\pos(997.12,675.09)}Cells at Work!!
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ==
 Comment: 0,0:00:50.11,0:00:50.99,Signs,skip?,0,0,0,,# WHITE BLOOD CELL #
 Comment: 0,0:02:53.99,0:03:02.33,Signs,skip,0,0,0,,# Box labels #
 Comment: 0,0:02:53.99,0:03:02.33,Signs,skip,0,0,0,,"FRAGILE"\N"CONDENSED GAS"
@@ -96,8 +137,6 @@ Dialogue: 2,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\pos(858.76,665.26)\frz
 Dialogue: 0,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\pos(898.31,668.7)\frz-6.754\fax0.12\fnKreon\fs85\fsp5\b1\bord4\c&HC0D3EC&\3c&HC0D3EC&\1a&HFF&\3a&H80&\blur0.8}Y
 Dialogue: 1,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\pos(898.31,668.7)\frz-6.754\fax0.12\fnKreon\fs85\fsp5\b1\bord4\c&HC0D3EC&\3c&HC0D3EC&\1a&HFF&\3a&H2D&\blur0.8\iclip(m 666 662.67 b 740 647 870 648.33 938 663.33 l 939.33 674 b 870.33 658.67 740.33 659.33 666 674)}Y
 Dialogue: 2,0:03:28.73,0:03:30.73,Signs,,0,0,0,,{=15=18}{\pos(898.31,668.7)\frz-6.754\fax0.12\fnKreon\fs85\fsp5\b1\c&H131946&\1a&H2D&\4a&HFF&\blur0.8}Y
-Comment: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,# Episode Title #
-Dialogue: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,{=30}{\pos(800,666)\fnFOT-Rodin Pro EB\fs81\c&H0000FF&\blur0.7\b800}Chapter 1: Bump
 Comment: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,# Cell shirt #
 Comment: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(481.6,464)\p1\c&HB9C0CB&}m -37 -69 l 46 -71 -19 110 -99 113
 Comment: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(481.6,464)\p1\c&HAAB1BC&}m -37 -69 l 46 -71 -19 110 -99 113
@@ -117,6 +156,213 @@ Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\an7\pos(481.6,464)\c&HACB
 Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\an7\pos(481.6,464)\c&HABB2BD&\blur1\clip(377,557,533,570)\p1\b1}m -37 -69 l 46 -71 -19 110 -99 113
 Dialogue: 0,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=19}{\an7\pos(481.6,464)\c&HAAB1BC&\blur1\clip(377,570,533,583)\p1\b1}m -37 -69 l 46 -71 -19 110 -99 113
 Dialogue: 1,0:03:56.72,0:04:03.18,Signs,,0,0,0,,{=18}{\pos(489.73,468.13)\frz8.49\fax-0.45\fnKarma\fs70\c&H080F19&\blur0.8}Cell
+Comment: 0,0:05:06.87,0:05:10.58,Signs,,0,0,0,,# Germ Soup #
+Dialogue: 0,0:05:06.86,0:05:06.91,Signs,,0,0,0,,{=30=212}{\pos(840.6,680.8)\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:06.91,0:05:06.95,Signs,,0,0,0,,{=30=212}{\pos(840.34,680.78)\fscx100.19\fscy100.19\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:06.95,0:05:06.99,Signs,,0,0,0,,{=30=212}{\pos(840.15,680.72)\fscx100.33\fscy100.33\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:06.99,0:05:07.03,Signs,,0,0,0,,{=30=212}{\pos(839.9,680.68)\fscx100.51\fscy100.51\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.03,0:05:07.07,Signs,,0,0,0,,{=30=212}{\pos(839.69,680.64)\fscx100.66\fscy100.66\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.07,0:05:07.11,Signs,,0,0,0,,{=30=212}{\pos(839.47,680.58)\fscx100.82\fscy100.82\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.11,0:05:07.16,Signs,,0,0,0,,{=30=212}{\pos(839.2,680.56)\fscx101.01\fscy101.01\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.16,0:05:07.20,Signs,,0,0,0,,{=30=212}{\pos(838.97,680.53)\fscx101.18\fscy101.18\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.20,0:05:07.24,Signs,,0,0,0,,{=30=212}{\pos(838.75,680.48)\fscx101.34\fscy101.34\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.24,0:05:07.28,Signs,,0,0,0,,{=30=212}{\pos(838.5,680.45)\fscx101.52\fscy101.52\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.28,0:05:07.32,Signs,,0,0,0,,{=30=212}{\pos(838.26,680.39)\fscx101.68\fscy101.68\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.32,0:05:07.37,Signs,,0,0,0,,{=30=212}{\pos(838.05,680.37)\fscx101.85\fscy101.85\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.37,0:05:07.41,Signs,,0,0,0,,{=30=212}{\pos(837.78,680.33)\fscx102.03\fscy102.03\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.41,0:05:07.45,Signs,,0,0,0,,{=30=212}{\pos(837.57,680.27)\fscx102.19\fscy102.19\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.45,0:05:07.49,Signs,,0,0,0,,{=30=212}{\pos(837.34,680.25)\fscx102.36\fscy102.36\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.49,0:05:07.53,Signs,,0,0,0,,{=30=212}{\pos(837.12,680.19)\fscx102.52\fscy102.52\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.53,0:05:07.57,Signs,,0,0,0,,{=30=212}{\pos(836.89,680.14)\fscx102.69\fscy102.69\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.57,0:05:07.62,Signs,,0,0,0,,{=30=212}{\pos(836.67,680.1)\fscx102.84\fscy102.84\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.62,0:05:07.66,Signs,,0,0,0,,{=30=212}{\pos(836.42,680.07)\fscx103.02\fscy103.02\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.66,0:05:07.70,Signs,,0,0,0,,{=30=212}{\pos(836.19,680.02)\fscx103.19\fscy103.19\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.70,0:05:07.74,Signs,,0,0,0,,{=30=212}{\pos(835.95,679.99)\fscx103.36\fscy103.36\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.74,0:05:07.78,Signs,,0,0,0,,{=30=212}{\pos(835.74,679.94)\fscx103.52\fscy103.52\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.78,0:05:07.82,Signs,,0,0,0,,{=30=212}{\pos(835.51,679.9)\fscx103.69\fscy103.69\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.82,0:05:07.87,Signs,,0,0,0,,{=30=212}{\pos(835.29,679.85)\fscx103.84\fscy103.84\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.87,0:05:07.91,Signs,,0,0,0,,{=30=212}{\pos(835.06,679.82)\fscx104.01\fscy104.01\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.91,0:05:07.95,Signs,,0,0,0,,{=30=212}{\pos(834.78,679.8)\fscx104.21\fscy104.21\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.95,0:05:07.99,Signs,,0,0,0,,{=30=212}{\pos(834.57,679.75)\fscx104.36\fscy104.36\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:07.99,0:05:08.03,Signs,,0,0,0,,{=30=212}{\pos(834.34,679.7)\fscx104.53\fscy104.53\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.03,0:05:08.07,Signs,,0,0,0,,{=30=212}{\pos(834.14,679.65)\fscx104.68\fscy104.68\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.07,0:05:08.12,Signs,,0,0,0,,{=30=212}{\pos(833.87,679.63)\fscx104.87\fscy104.87\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.12,0:05:08.16,Signs,,0,0,0,,{=30=212}{\pos(833.65,679.59)\fscx105.03\fscy105.03\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.16,0:05:08.20,Signs,,0,0,0,,{=30=212}{\pos(833.42,679.54)\fscx105.2\fscy105.2\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.20,0:05:08.24,Signs,,0,0,0,,{=30=212}{\pos(833.18,679.5)\fscx105.36\fscy105.36\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.24,0:05:08.28,Signs,,0,0,0,,{=30=212}{\pos(832.98,679.45)\fscx105.52\fscy105.52\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.28,0:05:08.32,Signs,,0,0,0,,{=30=212}{\pos(832.72,679.42)\fscx105.7\fscy105.7\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.32,0:05:08.37,Signs,,0,0,0,,{=30=212}{\pos(832.48,679.39)\fscx105.87\fscy105.87\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.37,0:05:08.41,Signs,,0,0,0,,{=30=212}{\pos(832.25,679.34)\fscx106.04\fscy106.04\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.41,0:05:08.45,Signs,,0,0,0,,{=30=212}{\pos(832.01,679.3)\fscx106.21\fscy106.21\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.45,0:05:08.49,Signs,,0,0,0,,{=30=212}{\pos(831.8,679.27)\fscx106.37\fscy106.37\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.49,0:05:08.53,Signs,,0,0,0,,{=30=212}{\pos(831.56,679.21)\fscx106.54\fscy106.54\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.53,0:05:08.57,Signs,,0,0,0,,{=30=212}{\pos(831.32,679.17)\fscx106.71\fscy106.71\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.57,0:05:08.62,Signs,,0,0,0,,{=30=212}{\pos(831.07,679.16)\fscx106.89\fscy106.89\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.62,0:05:08.66,Signs,,0,0,0,,{=30=212}{\pos(830.85,679.11)\fscx107.05\fscy107.05\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.66,0:05:08.70,Signs,,0,0,0,,{=30=212}{\pos(830.62,679.07)\fscx107.22\fscy107.22\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.70,0:05:08.74,Signs,,0,0,0,,{=30=212}{\pos(830.43,679)\fscx107.36\fscy107.36\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.74,0:05:08.78,Signs,,0,0,0,,{=30=212}{\pos(830.16,678.98)\fscx107.55\fscy107.55\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.78,0:05:08.82,Signs,,0,0,0,,{=30=212}{\pos(829.96,678.92)\fscx107.71\fscy107.71\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.82,0:05:08.87,Signs,,0,0,0,,{=30=212}{\pos(829.74,678.87)\fscx107.86\fscy107.86\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.87,0:05:08.91,Signs,,0,0,0,,{=30=212}{\pos(829.46,678.86)\fscx108.05\fscy108.05\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.91,0:05:08.95,Signs,,0,0,0,,{=30=212}{\pos(829.26,678.8)\fscx108.21\fscy108.21\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.95,0:05:08.99,Signs,,0,0,0,,{=30=212}{\pos(829.03,678.76)\fscx108.38\fscy108.38\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:08.99,0:05:09.03,Signs,,0,0,0,,{=30=212}{\pos(828.78,678.72)\fscx108.55\fscy108.55\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.03,0:05:09.08,Signs,,0,0,0,,{=30=212}{\pos(828.55,678.69)\fscx108.72\fscy108.72\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.08,0:05:09.12,Signs,,0,0,0,,{=30=212}{\pos(828.32,678.65)\fscx108.88\fscy108.88\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.12,0:05:09.16,Signs,,0,0,0,,{=30=212}{\pos(828.07,678.61)\fscx109.06\fscy109.06\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.16,0:05:09.20,Signs,,0,0,0,,{=30=212}{\pos(827.84,678.56)\fscx109.23\fscy109.23\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.20,0:05:09.24,Signs,,0,0,0,,{=30=212}{\pos(827.63,678.53)\fscx109.39\fscy109.39\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.24,0:05:09.28,Signs,,0,0,0,,{=30=212}{\pos(827.41,678.48)\fscx109.55\fscy109.55\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.28,0:05:09.33,Signs,,0,0,0,,{=30=212}{\pos(827.18,678.42)\fscx109.71\fscy109.71\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.33,0:05:09.37,Signs,,0,0,0,,{=30=212}{\pos(826.91,678.41)\fscx109.89\fscy109.89\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.37,0:05:09.41,Signs,,0,0,0,,{=30=212}{\pos(826.68,678.36)\fscx110.06\fscy110.06\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.41,0:05:09.45,Signs,,0,0,0,,{=30=212}{\pos(826.44,678.33)\fscx110.23\fscy110.23\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.45,0:05:09.49,Signs,,0,0,0,,{=30=212}{\pos(826.24,678.27)\fscx110.39\fscy110.39\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.49,0:05:09.53,Signs,,0,0,0,,{=30=212}{\pos(825.99,678.25)\fscx110.57\fscy110.57\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.53,0:05:09.58,Signs,,0,0,0,,{=30=212}{\pos(825.76,678.19)\fscx110.74\fscy110.74\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.58,0:05:09.62,Signs,,0,0,0,,{=30=212}{\pos(825.51,678.18)\fscx110.91\fscy110.91\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.62,0:05:09.66,Signs,,0,0,0,,{=30=212}{\pos(825.31,678.11)\fscx111.06\fscy111.06\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.66,0:05:09.70,Signs,,0,0,0,,{=30=212}{\pos(825.04,678.08)\fscx111.25\fscy111.25\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.70,0:05:09.74,Signs,,0,0,0,,{=30=212}{\pos(824.85,678.03)\fscx111.4\fscy111.4\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.74,0:05:09.78,Signs,,0,0,0,,{=30=212}{\pos(824.57,678)\fscx111.58\fscy111.58\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.78,0:05:09.83,Signs,,0,0,0,,{=30=212}{\pos(824.36,677.95)\fscx111.74\fscy111.74\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.83,0:05:09.87,Signs,,0,0,0,,{=30=212}{\pos(824.16,677.91)\fscx111.9\fscy111.9\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.87,0:05:09.91,Signs,,0,0,0,,{=30=212}{\pos(823.93,677.87)\fscx112.07\fscy112.07\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.91,0:05:09.95,Signs,,0,0,0,,{=30=212}{\pos(823.71,677.84)\fscx112.23\fscy112.23\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.95,0:05:09.99,Signs,,0,0,0,,{=30=212}{\pos(823.46,677.79)\fscx112.4\fscy112.4\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:09.99,0:05:10.03,Signs,,0,0,0,,{=30=212}{\pos(823.2,677.76)\fscx112.58\fscy112.58\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.03,0:05:10.08,Signs,,0,0,0,,{=30=212}{\pos(822.97,677.7)\fscx112.75\fscy112.75\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.08,0:05:10.12,Signs,,0,0,0,,{=30=212}{\pos(822.81,677.66)\fscx112.89\fscy112.89\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.12,0:05:10.16,Signs,,0,0,0,,{=30=212}{\pos(822.54,677.62)\fscx113.07\fscy113.07\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.16,0:05:10.20,Signs,,0,0,0,,{=30=212}{\pos(822.28,677.59)\fscx113.25\fscy113.25\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.20,0:05:10.24,Signs,,0,0,0,,{=30=212}{\pos(822.05,677.54)\fscx113.41\fscy113.41\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.24,0:05:10.28,Signs,,0,0,0,,{=30=212}{\pos(821.84,677.49)\fscx113.58\fscy113.58\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.28,0:05:10.33,Signs,,0,0,0,,{=30=212}{\pos(821.62,677.46)\fscx113.74\fscy113.74\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.33,0:05:10.37,Signs,,0,0,0,,{=30=212}{\pos(821.42,677.4)\fscx113.89\fscy113.89\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.37,0:05:10.41,Signs,,0,0,0,,{=30=212}{\pos(821.15,677.39)\fscx114.08\fscy114.08\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.41,0:05:10.45,Signs,,0,0,0,,{=30=212}{\pos(820.94,677.34)\fscx114.23\fscy114.23\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.45,0:05:10.49,Signs,,0,0,0,,{=30=212}{\pos(820.67,677.31)\fscx114.41\fscy114.41\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.49,0:05:10.54,Signs,,0,0,0,,{=30=212}{\pos(820.4,677.26)\fscx114.59\fscy114.59\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:10.54,0:05:10.58,Signs,,0,0,0,,{=30=212}{\pos(820.13,677.26)\fscx114.78\fscy114.78\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
+Dialogue: 0,0:05:06.86,0:05:06.91,Signs,,0,0,0,,{=30=211}{\pos(1055.3,601.8)\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:06.91,0:05:06.95,Signs,,0,0,0,,{=30=211}{\pos(1055.43,601.62)\fscx100.19\fscy100.19\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:06.95,0:05:06.99,Signs,,0,0,0,,{=30=211}{\pos(1055.55,601.44)\fscx100.33\fscy100.33\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:06.99,0:05:07.03,Signs,,0,0,0,,{=30=211}{\pos(1055.68,601.26)\fscx100.51\fscy100.51\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.03,0:05:07.07,Signs,,0,0,0,,{=30=211}{\pos(1055.8,601.09)\fscx100.66\fscy100.66\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.07,0:05:07.11,Signs,,0,0,0,,{=30=211}{\pos(1055.92,600.91)\fscx100.82\fscy100.82\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.11,0:05:07.16,Signs,,0,0,0,,{=30=211}{\pos(1056.06,600.75)\fscx101.01\fscy101.01\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.16,0:05:07.20,Signs,,0,0,0,,{=30=211}{\pos(1056.2,600.58)\fscx101.18\fscy101.18\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.20,0:05:07.24,Signs,,0,0,0,,{=30=211}{\pos(1056.33,600.41)\fscx101.34\fscy101.34\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.24,0:05:07.28,Signs,,0,0,0,,{=30=211}{\pos(1056.45,600.24)\fscx101.52\fscy101.52\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.28,0:05:07.32,Signs,,0,0,0,,{=30=211}{\pos(1056.58,600.06)\fscx101.68\fscy101.68\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.32,0:05:07.37,Signs,,0,0,0,,{=30=211}{\pos(1056.71,599.91)\fscx101.85\fscy101.85\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.37,0:05:07.41,Signs,,0,0,0,,{=30=211}{\pos(1056.84,599.72)\fscx102.03\fscy102.03\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.41,0:05:07.45,Signs,,0,0,0,,{=30=211}{\pos(1056.96,599.54)\fscx102.19\fscy102.19\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.45,0:05:07.49,Signs,,0,0,0,,{=30=211}{\pos(1057.1,599.37)\fscx102.36\fscy102.36\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.49,0:05:07.53,Signs,,0,0,0,,{=30=211}{\pos(1057.22,599.2)\fscx102.52\fscy102.52\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.53,0:05:07.57,Signs,,0,0,0,,{=30=211}{\pos(1057.35,599.01)\fscx102.69\fscy102.69\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.57,0:05:07.62,Signs,,0,0,0,,{=30=211}{\pos(1057.47,598.85)\fscx102.84\fscy102.84\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.62,0:05:07.66,Signs,,0,0,0,,{=30=211}{\pos(1057.6,598.67)\fscx103.02\fscy103.02\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.66,0:05:07.70,Signs,,0,0,0,,{=30=211}{\pos(1057.73,598.49)\fscx103.19\fscy103.19\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.70,0:05:07.74,Signs,,0,0,0,,{=30=211}{\pos(1057.86,598.34)\fscx103.36\fscy103.36\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.74,0:05:07.78,Signs,,0,0,0,,{=30=211}{\pos(1057.99,598.16)\fscx103.52\fscy103.52\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.78,0:05:07.82,Signs,,0,0,0,,{=30=211}{\pos(1058.12,597.97)\fscx103.69\fscy103.69\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.82,0:05:07.87,Signs,,0,0,0,,{=30=211}{\pos(1058.24,597.82)\fscx103.84\fscy103.84\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.87,0:05:07.91,Signs,,0,0,0,,{=30=211}{\pos(1058.37,597.63)\fscx104.01\fscy104.01\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.91,0:05:07.95,Signs,,0,0,0,,{=30=211}{\pos(1058.51,597.44)\fscx104.21\fscy104.21\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.95,0:05:07.99,Signs,,0,0,0,,{=30=211}{\pos(1058.63,597.29)\fscx104.36\fscy104.36\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:07.99,0:05:08.03,Signs,,0,0,0,,{=30=211}{\pos(1058.76,597.12)\fscx104.53\fscy104.53\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.03,0:05:08.07,Signs,,0,0,0,,{=30=211}{\pos(1058.89,596.94)\fscx104.68\fscy104.68\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.07,0:05:08.12,Signs,,0,0,0,,{=30=211}{\pos(1059.02,596.76)\fscx104.87\fscy104.87\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.12,0:05:08.16,Signs,,0,0,0,,{=30=211}{\pos(1059.14,596.6)\fscx105.03\fscy105.03\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.16,0:05:08.20,Signs,,0,0,0,,{=30=211}{\pos(1059.26,596.42)\fscx105.2\fscy105.2\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.20,0:05:08.24,Signs,,0,0,0,,{=30=211}{\pos(1059.39,596.26)\fscx105.36\fscy105.36\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.24,0:05:08.28,Signs,,0,0,0,,{=30=211}{\pos(1059.52,596.07)\fscx105.52\fscy105.52\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.28,0:05:08.32,Signs,,0,0,0,,{=30=211}{\pos(1059.65,595.91)\fscx105.7\fscy105.7\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.32,0:05:08.37,Signs,,0,0,0,,{=30=211}{\pos(1059.78,595.74)\fscx105.87\fscy105.87\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.37,0:05:08.41,Signs,,0,0,0,,{=30=211}{\pos(1059.91,595.57)\fscx106.04\fscy106.04\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.41,0:05:08.45,Signs,,0,0,0,,{=30=211}{\pos(1060.04,595.39)\fscx106.21\fscy106.21\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.45,0:05:08.49,Signs,,0,0,0,,{=30=211}{\pos(1060.17,595.23)\fscx106.37\fscy106.37\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.49,0:05:08.53,Signs,,0,0,0,,{=30=211}{\pos(1060.3,595.04)\fscx106.54\fscy106.54\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.53,0:05:08.57,Signs,,0,0,0,,{=30=211}{\pos(1060.43,594.86)\fscx106.71\fscy106.71\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.57,0:05:08.62,Signs,,0,0,0,,{=30=211}{\pos(1060.55,594.7)\fscx106.89\fscy106.89\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.62,0:05:08.66,Signs,,0,0,0,,{=30=211}{\pos(1060.68,594.51)\fscx107.05\fscy107.05\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.66,0:05:08.70,Signs,,0,0,0,,{=30=211}{\pos(1060.81,594.35)\fscx107.22\fscy107.22\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.70,0:05:08.74,Signs,,0,0,0,,{=30=211}{\pos(1060.93,594.18)\fscx107.36\fscy107.36\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.74,0:05:08.78,Signs,,0,0,0,,{=30=211}{\pos(1061.07,594)\fscx107.55\fscy107.55\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.78,0:05:08.82,Signs,,0,0,0,,{=30=211}{\pos(1061.2,593.82)\fscx107.71\fscy107.71\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.82,0:05:08.87,Signs,,0,0,0,,{=30=211}{\pos(1061.32,593.67)\fscx107.86\fscy107.86\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.87,0:05:08.91,Signs,,0,0,0,,{=30=211}{\pos(1061.45,593.48)\fscx108.05\fscy108.05\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.91,0:05:08.95,Signs,,0,0,0,,{=30=211}{\pos(1061.57,593.3)\fscx108.21\fscy108.21\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.95,0:05:08.99,Signs,,0,0,0,,{=30=211}{\pos(1061.71,593.14)\fscx108.38\fscy108.38\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:08.99,0:05:09.03,Signs,,0,0,0,,{=30=211}{\pos(1061.84,592.96)\fscx108.55\fscy108.55\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.03,0:05:09.08,Signs,,0,0,0,,{=30=211}{\pos(1061.96,592.78)\fscx108.72\fscy108.72\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.08,0:05:09.12,Signs,,0,0,0,,{=30=211}{\pos(1062.08,592.62)\fscx108.88\fscy108.88\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.12,0:05:09.16,Signs,,0,0,0,,{=30=211}{\pos(1062.22,592.44)\fscx109.06\fscy109.06\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.16,0:05:09.20,Signs,,0,0,0,,{=30=211}{\pos(1062.34,592.27)\fscx109.23\fscy109.23\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.20,0:05:09.24,Signs,,0,0,0,,{=30=211}{\pos(1062.47,592.1)\fscx109.39\fscy109.39\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.24,0:05:09.28,Signs,,0,0,0,,{=30=211}{\pos(1062.61,591.93)\fscx109.55\fscy109.55\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.28,0:05:09.33,Signs,,0,0,0,,{=30=211}{\pos(1062.72,591.75)\fscx109.71\fscy109.71\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.33,0:05:09.37,Signs,,0,0,0,,{=30=211}{\pos(1062.85,591.59)\fscx109.89\fscy109.89\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.37,0:05:09.41,Signs,,0,0,0,,{=30=211}{\pos(1062.98,591.4)\fscx110.06\fscy110.06\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.41,0:05:09.45,Signs,,0,0,0,,{=30=211}{\pos(1063.11,591.23)\fscx110.23\fscy110.23\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.45,0:05:09.49,Signs,,0,0,0,,{=30=211}{\pos(1063.24,591.05)\fscx110.39\fscy110.39\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.49,0:05:09.53,Signs,,0,0,0,,{=30=211}{\pos(1063.37,590.89)\fscx110.57\fscy110.57\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.53,0:05:09.58,Signs,,0,0,0,,{=30=211}{\pos(1063.51,590.71)\fscx110.74\fscy110.74\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.58,0:05:09.62,Signs,,0,0,0,,{=30=211}{\pos(1063.64,590.55)\fscx110.91\fscy110.91\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.62,0:05:09.66,Signs,,0,0,0,,{=30=211}{\pos(1063.75,590.35)\fscx111.06\fscy111.06\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.66,0:05:09.70,Signs,,0,0,0,,{=30=211}{\pos(1063.89,590.19)\fscx111.25\fscy111.25\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.70,0:05:09.74,Signs,,0,0,0,,{=30=211}{\pos(1064.01,590.02)\fscx111.4\fscy111.4\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.74,0:05:09.78,Signs,,0,0,0,,{=30=211}{\pos(1064.13,589.84)\fscx111.58\fscy111.58\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.78,0:05:09.83,Signs,,0,0,0,,{=30=211}{\pos(1064.27,589.66)\fscx111.74\fscy111.74\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.83,0:05:09.87,Signs,,0,0,0,,{=30=211}{\pos(1064.4,589.5)\fscx111.9\fscy111.9\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.87,0:05:09.91,Signs,,0,0,0,,{=30=211}{\pos(1064.53,589.31)\fscx112.07\fscy112.07\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.91,0:05:09.95,Signs,,0,0,0,,{=30=211}{\pos(1064.66,589.14)\fscx112.23\fscy112.23\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.95,0:05:09.99,Signs,,0,0,0,,{=30=211}{\pos(1064.78,588.99)\fscx112.4\fscy112.4\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:09.99,0:05:10.03,Signs,,0,0,0,,{=30=211}{\pos(1064.9,588.81)\fscx112.58\fscy112.58\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.03,0:05:10.08,Signs,,0,0,0,,{=30=211}{\pos(1065.04,588.64)\fscx112.75\fscy112.75\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.08,0:05:10.12,Signs,,0,0,0,,{=30=211}{\pos(1065.16,588.46)\fscx112.89\fscy112.89\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.12,0:05:10.16,Signs,,0,0,0,,{=30=211}{\pos(1065.31,588.29)\fscx113.07\fscy113.07\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.16,0:05:10.20,Signs,,0,0,0,,{=30=211}{\pos(1065.42,588.12)\fscx113.25\fscy113.25\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.20,0:05:10.24,Signs,,0,0,0,,{=30=211}{\pos(1065.55,587.95)\fscx113.41\fscy113.41\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.24,0:05:10.28,Signs,,0,0,0,,{=30=211}{\pos(1065.68,587.76)\fscx113.58\fscy113.58\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.28,0:05:10.33,Signs,,0,0,0,,{=30=211}{\pos(1065.81,587.59)\fscx113.74\fscy113.74\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.33,0:05:10.37,Signs,,0,0,0,,{=30=211}{\pos(1065.94,587.41)\fscx113.89\fscy113.89\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.37,0:05:10.41,Signs,,0,0,0,,{=30=211}{\pos(1066.07,587.25)\fscx114.08\fscy114.08\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.41,0:05:10.45,Signs,,0,0,0,,{=30=211}{\pos(1066.18,587.06)\fscx114.23\fscy114.23\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.45,0:05:10.49,Signs,,0,0,0,,{=30=211}{\pos(1066.31,586.89)\fscx114.41\fscy114.41\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.49,0:05:10.54,Signs,,0,0,0,,{=30=211}{\pos(1066.43,586.72)\fscx114.59\fscy114.59\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Dialogue: 0,0:05:10.54,0:05:10.58,Signs,,0,0,0,,{=30=211}{\pos(1066.57,586.58)\fscx114.78\fscy114.78\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
+Comment: 0,0:05:40.28,0:05:47.91,Signs,skip?,0,0,0,,# WHITE BLOOD CELL #
+Comment: 0,0:05:40.28,0:05:47.91,Signs,,0,0,0,,# WBC Tea #
+Dialogue: 0,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\an7\pos(0,0)\c&HC6FEDB&\blur1\t(0,160,\c&H5DD79A&)\p1\b1}m 803 639.8 l 807 713.8 836 715.8 827 733.8 839.51 737.29 859.09 739.45 903 743.8 910 669.8
+Dialogue: 1,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\an7\pos(0,0)\c&HC6FEDB&\blur1\t(0,160,\c&H26A558&)\p1\b1}m 850.18 742.69 b 841.04 735.19 839.94 733.03 830.55 724.8 l 825.45 733.52 833.23 739.22
+Dialogue: 1,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\pos(839.48,669.24)\frz9.377\fnComplete in Him\fs30\c&HC6FEDB&\blur0.7\t(0,160,\c&H0C0A0F&)}Relaxing
+Dialogue: 1,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\pos(863.63,715.91)\frz5.78\fnComplete in Him\fs60\c&HC6FEDB&\blur0.6\t(0,160,\c&H0C0A0F&)}Tea
+Dialogue: 0,0:05:45.66,0:05:47.91,Signs,,0,0,0,,{=19}{\pos(962.4,70.8)\frz2.804\fnArial Rounded MT Bold PL\bord4\c&H046122&\3c&H046122&\blur0.6}This tea is so good!
+Dialogue: 1,0:05:45.66,0:05:47.91,Signs,,0,0,0,,{=19}{\pos(962.4,70.8)\frz2.804\fnArial Rounded MT Bold PL\c&H57FBD7&\4a&HFF&\blur0.5}T{\c&H53FAD2&}h{\c&H50F9CD&}i{\c&H4CF8C8&}s {\c&H45F6BE&}t{\c&H42F5B9&}e{\c&H3EF4B4&}a {\c&H37F2AA&}i{\c&H34F2A5&}s {\c&H2DF09B&}s{\c&H29EF96&}o {\c&H22ED8C&}g{\c&H1FEC87&}o{\c&H1BEB82&}o{\c&H18EA7D&}d{\c&H15EA78&}!
+Comment: 0,0:07:49.82,0:07:50.32,Signs,skip?,0,0,0,,# Platelet hat sweep #
+Comment: 0,0:08:51.84,0:09:02.23,Signs,skip?,0,0,0,,# Platelet hats #
+Comment: 0,0:08:55.77,0:08:57.60,Signs,skip,0,0,0,,# SNACK #
+Comment: 0,0:09:32.84,0:09:35.26,Signs,skip?,0,0,0,,# WHITE BLOOD CELL #
+Comment: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,# Megakaryocyte Hat #
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=215}{\fnKaimin Sora Web\fs145\b900\frz19.499\c&H1D1B17&\pos(313.38,265.34)\blur0.8\fax-0.36}M
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz16.219\c&H1D1B17&\pos(398.59,238.35)\blur0.8\fax-0.3}E
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz13.932\c&H1D1B17&\pos(476.25,217.25)\blur0.8\fax-0.26}G
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz9.984\c&H1D1B17&\pos(560.83,199.52)\blur0.8\fax-0.18}A
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz7.05\c&H1D1B17&\pos(642.49,186.93)\blur0.8\fax-0.13}K
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz2.312\c&H1D1B17&\pos(724.89,180.89)\blur0.8\fax-0.05}A
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-0.994\c&H1D1B17&\pos(805.9,179.56)\blur0.8\fax0.01}R
+Dialogue: 1,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-0.994\c&H2D2D2B&\pos(805.9,179.56)\blur0.8\fax0.01\clip(m 826.97 151.82 l 827.79 233.63 826.11 232.79 825.26 150.7)}R
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-6.023\c&H1D1B17&\pos(882.99,184.78)\blur0.8\fax0.1}Y
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-9.334\c&H1D1B17&\pos(966.17,195.06)\blur0.8\fax0.16}O
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-12.55\c&H1D1B17&\pos(1051.31,211.12)\blur0.8\fax0.21}C
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-15.628\c&H1D1B17&\pos(1128.71,230.9)\blur0.8\fax0.27}Y
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-18.538\c&H1D1B17&\pos(1204.25,254.73)\blur0.8\fax0.33}T
+Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-21.258\c&H1D1B17&\pos(1276.52,281.22)\blur0.8\fax0.38}E
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== SFX ==
 Comment: 0,0:04:05.93,0:04:08.44,Signs,,0,0,0,,# RBC sfx #
 Dialogue: 0,0:04:05.93,0:04:05.97,Signs,,0,0,0,,{=30=202}{\pos(654.2,576.8)\frz29.88\fnBangers\fs80\bord2.5\c&H06706D&\3c&H06706D&\1a&HFF&\3a&HA7&\blur0.7}STING
 Dialogue: 0,0:04:05.97,0:04:06.01,Signs,,0,0,0,,{=30=202}{\pos(654.39,576.64)\fscx99.87\fscy99.87\frz29.88\fnBangers\fs80\bord2.5\c&H06706D&\3c&H06706D&\1a&HFF&\3a&H6F&\blur0.7}STING
@@ -358,193 +604,6 @@ Dialogue: 1,0:04:08.26,0:04:08.31,Signs,,0,0,0,,{=30=175}{\pos(767.79,713.5)\fsc
 Dialogue: 1,0:04:08.31,0:04:08.35,Signs,,0,0,0,,{=30=175}{\pos(767.81,713.42)\fscx90.89\fscy90.89\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
 Dialogue: 1,0:04:08.35,0:04:08.39,Signs,,0,0,0,,{=30=175}{\pos(767.81,713.37)\fscx90.87\fscy90.87\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
 Dialogue: 1,0:04:08.39,0:04:08.43,Signs,,0,0,0,,{=30=175}{\pos(767.81,713.36)\fscx90.87\fscy90.87\frz29.72\fnBangers\fs80\c&H4FF8EF&\4a&HFF&\blur0.7}STING
-Comment: 0,0:05:06.87,0:05:10.58,Signs,,0,0,0,,# Germ Soup #
-Dialogue: 0,0:05:06.86,0:05:06.91,Signs,,0,0,0,,{=30=212}{\pos(840.6,680.8)\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:06.91,0:05:06.95,Signs,,0,0,0,,{=30=212}{\pos(840.34,680.78)\fscx100.19\fscy100.19\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:06.95,0:05:06.99,Signs,,0,0,0,,{=30=212}{\pos(840.15,680.72)\fscx100.33\fscy100.33\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:06.99,0:05:07.03,Signs,,0,0,0,,{=30=212}{\pos(839.9,680.68)\fscx100.51\fscy100.51\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.03,0:05:07.07,Signs,,0,0,0,,{=30=212}{\pos(839.69,680.64)\fscx100.66\fscy100.66\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.07,0:05:07.11,Signs,,0,0,0,,{=30=212}{\pos(839.47,680.58)\fscx100.82\fscy100.82\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.11,0:05:07.16,Signs,,0,0,0,,{=30=212}{\pos(839.2,680.56)\fscx101.01\fscy101.01\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.16,0:05:07.20,Signs,,0,0,0,,{=30=212}{\pos(838.97,680.53)\fscx101.18\fscy101.18\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.20,0:05:07.24,Signs,,0,0,0,,{=30=212}{\pos(838.75,680.48)\fscx101.34\fscy101.34\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.24,0:05:07.28,Signs,,0,0,0,,{=30=212}{\pos(838.5,680.45)\fscx101.52\fscy101.52\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.28,0:05:07.32,Signs,,0,0,0,,{=30=212}{\pos(838.26,680.39)\fscx101.68\fscy101.68\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.32,0:05:07.37,Signs,,0,0,0,,{=30=212}{\pos(838.05,680.37)\fscx101.85\fscy101.85\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.37,0:05:07.41,Signs,,0,0,0,,{=30=212}{\pos(837.78,680.33)\fscx102.03\fscy102.03\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.41,0:05:07.45,Signs,,0,0,0,,{=30=212}{\pos(837.57,680.27)\fscx102.19\fscy102.19\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.45,0:05:07.49,Signs,,0,0,0,,{=30=212}{\pos(837.34,680.25)\fscx102.36\fscy102.36\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.49,0:05:07.53,Signs,,0,0,0,,{=30=212}{\pos(837.12,680.19)\fscx102.52\fscy102.52\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.53,0:05:07.57,Signs,,0,0,0,,{=30=212}{\pos(836.89,680.14)\fscx102.69\fscy102.69\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.57,0:05:07.62,Signs,,0,0,0,,{=30=212}{\pos(836.67,680.1)\fscx102.84\fscy102.84\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.62,0:05:07.66,Signs,,0,0,0,,{=30=212}{\pos(836.42,680.07)\fscx103.02\fscy103.02\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.66,0:05:07.70,Signs,,0,0,0,,{=30=212}{\pos(836.19,680.02)\fscx103.19\fscy103.19\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.70,0:05:07.74,Signs,,0,0,0,,{=30=212}{\pos(835.95,679.99)\fscx103.36\fscy103.36\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.74,0:05:07.78,Signs,,0,0,0,,{=30=212}{\pos(835.74,679.94)\fscx103.52\fscy103.52\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.78,0:05:07.82,Signs,,0,0,0,,{=30=212}{\pos(835.51,679.9)\fscx103.69\fscy103.69\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.82,0:05:07.87,Signs,,0,0,0,,{=30=212}{\pos(835.29,679.85)\fscx103.84\fscy103.84\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.87,0:05:07.91,Signs,,0,0,0,,{=30=212}{\pos(835.06,679.82)\fscx104.01\fscy104.01\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.91,0:05:07.95,Signs,,0,0,0,,{=30=212}{\pos(834.78,679.8)\fscx104.21\fscy104.21\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.95,0:05:07.99,Signs,,0,0,0,,{=30=212}{\pos(834.57,679.75)\fscx104.36\fscy104.36\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:07.99,0:05:08.03,Signs,,0,0,0,,{=30=212}{\pos(834.34,679.7)\fscx104.53\fscy104.53\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.03,0:05:08.07,Signs,,0,0,0,,{=30=212}{\pos(834.14,679.65)\fscx104.68\fscy104.68\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.07,0:05:08.12,Signs,,0,0,0,,{=30=212}{\pos(833.87,679.63)\fscx104.87\fscy104.87\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.12,0:05:08.16,Signs,,0,0,0,,{=30=212}{\pos(833.65,679.59)\fscx105.03\fscy105.03\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.16,0:05:08.20,Signs,,0,0,0,,{=30=212}{\pos(833.42,679.54)\fscx105.2\fscy105.2\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.20,0:05:08.24,Signs,,0,0,0,,{=30=212}{\pos(833.18,679.5)\fscx105.36\fscy105.36\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.24,0:05:08.28,Signs,,0,0,0,,{=30=212}{\pos(832.98,679.45)\fscx105.52\fscy105.52\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.28,0:05:08.32,Signs,,0,0,0,,{=30=212}{\pos(832.72,679.42)\fscx105.7\fscy105.7\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.32,0:05:08.37,Signs,,0,0,0,,{=30=212}{\pos(832.48,679.39)\fscx105.87\fscy105.87\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.37,0:05:08.41,Signs,,0,0,0,,{=30=212}{\pos(832.25,679.34)\fscx106.04\fscy106.04\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.41,0:05:08.45,Signs,,0,0,0,,{=30=212}{\pos(832.01,679.3)\fscx106.21\fscy106.21\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.45,0:05:08.49,Signs,,0,0,0,,{=30=212}{\pos(831.8,679.27)\fscx106.37\fscy106.37\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.49,0:05:08.53,Signs,,0,0,0,,{=30=212}{\pos(831.56,679.21)\fscx106.54\fscy106.54\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.53,0:05:08.57,Signs,,0,0,0,,{=30=212}{\pos(831.32,679.17)\fscx106.71\fscy106.71\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.57,0:05:08.62,Signs,,0,0,0,,{=30=212}{\pos(831.07,679.16)\fscx106.89\fscy106.89\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.62,0:05:08.66,Signs,,0,0,0,,{=30=212}{\pos(830.85,679.11)\fscx107.05\fscy107.05\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.66,0:05:08.70,Signs,,0,0,0,,{=30=212}{\pos(830.62,679.07)\fscx107.22\fscy107.22\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.70,0:05:08.74,Signs,,0,0,0,,{=30=212}{\pos(830.43,679)\fscx107.36\fscy107.36\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.74,0:05:08.78,Signs,,0,0,0,,{=30=212}{\pos(830.16,678.98)\fscx107.55\fscy107.55\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.78,0:05:08.82,Signs,,0,0,0,,{=30=212}{\pos(829.96,678.92)\fscx107.71\fscy107.71\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.82,0:05:08.87,Signs,,0,0,0,,{=30=212}{\pos(829.74,678.87)\fscx107.86\fscy107.86\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.87,0:05:08.91,Signs,,0,0,0,,{=30=212}{\pos(829.46,678.86)\fscx108.05\fscy108.05\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.91,0:05:08.95,Signs,,0,0,0,,{=30=212}{\pos(829.26,678.8)\fscx108.21\fscy108.21\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.95,0:05:08.99,Signs,,0,0,0,,{=30=212}{\pos(829.03,678.76)\fscx108.38\fscy108.38\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:08.99,0:05:09.03,Signs,,0,0,0,,{=30=212}{\pos(828.78,678.72)\fscx108.55\fscy108.55\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.03,0:05:09.08,Signs,,0,0,0,,{=30=212}{\pos(828.55,678.69)\fscx108.72\fscy108.72\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.08,0:05:09.12,Signs,,0,0,0,,{=30=212}{\pos(828.32,678.65)\fscx108.88\fscy108.88\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.12,0:05:09.16,Signs,,0,0,0,,{=30=212}{\pos(828.07,678.61)\fscx109.06\fscy109.06\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.16,0:05:09.20,Signs,,0,0,0,,{=30=212}{\pos(827.84,678.56)\fscx109.23\fscy109.23\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.20,0:05:09.24,Signs,,0,0,0,,{=30=212}{\pos(827.63,678.53)\fscx109.39\fscy109.39\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.24,0:05:09.28,Signs,,0,0,0,,{=30=212}{\pos(827.41,678.48)\fscx109.55\fscy109.55\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.28,0:05:09.33,Signs,,0,0,0,,{=30=212}{\pos(827.18,678.42)\fscx109.71\fscy109.71\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.33,0:05:09.37,Signs,,0,0,0,,{=30=212}{\pos(826.91,678.41)\fscx109.89\fscy109.89\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.37,0:05:09.41,Signs,,0,0,0,,{=30=212}{\pos(826.68,678.36)\fscx110.06\fscy110.06\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.41,0:05:09.45,Signs,,0,0,0,,{=30=212}{\pos(826.44,678.33)\fscx110.23\fscy110.23\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.45,0:05:09.49,Signs,,0,0,0,,{=30=212}{\pos(826.24,678.27)\fscx110.39\fscy110.39\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.49,0:05:09.53,Signs,,0,0,0,,{=30=212}{\pos(825.99,678.25)\fscx110.57\fscy110.57\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.53,0:05:09.58,Signs,,0,0,0,,{=30=212}{\pos(825.76,678.19)\fscx110.74\fscy110.74\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.58,0:05:09.62,Signs,,0,0,0,,{=30=212}{\pos(825.51,678.18)\fscx110.91\fscy110.91\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.62,0:05:09.66,Signs,,0,0,0,,{=30=212}{\pos(825.31,678.11)\fscx111.06\fscy111.06\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.66,0:05:09.70,Signs,,0,0,0,,{=30=212}{\pos(825.04,678.08)\fscx111.25\fscy111.25\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.70,0:05:09.74,Signs,,0,0,0,,{=30=212}{\pos(824.85,678.03)\fscx111.4\fscy111.4\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.74,0:05:09.78,Signs,,0,0,0,,{=30=212}{\pos(824.57,678)\fscx111.58\fscy111.58\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.78,0:05:09.83,Signs,,0,0,0,,{=30=212}{\pos(824.36,677.95)\fscx111.74\fscy111.74\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.83,0:05:09.87,Signs,,0,0,0,,{=30=212}{\pos(824.16,677.91)\fscx111.9\fscy111.9\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.87,0:05:09.91,Signs,,0,0,0,,{=30=212}{\pos(823.93,677.87)\fscx112.07\fscy112.07\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.91,0:05:09.95,Signs,,0,0,0,,{=30=212}{\pos(823.71,677.84)\fscx112.23\fscy112.23\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.95,0:05:09.99,Signs,,0,0,0,,{=30=212}{\pos(823.46,677.79)\fscx112.4\fscy112.4\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:09.99,0:05:10.03,Signs,,0,0,0,,{=30=212}{\pos(823.2,677.76)\fscx112.58\fscy112.58\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.03,0:05:10.08,Signs,,0,0,0,,{=30=212}{\pos(822.97,677.7)\fscx112.75\fscy112.75\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.08,0:05:10.12,Signs,,0,0,0,,{=30=212}{\pos(822.81,677.66)\fscx112.89\fscy112.89\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.12,0:05:10.16,Signs,,0,0,0,,{=30=212}{\pos(822.54,677.62)\fscx113.07\fscy113.07\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.16,0:05:10.20,Signs,,0,0,0,,{=30=212}{\pos(822.28,677.59)\fscx113.25\fscy113.25\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.20,0:05:10.24,Signs,,0,0,0,,{=30=212}{\pos(822.05,677.54)\fscx113.41\fscy113.41\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.24,0:05:10.28,Signs,,0,0,0,,{=30=212}{\pos(821.84,677.49)\fscx113.58\fscy113.58\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.28,0:05:10.33,Signs,,0,0,0,,{=30=212}{\pos(821.62,677.46)\fscx113.74\fscy113.74\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.33,0:05:10.37,Signs,,0,0,0,,{=30=212}{\pos(821.42,677.4)\fscx113.89\fscy113.89\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.37,0:05:10.41,Signs,,0,0,0,,{=30=212}{\pos(821.15,677.39)\fscx114.08\fscy114.08\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.41,0:05:10.45,Signs,,0,0,0,,{=30=212}{\pos(820.94,677.34)\fscx114.23\fscy114.23\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.45,0:05:10.49,Signs,,0,0,0,,{=30=212}{\pos(820.67,677.31)\fscx114.41\fscy114.41\frz10.62\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.49,0:05:10.54,Signs,,0,0,0,,{=30=212}{\pos(820.4,677.26)\fscx114.59\fscy114.59\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:10.54,0:05:10.58,Signs,,0,0,0,,{=30=212}{\pos(820.13,677.26)\fscx114.78\fscy114.78\frz10.61\fax0.25\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}G{\fax0.21}e{\fax0.17}r{\fax0.13}m
-Dialogue: 0,0:05:06.86,0:05:06.91,Signs,,0,0,0,,{=30=211}{\pos(1055.3,601.8)\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:06.91,0:05:06.95,Signs,,0,0,0,,{=30=211}{\pos(1055.43,601.62)\fscx100.19\fscy100.19\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:06.95,0:05:06.99,Signs,,0,0,0,,{=30=211}{\pos(1055.55,601.44)\fscx100.33\fscy100.33\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:06.99,0:05:07.03,Signs,,0,0,0,,{=30=211}{\pos(1055.68,601.26)\fscx100.51\fscy100.51\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.03,0:05:07.07,Signs,,0,0,0,,{=30=211}{\pos(1055.8,601.09)\fscx100.66\fscy100.66\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.07,0:05:07.11,Signs,,0,0,0,,{=30=211}{\pos(1055.92,600.91)\fscx100.82\fscy100.82\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.11,0:05:07.16,Signs,,0,0,0,,{=30=211}{\pos(1056.06,600.75)\fscx101.01\fscy101.01\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.16,0:05:07.20,Signs,,0,0,0,,{=30=211}{\pos(1056.2,600.58)\fscx101.18\fscy101.18\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.20,0:05:07.24,Signs,,0,0,0,,{=30=211}{\pos(1056.33,600.41)\fscx101.34\fscy101.34\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.24,0:05:07.28,Signs,,0,0,0,,{=30=211}{\pos(1056.45,600.24)\fscx101.52\fscy101.52\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.28,0:05:07.32,Signs,,0,0,0,,{=30=211}{\pos(1056.58,600.06)\fscx101.68\fscy101.68\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.32,0:05:07.37,Signs,,0,0,0,,{=30=211}{\pos(1056.71,599.91)\fscx101.85\fscy101.85\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.37,0:05:07.41,Signs,,0,0,0,,{=30=211}{\pos(1056.84,599.72)\fscx102.03\fscy102.03\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.41,0:05:07.45,Signs,,0,0,0,,{=30=211}{\pos(1056.96,599.54)\fscx102.19\fscy102.19\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.45,0:05:07.49,Signs,,0,0,0,,{=30=211}{\pos(1057.1,599.37)\fscx102.36\fscy102.36\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.49,0:05:07.53,Signs,,0,0,0,,{=30=211}{\pos(1057.22,599.2)\fscx102.52\fscy102.52\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.53,0:05:07.57,Signs,,0,0,0,,{=30=211}{\pos(1057.35,599.01)\fscx102.69\fscy102.69\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.57,0:05:07.62,Signs,,0,0,0,,{=30=211}{\pos(1057.47,598.85)\fscx102.84\fscy102.84\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.62,0:05:07.66,Signs,,0,0,0,,{=30=211}{\pos(1057.6,598.67)\fscx103.02\fscy103.02\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.66,0:05:07.70,Signs,,0,0,0,,{=30=211}{\pos(1057.73,598.49)\fscx103.19\fscy103.19\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.70,0:05:07.74,Signs,,0,0,0,,{=30=211}{\pos(1057.86,598.34)\fscx103.36\fscy103.36\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.74,0:05:07.78,Signs,,0,0,0,,{=30=211}{\pos(1057.99,598.16)\fscx103.52\fscy103.52\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.78,0:05:07.82,Signs,,0,0,0,,{=30=211}{\pos(1058.12,597.97)\fscx103.69\fscy103.69\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.82,0:05:07.87,Signs,,0,0,0,,{=30=211}{\pos(1058.24,597.82)\fscx103.84\fscy103.84\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.87,0:05:07.91,Signs,,0,0,0,,{=30=211}{\pos(1058.37,597.63)\fscx104.01\fscy104.01\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.91,0:05:07.95,Signs,,0,0,0,,{=30=211}{\pos(1058.51,597.44)\fscx104.21\fscy104.21\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.95,0:05:07.99,Signs,,0,0,0,,{=30=211}{\pos(1058.63,597.29)\fscx104.36\fscy104.36\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:07.99,0:05:08.03,Signs,,0,0,0,,{=30=211}{\pos(1058.76,597.12)\fscx104.53\fscy104.53\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.03,0:05:08.07,Signs,,0,0,0,,{=30=211}{\pos(1058.89,596.94)\fscx104.68\fscy104.68\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.07,0:05:08.12,Signs,,0,0,0,,{=30=211}{\pos(1059.02,596.76)\fscx104.87\fscy104.87\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.12,0:05:08.16,Signs,,0,0,0,,{=30=211}{\pos(1059.14,596.6)\fscx105.03\fscy105.03\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.16,0:05:08.20,Signs,,0,0,0,,{=30=211}{\pos(1059.26,596.42)\fscx105.2\fscy105.2\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.20,0:05:08.24,Signs,,0,0,0,,{=30=211}{\pos(1059.39,596.26)\fscx105.36\fscy105.36\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.24,0:05:08.28,Signs,,0,0,0,,{=30=211}{\pos(1059.52,596.07)\fscx105.52\fscy105.52\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.28,0:05:08.32,Signs,,0,0,0,,{=30=211}{\pos(1059.65,595.91)\fscx105.7\fscy105.7\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.32,0:05:08.37,Signs,,0,0,0,,{=30=211}{\pos(1059.78,595.74)\fscx105.87\fscy105.87\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.37,0:05:08.41,Signs,,0,0,0,,{=30=211}{\pos(1059.91,595.57)\fscx106.04\fscy106.04\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.41,0:05:08.45,Signs,,0,0,0,,{=30=211}{\pos(1060.04,595.39)\fscx106.21\fscy106.21\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.45,0:05:08.49,Signs,,0,0,0,,{=30=211}{\pos(1060.17,595.23)\fscx106.37\fscy106.37\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.49,0:05:08.53,Signs,,0,0,0,,{=30=211}{\pos(1060.3,595.04)\fscx106.54\fscy106.54\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.53,0:05:08.57,Signs,,0,0,0,,{=30=211}{\pos(1060.43,594.86)\fscx106.71\fscy106.71\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.57,0:05:08.62,Signs,,0,0,0,,{=30=211}{\pos(1060.55,594.7)\fscx106.89\fscy106.89\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.62,0:05:08.66,Signs,,0,0,0,,{=30=211}{\pos(1060.68,594.51)\fscx107.05\fscy107.05\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.66,0:05:08.70,Signs,,0,0,0,,{=30=211}{\pos(1060.81,594.35)\fscx107.22\fscy107.22\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.70,0:05:08.74,Signs,,0,0,0,,{=30=211}{\pos(1060.93,594.18)\fscx107.36\fscy107.36\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.74,0:05:08.78,Signs,,0,0,0,,{=30=211}{\pos(1061.07,594)\fscx107.55\fscy107.55\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.78,0:05:08.82,Signs,,0,0,0,,{=30=211}{\pos(1061.2,593.82)\fscx107.71\fscy107.71\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.82,0:05:08.87,Signs,,0,0,0,,{=30=211}{\pos(1061.32,593.67)\fscx107.86\fscy107.86\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.87,0:05:08.91,Signs,,0,0,0,,{=30=211}{\pos(1061.45,593.48)\fscx108.05\fscy108.05\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.91,0:05:08.95,Signs,,0,0,0,,{=30=211}{\pos(1061.57,593.3)\fscx108.21\fscy108.21\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.95,0:05:08.99,Signs,,0,0,0,,{=30=211}{\pos(1061.71,593.14)\fscx108.38\fscy108.38\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:08.99,0:05:09.03,Signs,,0,0,0,,{=30=211}{\pos(1061.84,592.96)\fscx108.55\fscy108.55\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.03,0:05:09.08,Signs,,0,0,0,,{=30=211}{\pos(1061.96,592.78)\fscx108.72\fscy108.72\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.08,0:05:09.12,Signs,,0,0,0,,{=30=211}{\pos(1062.08,592.62)\fscx108.88\fscy108.88\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.12,0:05:09.16,Signs,,0,0,0,,{=30=211}{\pos(1062.22,592.44)\fscx109.06\fscy109.06\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.16,0:05:09.20,Signs,,0,0,0,,{=30=211}{\pos(1062.34,592.27)\fscx109.23\fscy109.23\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.20,0:05:09.24,Signs,,0,0,0,,{=30=211}{\pos(1062.47,592.1)\fscx109.39\fscy109.39\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.24,0:05:09.28,Signs,,0,0,0,,{=30=211}{\pos(1062.61,591.93)\fscx109.55\fscy109.55\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.28,0:05:09.33,Signs,,0,0,0,,{=30=211}{\pos(1062.72,591.75)\fscx109.71\fscy109.71\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.33,0:05:09.37,Signs,,0,0,0,,{=30=211}{\pos(1062.85,591.59)\fscx109.89\fscy109.89\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.37,0:05:09.41,Signs,,0,0,0,,{=30=211}{\pos(1062.98,591.4)\fscx110.06\fscy110.06\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.41,0:05:09.45,Signs,,0,0,0,,{=30=211}{\pos(1063.11,591.23)\fscx110.23\fscy110.23\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.45,0:05:09.49,Signs,,0,0,0,,{=30=211}{\pos(1063.24,591.05)\fscx110.39\fscy110.39\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.49,0:05:09.53,Signs,,0,0,0,,{=30=211}{\pos(1063.37,590.89)\fscx110.57\fscy110.57\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.53,0:05:09.58,Signs,,0,0,0,,{=30=211}{\pos(1063.51,590.71)\fscx110.74\fscy110.74\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.58,0:05:09.62,Signs,,0,0,0,,{=30=211}{\pos(1063.64,590.55)\fscx110.91\fscy110.91\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.62,0:05:09.66,Signs,,0,0,0,,{=30=211}{\pos(1063.75,590.35)\fscx111.06\fscy111.06\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.66,0:05:09.70,Signs,,0,0,0,,{=30=211}{\pos(1063.89,590.19)\fscx111.25\fscy111.25\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.70,0:05:09.74,Signs,,0,0,0,,{=30=211}{\pos(1064.01,590.02)\fscx111.4\fscy111.4\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.74,0:05:09.78,Signs,,0,0,0,,{=30=211}{\pos(1064.13,589.84)\fscx111.58\fscy111.58\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.78,0:05:09.83,Signs,,0,0,0,,{=30=211}{\pos(1064.27,589.66)\fscx111.74\fscy111.74\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.83,0:05:09.87,Signs,,0,0,0,,{=30=211}{\pos(1064.4,589.5)\fscx111.9\fscy111.9\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.87,0:05:09.91,Signs,,0,0,0,,{=30=211}{\pos(1064.53,589.31)\fscx112.07\fscy112.07\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.91,0:05:09.95,Signs,,0,0,0,,{=30=211}{\pos(1064.66,589.14)\fscx112.23\fscy112.23\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.95,0:05:09.99,Signs,,0,0,0,,{=30=211}{\pos(1064.78,588.99)\fscx112.4\fscy112.4\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:09.99,0:05:10.03,Signs,,0,0,0,,{=30=211}{\pos(1064.9,588.81)\fscx112.58\fscy112.58\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.03,0:05:10.08,Signs,,0,0,0,,{=30=211}{\pos(1065.04,588.64)\fscx112.75\fscy112.75\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.08,0:05:10.12,Signs,,0,0,0,,{=30=211}{\pos(1065.16,588.46)\fscx112.89\fscy112.89\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.12,0:05:10.16,Signs,,0,0,0,,{=30=211}{\pos(1065.31,588.29)\fscx113.07\fscy113.07\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.16,0:05:10.20,Signs,,0,0,0,,{=30=211}{\pos(1065.42,588.12)\fscx113.25\fscy113.25\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.20,0:05:10.24,Signs,,0,0,0,,{=30=211}{\pos(1065.55,587.95)\fscx113.41\fscy113.41\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.24,0:05:10.28,Signs,,0,0,0,,{=30=211}{\pos(1065.68,587.76)\fscx113.58\fscy113.58\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.28,0:05:10.33,Signs,,0,0,0,,{=30=211}{\pos(1065.81,587.59)\fscx113.74\fscy113.74\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.33,0:05:10.37,Signs,,0,0,0,,{=30=211}{\pos(1065.94,587.41)\fscx113.89\fscy113.89\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.37,0:05:10.41,Signs,,0,0,0,,{=30=211}{\pos(1066.07,587.25)\fscx114.08\fscy114.08\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.41,0:05:10.45,Signs,,0,0,0,,{=30=211}{\pos(1066.18,587.06)\fscx114.23\fscy114.23\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.45,0:05:10.49,Signs,,0,0,0,,{=30=211}{\pos(1066.31,586.89)\fscx114.41\fscy114.41\frz36.68\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.49,0:05:10.54,Signs,,0,0,0,,{=30=211}{\pos(1066.43,586.72)\fscx114.59\fscy114.59\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Dialogue: 0,0:05:10.54,0:05:10.58,Signs,,0,0,0,,{=30=211}{\pos(1066.57,586.58)\fscx114.78\fscy114.78\frz36.67\fax-0.38\fnAR Xingkaibei Web\fs70\b1\c&H080E0D&\blur0.7}So{\fax-0.39}up
-Comment: 0,0:05:40.28,0:05:47.91,Signs,skip?,0,0,0,,# WHITE BLOOD CELL #
-Comment: 0,0:05:40.28,0:05:47.91,Signs,,0,0,0,,# WBC Tea #
-Dialogue: 0,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\an7\pos(0,0)\c&HC6FEDB&\blur1\t(0,160,\c&H5DD79A&)\p1\b1}m 803 639.8 l 807 713.8 836 715.8 827 733.8 839.51 737.29 859.09 739.45 903 743.8 910 669.8
-Dialogue: 1,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\an7\pos(0,0)\c&HC6FEDB&\blur1\t(0,160,\c&H26A558&)\p1\b1}m 850.18 742.69 b 841.04 735.19 839.94 733.03 830.55 724.8 l 825.45 733.52 833.23 739.22
-Dialogue: 1,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\pos(839.48,669.24)\frz9.377\fnComplete in Him\fs30\c&HC6FEDB&\blur0.7\t(0,160,\c&H0C0A0F&)}Relaxing
-Dialogue: 1,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\pos(863.63,715.91)\frz5.78\fnComplete in Him\fs60\c&HC6FEDB&\blur0.6\t(0,160,\c&H0C0A0F&)}Tea
-Dialogue: 0,0:05:45.66,0:05:47.91,Signs,,0,0,0,,{=19}{\pos(962.4,70.8)\frz2.804\fnArial Rounded MT Bold PL\bord4\c&H046122&\3c&H046122&\blur0.6}This tea is so good!
-Dialogue: 1,0:05:45.66,0:05:47.91,Signs,,0,0,0,,{=19}{\pos(962.4,70.8)\frz2.804\fnArial Rounded MT Bold PL\c&H57FBD7&\4a&HFF&\blur0.5}T{\c&H53FAD2&}h{\c&H50F9CD&}i{\c&H4CF8C8&}s {\c&H45F6BE&}t{\c&H42F5B9&}e{\c&H3EF4B4&}a {\c&H37F2AA&}i{\c&H34F2A5&}s {\c&H2DF09B&}s{\c&H29EF96&}o {\c&H22ED8C&}g{\c&H1FEC87&}o{\c&H1BEB82&}o{\c&H18EA7D&}d{\c&H15EA78&}!
 Comment: 0,0:07:22.25,0:07:24.47,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:07:22.25,0:07:22.29,Signs,,0,0,0,,{=33}{\pos(625.83,475.84)\frz23.19\fnFOT-PopJoy Std B\fs64\b1\bord7\c&H083109&\3c&H083109&\blur0.6}STUMBLE
 Dialogue: 0,0:07:22.29,0:07:22.33,Signs,,0,0,0,,{=33}{\pos(633.1,473.23)\fscx99.98\fscy99.98\frz23.89\fnFOT-PopJoy Std B\fs64\b1\bord7\c&H083109&\3c&H083109&\blur0.6}STUMBLE
@@ -1019,7 +1078,6 @@ Dialogue: 1,0:07:49.86,0:07:49.90,Signs,,0,0,0,,{=61}{\pos(1007.38,395.1)\fscx94
 Dialogue: 1,0:07:49.90,0:07:49.94,Signs,,0,0,0,,{=61}{\pos(1007.46,395.13)\fscx94.5\fscy94.5\fnCrashLanding BB\c&H8385FE&\4a&HFF&\blur0.76}B{\c&H7070F9&}L{\c&H5E5CF5&}U{\c&H4B47F1&}S{\c&H3933ED&}H
 Dialogue: 1,0:07:49.94,0:07:49.99,Signs,,0,0,0,,{=61}{\pos(1007.61,395.22)\fscx94.44\fscy94.44\fnCrashLanding BB\c&H8385FE&\4a&HFF&\blur0.76}B{\c&H7070F9&}L{\c&H5E5CF5&}U{\c&H4B47F1&}S{\c&H3933ED&}H
 Dialogue: 1,0:07:49.99,0:07:50.04,Signs,,0,0,0,,{=61}{\pos(1007.76,395.29)\fscx94.4\fscy94.4\fnCrashLanding BB\c&H8385FE&\4a&HFF&\blur0.76\clip(m 933.33 434.54 b 982.66 389.88 1015.73 378.42 1040.53 371.09 l 1084.27 368.96 1083.2 435.07)}B{\c&H7070F9&}L{\c&H5E5CF5&}U{\c&H4B47F1&}S{\c&H3933ED&}H
-Comment: 0,0:07:49.82,0:07:50.32,Signs,skip?,0,0,0,,# Platelet hat sweep #
 Comment: 0,0:08:19.23,0:08:19.23,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:08:19.23,0:08:19.27,Signs,,0,0,0,,{=18=75}{\pos(1049.8,298.71)\fscx33.91\fscy33.91\frz13.86\fry15\frx10\fnFOT-PopJoy Std B\fs140\b1\bord3.05\c&HA12CE4&\3c&HA12CE4&\1a&HFF&\blur0.8\fade(255,0,255,0,50,670,1120)}PLOP
 Dialogue: 0,0:08:19.27,0:08:19.31,Signs,,0,0,0,,{=18=75}{\pos(1005.3,307.35)\fscx44.38\fscy44.38\frz13.86\fry15\frx10\fnFOT-PopJoy Std B\fs140\b1\bord3.99\c&HA12CE4&\3c&HA12CE4&\blur0.8\fade(255,0,255,-50,0,620,1070)\t(620,665,\1a&HFF&)}PLOP
@@ -1102,8 +1160,6 @@ Dialogue: 2,0:08:20.18,0:08:20.22,Signs,,0,0,0,,{=18=73}{\pos(543.36,332.14)\fsc
 Dialogue: 2,0:08:20.22,0:08:20.27,Signs,,0,0,0,,{=18=73}{\pos(540.97,331.47)\fscx159.23\fscy159.23\frz13.86\fry15\frx10\fnFOT-PopJoy Std B\fs140\b1\c&H76FFFF&\4a&HFF&\blur0.8\fade(255,0,255,-1000,-950,-330,120)}PLOP
 Dialogue: 2,0:08:20.27,0:08:20.31,Signs,,0,0,0,,{=18=73}{\pos(540.18,331.22)\fscx159.27\fscy159.27\frz13.86\fry15\frx10\fnFOT-PopJoy Std B\fs140\b1\c&H76FFFF&\4a&HFF&\blur0.8\fade(255,0,255,-1050,-1000,-380,70)}PLOP
 Dialogue: 2,0:08:20.31,0:08:20.35,Signs,,0,0,0,,{=18=73}{\pos(540.39,331.37)\fscx159.19\fscy159.19\frz13.86\fry15\frx10\fnFOT-PopJoy Std B\fs140\b1\c&H76FFFF&\4a&HFF&\blur0.8\fade(255,0,255,-1090,-1040,-420,30)}PLOP
-Comment: 0,0:08:51.84,0:09:02.23,Signs,skip?,0,0,0,,# Platelet hats #
-Comment: 0,0:08:55.77,0:08:57.60,Signs,skip,0,0,0,,# SNACK #
 Comment: 0,0:09:27.59,0:09:27.59,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:09:27.59,0:09:27.63,Signs,,0,0,0,,{\pos(1184.4,320.9)\frz15.6\fnHandwritten Crystal v2\fs40\bord2.5\c&H611F02&\3c&H611F02&\alpha&HEB&\blur0.6}T
 Dialogue: 1,0:09:27.59,0:09:27.63,Signs,,0,0,0,,{\pos(1184.4,320.9)\frz15.6\fnHandwritten Crystal v2\fs40\c&HD27B20&\alpha&HEB&\4a&HFF&\blur0.6}T
@@ -4635,7 +4691,6 @@ Dialogue: 0,0:09:32.80,0:09:32.84,Signs,,0,0,0,,{\pos(1346.85,533.78)\frz18.6\fn
 Dialogue: 1,0:09:32.80,0:09:32.84,Signs,,0,0,0,,{\pos(1346.85,533.78)\frz18.6\fnHandwritten Crystal v2\fs30\c&HEBB958&\4a&HFF&\blur0.6}E
 Dialogue: 0,0:09:29.09,0:09:32.84,Signs,,0,0,0,,{=18=85}{\move(727.66,140.01,730.7,122.3,20,3732)\frz356.5\fnFOT-PopJoy Std B\fs45\b1\bord3\c&H8C49DF&\3c&H8C49DF&\1a&HFF&\blur0.8\fade(255,0,255,0,250,3750,3750)\t(205,250,\1a&H00&)}CLENCH
 Dialogue: 1,0:09:29.09,0:09:32.84,Signs,,0,0,0,,{=18=84}{\move(727.66,140.01,730.7,122.3,20,3732)\frz356.5\fnFOT-PopJoy Std B\fs45\b1\c&HF9E1F9&\4a&HFF&\blur0.8\fade(255,0,255,0,250,3750,3750)}CLENCH
-Comment: 0,0:09:32.84,0:09:35.26,Signs,skip?,0,0,0,,# WHITE BLOOD CELL #
 Comment: 0,0:12:09.67,0:12:09.67,Signs,,0,0,0,,# Blood cells sfx #
 Dialogue: 0,0:12:09.66,0:12:09.70,Signs,,0,0,0,,{=86}{\pos(797.77,203.22)\fscx367.71\fscy300\fnSF Comic Script Condensed\fs100\bord6.62\c&H2863C5&\3c&H2863C5&\1a&HFF&\blur0.6\fade(255,0,255,0,1600,6000,6000)}BUMP
 Dialogue: 0,0:12:09.70,0:12:09.75,Signs,,0,0,0,,{=86}{\pos(797.95,206.95)\fscx367.52\fscy300\fnSF Comic Script Condensed\fs100\bord6.62\c&H2863C5&\3c&H2863C5&\1a&HFF&\blur0.6\fade(255,0,255,-40,1560,5960,5960)}BUMP
@@ -4928,34 +4983,6 @@ Dialogue: 1,0:12:15.63,0:12:15.67,Signs,,0,0,0,,{=86}{\pos(800,484.23)\fscx500\f
 Comment: 0,0:12:24.35,0:12:24.35,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:12:24.35,0:12:25.10,Signs,,0,0,0,,{=18}{\pos(1288.8,603)\fscx70\fscy70\frz350.5\fnBangers\fs120\bord3\yshad-1\1a&HFF&\3a&HFF&\blur0.8\fad(150,170)\t(150,150,\1a&HFE&)\t(580,580,\1a&HFF&)\t(0.2,\yshad-200\fscx150\fscy150)}GRIP
 Dialogue: 1,0:12:24.35,0:12:25.10,Signs,,0,0,0,,{=18}{\pos(1288.8,603)\fscx70\fscy70\frz350.5\fnBangers\fs120\yshad-1\4c&HFBFAFA&\1a&HFE&\blur0.8\fad(150,170)\t(0.2,\yshad-200\fscx150\fscy150)}GRIP
-Comment: 0,0:13:04.97,0:13:14.98,Signs,,0,0,0,,# Eyecatches #
-Dialogue: 0,0:02:25.05,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(887.36,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}C
-Dialogue: 0,0:02:25.04,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(903.86,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}e
-Dialogue: 0,0:02:25.00,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(915.95,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}l
-Dialogue: 0,0:02:25.02,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(924.73,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}l
-Dialogue: 0,0:02:25.01,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(935.68,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}s
-Dialogue: 0,0:02:25.06,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(959.49,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}a
-Dialogue: 0,0:02:25.04,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(972.49,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}t
-Dialogue: 0,0:02:25.14,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1001.4,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}W
-Dialogue: 0,0:02:25.13,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1023.11,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}o
-Dialogue: 0,0:02:25.16,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1036.75,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}r
-Dialogue: 0,0:02:25.11,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1050.1,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}k
-Dialogue: 0,0:02:25.13,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1062.17,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}!
-Dialogue: 0,0:02:25.11,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1070.33,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}!
-Dialogue: 0,0:13:08.43,0:13:08.47,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx112.39\fscy112.39\frz0.07\fade(255,0,255,0,180,250,250)\blur0.9\pos(1021.52,703.42)}Cells at Work!!
-Dialogue: 0,0:13:08.47,0:13:08.51,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx104.3\fscy104.3\frz0.07\fade(255,0,255,-40,140,210,210)\blur0.9\pos(1005.57,685.19)}Cells at Work!!
-Dialogue: 0,0:13:08.51,0:13:08.55,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx102.39\fscy102.39\frz0.07\fade(255,0,255,-80,100,170,170)\blur0.9\pos(1001.82,680.88)}Cells at Work!!
-Dialogue: 0,0:13:08.55,0:13:08.60,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx101.15\fscy101.15\frz0.07\fade(255,0,255,-120,60,130,130)\blur0.9\pos(999.36,678.1)}Cells at Work!!
-Dialogue: 0,0:13:08.60,0:13:08.64,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx100.42\fscy100.42\frz0.07\fade(255,0,255,-170,10,80,80)\blur0.9\pos(997.94,676.43)}Cells at Work!!
-Dialogue: 0,0:13:08.64,0:13:08.68,Signs - Eyecatch,,0,0,0,,{=217=219}{\fade(255,0,255,-210,-30,40,40)\blur0.9\pos(997.12,675.09)}Cells at Work!!
-Dialogue: 0,0:13:08.68,0:13:09.98,Signs - Eyecatch,,0,0,0,,{=217}{\blur0.9\pos(997.12,675.09)}Cells at Work!!
-Dialogue: 0,0:13:13.44,0:13:13.48,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx112.39\fscy112.39\frz0.07\fade(255,0,255,0,180,250,250)\blur0.9\pos(1021.52,703.42)}Cells at Work!!
-Dialogue: 0,0:13:13.48,0:13:13.52,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx104.3\fscy104.3\frz0.07\fade(255,0,255,-40,140,210,210)\blur0.9\pos(1005.57,685.19)}Cells at Work!!
-Dialogue: 0,0:13:13.52,0:13:13.56,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx102.39\fscy102.39\frz0.07\fade(255,0,255,-80,100,170,170)\blur0.9\pos(1001.82,680.88)}Cells at Work!!
-Dialogue: 0,0:13:13.56,0:13:13.61,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx101.15\fscy101.15\frz0.07\fade(255,0,255,-120,60,130,130)\blur0.9\pos(999.36,678.1)}Cells at Work!!
-Dialogue: 0,0:13:13.61,0:13:13.65,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx100.42\fscy100.42\frz0.07\fade(255,0,255,-170,10,80,80)\blur0.9\pos(997.94,676.43)}Cells at Work!!
-Dialogue: 0,0:13:13.65,0:13:13.69,Signs - Eyecatch,,0,0,0,,{=217=219}{\fade(255,0,255,-210,-30,40,40)\blur0.9\pos(997.12,675.09)}Cells at Work!!
-Dialogue: 0,0:13:13.69,0:13:14.99,Signs - Eyecatch,,0,0,0,,{=217}{\blur0.9\pos(997.12,675.09)}Cells at Work!!
 Comment: 0,0:14:49.33,0:14:49.33,Signs,,0,0,0,,# Platelet sfx #
 Dialogue: 0,0:14:49.32,0:14:49.36,Signs,,0,0,0,,{=18=98}{\pos(142.95,426.08)\fscx156.44\fscy156.44\frz23.92\fnFOT-PopJoy Std B\fs150\b1\bord9.15\shad6.26\c&H1B4CEA&\3c&H1B4CEA&\alpha&HE4&\1a&HFE&\4a&HF5&\blur0.8}PLOP
 Dialogue: 0,0:14:49.36,0:14:49.40,Signs,,0,0,0,,{=18=98}{\pos(475.9,330.24)\fscx120.83\fscy120.83\frz23.92\fnFOT-PopJoy Std B\fs150\b1\bord7.07\shad4.83\c&H1B4CEA&\3c&H1B4CEA&\alpha&HAE&\1a&HFE&\4a&HE1&\blur0.8}PLOP
@@ -5226,21 +5253,6 @@ Dialogue: 1,0:15:07.38,0:15:07.42,Signs,,0,0,0,,{=18=101}{\pos(539.73,121.5)\fsc
 Dialogue: 1,0:15:07.42,0:15:07.46,Signs,,0,0,0,,{=18=101}{\pos(539.96,121.71)\fscx100.1\fscy100.1\frz10.65\fnHandy candy\fs83\c&H81FAF8&\4a&HFF&\blur0.8}BONK
 Dialogue: 1,0:15:07.46,0:15:07.51,Signs,,0,0,0,,{=18=101}{\pos(540.18,121.93)\fscx100.04\fscy100.04\frz10.64\fnHandy candy\fs83\c&H81FAF8&\4a&HFF&\blur0.8}BONK
 Dialogue: 1,0:15:07.51,0:15:07.55,Signs,,0,0,0,,{=18=101}{\pos(540.36,122.14)\frz10.64\fnHandy candy\fs83\c&H81FAF8&\4a&HFF&\blur0.8}BONK
-Comment: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,# Megakaryocyte Hat #
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=215}{\fnKaimin Sora Web\fs145\b900\frz19.499\c&H1D1B17&\pos(313.38,265.34)\blur0.8\fax-0.36}M
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz16.219\c&H1D1B17&\pos(398.59,238.35)\blur0.8\fax-0.3}E
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz13.932\c&H1D1B17&\pos(476.25,217.25)\blur0.8\fax-0.26}G
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz9.984\c&H1D1B17&\pos(560.83,199.52)\blur0.8\fax-0.18}A
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz7.05\c&H1D1B17&\pos(642.49,186.93)\blur0.8\fax-0.13}K
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz2.312\c&H1D1B17&\pos(724.89,180.89)\blur0.8\fax-0.05}A
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-0.994\c&H1D1B17&\pos(805.9,179.56)\blur0.8\fax0.01}R
-Dialogue: 1,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-0.994\c&H2D2D2B&\pos(805.9,179.56)\blur0.8\fax0.01\clip(m 826.97 151.82 l 827.79 233.63 826.11 232.79 825.26 150.7)}R
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-6.023\c&H1D1B17&\pos(882.99,184.78)\blur0.8\fax0.1}Y
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-9.334\c&H1D1B17&\pos(966.17,195.06)\blur0.8\fax0.16}O
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-12.55\c&H1D1B17&\pos(1051.31,211.12)\blur0.8\fax0.21}C
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-15.628\c&H1D1B17&\pos(1128.71,230.9)\blur0.8\fax0.27}Y
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-18.538\c&H1D1B17&\pos(1204.25,254.73)\blur0.8\fax0.33}T
-Dialogue: 0,0:15:14.69,0:15:15.56,Signs,,0,0,0,,{=18=216}{\fnKaimin Sora Web\fs145\b900\frz-21.258\c&H1D1B17&\pos(1276.52,281.22)\blur0.8\fax0.38}E
 Comment: 0,0:16:30.80,0:16:33.76,Signs,,0,0,0,,# Megakaryocyte sfx #
 Dialogue: 0,0:16:30.80,0:16:33.76,Signs,,0,0,0,,{=18}{\move(988,408.24,1038,408.24,0,170)\fnBangers\fs246\bord12\c&H37241E&\3c&H37241E&\1a&HFF&\blur0.8\fad(170,0)\t(50,210,\3c&H141413&\c&H141413&)\t(125,170,\1a&H00&)}W
 Dialogue: 1,0:16:30.80,0:16:33.76,Signs,,0,0,0,,{=18}{\move(988,408.24,1038,408.24,0,170)\fnBangers\fs246\c&H935D58&\4a&HFF&\blur0.8\fad(170,0)}W
@@ -5767,15 +5779,6 @@ Dialogue: 1,0:20:15.73,0:20:15.77,Signs,,0,0,0,,{=159}{\pos(562.91,244.86)\fscx1
 Dialogue: 1,0:20:15.77,0:20:15.81,Signs,,0,0,0,,{=159}{\pos(561.49,242.82)\fscx104.25\fscy104.25\frz12.5\fnComplete in Him\fs70\c&H67DFF0&\4a&HFF&\blur0.8\fade(255,0,255,-370,-370,430,630)}YAY
 Dialogue: 1,0:20:15.81,0:20:15.85,Signs,,0,0,0,,{=159}{\pos(560.13,240.82)\fscx105.23\fscy105.23\frz12.5\fnComplete in Him\fs70\c&H67DFF0&\4a&HFF&\blur0.8\fade(255,0,255,-410,-410,390,590)}YAY
 Dialogue: 1,0:20:15.85,0:20:15.90,Signs,,0,0,0,,{=159}{\pos(558.8,238.94)\fscx106.2\fscy106.2\frz12.5\fnComplete in Him\fs70\c&H67DFF0&\4a&HFF&\blur0.8\fade(255,0,255,-450,-450,350,550)}YAY
-Comment: 0,0:23:25.01,0:23:25.01,Signs,,0,0,0,,# Next Episode Preview #
-Dialogue: 0,0:23:25.01,0:23:34.89,Signs,,0,0,0,,{=18}{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\b800\bord4\c&HFFFFE8&\3c&HFFFFE8&\blur0.8}Next Time
-Dialogue: 1,0:23:25.01,0:23:34.89,Signs,,0,0,0,,{=18}{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\b800\xshad-0.3\c&H0100FF&\4c&H000045&\4a&H64&\blur0.8}Next Time
-Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,650)\fnFOT-Rodin Pro EB\fs60\b800\bord4\c&HFFFFF1&\3c&HFFFFF1&\blur0.8}Chapter 2
-Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,650)\fnFOT-Rodin Pro EB\fs60\b800\xshad-0.1\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Chapter 2
-Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,721)\fnFOT-Rodin Pro EB\fs70\b800\bord4\c&HFFFFF1&\3c&HFFFFF1&\blur0.8}Acquired Immunity
-Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,721)\fnFOT-Rodin Pro EB\fs70\b800\xshad-0.1\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Acquired Immunity
-Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,791)\fnFOT-Rodin Pro EB\fs70\b800\bord4\c&HFFFFF1&\3c&HFFFFF1&\blur0.8}Peyer's Patch
-Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,791)\fnFOT-Rodin Pro EB\fs70\b800\xshad-0.1\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Peyer's Patch
 
 [Aegisub Extradata]
 Data: 14,l0.MoveAlongPath,e{"orgLine"#3A"{\\fsp5\\frz2\\fnKreon\\bord4\\fs85\\3c&HC0D3EC&\\c&H24285B&\\b1\\pos(787.2#2C660.6)\\clip(m 679.33 671.33 l 716.36 666.6 b 762.62 662.48 811.42 661.8 857.71 664.75 904 667.7 947.78 674.28 984 684.67)}ARTERY"#2C"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"be48f302-f0e4-4146-b146-b312e276156e"}
