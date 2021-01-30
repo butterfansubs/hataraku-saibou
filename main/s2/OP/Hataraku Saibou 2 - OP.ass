@@ -24,33 +24,33 @@ Style: OP Lyrics,ResPublica,58,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== OP ============================
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,color = require '0x.color'
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,bg = false
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,bpm = 185; fade_dur = math.floor(60 / bpm / 2 * 1000 + 0.5)
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function is_background() return bg end
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function detect_bg() if char.text == '(' then bg = true; end; end
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function detect_fg() if char.text == ')' then bg = false; end; end
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,RBC_RED = "&H1B39E8&"; WBC_WHITE = "&HFBFDFD&"; PLATELET_BLUE = "&HF6EABC&"; MACROPHAGE_BROWN = "&HB9D4EE&"
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,BG_COLS = {PLATELET_BLUE, MACROPHAGE_BROWN}; FG_COLS = {RBC_RED, WBC_WHITE}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function grad_pair(i) if is_background() then return BG_COLS[i % (#BG_COLS)+1]; else return FG_COLS[i % (#FG_COLS) + 1]; end end
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function make_colors(len) local t = {}; for i=0,len/8 do table.insert(t,grad_pair(i)); end; return t; end
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function char_t() local cs = line.chars; return (char.center - cs[1].center)/(cs[#cs].center - cs[1].center); end
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once,function get_color(colors) local t = char_t() * (#colors - 1) local n = math.ceil(t) if t == 0 then return colors[1] else return color.interp_rgb(t - n + 1, colors[n], colors[n+1]) end end
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,template line anystyle loop layer 4,!relayer($loop_layer-1)!{\fad(!fade_dur!,!fade_dur!)!ln.line.tag("an")!}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 0,{\blur15\bord6\3a&H50&}
-Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 1,{\bord2.3\shad2.7\blur1\3c&H000000&}
-Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 2,{\bord2.5}
-Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 3,{\c&H122BE9&\blur0.2}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 0 actor rbc,{\3c&H1B39E8&}
-Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin line anystyle layer 0 actor wbc,{\3c&HFBFDFD&}
-Comment: 0,0:00:58.03,0:00:58.03,Default,,0,0,0,mixin char anystyle noblank layer 0 actor both,{!detect_bg()!\3c!get_color(make_colors(#line.chars))!!detect_fg()!}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 10,0:00:58.04,0:00:58.04,Default,,0,0,0,,== OP ============================
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,code once,color = require '0x.color'
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,,
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,code once,bg = false
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,code once,bpm = 185; fade_dur = math.floor(60 / bpm / 2 * 1000 + 0.5)
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,code once,function is_background() return bg end
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,code once,function detect_bg() if char.text == '(' then bg = true; end; end
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,code once,function detect_fg() if char.text == ')' then bg = false; end; end
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,,
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,code once,RBC_RED = "&H1B39E8&"; WBC_WHITE = "&HFBFDFD&"; PLATELET_BLUE = "&HF6EABC&"; MACROPHAGE_BROWN = "&HB9D4EE&"
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,code once,BG_COLS = {PLATELET_BLUE, MACROPHAGE_BROWN}; FG_COLS = {RBC_RED, WBC_WHITE}
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,code once,function grad_pair(i) if is_background() then return BG_COLS[i % (#BG_COLS)+1]; else return FG_COLS[i % (#FG_COLS) + 1]; end end
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,code once,function make_colors(len) local t = {}; for i=0,len/8 do table.insert(t,grad_pair(i)); end; return t; end
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,code once,function char_t() local cs = line.chars; return (char.center - cs[1].center)/(cs[#cs].center - cs[1].center); end
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,code once,function get_color(colors) local t = char_t() * (#colors - 1) local n = math.ceil(t) if t == 0 then return colors[1] else return color.interp_rgb(t - n + 1, colors[n], colors[n+1]) end end
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,,
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,template line anystyle loop layer 4,!relayer($loop_layer-1)!{\fad(!fade_dur!,!fade_dur!)!ln.line.tag("an")!}
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,,
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,mixin line anystyle layer 0,{\blur15\bord6\3a&H50&}
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,mixin line anystyle layer 1,{\bord2.3\shad2.7\blur1\3c&H000000&}
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,mixin line anystyle layer 2,{\bord2.5}
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,mixin line anystyle layer 3,{\c&H122BE9&\blur0.2}
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,,
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,mixin line anystyle layer 0 actor rbc,{\3c&H1B39E8&}
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,mixin line anystyle layer 0 actor wbc,{\3c&HFBFDFD&}
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,mixin char anystyle noblank layer 0 actor both,{!detect_bg()!\3c!get_color(make_colors(#line.chars))!!detect_fg()!}
+Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,,
 Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,sync,
 Comment: 0,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,karaoke,{\an8}Wow, wow, wow, wow, wow, wow, wow, wow, wow
 Comment: 0,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,karaoke,{\an8}Wow, wow, wow, wow, wow, wow, wow, wow, wow
