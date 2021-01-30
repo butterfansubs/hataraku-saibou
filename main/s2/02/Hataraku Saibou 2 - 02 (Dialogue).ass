@@ -30,8 +30,8 @@ Style: Default-Alt,Kirinashi,63,&H00FFFFFF,&H00FFFFFF,&H00743E15,&HCC000000,-1,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta ================================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/hataraku-saibou
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,chptr,{OP}
-Comment: 0,0:01:29.99,0:01:29.99,Default,,0,0,0,chptr,{Part A}
+Comment: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{OP}
+Comment: 0,0:01:29.99,0:01:29.99,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:01:31.14,0:01:32.81,Default,,0,0,0,,"Acquired Immunity."
 Dialogue: 0,0:01:38.48,0:01:39.45,Default,,0,0,0,,{\i1}What's this?
 Dialogue: 0,0:01:40.24,0:01:42.83,Default,,0,0,0,,{\i1}What are all these images I'm seeing?
@@ -200,7 +200,7 @@ Dialogue: 0,0:11:34.17,0:11:37.05,Default,,0,0,0,,Huh? Should I have kept my mou
 Dialogue: 0,0:11:37.05,0:11:39.01,Default,,0,0,0,,Where's the virus?
 Dialogue: 0,0:11:39.28,0:11:41.93,Default,,0,0,0,,It seems it's over already.{* probably more like "They're saying it's already over."?}
 Dialogue: 0,0:11:44.16,0:11:45.17,Default,,0,0,0,,Man, I'm beat.
-Comment: 0,0:11:47.98,0:11:47.98,Default,,0,0,0,chptr,{Part B}
+Comment: 0,0:11:47.98,0:11:47.98,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:11:49.39,0:11:50.69,Default,,0,0,0,,"Peyer's Patch."
 Dialogue: 0,0:11:54.57,0:11:55.82,Default,,0,0,0,,Here's the next batch!
 Dialogue: 0,0:11:55.82,0:11:58.28,Default,,0,0,0,,Lactose, sucrose, maltose!
@@ -396,8 +396,8 @@ Dialogue: 0,0:21:59.45,0:22:01.47,Default,,0,0,0,,I wonder if he got lost.
 Dialogue: 0,0:22:01.76,0:22:02.93,Default,,0,0,0,,Uh-oh!
 Dialogue: 0,0:22:03.25,0:22:06.87,Default,,0,0,0,,I totally forgot to get the red blood cells their tea!
 Dialogue: 0,0:22:06.87,0:22:08.47,Default,,0,0,0,,I take it back, he's a moron.
-Comment: 0,0:22:09.93,0:22:09.93,Default,,0,0,0,chptr,{ED}
-Comment: 0,0:23:24.93,0:23:24.93,Default,,0,0,0,chptr,{Preview}
+Comment: 0,0:22:09.93,0:22:09.93,Default,chptr,0,0,0,,{ED}
+Comment: 0,0:23:24.93,0:23:24.93,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:25.87,0:23:27.34,Default,,0,0,0,,My receptor's picked something up!
 Dialogue: 0,0:23:27.34,0:23:30.22,Default,,0,0,0,,White Blood Cell! There's a weird mask on the ground!
 Dialogue: 0,0:23:30.48,0:23:31.60,Default,,0,0,0,,De-Dengue!
