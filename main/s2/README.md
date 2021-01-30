@@ -6,19 +6,24 @@ This project uses [SubKt](https://github.com/Myaamori/SubKt) for merging and mux
 
 1. Ensure you have a recent version of the JDK installed (11 or later).
 2. Copy the `sub.properties.sample` file into `sub.properties`.
-3. Edit the `FONTSDIR=` line to point to your fonts location. The structure should follow the structure of this directory:
+3. Edit the `FONTSDIR=` line to point to your fonts location. The structure should follow the structure outlined below:
 
 ```bash
 $FONTSDIR
 ├── 01
-│   ├── foo.ttf
 │   └── bar.ttf
+├── 02
+│   └── xyzzy.otf
+├── common
+│   └── foo.ttf
 ├── ED
 │   ├── baz.otf
 │   └── baz-bold.otf
 └── OP
     └── qux.ttf
 ```
+
+The `common` directory is meant for fonts that are used in every episode, such as the dialogue font. This is purely for convenience and does not necessarily need to be adhered to. In the example above, both episodes 01 and 02 would have `foo.ttf`, `baz.otf`, `baz-bold.otf`, and `qux.ttf` muxed in (assuming each has an OP and ED), and additionally 01 would have `bar.ttf` and 02 would have `xyzzy.otf`.
 
 Run `./gradlew mux.${EPISODE}` (e.g. `./gradlew mux.01`) to merge the scripts and mux the episode. The resulting file will be placed in `dist/`.
 
