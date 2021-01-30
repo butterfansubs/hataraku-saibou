@@ -29,3 +29,7 @@ mergefile=dist/${filebase}.ass
 muxfile=dist/${filebase} [${mux.crc}].mkv
 
 01.eptitle=Bump
+02.eptitle=Acquired Immunity / Peyer's Patch
+03.eptitle=Dengue Fever / Acne
+04.eptitle=H. Pylori / Antigenic Shift
+05.eptitle=Cytokines
