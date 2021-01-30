@@ -18,7 +18,8 @@ ED=ED/Hataraku Saibou 2 - ED.ass
 chapters=${dialogue}
 
 premux=${episode}/${showkey} - ${episode} (Premux).mkv
-fonts=${FONTSDIR}/${episode}
+epfonts=${FONTSDIR}/${episode}
+commonfonts=${FONTSDIR}/common
 OPfonts=${FONTSDIR}/OP
 EDfonts=${FONTSDIR}/ED
 

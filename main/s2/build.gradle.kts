@@ -68,7 +68,10 @@ subs {
             lang("eng")
         }
 
-        attach(get("fonts")) {
+        attach(get("commonfonts")) {
+            includeExtensions("ttf", "otf")
+        }
+        attach(get("epfonts")) {
             includeExtensions("ttf", "otf")
         }
 
