@@ -76,7 +76,8 @@ Dialogue: 2,0:22:54.40,0:22:57.44,Signs - Infobox,,0,0,0,,{\an1\pos(937,155)\b1\
 Dialogue: 2,0:22:54.40,0:22:57.44,Signs - Infobox,,0,0,0,,{\an1\pos(937,200)\fs45\blur0.7\fad(200,0)}Sticky blob of coagulated blood.
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Titles ==
 Comment: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,# Episode Title #
-Dialogue: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,{=30}{\pos(800,666)\fnFOT-Rodin Pro EB\fs81\c&H0000FF&\blur0.7\b800}Chapter 1: Bump
+Dialogue: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,{=30}{\pos(800,666)\fnFOT-Rodin Pro EB\fs81\b800\bord0.5\shad0.01\4c&H000045&\1a&HFE&\3a&HFF&\4a&H37&\blur0.7}Chapter 1: Bump
+Dialogue: 1,0:03:45.25,0:03:50.25,Signs,,0,0,0,,{=30}{\pos(800,666)\fnFOT-Rodin Pro EB\fs81\b800\c&H0000FF&\blur0.7}Chapter 1: Bump
 Comment: 0,0:23:25.01,0:23:25.01,Signs,,0,0,0,,# Next Episode Preview #
 Dialogue: 0,0:23:25.01,0:23:34.89,Signs,,0,0,0,,{=18}{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\b800\bord4\c&HFFFFE8&\3c&HFFFFE8&\blur0.8}Next Time
 Dialogue: 1,0:23:25.01,0:23:34.89,Signs,,0,0,0,,{=18}{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\b800\xshad-0.3\c&H0100FF&\4c&H000045&\4a&H64&\blur0.8}Next Time
