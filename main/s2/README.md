@@ -40,3 +40,20 @@ The song styling is created using karaoke templates. The OP uses [0x.KaraTemplat
 ## Creating info boxes
 
 [`petzku.CellsBox.lua`](https://github.com/petzku/Aegisub-Scripts/blob/cells-box/macros/petzku.CellsBox.lua) is a utility that can be used as an aid to generating info boxes.
+
+## Preparing new episodes
+
+Use the `fetch-episode.sh` shell script to create the Dialogue and Signs ASS scripts in an episode folder.
+The script makes many assumptions about its input and will likely only work properly with scripts from SubsPlease.
+
+The script requires `curl` and `xz` in `PATH`.
+
+### Usage
+
+```sh
+fetch-episode.sh <url> [episode]
+```
+
+`<url>`: the URL of an xz-compressed ASS file. This file will be downloaded using `curl`.
+
+`[episode]`: An optional episode number (e.g. `01`). The script will descend into the episode directory as the first step, allowing the script to be run at the project root rather than at the episode level.
