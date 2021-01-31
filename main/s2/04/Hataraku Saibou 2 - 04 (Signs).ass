@@ -1,0 +1,53 @@
+﻿[Script Info]
+Title: [Butter :v] Hataraku Saibou!! - 04
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1600
+PlayResY: 900
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Kirinashi,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs - Eyecatch,Yaldevi Colombo SemiBold,50,&H000000EE,&H00002EFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs - Infobox,PT Sans,50,&H00000000,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
+
+Dialogue: 0,0:01:44.00,0:01:46.16,Default,,0,0,0,,{\an8}"CELL"
+Dialogue: 0,0:01:53.12,0:01:54.45,Default,,0,0,0,,{\an8}"EPISODE 4:\NH. PYLORI"
+Dialogue: 0,0:01:54.45,0:01:56.37,Default,,0,0,0,,{\an8}"EPISODE 4:\NH. PYLORI"
+Dialogue: 0,0:01:56.37,0:01:58.16,Default,,0,0,0,,{\an8}"EPISODE 4:\NH. PYLORI"
+Dialogue: 0,0:01:58.58,0:02:00.04,Default,,0,0,0,,{\an8}"FRAGILE"\N"CONDENSED GAS"
+Dialogue: 0,0:02:18.16,0:02:19.87,Default,,0,0,0,,{\an8}"WHITE BLOOD CELL"
+Dialogue: 0,0:03:01.75,0:03:04.75,Default,,0,0,0,,{\an8}"OUT OF ORDER"
+Dialogue: 0,0:06:06.54,0:06:07.91,Default,,0,0,0,,{\an8}"NYUUU"
+Dialogue: 0,0:06:41.16,0:06:43.29,Default,,0,0,0,,{\an8}"NYUUU"
+Dialogue: 0,0:16:19.91,0:16:21.25,Default,,0,0,0,,{\an8}"ANTIGENIC SHIFT"
+Dialogue: 0,0:16:21.25,0:16:23.33,Default,,0,0,0,,{\an8}"ANTIGENIC SHIFT"\N"Antigenic Shift."
+Dialogue: 0,0:16:23.33,0:16:24.91,Default,,0,0,0,,{\an8}"ANTIGENIC SHIFT"
+Dialogue: 0,0:16:24.91,0:16:25.70,Default,,0,0,0,,{\an8}"SMALL INTESTINE"
+Dialogue: 0,0:16:33.58,0:16:35.20,Default,,0,0,0,,{\an8}"WELCOME TO THE SMALL INTESTINE"
+Dialogue: 0,0:17:14.54,0:17:16.87,Default,,0,0,0,,{\an8}"SAMPLES"
+Dialogue: 0,0:17:16.87,0:17:19.91,Default,,0,0,0,,{\an8}"SAMPLES"
+Dialogue: 0,0:18:08.33,0:18:08.87,Default,,0,0,0,,{\an8}"TASTY LACTOSE"
+Dialogue: 0,0:18:08.87,0:18:11.41,Default,,0,0,0,,{\an8}"TASTY LACTOSE"
+Dialogue: 0,0:18:24.58,0:18:25.29,Default,,0,0,0,,{\an8}"BURP"
+Dialogue: 0,0:18:46.12,0:18:47.20,Default,,0,0,0,,{\an8}"OM NOM NOM"
+Dialogue: 0,0:18:47.20,0:18:50.66,Default,,0,0,0,,{\an8}"OM NOM NOM"
+Dialogue: 0,0:18:50.66,0:18:52.70,Default,,0,0,0,,{\an8}"OM NOM NOM"
+Dialogue: 0,0:19:03.70,0:19:04.91,Default,,0,0,0,,{\an8}"NYUUU\NSMUG"
+Dialogue: 0,0:23:36.95,0:23:37.70,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:37.70,0:23:39.12,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:39.12,0:23:41.54,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:41.54,0:23:43.16,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:43.16,0:23:45.91,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:45.91,0:23:47.70,Default,,0,0,0,,{\an8}"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:47.70,0:23:49.08,Default,,0,0,0,,{\an8}"EPISODE 5:\NCYTOKINES"
+Dialogue: 0,0:23:49.08,0:23:49.91,Default,,0,0,0,,{\an8}"EPISODE 5:\NCYTOKINES"
+Dialogue: 0,0:23:49.91,0:23:51.91,Default,,0,0,0,,{\an8}"EPISODE 5:\NCYTOKINES"
