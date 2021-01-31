@@ -80,13 +80,17 @@ Dialogue: 0,0:03:45.25,0:03:50.25,Signs,,0,0,0,,{=30}{\pos(800,666)\fnFOT-Rodin 
 Dialogue: 1,0:03:45.25,0:03:50.25,Signs,,0,0,0,,{=30}{\pos(800,666)\fnFOT-Rodin Pro EB\fs81\b800\c&H0000FF&\blur0.7}Chapter 1: Bump
 Comment: 0,0:23:25.01,0:23:25.01,Signs,,0,0,0,,# Next Episode Preview #
 Dialogue: 0,0:23:25.01,0:23:34.89,Signs,,0,0,0,,{=18}{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\b800\bord4\c&HFFFFE8&\3c&HFFFFE8&\blur0.8}Next Time
-Dialogue: 1,0:23:25.01,0:23:34.89,Signs,,0,0,0,,{=18}{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\b800\xshad-0.3\c&H0100FF&\4c&H000045&\4a&H64&\blur0.8}Next Time
+Dialogue: 1,0:23:25.01,0:23:34.89,Signs,,0,0,0,,{=18}{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\b800\c&H000045&\3c&H000045&\blur0.8}Next Time
+Dialogue: 2,0:23:25.01,0:23:34.89,Signs,,0,0,0,,{=18}{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\b800\xshad-0.01\c&H0100FF&\4c&H000045&\blur0.8}Next Time
 Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,650)\fnFOT-Rodin Pro EB\fs60\b800\bord4\c&HFFFFF1&\3c&HFFFFF1&\blur0.8}Chapter 2
-Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,650)\fnFOT-Rodin Pro EB\fs60\b800\xshad-0.1\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Chapter 2
+Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,650)\fnFOT-Rodin Pro EB\fs60\b800\c&H000045&\blur0.8}Chapter 2
+Dialogue: 2,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,650)\fnFOT-Rodin Pro EB\fs60\b800\xshad-0.01\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Chapter 2
 Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,721)\fnFOT-Rodin Pro EB\fs70\b800\bord4\c&HFFFFF1&\3c&HFFFFF1&\blur0.8}Acquired Immunity
-Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,721)\fnFOT-Rodin Pro EB\fs70\b800\xshad-0.1\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Acquired Immunity
+Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,721)\fnFOT-Rodin Pro EB\fs70\b800\c&H000045&\blur0.8}Acquired Immunity
+Dialogue: 2,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,721)\fnFOT-Rodin Pro EB\fs70\b800\xshad-0.01\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Acquired Immunity
 Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,791)\fnFOT-Rodin Pro EB\fs70\b800\bord4\c&HFFFFF1&\3c&HFFFFF1&\blur0.8}Peyer's Patch
-Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,791)\fnFOT-Rodin Pro EB\fs70\b800\xshad-0.1\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Peyer's Patch
+Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,791)\fnFOT-Rodin Pro EB\fs70\b800\c&H000045&\blur0.8}Peyer's Patch
+Dialogue: 2,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,791)\fnFOT-Rodin Pro EB\fs70\b800\xshad-0.01\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Peyer's Patch
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Eyecatches ==
 Dialogue: 0,0:02:25.05,0:02:28.00,Signs - Eyecatch,,0,0,0,,# OP Eyecatch #
 Dialogue: 0,0:02:25.05,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(887.36,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}C
