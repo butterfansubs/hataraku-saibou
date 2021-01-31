@@ -458,8 +458,8 @@ Dialogue: 0,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\an7\pos(0,0)\c&HC6FEDB&\blur1\
 Dialogue: 1,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\an7\pos(0,0)\c&HC6FEDB&\blur1\t(0,160,\c&H26A558&)\p1\b1}m 850.18 742.69 b 841.04 735.19 839.94 733.03 830.55 724.8 l 825.45 733.52 833.23 739.22
 Dialogue: 1,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\pos(839.48,669.24)\frz9.377\fnComplete in Him\fs30\c&HC6FEDB&\blur0.7\t(0,160,\c&H0C0A0F&)}Relaxing
 Dialogue: 1,0:05:40.28,0:05:47.91,Signs,,0,0,0,,{\pos(863.63,715.91)\frz5.78\fnComplete in Him\fs60\c&HC6FEDB&\blur0.6\t(0,160,\c&H0C0A0F&)}Tea
-Dialogue: 0,0:05:45.66,0:05:47.91,Signs,,0,0,0,,{=19}{\pos(962.4,70.8)\frz2.804\fnArial Rounded MT Bold PL\bord4\c&H046122&\3c&H046122&\blur0.6}This tea is so good!
-Dialogue: 1,0:05:45.66,0:05:47.91,Signs,,0,0,0,,{=19}{\pos(962.4,70.8)\frz2.804\fnArial Rounded MT Bold PL\c&H57FBD7&\4a&HFF&\blur0.5}T{\c&H53FAD2&}h{\c&H50F9CD&}i{\c&H4CF8C8&}s {\c&H45F6BE&}t{\c&H42F5B9&}e{\c&H3EF4B4&}a {\c&H37F2AA&}i{\c&H34F2A5&}s {\c&H2DF09B&}s{\c&H29EF96&}o {\c&H22ED8C&}g{\c&H1FEC87&}o{\c&H1BEB82&}o{\c&H18EA7D&}d{\c&H15EA78&}!
+Dialogue: 0,0:05:45.66,0:05:47.91,Signs,,0,0,0,,{=19}{\fad(250,0)\pos(944.4,70.8)\fnArial Rounded MT Bold PL\bord4\c&H046122&\3c&H046122&\blur0.6\1a&HFF&\t(210,250,\1a&H00&)\frz5.243}This tea is so good!
+Dialogue: 1,0:05:45.66,0:05:47.91,Signs,,0,0,0,,{=19}{\fad(250,0)\pos(944.4,70.8)\fnArial Rounded MT Bold PL\c&H57FBD7&\4a&HFF&\blur0.6\frz5.243}T{\c&H53FAD2&}h{\c&H50F9CD&}i{\c&H4CF8C8&}s {\c&H45F6BE&}t{\c&H42F5B9&}e{\c&H3EF4B4&}a {\c&H37F2AA&}i{\c&H34F2A5&}s {\c&H2DF09B&}s{\c&H29EF96&}o {\c&H22ED8C&}g{\c&H1FEC87&}o{\c&H1BEB82&}o{\c&H18EA7D&}d{\c&H15EA78&}!
 Comment: 0,0:07:49.82,0:07:50.32,Signs,skip?,0,0,0,,# Platelet hat sweep #
 Comment: 0,0:08:51.84,0:09:02.23,Signs,skip?,0,0,0,,# Platelet hats #
 Comment: 0,0:08:55.77,0:08:57.60,Signs,skip,0,0,0,,# SNACK #
