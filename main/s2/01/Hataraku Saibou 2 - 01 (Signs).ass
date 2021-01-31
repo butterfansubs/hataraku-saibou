@@ -19,7 +19,7 @@ Video AR Value: 1.777778
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Signs,Kirinashi,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: Signs - Eyecatch,Yaldevi Colombo SemiBold,50,&H000000EE,&H00002EFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs - Eyecatch,Yaldevi Colombo SemiBold,50,&H00DF8A01,&H00002EFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Signs - Infobox,PT Sans,50,&H00000000,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
 
 [Events]
@@ -87,6 +87,7 @@ Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,721)\fnFOT-Rodin Pro E
 Dialogue: 0,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,791)\fnFOT-Rodin Pro EB\fs70\b800\bord4\c&HFFFFF1&\3c&HFFFFF1&\blur0.8}Peyer's Patch
 Dialogue: 1,0:23:34.89,0:23:40.02,Signs,,0,0,0,,{\pos(325,791)\fnFOT-Rodin Pro EB\fs70\b800\xshad-0.1\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Peyer's Patch
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Eyecatches ==
+Dialogue: 0,0:02:25.05,0:02:28.00,Signs - Eyecatch,,0,0,0,,# OP Eyecatch #
 Dialogue: 0,0:02:25.05,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(887.36,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}C
 Dialogue: 0,0:02:25.04,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(903.86,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}e
 Dialogue: 0,0:02:25.00,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(915.95,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}l
@@ -100,20 +101,136 @@ Dialogue: 0,0:02:25.16,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\po
 Dialogue: 0,0:02:25.11,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1050.1,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}k
 Dialogue: 0,0:02:25.13,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1062.17,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}!
 Dialogue: 0,0:02:25.11,0:02:28.00,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1070.33,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}!
-Dialogue: 0,0:13:08.43,0:13:08.47,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx112.39\fscy112.39\frz0.07\fade(255,0,255,0,180,250,250)\blur0.9\pos(1021.52,703.42)}Cells at Work!!
-Dialogue: 0,0:13:08.47,0:13:08.51,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx104.3\fscy104.3\frz0.07\fade(255,0,255,-40,140,210,210)\blur0.9\pos(1005.57,685.19)}Cells at Work!!
-Dialogue: 0,0:13:08.51,0:13:08.55,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx102.39\fscy102.39\frz0.07\fade(255,0,255,-80,100,170,170)\blur0.9\pos(1001.82,680.88)}Cells at Work!!
-Dialogue: 0,0:13:08.55,0:13:08.60,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx101.15\fscy101.15\frz0.07\fade(255,0,255,-120,60,130,130)\blur0.9\pos(999.36,678.1)}Cells at Work!!
-Dialogue: 0,0:13:08.60,0:13:08.64,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx100.42\fscy100.42\frz0.07\fade(255,0,255,-170,10,80,80)\blur0.9\pos(997.94,676.43)}Cells at Work!!
-Dialogue: 0,0:13:08.64,0:13:08.68,Signs - Eyecatch,,0,0,0,,{=217=219}{\fade(255,0,255,-210,-30,40,40)\blur0.9\pos(997.12,675.09)}Cells at Work!!
-Dialogue: 0,0:13:08.68,0:13:09.98,Signs - Eyecatch,,0,0,0,,{=217}{\blur0.9\pos(997.12,675.09)}Cells at Work!!
-Dialogue: 0,0:13:13.44,0:13:13.48,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx112.39\fscy112.39\frz0.07\fade(255,0,255,0,180,250,250)\blur0.9\pos(1021.52,703.42)}Cells at Work!!
-Dialogue: 0,0:13:13.48,0:13:13.52,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx104.3\fscy104.3\frz0.07\fade(255,0,255,-40,140,210,210)\blur0.9\pos(1005.57,685.19)}Cells at Work!!
-Dialogue: 0,0:13:13.52,0:13:13.56,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx102.39\fscy102.39\frz0.07\fade(255,0,255,-80,100,170,170)\blur0.9\pos(1001.82,680.88)}Cells at Work!!
-Dialogue: 0,0:13:13.56,0:13:13.61,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx101.15\fscy101.15\frz0.07\fade(255,0,255,-120,60,130,130)\blur0.9\pos(999.36,678.1)}Cells at Work!!
-Dialogue: 0,0:13:13.61,0:13:13.65,Signs - Eyecatch,,0,0,0,,{=217=219}{\fscx100.42\fscy100.42\frz0.07\fade(255,0,255,-170,10,80,80)\blur0.9\pos(997.94,676.43)}Cells at Work!!
-Dialogue: 0,0:13:13.65,0:13:13.69,Signs - Eyecatch,,0,0,0,,{=217=219}{\fade(255,0,255,-210,-30,40,40)\blur0.9\pos(997.12,675.09)}Cells at Work!!
-Dialogue: 0,0:13:13.69,0:13:14.99,Signs - Eyecatch,,0,0,0,,{=217}{\blur0.9\pos(997.12,675.09)}Cells at Work!!
+Comment: 0,0:13:07.18,0:13:09.98,Signs - Eyecatch,,0,0,0,,{=18=226}# Eyecatch Part A end #
+Dialogue: 0,0:13:07.43,0:13:07.60,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(140.71,532.78)\fscx133.72\fscy133.72\fs150\blur20\fad(100,0)\t(0,100,0.3,\blur0.8)}Cells
+Dialogue: 0,0:13:07.60,0:13:07.64,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(144.204,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:07.64,0:13:07.68,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(154.687,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:07.68,0:13:07.73,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(172.157,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:07.73,0:13:07.77,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(196.616,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:07.77,0:13:07.81,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(214.929,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:07.81,0:13:07.85,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(219.31,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:07.85,0:13:07.89,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(219.962,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:07.89,0:13:07.93,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(220.387,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:07.93,0:13:08.35,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(220.71,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:08.35,0:13:08.39,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(227.27,531.9)\fscx132.25\fscy132.25\fs150\blur0.8}Cells
+Dialogue: 0,0:13:08.39,0:13:08.43,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(267.05,526.17)\fscx123.02\fscy123.02\fs150\blur0.8}Cells
+Dialogue: 0,0:13:08.43,0:13:08.47,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(311.25,519.84)\fscx112.81\fscy112.81\fs150\blur0.8}Cells
+Dialogue: 0,0:13:08.47,0:13:08.51,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(346.47,514.72)\fscx104.66\fscy104.66\fs150\blur0.8}Cells
+Dialogue: 0,0:13:08.51,0:13:08.55,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(354.78,513.46)\fscx102.7\fscy102.7\fs150\blur0.8}Cells
+Dialogue: 0,0:13:08.55,0:13:08.60,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(360.24,512.58)\fscx101.41\fscy101.41\fs150\blur0.8}Cells
+Dialogue: 0,0:13:08.60,0:13:08.64,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(363.52,512.07)\fscx100.62\fscy100.62\fs150\blur0.8}Cells
+Dialogue: 0,0:13:08.64,0:13:09.97,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(365.9,511.48)\fs150\blur0.8}Cells
+Dialogue: 0,0:13:07.59,0:13:07.64,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(209.85,695.68)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 659.57 l 193.14 738.42 410.86 738.42 413.14 653.85)}at
+Dialogue: 0,0:13:07.64,0:13:07.68,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(208.6,657.52)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 621.41 l 193.14 700.26 410.86 700.26 413.14 615.69)}at
+Dialogue: 0,0:13:07.68,0:13:07.72,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(204.84,649.98)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 613.87 l 193.14 692.72 410.86 692.72 413.14 608.15)}at
+Dialogue: 0,0:13:07.72,0:13:07.76,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(198.58,645.09)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 608.98 l 193.14 687.83 410.86 687.83 413.14 603.26)}at
+Dialogue: 0,0:13:07.76,0:13:07.80,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(189.81,642.05)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 605.94 l 193.14 684.79 410.86 684.79 413.14 600.22)}at
+Dialogue: 0,0:13:07.80,0:13:07.85,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(178.54,639.23)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 603.12 l 193.14 681.97 410.86 681.97 413.14 597.4)}at
+Dialogue: 0,0:13:07.85,0:13:07.89,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(164.76,638.97)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 602.86 l 193.14 681.71 410.86 681.71 413.14 597.14)}at
+Dialogue: 0,0:13:07.89,0:13:07.93,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(150.45,638.97)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 602.86 l 193.14 681.71 410.86 681.71 413.14 597.14)}at
+Dialogue: 0,0:13:07.93,0:13:07.98,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(143.072,638.97)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 602.86 l 193.14 681.71 410.86 681.71 413.14 597.14)}at
+Dialogue: 0,0:13:07.98,0:13:08.02,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(137.1,638.97)\fscx133.72\fscy133.72\fs80\blur0.8}at
+Dialogue: 0,0:13:08.02,0:13:08.06,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(131.889,638.97)\fscx133.72\fscy133.72\fs80\blur0.8}at
+Dialogue: 0,0:13:08.06,0:13:08.35,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(127.18,638.97)\fscx133.72\fscy133.72\fs80\blur0.8}at
+Dialogue: 0,0:13:08.35,0:13:08.39,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(134.78,636.91)\fscx132.25\fscy132.25\fs80\blur0.8}at
+Dialogue: 0,0:13:08.39,0:13:08.43,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(181.01,623.87)\fscx123.02\fscy123.02\fs80\blur0.8}at
+Dialogue: 0,0:13:08.43,0:13:08.47,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(232.35,609.42)\fscx112.81\fscy112.81\fs80\blur0.8}at
+Dialogue: 0,0:13:08.47,0:13:08.51,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(273.27,597.83)\fscx104.66\fscy104.66\fs80\blur0.8}at
+Dialogue: 0,0:13:08.51,0:13:08.55,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(282.95,595.01)\fscx102.7\fscy102.7\fs80\blur0.8}at
+Dialogue: 0,0:13:08.55,0:13:08.60,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(289.32,593.1)\fscx101.41\fscy101.41\fs80\blur0.8}at
+Dialogue: 0,0:13:08.60,0:13:08.64,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(293.15,591.97)\fscx100.62\fscy100.62\fs80\blur0.8}at
+Dialogue: 0,0:13:08.64,0:13:09.97,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(295.96,590.89)\fs80\blur0.8}at
+Dialogue: 0,0:13:07.43,0:13:07.55,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,730.37)\fscx133.72\fscy133.72\fs120\blur20\fad(100,0)\t(0,100,0.3,\blur0.8)}Work
+Dialogue: 0,0:13:07.55,0:13:07.59,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,726.52)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:07.59,0:13:07.64,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,703.71)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:07.64,0:13:07.68,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,665.56)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:07.68,0:13:07.72,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,658.01)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:07.72,0:13:07.76,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,653.13)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:07.76,0:13:07.80,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,650.08)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:07.80,0:13:07.85,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,647.27)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:07.85,0:13:08.35,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,647.03)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:08.35,0:13:08.39,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(301.2,644.89)\fscx132.25\fscy132.25\fs120\blur0.8}Work
+Dialogue: 0,0:13:08.39,0:13:08.43,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(335.8,631.28)\fscx123.02\fscy123.02\fs120\blur0.8}Work
+Dialogue: 0,0:13:08.43,0:13:08.47,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(374.3,616.23)\fscx112.81\fscy112.81\fs120\blur0.8}Work
+Dialogue: 0,0:13:08.47,0:13:08.51,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(405,604.14)\fscx104.66\fscy104.66\fs120\blur0.8}Work
+Dialogue: 0,0:13:08.51,0:13:08.55,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(412.2,601.2)\fscx102.7\fscy102.7\fs120\blur0.8}Work
+Dialogue: 0,0:13:08.55,0:13:08.60,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(417,599.22)\fscx101.41\fscy101.41\fs120\blur0.8}Work
+Dialogue: 0,0:13:08.60,0:13:08.64,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(419.8,598.03)\fscx100.62\fscy100.62\fs120\blur0.8}Work
+Dialogue: 0,0:13:08.64,0:13:09.97,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(421.8,596.92)\fs120\blur0.8}Work
+Dialogue: 0,0:13:07.85,0:13:08.35,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(476.44,656.39)\fscx5\fscy5\fax-0.25\fs130\blur0.8\t(0,120,2,\fscx80\fscy80)\t(120,250,0.3\fscx160\fscy160)\t(250,370,2.5,\fscx133.72\fscy133.72)}!!
+Dialogue: 0,0:13:08.35,0:13:08.39,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(480.25,654.15)\fscx132.25\fscy132.25\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:08.39,0:13:08.43,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(502.3,639.89)\fscx123.02\fscy123.02\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:08.43,0:13:08.47,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(526.96,624.13)\fscx112.81\fscy112.81\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:08.47,0:13:08.51,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(546.63,611.47)\fscx104.66\fscy104.66\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:08.51,0:13:08.55,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(551.24,608.39)\fscx102.7\fscy102.7\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:08.55,0:13:08.60,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(554.18,606.32)\fscx101.41\fscy101.41\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:08.60,0:13:08.64,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(555.92,605.07)\fscx100.62\fscy100.62\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:08.64,0:13:09.97,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(557.2,603.92)\fax-0.25\fs130\blur0.8}!!
+Comment: 0,0:13:12.19,0:13:14.98,Signs - Eyecatch,,0,0,0,,{=18=226}# Eyecatch Part B start #
+Dialogue: 0,0:13:12.44,0:13:12.61,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(140.71,532.78)\fscx133.72\fscy133.72\fs150\blur20\fad(100,0)\t(0,100,0.3,\blur0.8)}Cells
+Dialogue: 0,0:13:12.61,0:13:12.65,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(144.204,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:12.65,0:13:12.69,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(154.687,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:12.69,0:13:12.74,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(172.157,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:12.74,0:13:12.78,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(196.616,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:12.78,0:13:12.82,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(214.929,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:12.82,0:13:12.86,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(219.31,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:12.86,0:13:12.90,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(219.962,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:12.90,0:13:12.94,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(220.387,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:12.94,0:13:13.36,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(220.71,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
+Dialogue: 0,0:13:13.36,0:13:13.40,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(227.27,531.9)\fscx132.25\fscy132.25\fs150\blur0.8}Cells
+Dialogue: 0,0:13:13.40,0:13:13.44,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(267.05,526.17)\fscx123.02\fscy123.02\fs150\blur0.8}Cells
+Dialogue: 0,0:13:13.44,0:13:13.48,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(311.25,519.84)\fscx112.81\fscy112.81\fs150\blur0.8}Cells
+Dialogue: 0,0:13:13.48,0:13:13.52,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(346.47,514.72)\fscx104.66\fscy104.66\fs150\blur0.8}Cells
+Dialogue: 0,0:13:13.52,0:13:13.56,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(354.78,513.46)\fscx102.7\fscy102.7\fs150\blur0.8}Cells
+Dialogue: 0,0:13:13.56,0:13:13.61,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(360.24,512.58)\fscx101.41\fscy101.41\fs150\blur0.8}Cells
+Dialogue: 0,0:13:13.61,0:13:13.65,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(363.52,512.07)\fscx100.62\fscy100.62\fs150\blur0.8}Cells
+Dialogue: 0,0:13:13.65,0:13:14.98,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(365.9,511.48)\fs150\blur0.8}Cells
+Dialogue: 0,0:13:12.60,0:13:12.64,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(209.85,695.68)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 659.57 l 193.14 738.42 410.86 738.42 413.14 653.85)}at
+Dialogue: 0,0:13:12.65,0:13:12.69,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(208.6,657.52)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 621.41 l 193.14 700.26 410.86 700.26 413.14 615.69)}at
+Dialogue: 0,0:13:12.69,0:13:12.74,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(204.84,649.98)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 613.87 l 193.14 692.72 410.86 692.72 413.14 608.15)}at
+Dialogue: 0,0:13:12.74,0:13:12.78,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(198.58,645.09)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 608.98 l 193.14 687.83 410.86 687.83 413.14 603.26)}at
+Dialogue: 0,0:13:12.78,0:13:12.82,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(189.81,642.05)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 605.94 l 193.14 684.79 410.86 684.79 413.14 600.22)}at
+Dialogue: 0,0:13:12.82,0:13:12.86,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(178.54,639.23)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 603.12 l 193.14 681.97 410.86 681.97 413.14 597.4)}at
+Dialogue: 0,0:13:12.86,0:13:12.90,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(164.76,638.97)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 602.86 l 193.14 681.71 410.86 681.71 413.14 597.14)}at
+Dialogue: 0,0:13:12.90,0:13:12.94,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(150.45,638.97)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 602.86 l 193.14 681.71 410.86 681.71 413.14 597.14)}at
+Dialogue: 0,0:13:12.94,0:13:12.99,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(143.072,638.97)\fscx133.72\fscy133.72\fs80\blur0.8\iclip(m 173.14 602.86 l 193.14 681.71 410.86 681.71 413.14 597.14)}at
+Dialogue: 0,0:13:12.99,0:13:13.03,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(137.1,638.97)\fscx133.72\fscy133.72\fs80\blur0.8}at
+Dialogue: 0,0:13:13.03,0:13:13.32,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(131.889,638.97)\fscx133.72\fscy133.72\fs80\blur0.8}at
+Dialogue: 0,0:13:13.32,0:13:13.36,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(127.18,638.97)\fscx133.72\fscy133.72\fs80\blur0.8}at
+Dialogue: 0,0:13:13.36,0:13:13.40,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(134.78,636.91)\fscx132.25\fscy132.25\fs80\blur0.8}at
+Dialogue: 0,0:13:13.40,0:13:13.44,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(181.01,623.87)\fscx123.02\fscy123.02\fs80\blur0.8}at
+Dialogue: 0,0:13:13.44,0:13:13.48,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(232.35,609.42)\fscx112.81\fscy112.81\fs80\blur0.8}at
+Dialogue: 0,0:13:13.48,0:13:13.52,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(273.27,597.83)\fscx104.66\fscy104.66\fs80\blur0.8}at
+Dialogue: 0,0:13:13.52,0:13:13.56,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(282.95,595.01)\fscx102.7\fscy102.7\fs80\blur0.8}at
+Dialogue: 0,0:13:13.56,0:13:13.61,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(289.32,593.1)\fscx101.41\fscy101.41\fs80\blur0.8}at
+Dialogue: 0,0:13:13.61,0:13:13.65,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(293.15,591.97)\fscx100.62\fscy100.62\fs80\blur0.8}at
+Dialogue: 0,0:13:13.65,0:13:14.98,Signs - Eyecatch,,0,0,0,,{=18=225}{\pos(295.96,590.89)\fs80\blur0.8}at
+Dialogue: 0,0:13:12.44,0:13:12.56,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,730.37)\fscx133.72\fscy133.72\fs120\blur20\fad(100,0)\t(0,100,0.3,\blur0.8)}Work
+Dialogue: 0,0:13:12.56,0:13:12.60,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,726.52)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:12.60,0:13:12.65,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,703.71)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:12.65,0:13:12.69,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,665.56)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:12.69,0:13:12.73,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,658.01)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:12.73,0:13:12.77,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,653.13)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:12.77,0:13:12.81,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,650.08)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:12.81,0:13:12.86,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,647.27)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:12.86,0:13:13.36,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(295.5,647.03)\fscx133.72\fscy133.72\fs120\blur0.8}Work
+Dialogue: 0,0:13:13.36,0:13:13.40,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(301.2,644.89)\fscx132.25\fscy132.25\fs120\blur0.8}Work
+Dialogue: 0,0:13:13.40,0:13:13.44,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(335.8,631.28)\fscx123.02\fscy123.02\fs120\blur0.8}Work
+Dialogue: 0,0:13:13.44,0:13:13.48,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(374.3,616.23)\fscx112.81\fscy112.81\fs120\blur0.8}Work
+Dialogue: 0,0:13:13.48,0:13:13.52,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(405,604.14)\fscx104.66\fscy104.66\fs120\blur0.8}Work
+Dialogue: 0,0:13:13.52,0:13:13.56,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(412.2,601.2)\fscx102.7\fscy102.7\fs120\blur0.8}Work
+Dialogue: 0,0:13:13.56,0:13:13.61,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(417,599.22)\fscx101.41\fscy101.41\fs120\blur0.8}Work
+Dialogue: 0,0:13:13.61,0:13:13.65,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(419.8,598.03)\fscx100.62\fscy100.62\fs120\blur0.8}Work
+Dialogue: 0,0:13:13.65,0:13:14.98,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(421.8,596.92)\fs120\blur0.8}Work
+Dialogue: 0,0:13:12.86,0:13:13.36,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(476.44,656.39)\fscx5\fscy5\fax-0.25\fs130\blur0.8\t(0,120,2,\fscx80\fscy80)\t(120,250,0.3\fscx160\fscy160)\t(250,370,2.5,\fscx133.72\fscy133.72)}!!
+Dialogue: 0,0:13:13.36,0:13:13.40,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(480.25,654.15)\fscx132.25\fscy132.25\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:13.40,0:13:13.44,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(502.3,639.89)\fscx123.02\fscy123.02\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:13.44,0:13:13.48,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(526.96,624.13)\fscx112.81\fscy112.81\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:13.48,0:13:13.52,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(546.63,611.47)\fscx104.66\fscy104.66\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:13.52,0:13:13.56,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(551.24,608.39)\fscx102.7\fscy102.7\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:13.56,0:13:13.61,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(554.18,606.32)\fscx101.41\fscy101.41\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:13.61,0:13:13.65,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(555.92,605.07)\fscx100.62\fscy100.62\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:13.65,0:13:14.98,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(557.2,603.92)\fax-0.25\fs130\blur0.8}!!
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ==
 Comment: 0,0:00:50.11,0:00:50.99,Signs,skip?,0,0,0,,# WHITE BLOOD CELL #
 Comment: 0,0:02:53.99,0:03:02.33,Signs,skip,0,0,0,,# Box labels #
@@ -5855,5 +5972,6 @@ Data: 211,a-mo,e{"uuid"#3A"a648f0c6-b2cd-44af-baa8-05f4852ac594"#2C"originalText
 Data: 212,a-mo,e{"uuid"#3A"30ad1897-2e81-40a5-8230-08d043e74086"#2C"originalText"#3A"{\\blur0.7\\c&H080E0D&\\fnAR Xingkaibei Web\\b1\\fs70\\pos(840.6#2C680.8)\\frz10.61\\fax0.25}G{\\fax0.21}e{\\fax0.17}r{\\fax0.13}m"}
 Data: 215,l0.MoveAlongPath,e{"orgLine"#3A"{\\fnKaimin Sora Web\\fs145\\b900\\c&H0A0807&\\pos(800#2C265.2)\\clip(m 263.33 182.67 b 608 55.33 925.33 18 1380 224)}MEGAKARYOCYTE"#2C"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"f9ea1123-1167-4df9-affb-e2ab52efd25c"}
 Data: 216,l0.MoveAlongPath,e{"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"f9ea1123-1167-4df9-affb-e2ab52efd25c"}
-Data: 217,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A4}
-Data: 219,a-mo,e{"uuid"#3A"fd09e791-208d-43fd-9749-65043c92dfff"#2C"originalText"#3A"{\\fad(180#2C0)\\an5\\c&H0000EE&\\blur0.9\\fnYaldevi Colombo SemiBold\\pos(997.12#2C676.09)}Cells at Work!!"}
+Data: 224,a-mo,e{"uuid"#3A"9ed5712d-455f-4b8a-bbe9-84d7f63822b4"#2C"originalText"#3A"{\\blur0.8\\c&HDF8A01&\\fs120\\pos(443.61#2C596.92)}Work{\\i1}!!"}
+Data: 225,a-mo,e{"uuid"#3A"6cdb2858-91c3-44d6-b04e-5b747fd7026c"#2C"originalText"#3A"{\\blur0.8\\c&HDF8A01&\\fs80\\pos(295.96#2C590.89)}at"}
+Data: 226,a-mo,e{"uuid"#3A"776c07a0-ec77-48df-840c-3d6c315f0103"#2C"originalText"#3A"{\\blur0.8\\c&HDF8A01&\\fs150\\pos(365.9#2C511.48)}Cells"}
