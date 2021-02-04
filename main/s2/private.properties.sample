@@ -1,0 +1,4 @@
+## To use: copy this file and name it 'private.properties'
+## Then edit this line to point to your fonts location
+## Windows paths should work with slashes: D:/path/to/fonts
+FONTSDIR=/path/to/fonts

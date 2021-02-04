@@ -5,7 +5,7 @@
 This project uses [SubKt](https://github.com/Myaamori/SubKt) for merging and muxing. To use it yourself:
 
 1. Ensure you have a recent version of the JDK installed (11 or later).
-2. Copy the `sub.properties.sample` file into `sub.properties`.
+2. Copy the `private.properties.sample` file into `private.properties`.
 3. Edit the `FONTSDIR=` line to point to your fonts location. The structure should follow the structure outlined below:
 
 ```bash

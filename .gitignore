@@ -16,7 +16,8 @@
 !gradlew
 !gradlew.bat
 !settings.gradle.kts
-!sub.properties.sample
+!sub.properties
+!private.properties.sample
 !gradle/wrapper/*
 .gradle
 

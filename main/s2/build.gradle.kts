@@ -10,7 +10,7 @@ plugins {
 }
 
 subs {
-    readProperties("sub.properties")
+    readProperties("sub.properties", "private.properties")
     episodes(getList("episodes"))
 
     merge {
