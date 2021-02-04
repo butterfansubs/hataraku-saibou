@@ -9,11 +9,35 @@ plugins {
     id("myaa.subkt")
 }
 
+fun getGitHash(): String {
+    val proc = ProcessBuilder("git", "rev-parse", "HEAD")
+            .redirectOutput(ProcessBuilder.Redirect.PIPE)
+            .start()
+
+    return proc.inputStream.reader().readText().trim() ?: ""
+}
+
 subs {
     readProperties("sub.properties", "private.properties")
     episodes(getList("episodes"))
 
+    val meta by task<ASS> {
+        from(get("meta"))
+
+        val git_hash = getGitHash()
+
+        ass {
+            for (line in events.lines) {
+                if (line.comment) {
+                    line.text = line.text.replace("%GIT_HASH%", git_hash)
+                }
+            }
+        }
+    }
+
     merge {
+        from(meta.item())
+
         from(get("dialogue")) {
             incrementLayer(10)
         }

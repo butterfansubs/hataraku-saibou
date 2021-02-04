@@ -22,8 +22,6 @@ Style: Default,Kirinashi,63,&H00FFFFFF,&H00FFFFFF,&H00000000,&H87000000,-1,0,0,0
 Style: Default-Alt,Kirinashi,63,&H00FFFFFF,&H00FFFFFF,&H00743E15,&HCC000000,-1,0,0,0,100,100,0,0,1,3,1.25,2,138,138,50,1
 /^\[Events]/,/^Format/ {
 /^Format/a\
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta ================================\
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/hataraku-saibou\
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
 }
 /^Dialogue:/ { /{[^}]*\\an8[^}]*}/d }
