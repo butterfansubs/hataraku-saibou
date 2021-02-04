@@ -39,7 +39,7 @@ The song styling is created using karaoke templates. The OP uses [0x.KaraTemplat
 
 ## Creating info boxes
 
-[`petzku.CellsBox.lua`](https://github.com/petzku/Aegisub-Scripts/blob/cells-box/macros/petzku.CellsBox.lua) is a utility that can be used as an aid to generating info boxes.
+[`petzku.CellsBox.lua`](https://github.com/petzku/Aegisub-Scripts#cells-box) is a utility that can be used as an aid to generating info boxes.
 
 ## Preparing new episodes
 
