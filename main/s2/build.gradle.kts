@@ -30,6 +30,9 @@ subs {
             syncTargetLine("ED", EventLineAccessor.TEXT)
         }
 
+        includeProjectGarbage(false)
+        includeExtraData(false)
+
         out(get("mergefile"))
     }
 
