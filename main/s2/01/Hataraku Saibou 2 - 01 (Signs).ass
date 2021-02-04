@@ -99,8 +99,8 @@ Dialogue: 0,0:02:25.16,0:02:28.00,Signs - Eyecatch,,0,0,0,,{=30}{\pos(348.85,584
 Dialogue: 1,0:02:25.08,0:02:28.00,Signs - Eyecatch,,0,0,0,,{=30}{\pos(348.85,584.57)\fscx10\fscy10\fs72\blur0.7\t(0,150,\fscx121\fscy132)\t(150,300,\fscx100\fscy100)}at
 Dialogue: 0,0:02:25.12,0:02:28.00,Signs - Eyecatch,,0,0,0,,{=30}{\pos(459.37,585.72)\fscx10\fscy10\fs108\c&H452B00&\blur0.7\fad(150,0)\t(-80,70,\fscx114\fscy121)\t(70,220,\fscx100\fscy100)}Work
 Dialogue: 1,0:02:25.04,0:02:28.00,Signs - Eyecatch,,0,0,0,,{=30}{\pos(459.37,585.72)\fscx10\fscy10\fs108\blur0.7\t(0,150,\fscx114\fscy121)\t(150,300,\fscx100\fscy100)}Work
-Dialogue: 0,0:02:25.20,0:02:28.00,Signs - Eyecatch,,0,0,0,,{=30}{\an4\pos(563.03,590.29)\fscx10\fscy10\fax-0.25\fs117\c&H452B00&\blur0.7\fad(150,0)\t(-70,80,\fscx121\fscy126)\t(80,230,\fscx100\fscy100)}!!
-Dialogue: 1,0:02:25.13,0:02:28.00,Signs - Eyecatch,,0,0,0,,{=30}{\an4\pos(563.03,590.29)\fscx10\fscy10\fax-0.25\fs117\blur0.7\t(0,150,\fscx121\fscy126)\t(150,300,\fscx100\fscy100)}!!
+Dialogue: 0,0:02:25.20,0:02:28.00,Signs - Eyecatch,,0,0,0,,{=30}{\an4\pos(558.53,592.09)\fscx10\fscy10\fax-0.3\fnFB Miller Display Semibold Web\fs90\fsp-10\c&H452B00&\blur0.7\fad(150,0)\t(-70,80,\fscx121\fscy126)\t(80,230,\fscx100\fscy100)}!!
+Dialogue: 1,0:02:25.13,0:02:28.00,Signs - Eyecatch,,0,0,0,,{=30}{\an4\pos(558.53,592.09)\fscx10\fscy10\fax-0.3\fnFB Miller Display Semibold Web\fs90\fsp-10\blur0.7\t(0,150,\fscx121\fscy126)\t(150,300,\fscx100\fscy100)}!!
 Comment: 0,0:13:07.18,0:13:09.98,Signs - Eyecatch,,0,0,0,,{=18=226}# Eyecatch Part A end #
 Dialogue: 0,0:13:07.43,0:13:07.60,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(140.71,532.78)\fscx133.72\fscy133.72\fs150\blur20\fad(100,0)\t(0,100,0.3,\blur0.8)}Cells
 Dialogue: 0,0:13:07.60,0:13:07.64,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(144.204,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
@@ -157,15 +157,15 @@ Dialogue: 0,0:13:08.51,0:13:08.55,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(412.2,
 Dialogue: 0,0:13:08.55,0:13:08.60,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(417,599.22)\fscx101.41\fscy101.41\fs120\blur0.8}Work
 Dialogue: 0,0:13:08.60,0:13:08.64,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(419.8,598.03)\fscx100.62\fscy100.62\fs120\blur0.8}Work
 Dialogue: 0,0:13:08.64,0:13:09.97,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(421.8,596.92)\fs120\blur0.8}Work
-Dialogue: 0,0:13:07.85,0:13:08.35,Signs - Eyecatch,,0,0,0,,{=18=224}{\an4\pos(444.89,656.39)\fscx5\fscy5\fax-0.25\fs130\blur0.8\t(0,120,2,\fscx80\fscy80)\t(120,250,0.3,\fscx160\fscy160)\t(250,370,2.5,\fscx133.72\fscy133.72)}!!
-Dialogue: 0,0:13:08.35,0:13:08.39,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(480.25,654.15)\fscx132.25\fscy132.25\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:08.39,0:13:08.43,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(502.3,639.89)\fscx123.02\fscy123.02\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:08.43,0:13:08.47,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(526.96,624.13)\fscx112.81\fscy112.81\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:08.47,0:13:08.51,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(546.63,611.47)\fscx104.66\fscy104.66\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:08.51,0:13:08.55,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(551.24,608.39)\fscx102.7\fscy102.7\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:08.55,0:13:08.60,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(554.18,606.32)\fscx101.41\fscy101.41\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:08.60,0:13:08.64,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(555.92,605.07)\fscx100.62\fscy100.62\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:08.64,0:13:09.97,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(557.2,603.92)\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:07.85,0:13:08.35,Signs - Eyecatch,,0,0,0,,{=18=224}{\an4\pos(443.18,659.06)\fscx5\fscy5\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8\t(0,120,2,\fscx80\fscy80)\t(120,250,0.3,\fscx160\fscy160)\t(250,370,2.5,\fscx133.72\fscy133.72)}!!
+Dialogue: 0,0:13:08.35,0:13:08.39,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(473.64,656.8)\fscx132.25\fscy132.25\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:08.39,0:13:08.43,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(496.15,642.35)\fscx123.02\fscy123.02\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:08.43,0:13:08.47,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(521.32,626.39)\fscx112.81\fscy112.81\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:08.47,0:13:08.51,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(541.4,613.56)\fscx104.66\fscy104.66\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:08.51,0:13:08.55,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(546.11,610.44)\fscx102.7\fscy102.7\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:08.55,0:13:08.60,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(549.11,608.35)\fscx101.41\fscy101.41\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:08.60,0:13:08.64,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(550.89,607.08)\fscx100.62\fscy100.62\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:08.64,0:13:09.97,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(552.2,605.92)\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
 Comment: 0,0:13:12.19,0:13:14.98,Signs - Eyecatch,,0,0,0,,{=18=226}# Eyecatch Part B start #
 Dialogue: 0,0:13:12.44,0:13:12.61,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(140.71,532.78)\fscx133.72\fscy133.72\fs150\blur20\fad(100,0)\t(0,100,0.3,\blur0.8)}Cells
 Dialogue: 0,0:13:12.61,0:13:12.65,Signs - Eyecatch,,0,0,0,,{=18=226}{\pos(144.204,532.78)\fscx133.72\fscy133.72\fs150\blur0.8}Cells
@@ -222,15 +222,15 @@ Dialogue: 0,0:13:13.52,0:13:13.56,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(412.2,
 Dialogue: 0,0:13:13.56,0:13:13.61,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(417,599.22)\fscx101.41\fscy101.41\fs120\blur0.8}Work
 Dialogue: 0,0:13:13.61,0:13:13.65,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(419.8,598.03)\fscx100.62\fscy100.62\fs120\blur0.8}Work
 Dialogue: 0,0:13:13.65,0:13:14.98,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(421.8,596.92)\fs120\blur0.8}Work
-Dialogue: 0,0:13:12.86,0:13:13.36,Signs - Eyecatch,,0,0,0,,{=18=224}{\an4\pos(444.89,656.39)\fscx5\fscy5\fax-0.25\fs130\blur0.8\t(0,120,2,\fscx80\fscy80)\t(120,250,0.3,\fscx160\fscy160)\t(250,370,2.5,\fscx133.72\fscy133.72)}!!
-Dialogue: 0,0:13:13.36,0:13:13.40,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(480.25,654.15)\fscx132.25\fscy132.25\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:13.40,0:13:13.44,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(502.3,639.89)\fscx123.02\fscy123.02\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:13.44,0:13:13.48,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(526.96,624.13)\fscx112.81\fscy112.81\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:13.48,0:13:13.52,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(546.63,611.47)\fscx104.66\fscy104.66\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:13.52,0:13:13.56,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(551.24,608.39)\fscx102.7\fscy102.7\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:13.56,0:13:13.61,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(554.18,606.32)\fscx101.41\fscy101.41\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:13.61,0:13:13.65,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(555.92,605.07)\fscx100.62\fscy100.62\fax-0.25\fs130\blur0.8}!!
-Dialogue: 0,0:13:13.65,0:13:14.98,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(557.2,603.92)\fax-0.25\fs130\blur0.8}!!
+Dialogue: 0,0:13:12.86,0:13:13.36,Signs - Eyecatch,,0,0,0,,{=18=224}{\an4\pos(443.18,659.06)\fscx5\fscy5\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8\t(0,120,2,\fscx80\fscy80)\t(120,250,0.3,\fscx160\fscy160)\t(250,370,2.5,\fscx133.72\fscy133.72)}!!
+Dialogue: 0,0:13:13.36,0:13:13.40,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(473.64,656.8)\fscx132.25\fscy132.25\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:13.40,0:13:13.44,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(496.15,642.35)\fscx123.02\fscy123.02\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:13.44,0:13:13.48,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(521.32,626.39)\fscx112.81\fscy112.81\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:13.48,0:13:13.52,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(541.4,613.56)\fscx104.66\fscy104.66\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:13.52,0:13:13.56,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(546.11,610.44)\fscx102.7\fscy102.7\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:13.56,0:13:13.61,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(549.11,608.35)\fscx101.41\fscy101.41\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:13.61,0:13:13.65,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(550.89,607.08)\fscx100.62\fscy100.62\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
+Dialogue: 0,0:13:13.65,0:13:14.98,Signs - Eyecatch,,0,0,0,,{=18=224}{\pos(552.2,605.92)\fax-0.3\fnFB Miller Display Semibold Web\fs100\fsp-10\blur0.8}!!
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ==
 Comment: 0,0:00:50.11,0:00:50.99,Signs,skip?,0,0,0,,# WHITE BLOOD CELL #
 Comment: 0,0:02:53.99,0:03:02.33,Signs,skip,0,0,0,,# Box labels #
