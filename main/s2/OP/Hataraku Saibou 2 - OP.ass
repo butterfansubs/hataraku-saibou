@@ -55,8 +55,8 @@ Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,mixin line anystyle layer 0 acto
 Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,mixin char anystyle noblank layer 0 actor both,{!detect_bg()!\3c!get_color(make_colors(#line.chars))!!detect_fg()!}
 Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,,
 Comment: 0,0:00:58.04,0:00:58.04,Default,,0,0,0,sync,
-Comment: 0,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,karaoke,{\an8}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Comment: 0,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,karaoke,{\an8}Wow, wow, wow, wow, wow, wow, wow, wow, wow
+Comment: 0,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,karaoke,{\an8}wow, wow, wow, wow, wow, wow, wow, wow, wow
+Comment: 0,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,karaoke,{\an8}wow, wow, wow, wow, wow, wow, wow, wow, wow
 Comment: 0,0:01:09.43,0:01:14.62,OP Romaji,rbc,0,0,0,karaoke,{\an8}donna mainichi mo sutaato kitta nara
 Comment: 0,0:01:14.62,0:01:17.54,OP Romaji,rbc,0,0,0,karaoke,{\an7}tekipaki patapata tada hashiru dake sa
 Comment: 0,0:01:19.81,0:01:25.00,OP Romaji,wbc,0,0,0,karaoke,{\an8}sainan kara kikan saikou no seika
@@ -75,8 +75,8 @@ Comment: 0,0:02:03.76,0:02:06.51,OP Romaji,both,0,0,0,karaoke,{\an9}mirakuru shu
 Comment: 0,0:02:06.51,0:02:09.11,OP Romaji,both,0,0,0,karaoke,{\an8}(minna chigatte) hitotsu no shigoto
 Comment: 0,0:02:09.11,0:02:11.70,OP Romaji,both,0,0,0,karaoke,{\an8}(minna atsumatte) hitotsu no shigoto
 Comment: 0,0:02:11.70,0:02:17.22,OP Romaji,both,0,0,0,karaoke,{\an8}saibou festa hataraku saibou
-Comment: 0,0:02:17.22,0:02:19.81,OP Romaji,both,0,0,0,karaoke,{\an8}Go, go, go, go, go, go! saa ikou! (go, go, go!)
-Comment: 0,0:02:19.81,0:02:22.41,OP Romaji,both,0,0,0,karaoke,{\an8}Go, go, go, go, go, go! saa ikou!
+Comment: 0,0:02:17.22,0:02:19.81,OP Romaji,both,0,0,0,karaoke,{\an8}go, go, go, go, go, go! saa ikou! (go, go, go!)
+Comment: 0,0:02:19.81,0:02:22.41,OP Romaji,both,0,0,0,karaoke,{\an8}go, go, go, go, go, go! saa ikou!
 Comment: 0,0:00:59.06,0:01:01.65,OP Lyrics,both,0,0,0,karaoke,{\an2}Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa
 Comment: 0,0:01:04.24,0:01:06.84,OP Lyrics,both,0,0,0,karaoke,{\an2}Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa
 Comment: 0,0:01:09.43,0:01:14.62,OP Lyrics,rbc,0,0,0,karaoke,{\an2}As we wake up every day, there's no time to waste, come on
@@ -99,14 +99,14 @@ Comment: 0,0:02:09.11,0:02:11.70,OP Lyrics,both,0,0,0,karaoke,{\an2}(When we all
 Comment: 0,0:02:11.70,0:02:17.22,OP Lyrics,both,0,0,0,karaoke,{\an2}It's a fiesta, all about Cells at Work!
 Comment: 0,0:02:17.22,0:02:19.81,OP Lyrics,both,0,0,0,karaoke,{\an2}Go, go, go, go, go, go, hey, let's go!
 Comment: 0,0:02:19.81,0:02:22.41,OP Lyrics,both,0,0,0,karaoke,{\an2}Go, go, go, go, go, go, hey, let's go!
-Dialogue: 0,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}W{\3c&H3E58EB&}o{\3c&H5F74EE&}w{\3c&H788AF1&}, {\3c&HA1AEF5&}w{\3c&HC1CBF8&}o{\3c&HE2E7FB&}w{\3c&HFAFDFD&}, {\3c&HD2D9F9&}w{\3c&HB1BCF6&}o{\3c&H909FF3&}w{\3c&H7789F1&}, {\3c&H4E66ED&}w{\3c&H2E49EA&}o{\3c&H2946E9&}w{\3c&H435CEC&}, {\3c&H6B7FF0&}w{\3c&H8C9CF3&}o{\3c&HADB9F6&}w{\3c&HC6CFF8&}, {\3c&HEFF2FC&}w{\3c&HE6EBFB&}o{\3c&HC6CEF8&}w{\3c&HACB8F6&}, {\3c&H8495F2&}w{\3c&H6378EF&}o{\3c&H425BEC&}w{\3c&H2945E9&}, {\3c&H3650EA&}w{\3c&H576DEE&}o{\3c&H778AF1&}w{\3c&H91A0F3&}, {\3c&HB9C3F7&}w{\3c&HDAE0FA&}o{\3c&HFBFDFD&}w
-Dialogue: 1,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.3\shad2.7\blur1\3c&H000000&}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Dialogue: 2,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.5}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Dialogue: 3,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\c&H122BE9&\blur0.2}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Dialogue: 0,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}W{\3c&H3E58EB&}o{\3c&H5F74EE&}w{\3c&H788AF1&}, {\3c&HA1AEF5&}w{\3c&HC1CBF8&}o{\3c&HE2E7FB&}w{\3c&HFAFDFD&}, {\3c&HD2D9F9&}w{\3c&HB1BCF6&}o{\3c&H909FF3&}w{\3c&H7789F1&}, {\3c&H4E66ED&}w{\3c&H2E49EA&}o{\3c&H2946E9&}w{\3c&H435CEC&}, {\3c&H6B7FF0&}w{\3c&H8C9CF3&}o{\3c&HADB9F6&}w{\3c&HC6CFF8&}, {\3c&HEFF2FC&}w{\3c&HE6EBFB&}o{\3c&HC6CEF8&}w{\3c&HACB8F6&}, {\3c&H8495F2&}w{\3c&H6378EF&}o{\3c&H425BEC&}w{\3c&H2945E9&}, {\3c&H3650EA&}w{\3c&H576DEE&}o{\3c&H778AF1&}w{\3c&H91A0F3&}, {\3c&HB9C3F7&}w{\3c&HDAE0FA&}o{\3c&HFBFDFD&}w
-Dialogue: 1,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.3\shad2.7\blur1\3c&H000000&}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Dialogue: 2,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.5}Wow, wow, wow, wow, wow, wow, wow, wow, wow
-Dialogue: 3,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\c&H122BE9&\blur0.2}Wow, wow, wow, wow, wow, wow, wow, wow, wow
+Dialogue: 0,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}w{\3c&H3C56EB&}o{\3c&H5D73EE&}w{\3c&H7689F1&}, {\3c&H9FACF4&}w{\3c&HC0C9F7&}o{\3c&HE1E6FB&}w{\3c&HFAFCFD&}, {\3c&HD4DAF9&}w{\3c&HB2BEF6&}o{\3c&H91A1F3&}w{\3c&H788BF1&}, {\3c&H5067ED&}w{\3c&H2F4AEA&}o{\3c&H2845E9&}w{\3c&H415BEC&}, {\3c&H6A7EEF&}w{\3c&H8B9BF2&}o{\3c&HACB8F6&}w{\3c&HC5CEF8&}, {\3c&HEEF1FC&}w{\3c&HE7ECFB&}o{\3c&HC6CFF8&}w{\3c&HADB9F6&}, {\3c&H8595F2&}w{\3c&H6478EF&}o{\3c&H425CEC&}w{\3c&H2946E9&}, {\3c&H3550EA&}w{\3c&H566DEE&}o{\3c&H778AF1&}w{\3c&H90A0F3&}, {\3c&HB9C3F7&}w{\3c&HDAE0FA&}o{\3c&HFBFDFD&}w
+Dialogue: 1,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.3\shad2.7\blur1\3c&H000000&}wow, wow, wow, wow, wow, wow, wow, wow, wow
+Dialogue: 2,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.5}wow, wow, wow, wow, wow, wow, wow, wow, wow
+Dialogue: 3,0:00:59.06,0:01:01.65,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\c&H122BE9&\blur0.2}wow, wow, wow, wow, wow, wow, wow, wow, wow
+Dialogue: 0,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}w{\3c&H3C56EB&}o{\3c&H5D73EE&}w{\3c&H7689F1&}, {\3c&H9FACF4&}w{\3c&HC0C9F7&}o{\3c&HE1E6FB&}w{\3c&HFAFCFD&}, {\3c&HD4DAF9&}w{\3c&HB2BEF6&}o{\3c&H91A1F3&}w{\3c&H788BF1&}, {\3c&H5067ED&}w{\3c&H2F4AEA&}o{\3c&H2845E9&}w{\3c&H415BEC&}, {\3c&H6A7EEF&}w{\3c&H8B9BF2&}o{\3c&HACB8F6&}w{\3c&HC5CEF8&}, {\3c&HEEF1FC&}w{\3c&HE7ECFB&}o{\3c&HC6CFF8&}w{\3c&HADB9F6&}, {\3c&H8595F2&}w{\3c&H6478EF&}o{\3c&H425CEC&}w{\3c&H2946E9&}, {\3c&H3550EA&}w{\3c&H566DEE&}o{\3c&H778AF1&}w{\3c&H90A0F3&}, {\3c&HB9C3F7&}w{\3c&HDAE0FA&}o{\3c&HFBFDFD&}w
+Dialogue: 1,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.3\shad2.7\blur1\3c&H000000&}wow, wow, wow, wow, wow, wow, wow, wow, wow
+Dialogue: 2,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.5}wow, wow, wow, wow, wow, wow, wow, wow, wow
+Dialogue: 3,0:01:04.24,0:01:06.84,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\c&H122BE9&\blur0.2}wow, wow, wow, wow, wow, wow, wow, wow, wow
 Dialogue: 0,0:01:09.43,0:01:14.62,OP Romaji,rbc,0,0,0,fx,{\fad(162,162)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}donna mainichi mo sutaato kitta nara
 Dialogue: 1,0:01:09.43,0:01:14.62,OP Romaji,rbc,0,0,0,fx,{\fad(162,162)\an8\bord2.3\shad2.7\blur1\3c&H000000&}donna mainichi mo sutaato kitta nara
 Dialogue: 2,0:01:09.43,0:01:14.62,OP Romaji,rbc,0,0,0,fx,{\fad(162,162)\an8\bord2.5}donna mainichi mo sutaato kitta nara
@@ -179,14 +179,14 @@ Dialogue: 0,0:02:11.70,0:02:17.22,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\blu
 Dialogue: 1,0:02:11.70,0:02:17.22,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.3\shad2.7\blur1\3c&H000000&}saibou festa hataraku saibou
 Dialogue: 2,0:02:11.70,0:02:17.22,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.5}saibou festa hataraku saibou
 Dialogue: 3,0:02:11.70,0:02:17.22,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\c&H122BE9&\blur0.2}saibou festa hataraku saibou
-Dialogue: 0,0:02:17.22,0:02:19.81,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}G{\3c&H3F59EB&}o{\3c&H566DEE&}, {\3c&H7F91F1&}g{\3c&HA0ADF4&}o{\3c&HB7C1F7&}, {\3c&HE0E5FA&}g{\3c&HF6F9FD&}o{\3c&HDFE4FA&}, {\3c&HB6C0F6&}g{\3c&H95A4F3&}o{\3c&H7E90F1&}, {\3c&H556CED&}g{\3c&H3550EA&}o{\3c&H1E3BE8&}, {\3c&H415AEC&}g{\3c&H6177EF&}o{\3c&H798CF1&}! {\3c&HA0AEF4&}s{\3c&HBDC7F7&}a{\3c&HDDE3FA&}a {\3c&HEFF3FC&}i{\3c&HD8DFFA&}k{\3c&HB8C3F7&}o{\3c&H98A6F4&}u{\3c&H8091F1&}! {\3c&HE4E4CB&}({\3c&HEBE6C5&}g{\3c&HF3E9BE&}o{\3c&HF2E9BF&}, {\3c&HE7E5C8&}g{\3c&HDEE1CF&}o{\3c&HD8DFD5&}, {\3c&HCDDBDE&}g{\3c&HC4D8E5&}o{\3c&HBDD6EA&}!{\3c&HB9D4EE&})
-Dialogue: 1,0:02:17.22,0:02:19.81,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.3\shad2.7\blur1\3c&H000000&}Go, go, go, go, go, go! saa ikou! (go, go, go!)
-Dialogue: 2,0:02:17.22,0:02:19.81,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.5}Go, go, go, go, go, go! saa ikou! (go, go, go!)
-Dialogue: 3,0:02:17.22,0:02:19.81,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\c&H122BE9&\blur0.2}Go, go, go, go, go, go! saa ikou! (go, go, go!)
-Dialogue: 0,0:02:19.81,0:02:22.41,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}G{\3c&H445DEC&}o{\3c&H5E73EE&}, {\3c&H8C9CF3&}g{\3c&HB0BCF6&}o{\3c&HCAD3F8&}, {\3c&HF9FBFD&}g{\3c&HD9DFFA&}o{\3c&HBFC8F7&}, {\3c&H90A0F3&}g{\3c&H6C80F0&}o{\3c&H5269ED&}, {\3c&H2441E9&}g{\3c&H3651EB&}o{\3c&H5168ED&}, {\3c&H7F90F1&}g{\3c&HA3B0F5&}o{\3c&HBEC8F7&}! {\3c&HEAEEFB&}s{\3c&HECF0FC&}a{\3c&HC8D0F8&}a {\3c&H99A7F4&}i{\3c&H7F90F1&}k{\3c&H5B71EE&}o{\3c&H3651EB&}u{\3c&H1B39E8&}!
-Dialogue: 1,0:02:19.81,0:02:22.41,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.3\shad2.7\blur1\3c&H000000&}Go, go, go, go, go, go! saa ikou!
-Dialogue: 2,0:02:19.81,0:02:22.41,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.5}Go, go, go, go, go, go! saa ikou!
-Dialogue: 3,0:02:19.81,0:02:22.41,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\c&H122BE9&\blur0.2}Go, go, go, go, go, go! saa ikou!
+Dialogue: 0,0:02:17.22,0:02:19.81,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}g{\3c&H3B55EB&}o{\3c&H536AED&}, {\3c&H7C8EF1&}g{\3c&H9CAAF4&}o{\3c&HB3BEF6&}, {\3c&HDDE2FA&}g{\3c&HF9FBFD&}o{\3c&HE2E7FB&}, {\3c&HB9C3F7&}g{\3c&H98A7F4&}o{\3c&H8192F2&}, {\3c&H586EEE&}g{\3c&H3752EB&}o{\3c&H203EE8&}, {\3c&H3F59EB&}g{\3c&H5F75EE&}o{\3c&H778AF1&}! {\3c&H9EACF4&}s{\3c&HBBC5F7&}a{\3c&HDBE1FA&}a {\3c&HF1F4FC&}i{\3c&HDAE0FA&}k{\3c&HBAC4F7&}o{\3c&H99A7F4&}u{\3c&H8192F2&}! {\3c&HE4E3CB&}({\3c&HEAE6C5&}g{\3c&HF3E9BE&}o{\3c&HF2E9BF&}, {\3c&HE7E5C8&}g{\3c&HDEE1CF&}o{\3c&HD8DFD5&}, {\3c&HCDDBDE&}g{\3c&HC4D8E5&}o{\3c&HBDD6EA&}!{\3c&HB9D4EE&})
+Dialogue: 1,0:02:17.22,0:02:19.81,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.3\shad2.7\blur1\3c&H000000&}go, go, go, go, go, go! saa ikou! (go, go, go!)
+Dialogue: 2,0:02:17.22,0:02:19.81,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.5}go, go, go, go, go, go! saa ikou! (go, go, go!)
+Dialogue: 3,0:02:17.22,0:02:19.81,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\c&H122BE9&\blur0.2}go, go, go, go, go, go! saa ikou! (go, go, go!)
+Dialogue: 0,0:02:19.81,0:02:22.41,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\blur15\bord6\3a&H50&\3c&H1B39E8&}g{\3c&H3F59EB&}o{\3c&H5A70EE&}, {\3c&H8899F2&}g{\3c&HADB8F6&}o{\3c&HC7CFF8&}, {\3c&HF5F8FC&}g{\3c&HDCE2FA&}o{\3c&HC2CBF8&}, {\3c&H93A2F3&}g{\3c&H6F82F0&}o{\3c&H556BED&}, {\3c&H2643E9&}g{\3c&H344FEA&}o{\3c&H4F66ED&}, {\3c&H7D8FF1&}g{\3c&HA2AFF5&}o{\3c&HBDC7F7&}! {\3c&HE9EDFB&}s{\3c&HEDF1FC&}a{\3c&HC9D1F8&}a {\3c&H99A8F4&}i{\3c&H7F91F1&}k{\3c&H5B71EE&}o{\3c&H3651EB&}u{\3c&H1B39E8&}!
+Dialogue: 1,0:02:19.81,0:02:22.41,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.3\shad2.7\blur1\3c&H000000&}go, go, go, go, go, go! saa ikou!
+Dialogue: 2,0:02:19.81,0:02:22.41,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\bord2.5}go, go, go, go, go, go! saa ikou!
+Dialogue: 3,0:02:19.81,0:02:22.41,OP Romaji,both,0,0,0,fx,{\fad(162,162)\an8\c&H122BE9&\blur0.2}go, go, go, go, go, go! saa ikou!
 Dialogue: 0,0:00:59.06,0:01:01.65,OP Lyrics,both,0,0,0,fx,{\fad(162,162)\an2\blur15\bord6\3a&H50&\3c&H1B39E8&}W{\3c&H4059EB&}h{\3c&H5D73EE&}o{\3c&H7A8CF1&}a{\3c&H8E9EF3&}, {\3c&HB9C3F7&}w{\3c&HDCE2FA&}h{\3c&HF9FCFD&}o{\3c&HE0E5FA&}a{\3c&HCBD3F9&}, {\3c&HA1AEF5&}w{\3c&H7E8FF1&}h{\3c&H6076EF&}o{\3c&H445DEC&}a{\3c&H2F4BEA&}, {\3c&H324DEA&}w{\3c&H556BED&}h{\3c&H7285F0&}o{\3c&H8E9EF3&}a{\3c&HA3B0F5&}, {\3c&HCED5F9&}w{\3c&HF1F4FC&}h{\3c&HE8EDFB&}o{\3c&HCBD3F9&}a{\3c&HB7C2F7&}, {\3c&H8C9CF3&}w{\3c&H697DEF&}h{\3c&H4C64ED&}o{\3c&H2F4BEA&}a{\3c&H1B39E8&}, {\3c&H465FEC&}w{\3c&H697DEF&}h{\3c&H8697F2&}o{\3c&HA3B0F5&}a{\3c&HB7C2F7&}, {\3c&HE2E7FB&}w{\3c&HF1F4FC&}h{\3c&HD4DBF9&}o{\3c&HB7C2F7&}a{\3c&HA3B0F5&}, {\3c&H788AF1&}w{\3c&H556CED&}h{\3c&H3852EB&}o{\3c&H1B39E8&}a
 Dialogue: 1,0:00:59.06,0:01:01.65,OP Lyrics,both,0,0,0,fx,{\fad(162,162)\an2\bord2.3\shad2.7\blur1\3c&H000000&}Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa
 Dialogue: 2,0:00:59.06,0:01:01.65,OP Lyrics,both,0,0,0,fx,{\fad(162,162)\an2\bord2.5}Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa
