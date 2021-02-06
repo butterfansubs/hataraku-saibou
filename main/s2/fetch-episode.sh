@@ -41,4 +41,4 @@ Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ========================
 dialogue="Hataraku Saibou 2 - ${episode} (Dialogue).ass"
 signs="Hataraku Saibou 2 - ${episode} (Signs).ass"
 
-curl -L "$url" | xz --decompress --stdout | sed "$filter" | tee >(sed "$filter_dialogue" >"$dialogue") >(sed "$filter_signs" >"$signs") >/dev/null
+curl -L "$url" | xz --decompress --stdout | sed "$filter" | tee >(sed "$filter_dialogue" >"$dialogue") >(sed "$filter_signs" | tee "$signs" "${signs%.ass}.raw.ass" >/dev/null) >/dev/null
