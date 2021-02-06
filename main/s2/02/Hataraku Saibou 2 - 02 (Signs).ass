@@ -54,24 +54,15 @@ Dialogue: 0,0:01:27.06,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\pos(459.37,585.72)\
 Dialogue: 1,0:01:26.98,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\pos(459.37,585.72)\fscx10\fscy10\fs108\blur0.7\t(0,150,\fscx114\fscy121)\t(150,300,\fscx100\fscy100)}Work
 Dialogue: 0,0:01:27.14,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\an4\pos(558.53,592.09)\fscx10\fscy10\fax-0.3\fnFB Miller Display Semibold Web\fs90\fsp-10\c&H452B00&\blur0.7\fad(150,0)\t(-70,80,\fscx121\fscy126)\t(80,230,\fscx100\fscy100)}!!
 Dialogue: 1,0:01:27.07,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\an4\pos(558.53,592.09)\fscx10\fscy10\fax-0.3\fnFB Miller Display Semibold Web\fs90\fsp-10\blur0.7\t(0,150,\fscx121\fscy126)\t(150,300,\fscx100\fscy100)}!!
-Comment: 0,0:11:45.02,0:11:47.98,Signs - Eyecatch,A,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs47\blur0.5\pos(173.67,661.48)\4a&H64&\xshad-0.3\4c&H12108D&\c&HFFFFFF&\1a&HFF&\t(455,500,\1a&H00&)}Cells
-Comment: 1,0:11:45.02,0:11:47.98,Signs - Eyecatch,A,0,0,0,,{=1}{\fad(500,0)\fs47\blur0.5\pos(173.67,661.48)\4a&H64&\xshad-0.3\4c&H12108D&\3c&H000000&}Cells
-Comment: 0,0:11:45.02,0:11:47.98,Signs - Eyecatch,A,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs47\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\pos(298.32,691.78)\c&HFFFFFF&\1a&HFF&\t(455,500,\1a&H00&)}at
-Comment: 1,0:11:45.02,0:11:47.98,Signs - Eyecatch,A,0,0,0,,{=1}{\fad(500,0)\fs47\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\pos(298.32,691.78)\3c&H000000&}at
-Comment: 0,0:11:45.02,0:11:47.98,Signs - Eyecatch,A,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs47\blur0.5\pos(365.96,669.59)\4a&H64&\xshad-0.3\4c&H12108D&\c&HFFFFFF&\1a&HFF&\t(455,500,\1a&H00&)}Work!!
-Comment: 1,0:11:45.02,0:11:47.98,Signs - Eyecatch,A,0,0,0,,{=1}{\fad(500,0)\fs47\blur0.5\pos(365.96,669.59)\4a&H64&\xshad-0.3\4c&H12108D&\3c&H000000&}Work!!
-Comment: 0,0:11:45.02,0:11:47.98,Signs - Eyecatch,B,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs40\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\c&HFFFFFF&\1a&HFF&\pos(359.56,831.7)\t(455,500,\1a&H00&)}Cells at
-Comment: 1,0:11:45.02,0:11:47.98,Signs - Eyecatch,B,0,0,0,,{=1}{\fad(500,0)\fs40\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\pos(359.56,831.7)\3c&H000000&}Cells at
-Comment: 0,0:11:45.02,0:11:47.98,Signs - Eyecatch,B,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs40\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\c&HFFFFFF&\1a&HFF&\pos(415.4,860.69)\t(455,500,\1a&H00&)}Work!!
-Comment: 1,0:11:45.02,0:11:47.98,Signs - Eyecatch,B,0,0,0,,{=1}{\fad(500,0)\fs40\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\pos(415.4,860.69)\3c&H000000&}Work!!
-Comment: 0,0:11:45.02,0:11:47.98,Signs - Eyecatch,C,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs47\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\c&HFFFFFF&\1a&HFF&\pos(109.85,777.59)\t(455,500,\1a&H00&)}Cells at
-Comment: 1,0:11:45.02,0:11:47.98,Signs - Eyecatch,C,0,0,0,,{=1}{\fad(500,0)\fs47\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\pos(109.85,777.59)\3c&H000000&}Cells at
-Comment: 0,0:11:45.02,0:11:47.98,Signs - Eyecatch,C,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs47\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\c&HFFFFFF&\1a&HFF&\pos(133.69,815.58)\t(455,500,\1a&H00&)}Work!!
-Comment: 1,0:11:45.02,0:11:47.98,Signs - Eyecatch,C,0,0,0,,{=1}{\fad(500,0)\fs47\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\pos(133.69,815.58)\3c&H000000&}Work!!
-Dialogue: 0,0:11:45.02,0:11:47.98,Signs - Eyecatch,D,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs47\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\c&HFFFFFF&\1a&HFF&\pos(109.85,777.59)\t(455,500,\1a&H00&)}Cells at
-Dialogue: 1,0:11:45.02,0:11:47.98,Signs - Eyecatch,D,0,0,0,,{=1}{\fad(500,0)\c&HEE9501&\fs47\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\pos(109.85,777.59)\3c&H000000&}Cells at
-Dialogue: 0,0:11:45.02,0:11:47.98,Signs - Eyecatch,D,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs47\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\c&HFFFFFF&\1a&HFF&\pos(133.69,815.58)\t(455,500,\1a&H00&)}Work!!
-Dialogue: 1,0:11:45.02,0:11:47.98,Signs - Eyecatch,D,0,0,0,,{=1}{\fad(500,0)\c&HEE9501&\fs47\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\pos(133.69,815.58)\3c&H000000&}Work!!
+Comment: 0,0:11:45.01,0:11:47.98,Signs - Eyecatch,,0,0,0,,{=1}# Part A End #
+Dialogue: 0,0:11:45.01,0:11:47.98,Signs - Eyecatch,,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs52\blur0.5\c&HFFFFFF&\1a&HFF&\t(455,500,\1a&H00&)\pos(109.7,777.19)}Cells
+Dialogue: 1,0:11:45.01,0:11:47.98,Signs - Eyecatch,,0,0,0,,{=1}{\fad(500,0)\fs52\blur0.5\pos(109.7,777.19)}Cells
+Dialogue: 0,0:11:45.01,0:11:47.98,Signs - Eyecatch,,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs40\blur0.5\c&HFFFFFF&\1a&HFF&\t(455,500,\1a&H00&)\pos(74.7,810.59)}at
+Dialogue: 1,0:11:45.01,0:11:47.98,Signs - Eyecatch,,0,0,0,,{=1}{\fad(500,0)\fs40\blur0.5\pos(74.7,810.59)}at
+Dialogue: 0,0:11:45.01,0:11:47.98,Signs - Eyecatch,,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs47\blur0.5\c&HFFFFFF&\1a&HFF&\pos(130.2,811.58)\t(455,500,\1a&H00&)}Work
+Dialogue: 1,0:11:45.01,0:11:47.98,Signs - Eyecatch,,0,0,0,,{=1}{\fad(500,0)\fs47\blur0.5\pos(130.2,811.58)}Work
+Dialogue: 0,0:11:45.01,0:11:47.98,Signs - Eyecatch,,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs39\blur0.5\c&HFFFFFF&\1a&HFF&\pos(181.7,815.58)\fnFB Miller Display Web\b0\fax-0.3\fsp-5\t(455,500,\1a&H00&)}!!
+Dialogue: 1,0:11:45.01,0:11:47.98,Signs - Eyecatch,,0,0,0,,{=1}{\fad(500,0)\fs39\blur0.5\pos(181.7,815.58)\fnFB Miller Display Web\b0\fax-0.3\fsp-5\t(455,500,\1a&H00&)}!!
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Other stuff ==
 Dialogue: 0,0:01:42.83,0:01:57.16,Signs,,0,0,0,,{\an8}"WHITE BLOOD CELL"
 Dialogue: 0,0:01:50.17,0:02:06.20,Signs,,0,0,0,,{\an8}"CELL"
