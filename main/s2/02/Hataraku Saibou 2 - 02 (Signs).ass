@@ -67,24 +67,20 @@ Dialogue: 1,0:11:45.01,0:11:47.98,Signs - Eyecatch,,0,0,0,,{=1}{\fad(500,0)\fs47
 Dialogue: 0,0:11:45.01,0:11:47.98,Signs - Eyecatch,,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs39\blur0.5\c&HFFFFFF&\1a&HFF&\pos(181.7,815.58)\fnFB Miller Display Web\b0\fax-0.3\fsp-5\t(455,500,\1a&H00&)}!!
 Dialogue: 1,0:11:45.01,0:11:47.98,Signs - Eyecatch,,0,0,0,,{=1}{\fad(500,0)\fs39\blur0.5\pos(181.7,815.58)\fnFB Miller Display Web\b0\fax-0.3\fsp-5\t(455,500,\1a&H00&)}!!
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Other stuff ==
-Dialogue: 0,0:01:42.83,0:01:57.16,Signs,,0,0,0,,{\an8}"WHITE BLOOD CELL"
-Dialogue: 0,0:01:50.17,0:02:06.20,Signs,,0,0,0,,{\an8}"CELL"
-Dialogue: 0,0:03:36.70,0:03:51.08,Signs,,0,0,0,,{\an8}"TOUR ROUTE"
-Dialogue: 0,0:03:55.01,0:04:07.87,Signs,,0,0,0,,{\an8}"MUMP"
-Dialogue: 0,0:04:10.48,0:04:25.75,Signs,,0,0,0,,{\an8}"ARISE ARISE"
-Dialogue: 0,0:08:42.25,0:08:56.70,Signs,,0,0,0,,{\an8}"MEMORIES"
-Dialogue: 0,0:10:06.38,0:10:18.87,Signs,,0,0,0,,{\an8}"PLEASE TAKE GOOD CARE\NOF B CELL"
-Dialogue: 0,0:10:06.88,0:10:22.54,Signs,,0,0,0,,{\an8}"PLEASE TAKE GOOD CARE\NOF B CELL"
-Dialogue: 0,0:10:10.55,0:10:24.29,Signs,,0,0,0,,{\an8}"PLEASE TAKE GOOD CARE\NOF B CELL"
-Dialogue: 0,0:11:55.82,0:12:10.45,Signs,,0,0,0,,{\an8}"SMALL INTESTINE"
-Dialogue: 0,0:12:34.61,0:12:47.79,Signs,,0,0,0,,{\an8}"PITTER-PATTER"
-Dialogue: 0,0:12:35.78,0:12:48.79,Signs,,0,0,0,,{\an8}"PITTER-PATTER"
-Dialogue: 0,0:16:05.49,0:16:18.54,Signs,,0,0,0,,{\an8}"MURMUR"
-Dialogue: 0,0:16:10.45,0:16:25.45,Signs,,0,0,0,,{\an8}"IN TRAINING"
-Dialogue: 0,0:16:13.45,0:16:26.41,Signs,,0,0,0,,{\an8}"IN TRAINING"
-Dialogue: 0,0:18:34.59,0:18:49.58,Signs,,0,0,0,,{\an8}"TEARY EYES"
-Dialogue: 0,0:21:24.05,0:21:37.20,Signs,,0,0,0,,{\an8}"CERTIFICATE OF APPRECIATION"
-Dialogue: 0,0:21:25.18,0:21:38.58,Signs,,0,0,0,,{\an8}"CERTIFICATE OF APPRECIATION"
+Comment: 0,0:03:36.70,0:03:39.16,Signs,,0,0,0,,# Tour Route #
+Comment: 0,0:03:54.84,0:03:56.05,Signs,,0,0,0,,# Mump #
+Comment: 0,0:04:10.27,0:04:13.73,Signs,,0,0,0,,# Arise #
+Comment: 0,0:08:42.25,0:08:56.70,Signs,,0,0,0,,# I Remembered! #
+Comment: 0,0:10:06.29,0:10:17.68,Signs,,0,0,0,,# B Cell Says Hi! #
+Dialogue: 0,0:10:06.29,0:10:09.76,Signs,,0,0,0,,B Cell Says Hi!
+Dialogue: 0,0:10:09.76,0:10:09.84,Signs,,0,0,0,,B Cell Says Hi!
+Dialogue: 0,0:10:09.84,0:10:17.68,Signs,,0,0,0,,B Cell Says Hi!
+Comment: 0,0:11:55.82,0:11:58.28,Signs,,0,0,0,,# Small Intestine #
+Comment: 0,0:12:34.61,0:12:36.78,Signs,,0,0,0,,# Pitter-Patter #
+Comment: 0,0:16:05.49,0:16:06.70,Signs,,0,0,0,,# ~Murmur~ #
+Comment: 0,0:18:34.59,0:18:49.58,Signs,,0,0,0,,# (Teary Eyes) #
+Comment: 0,0:21:24.05,0:21:26.64,Signs,,0,0,0,,# Certificate of Appreciation #
+Comment: 0,0:21:26.97,0:21:30.44,Signs,,0,0,0,,# Certificate of Appreciation #
 
 [Aegisub Extradata]
 Data: 1,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A1}
