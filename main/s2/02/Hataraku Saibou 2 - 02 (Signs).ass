@@ -20,7 +20,7 @@ Video AR Value: 1.777778
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Signs,Kirinashi,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: Signs - Eyecatch,Yaldevi Colombo SemiBold,50,&H000000EE,&H00002EFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs - Eyecatch,Yaldevi Colombo SemiBold,50,&H00DF8A01,&H00002EFF,&H00FFFFFF,&H00452B00,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Signs - Infobox,PT Sans,50,&H00000000,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
 
 [Events]
@@ -45,19 +45,15 @@ Dialogue: 0,0:23:34.60,0:23:40.02,Signs,,0,0,0,,{\pos(256.2,791)\fnFOT-Rodin Pro
 Dialogue: 1,0:23:34.60,0:23:40.02,Signs,,0,0,0,,{\pos(256.2,791)\fnFOT-Rodin Pro EB\fs70\b800\c&H000045&\blur0.8}Acne
 Dialogue: 2,0:23:34.60,0:23:40.02,Signs,,0,0,0,,{\pos(256.2,791)\fnFOT-Rodin Pro EB\fs70\b800\xshad-0.01\c&H0000FF&\4c&H000045&\4a&H80&\blur0.8}Acne
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Eyecatches etc. ==
-Dialogue: 0,0:01:26.98,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(887.36,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}C
-Dialogue: 0,0:01:26.97,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(903.86,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}e
-Dialogue: 0,0:01:26.93,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(915.95,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}l
-Dialogue: 0,0:01:26.95,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(924.73,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}l
-Dialogue: 0,0:01:26.94,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(935.68,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}s
-Dialogue: 0,0:01:26.99,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(959.49,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}a
-Dialogue: 0,0:01:26.97,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(972.49,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}t
-Dialogue: 0,0:01:27.07,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1001.4,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}W
-Dialogue: 0,0:01:27.06,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1023.11,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}o
-Dialogue: 0,0:01:27.09,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1036.75,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}r
-Dialogue: 0,0:01:27.04,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1050.1,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}k
-Dialogue: 0,0:01:27.06,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1062.17,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}!
-Dialogue: 0,0:01:27.04,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\fs45\blur0.9\an2\pos(1070.33,675.55)\fscx10\fscy10\t(0,150,1,\fscx125\fscy125)\t(150,300,1,\fscx100\fscy100)}!
+Comment: 0,0:01:26.94,0:01:29.99,Signs - Eyecatch,,0,0,0,,# OP #
+Dialogue: 0,0:01:27.02,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\pos(417.43,500.06)\fscx10\fscy10\fs135\c&H452B00&\blur0.7\fad(150,0)\t(-80,70,\fscx133\fscy119)\t(70,220,\fscx100\fscy100)}Cells
+Dialogue: 1,0:01:26.94,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\pos(417.43,500.06)\fscx10\fscy10\fs135\blur0.7\t(0,150,\fscx133\fscy119)\t(150,300,\fscx100\fscy100)}Cells
+Dialogue: 0,0:01:27.10,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\pos(348.85,584.57)\fscx10\fscy10\fs72\c&H452B00&\blur0.7\fad(150,0)\t(-80,70,\fscx121\fscy132)\t(70,220,\fscx100\fscy100)}at
+Dialogue: 1,0:01:27.02,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\pos(348.85,584.57)\fscx10\fscy10\fs72\blur0.7\t(0,150,\fscx121\fscy132)\t(150,300,\fscx100\fscy100)}at
+Dialogue: 0,0:01:27.06,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\pos(459.37,585.72)\fscx10\fscy10\fs108\c&H452B00&\blur0.7\fad(150,0)\t(-80,70,\fscx114\fscy121)\t(70,220,\fscx100\fscy100)}Work
+Dialogue: 1,0:01:26.98,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\pos(459.37,585.72)\fscx10\fscy10\fs108\blur0.7\t(0,150,\fscx114\fscy121)\t(150,300,\fscx100\fscy100)}Work
+Dialogue: 0,0:01:27.14,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\an4\pos(558.53,592.09)\fscx10\fscy10\fax-0.3\fnFB Miller Display Semibold Web\fs90\fsp-10\c&H452B00&\blur0.7\fad(150,0)\t(-70,80,\fscx121\fscy126)\t(80,230,\fscx100\fscy100)}!!
+Dialogue: 1,0:01:27.07,0:01:29.99,Signs - Eyecatch,,0,0,0,,{\an4\pos(558.53,592.09)\fscx10\fscy10\fax-0.3\fnFB Miller Display Semibold Web\fs90\fsp-10\blur0.7\t(0,150,\fscx121\fscy126)\t(150,300,\fscx100\fscy100)}!!
 Comment: 0,0:11:45.02,0:11:47.98,Signs - Eyecatch,A,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs47\blur0.5\pos(173.67,661.48)\4a&H64&\xshad-0.3\4c&H12108D&\c&HFFFFFF&\1a&HFF&\t(455,500,\1a&H00&)}Cells
 Comment: 1,0:11:45.02,0:11:47.98,Signs - Eyecatch,A,0,0,0,,{=1}{\fad(500,0)\fs47\blur0.5\pos(173.67,661.48)\4a&H64&\xshad-0.3\4c&H12108D&\3c&H000000&}Cells
 Comment: 0,0:11:45.02,0:11:47.98,Signs - Eyecatch,A,0,0,0,,{=1}{\fad(500,0)\bord1.5\fs47\blur0.5\4a&H64&\xshad-0.3\4c&H12108D&\pos(298.32,691.78)\c&HFFFFFF&\1a&HFF&\t(455,500,\1a&H00&)}at
