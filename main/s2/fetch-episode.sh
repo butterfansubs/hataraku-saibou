@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 if [[ -n "$2" ]]; then
+  mkdir -p "$2"
   cd "$2" || exit
 fi
 
