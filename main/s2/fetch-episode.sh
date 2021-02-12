@@ -36,7 +36,11 @@ Style: Signs - Infobox,PT Sans,50,&H00000000,&H00002EFF,&H00000000,&H00000000,0,
 /^Format/a\
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
 }
-/^Dialogue:/ { /{[^}]*\\an8[^}]*}/!d }
+/^Dialogue:/ {
+  /{[^}]*\\an8[^}]*}/!d
+  s/,Default,/,Signs,/
+  s/{\\an8}//
+}
 '
 
 dialogue="Hataraku Saibou 2 - ${episode} (Dialogue).ass"
