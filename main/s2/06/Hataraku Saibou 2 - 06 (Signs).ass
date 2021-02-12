@@ -1,0 +1,69 @@
+﻿[Script Info]
+Title: [Butter :v] Hataraku Saibou!! - 06
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1600
+PlayResY: 900
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Kirinashi,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs - Eyecatch,Yaldevi Colombo SemiBold,50,&H000000EE,&H00002EFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs - Infobox,PT Sans,50,&H00000000,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
+
+Dialogue: 0,0:01:49.20,0:01:49.95,Signs,,0,0,0,,"CELL"
+Dialogue: 0,0:01:49.95,0:01:52.16,Signs,,0,0,0,,"CELL"
+Dialogue: 0,0:01:52.16,0:01:53.33,Signs,,0,0,0,,"CELL"
+Dialogue: 0,0:01:53.33,0:01:57.45,Signs,,0,0,0,,"WHITE BLOOD CELL"
+Dialogue: 0,0:01:57.45,0:01:59.20,Signs,,0,0,0,,"WHITE BLOOD CELL"
+Dialogue: 0,0:02:06.91,0:02:08.25,Signs,,0,0,0,,"EPISODE 6:\NHARMFUL BACTERIA"
+Dialogue: 0,0:02:08.25,0:02:10.00,Signs,,0,0,0,,"EPISODE 6:\NHARMFUL BACTERIA"
+Dialogue: 0,0:02:10.00,0:02:11.91,Signs,,0,0,0,,"EPISODE 6:\NHARMFUL BACTERIA"
+Dialogue: 0,0:02:29.70,0:02:31.66,Signs,,0,0,0,,"KEEP THE INTESTINE CLEAN"
+Dialogue: 0,0:02:31.66,0:02:32.58,Signs,,0,0,0,,"KEEP THE INTESTINE CLEAN"
+Dialogue: 0,0:02:32.58,0:02:34.20,Signs,,0,0,0,,"KEEP THE INTESTINE CLEAN"
+Dialogue: 0,0:03:01.91,0:03:03.12,Signs,,0,0,0,,"FRAGILE"\N"CONDENSED GAS"
+Dialogue: 0,0:03:48.25,0:03:51.20,Signs,,0,0,0,,"WELCOME PROBIOTICS\NIN THE LARGE INTESTINE"
+Dialogue: 0,0:03:51.20,0:03:52.95,Signs,,0,0,0,,"PLATELETS"
+Dialogue: 0,0:03:56.91,0:03:58.00,Signs,,0,0,0,,"TROLLEY STOP"
+Dialogue: 0,0:03:58.00,0:03:58.95,Signs,,0,0,0,,"TROLLEY STOP"
+Dialogue: 0,0:05:37.66,0:05:39.25,Signs,,0,0,0,,"THEATER ROOM"
+Dialogue: 0,0:05:39.25,0:05:40.45,Signs,,0,0,0,,"THEATER ROOM"
+Dialogue: 0,0:09:23.95,0:09:24.95,Signs,,0,0,0,,"NYUUU"
+Dialogue: 0,0:09:24.95,0:09:26.79,Signs,,0,0,0,,"NYUUU"
+Dialogue: 0,0:11:44.45,0:11:44.70,Signs,,0,0,0,,"GOBLET"
+Dialogue: 0,0:11:44.70,0:11:45.04,Signs,,0,0,0,,"GOBLET"
+Dialogue: 0,0:11:45.04,0:11:45.66,Signs,,0,0,0,,"INTESTINAL BARRIER SEEDLINGS"\N"GOBLET"
+Dialogue: 0,0:11:45.66,0:11:47.66,Signs,,0,0,0,,"GOBLET"
+Dialogue: 0,0:11:47.66,0:11:48.91,Signs,,0,0,0,,"GOBLET"
+Dialogue: 0,0:17:56.75,0:17:57.12,Signs,,0,0,0,,"THUNK"
+Dialogue: 0,0:17:57.12,0:18:00.50,Signs,,0,0,0,,"THUNK"
+Dialogue: 0,0:18:00.50,0:18:01.08,Signs,,0,0,0,,"BOOM"
+Dialogue: 0,0:18:01.08,0:18:03.70,Signs,,0,0,0,,"BOOM"
+Dialogue: 0,0:18:03.70,0:18:04.00,Signs,,0,0,0,,"THUMP"
+Dialogue: 0,0:18:04.00,0:18:06.25,Signs,,0,0,0,,"THUMP"
+Dialogue: 0,0:18:06.25,0:18:07.16,Signs,,0,0,0,,"RUMBLE"
+Dialogue: 0,0:18:07.16,0:18:08.50,Signs,,0,0,0,,"RUMBLE"
+Dialogue: 0,0:18:08.50,0:18:09.41,Signs,,0,0,0,,"WHACK"
+Dialogue: 0,0:18:09.41,0:18:10.00,Signs,,0,0,0,,"WHACK"
+Dialogue: 0,0:18:10.00,0:18:11.25,Signs,,0,0,0,,"STAB"
+Dialogue: 0,0:18:11.25,0:18:12.20,Signs,,0,0,0,,"SMACK"
+Dialogue: 0,0:18:12.20,0:18:13.41,Signs,,0,0,0,,"BANG"
+Dialogue: 0,0:23:36.95,0:23:37.66,Signs,,0,0,0,,"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:37.66,0:23:39.16,Signs,,0,0,0,,"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:39.16,0:23:41.25,Signs,,0,0,0,,"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:41.25,0:23:42.75,Signs,,0,0,0,,"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:42.75,0:23:42.87,Signs,,0,0,0,,"EPISODE 7:\NCANCER CELL II (PART I)"
+Dialogue: 0,0:23:42.87,0:23:44.79,Signs,,0,0,0,,"EPISODE 7:\NCANCER CELL II (PART I)"
+Dialogue: 0,0:23:44.79,0:23:46.12,Signs,,0,0,0,,"EPISODE 7:\NCANCER CELL II (PART I)"
+Dialogue: 0,0:23:46.12,0:23:47.66,Signs,,0,0,0,,"EPISODE 7:\NCANCER CELL II (PART I)"
+Dialogue: 0,0:23:47.66,0:23:49.45,Signs,,0,0,0,,"EPISODE 7:\NCANCER CELL II (PART I)"
+Dialogue: 0,0:23:49.45,0:23:51.91,Signs,,0,0,0,,"EPISODE 7:\NCANCER CELL II (PART I)"
