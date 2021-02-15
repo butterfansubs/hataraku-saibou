@@ -67,13 +67,13 @@ Dialogue: 2,0:06:47.05,0:06:49.93,Signs - Infobox,,0,0,0,,{\an1\pos(80,717)\fs45
 Dialogue: 2,0:06:47.05,0:06:49.93,Signs - Infobox,,0,0,0,,{\an1\pos(80,762)\fs45\blur0.7\fad(250,0)}bodies and relay information on immune responses.
 Dialogue: 2,0:06:47.05,0:06:49.93,Signs - Infobox,,0,0,0,,{\an1\pos(80,807)\fs45\blur0.7\fad(250,0)}They also act as cleaners, cleaning out debris
 Dialogue: 2,0:06:47.05,0:06:49.93,Signs - Infobox,,0,0,0,,{\an1\pos(80,852)\fs45\blur0.7\fad(250,0)}such as dead cells and bacteria.
-Dialogue: 0,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\pos(80,605.98)\blur1\fad(250,0)\p1}m -28 0 l 1004 0 1004 271 -28 271 m -25 3 l -25 268 1001 268 1001 3
-Dialogue: 1,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\pos(80,605.98)\c&HFFFFFF&\1a&H80&\blur1\fad(250,0)\p1}m -25 0 l 1001 0 1001 265 -25 265
-Dialogue: 2,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\an1\pos(80,540)\b1\blur0.7\fad(250,0)}VACCINATION
-Dialogue: 2,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\an1\pos(80,585)\fs45\blur0.7\fad(250,0)}A preemptive injection of a weakened pathogen used to
-Dialogue: 2,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\an1\pos(80,630)\fs45\blur0.7\fad(250,0)}acquire immunity to an antigen as a preventative measure
-Dialogue: 2,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\an1\pos(80,675)\fs45\blur0.7\fad(250,0)}to develop protection against a particular disease.
-Dialogue: 2,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\an1\pos(80,720)\fs45\blur0.7\fad(250,0)}The antigenic substance that is administered is called a "vaccine".
+Dialogue: 0,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\pos(80,567.98)\blur1\fad(250,0)\p1}m -28 0 l 1004 0 1004 271 -28 271 m -25 3 l -25 268 1001 268 1001 3
+Dialogue: 1,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\pos(80,567.98)\c&HFFFFFF&\1a&H80&\blur1\fad(250,0)\p1}m -25 0 l 1001 0 1001 265 -25 265
+Dialogue: 2,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\an1\pos(80,502)\b1\blur0.7\fad(250,0)}VACCINATION
+Dialogue: 2,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\an1\pos(80,547)\fs45\blur0.7\fad(250,0)}A preemptive injection of a weakened pathogen used to
+Dialogue: 2,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\an1\pos(80,592)\fs45\blur0.7\fad(250,0)}acquire immunity to an antigen as a preventative measure
+Dialogue: 2,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\an1\pos(80,637)\fs45\blur0.7\fad(250,0)}to develop protection against a particular disease.
+Dialogue: 2,0:08:45.21,0:09:00.94,Signs - Infobox,,0,0,0,,{\an1\pos(80,682)\fs45\blur0.7\fad(250,0)}The antigenic substance that is administered is called a "vaccine".
 Dialogue: 0,0:10:09.92,0:10:17.68,Signs - Infobox,,0,0,0,,{\pos(106,156.98)\blur1\fad(250,0)\p1}m -28 0 l 501 0 501 181 -28 181 m -25 3 l -25 178 498 178 498 3
 Dialogue: 1,0:10:09.92,0:10:17.68,Signs - Infobox,,0,0,0,,{\pos(106,156.98)\c&HFFFFFF&\1a&H80&\blur1\fad(250,0)\p1}m -25 0 l 498 0 498 175 -25 175
 Dialogue: 2,0:10:09.92,0:10:17.68,Signs - Infobox,,0,0,0,,{\an1\pos(106,136)\b1\blur0.7\fad(250,0)}ACQUIRED IMMUNITY
@@ -100,12 +100,12 @@ Dialogue: 1,0:12:08.42,0:12:16.26,Signs - Infobox,,0,0,0,,{\pos(79.29,122.57)\c&
 Dialogue: 2,0:12:08.42,0:12:16.26,Signs - Infobox,,0,0,0,,{\an1\pos(79,102)\b1\blur0.7}RED BLOOD CELLS
 Dialogue: 2,0:12:08.42,0:12:16.26,Signs - Infobox,,0,0,0,,{\an1\pos(79,147)\fs45\blur0.7}Their red color is due to hemoglobin.
 Dialogue: 2,0:12:08.42,0:12:16.26,Signs - Infobox,,0,0,0,,{\an1\pos(79,192)\fs45\blur0.7}They transport oxygen and carbon dioxide around the body.
-Dialogue: 0,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\pos(555.29,600.57)\blur1\p1}m -28 0 l 958 0 958 226 -28 226 m -25 3 l -25 223 955 223 955 3
-Dialogue: 1,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\pos(555.29,600.57)\c&HFFFFFF&\1a&H80&\blur1\p1}m -25 0 l 955 0 955 220 -25 220
-Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(555,558)\b1\blur0.7}KILLER T CELLS (CYTOTOXIC T CELLS)
-Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(555,603)\fs45\blur0.7}Deployed on the orders of a Helper T Cell.
-Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(555,648)\fs45\blur0.7}Professional killers who recognize and destroy foreign bodies,
-Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(555,693)\fs45\blur0.7}like transplanted cells, virus-infected cells, and cancer cells.
+Dialogue: 0,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\pos(71.29,600.57)\blur1\p1}m -28 0 l 958 0 958 226 -28 226 m -25 3 l -25 223 955 223 955 3
+Dialogue: 1,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\pos(71.29,600.57)\c&HFFFFFF&\1a&H80&\blur1\p1}m -25 0 l 955 0 955 220 -25 220
+Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(71,558)\b1\blur0.7}KILLER T CELLS (CYTOTOXIC T CELLS)
+Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(71,603)\fs45\blur0.7}Deployed on the orders of a Helper T Cell.
+Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(71,648)\fs45\blur0.7}Professional killers who recognize and destroy foreign bodies,
+Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(71,693)\fs45\blur0.7}like transplanted cells, virus-infected cells, and cancer cells.
 Dialogue: 0,0:14:26.01,0:14:33.39,Signs - Infobox,,0,0,0,,{\pos(93.29,654.57)\blur1\fad(250,250)\p1}m -28 0 l 925 0 925 226 -28 226 m -25 3 l -25 223 922 223 922 3
 Dialogue: 1,0:14:26.01,0:14:33.39,Signs - Infobox,,0,0,0,,{\pos(93.29,654.57)\c&HFFFFFF&\1a&H80&\blur1\fad(250,250)\p1}m -25 0 l 922 0 922 220 -25 220
 Dialogue: 2,0:14:26.01,0:14:33.39,Signs - Infobox,,0,0,0,,{\an1\pos(93,612)\b1\blur0.7\fad(250,250)}INTESTINAL EPITHELIAL CELLS
