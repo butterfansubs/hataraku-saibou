@@ -100,12 +100,12 @@ Dialogue: 1,0:12:08.42,0:12:16.26,Signs - Infobox,,0,0,0,,{\pos(79.29,122.57)\c&
 Dialogue: 2,0:12:08.42,0:12:16.26,Signs - Infobox,,0,0,0,,{\an1\pos(79,102)\b1\blur0.7}RED BLOOD CELLS
 Dialogue: 2,0:12:08.42,0:12:16.26,Signs - Infobox,,0,0,0,,{\an1\pos(79,147)\fs45\blur0.7}Their red color is due to hemoglobin.
 Dialogue: 2,0:12:08.42,0:12:16.26,Signs - Infobox,,0,0,0,,{\an1\pos(79,192)\fs45\blur0.7}They transport oxygen and carbon dioxide around the body.
-Dialogue: 0,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\pos(71.29,600.57)\blur1\p1}m -28 0 l 958 0 958 226 -28 226 m -25 3 l -25 223 955 223 955 3
-Dialogue: 1,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\pos(71.29,600.57)\c&HFFFFFF&\1a&H80&\blur1\p1}m -25 0 l 955 0 955 220 -25 220
-Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(71,558)\b1\blur0.7}KILLER T CELLS (CYTOTOXIC T CELLS)
-Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(71,603)\fs45\blur0.7}Deployed on the orders of a Helper T Cell.
-Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(71,648)\fs45\blur0.7}Professional killers who recognize and destroy foreign bodies,
-Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(71,693)\fs45\blur0.7}like transplanted cells, virus-infected cells, and cancer cells.
+Dialogue: 0,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\pos(552.62,745.9)\blur1\p1}m -28 0 l 958 0 958 226 -28 226 m -25 3 l -25 223 955 223 955 3
+Dialogue: 1,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\pos(552.62,745.9)\c&HFFFFFF&\1a&H80&\blur1\p1}m -25 0 l 955 0 955 220 -25 220
+Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(552.33,703.33)\b1\blur0.7}KILLER T CELLS (CYTOTOXIC T CELLS)
+Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(552.33,748.33)\fs45\blur0.7}Deployed on the orders of a Helper T Cell.
+Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(552.33,793.33)\fs45\blur0.7}Professional killers who recognize and destroy foreign bodies,
+Dialogue: 2,0:12:39.36,0:12:45.33,Signs - Infobox,,0,0,0,,{\an1\pos(552.33,838.33)\fs45\blur0.7}like transplanted cells, virus-infected cells, and cancer cells.
 Dialogue: 0,0:14:26.01,0:14:33.39,Signs - Infobox,,0,0,0,,{\pos(93.29,654.57)\blur1\fad(250,250)\p1}m -28 0 l 925 0 925 226 -28 226 m -25 3 l -25 223 922 223 922 3
 Dialogue: 1,0:14:26.01,0:14:33.39,Signs - Infobox,,0,0,0,,{\pos(93.29,654.57)\c&HFFFFFF&\1a&H80&\blur1\fad(250,250)\p1}m -25 0 l 922 0 922 220 -25 220
 Dialogue: 2,0:14:26.01,0:14:33.39,Signs - Infobox,,0,0,0,,{\an1\pos(93,612)\b1\blur0.7\fad(250,250)}INTESTINAL EPITHELIAL CELLS
