@@ -137,8 +137,8 @@ Comment: 0,0:01:29.99,0:01:34.99,Signs,,0,0,0,,# Episode Title #
 Dialogue: 0,0:01:29.99,0:01:34.99,Signs,,0,0,0,,{\pos(800,666)\fnRodinPro-EB\fs81\bord0.5\shad0.01\4c&H000045&\1a&HFE&\3a&HFF&\4a&H37&\blur0.7}Chapter 2: Acquired Immunity
 Dialogue: 1,0:01:29.99,0:01:34.99,Signs,,0,0,0,,{\pos(800,666)\fnRodinPro-EB\fs81\c&H0000FF&\blur0.7}Chapter 2: Acquired Immunity
 Comment: 0,0:01:29.99,0:01:34.99,Signs,,0,0,0,,# Part B #
-Dialogue: 0,0:11:47.98,0:11:52.98,Signs,,0,0,0,,{\fnRodinPro-EB\fs109\bord0.5\shad0.01\4c&H000045&\1a&HFE&\3a&HFF&\4a&H37&\blur0.7\pos(800,632.67)}Peyer Patch
-Dialogue: 1,0:11:47.98,0:11:52.98,Signs,,0,0,0,,{\fnRodinPro-EB\fs109\c&H0000FF&\blur0.7\pos(800,632.67)}Peyer Patch
+Dialogue: 0,0:11:47.98,0:11:52.98,Signs,,0,0,0,,{\fnRodinPro-EB\fs109\bord0.5\shad0.01\4c&H000045&\1a&HFE&\3a&HFF&\4a&H37&\blur0.7\pos(800,632.67)}Peyer's Patch
+Dialogue: 1,0:11:47.98,0:11:52.98,Signs,,0,0,0,,{\fnRodinPro-EB\fs109\c&H0000FF&\blur0.7\pos(800,632.67)}Peyer's Patch
 Comment: 0,0:23:24.93,0:23:34.60,Signs,,0,0,0,,# Next Episode Preview #
 Dialogue: 0,0:23:24.93,0:23:34.60,Signs,,0,0,0,,{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\b800\bord4\c&HFFFFE8&\3c&HFFFFE8&\blur0.8}Next Time
 Dialogue: 1,0:23:24.93,0:23:34.60,Signs,,0,0,0,,{\pos(238.18,180)\fnFOT-Kurokane Std EB\fs70\b800\c&H000045&\3c&H000045&\blur0.8}Next Time
