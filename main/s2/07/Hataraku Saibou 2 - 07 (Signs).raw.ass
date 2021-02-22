@@ -1,0 +1,36 @@
+﻿[Script Info]
+Title: [Butter :v] Hataraku Saibou!! - 07
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1600
+PlayResY: 900
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Kirinashi,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs - Eyecatch,Yaldevi Colombo SemiBold,50,&H000000EE,&H00002EFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs - Infobox,PT Sans,50,&H00000000,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
+
+Dialogue: 0,0:00:16.20,0:00:19.58,Signs,,0,0,0,,"CELL"\N"WHITE BLOOD CELL"
+Dialogue: 0,0:01:29.25,0:01:33.08,Signs,,0,0,0,,"PLATELETS"
+Dialogue: 0,0:04:55.00,0:05:00.00,Signs,,0,0,0,,"EPISODE 7:\NCANCER CELL II (PART I)"
+Dialogue: 0,0:10:08.33,0:10:08.70,Signs,,0,0,0,,"NO ENTRY"
+Dialogue: 0,0:10:08.70,0:10:10.25,Signs,,0,0,0,,"NO ENTRY"
+Dialogue: 0,0:18:31.33,0:18:33.45,Signs,,0,0,0,,"TREMBLE TREMBLE"
+Dialogue: 0,0:23:36.95,0:23:37.91,Signs,,0,0,0,,"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:37.91,0:23:41.00,Signs,,0,0,0,,"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:41.00,0:23:41.62,Signs,,0,0,0,,"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:41.62,0:23:42.08,Signs,,0,0,0,,"CLENCH"\N"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:42.08,0:23:43.95,Signs,,0,0,0,,"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:43.95,0:23:45.95,Signs,,0,0,0,,"NEXT EPISODE PREVIEW"
+Dialogue: 0,0:23:45.95,0:23:48.45,Signs,,0,0,0,,"EPISODE 8:\NCANCER CELL II (PART II)"\N..."Cancer Cell II (Part II)"!
+Dialogue: 0,0:23:48.45,0:23:49.83,Signs,,0,0,0,,"EPISODE 8:\NCANCER CELL II (PART II)"
+Dialogue: 0,0:23:49.83,0:23:51.91,Signs,,0,0,0,,"EPISODE 8:\NCANCER CELL II (PART II)"
