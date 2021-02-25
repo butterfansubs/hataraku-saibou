@@ -1,0 +1,44 @@
+﻿[Script Info]
+Title: [Butter :v] Hataraku Saibou!! - 08
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1600
+PlayResY: 900
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Kirinashi,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs - Eyecatch,Yaldevi Colombo SemiBold,50,&H000000EE,&H00002EFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs - Infobox,PT Sans,50,&H00000000,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
+
+Dialogue: 0,0:01:42.00,0:01:43.37,Signs,,0,0,0,,"EPISODE 8:\NCANCER CELL II (PART II)"
+Dialogue: 0,0:01:43.37,0:01:47.00,Signs,,0,0,0,,"EPISODE 8:\NCANCER CELL II (PART II)"\N"Cancer Cell II (Part II)."
+Dialogue: 0,0:03:19.50,0:03:21.33,Signs,,0,0,0,,"WHITE BLOOD CELL"
+Dialogue: 0,0:04:54.08,0:04:55.79,Signs,,0,0,0,,"THUNK"\N"POP POP"\N"RUMBLE RUMBLE"
+Dialogue: 0,0:05:34.54,0:05:35.41,Signs,,0,0,0,,"TRAMPLE"\N"TRAMPLE"
+Dialogue: 0,0:05:35.41,0:05:37.12,Signs,,0,0,0,,"CRUSH"\N"CRUSH"
+Dialogue: 0,0:06:03.16,0:06:03.50,Signs,,0,0,0,,"FLIP-FLOP"
+Dialogue: 0,0:06:06.87,0:06:08.83,Signs,,0,0,0,,"FLIP-FLOP"
+Dialogue: 0,0:06:16.12,0:06:17.87,Signs,,0,0,0,,"PLATELETS"
+Dialogue: 0,0:06:54.29,0:06:54.54,Signs,,0,0,0,,"CELL"
+Dialogue: 0,0:06:54.54,0:06:56.50,Signs,,0,0,0,,"CELL"
+Dialogue: 0,0:13:26.54,0:13:28.66,Signs,,0,0,0,,"CLL"
+Dialogue: 0,0:14:08.54,0:14:09.91,Signs,,0,0,0,,"CLENCH"
+Dialogue: 0,0:21:51.45,0:21:52.29,Signs,,0,0,0,,"CHOPSTICKS"
+Dialogue: 0,0:21:52.29,0:21:52.91,Signs,,0,0,0,,"CHOPSTICKS"
+Dialogue: 0,0:22:12.45,0:22:16.33,Signs,,0,0,0,,"SINCE YOU'RE NOT AT HOME,\NWE'LL BE BACK LATER\NTO REPAIR YOUR DOOR.\NPLATELETS"
+Dialogue: 0,0:22:16.33,0:22:20.33,Signs,,0,0,0,,"DELIVERY NOTICE"
+Dialogue: 0,0:22:20.33,0:22:22.37,Signs,,0,0,0,,"DELIVERY NOTICE"
+Dialogue: 0,0:22:22.37,0:22:24.16,Signs,,0,0,0,,"GROWL"
+Dialogue: 0,0:22:42.83,0:22:43.91,Signs,,0,0,0,,"SEEDLING SOUP"
+Dialogue: 0,0:23:03.08,0:23:03.41,Signs,,0,0,0,,"SWOOSH"
+Dialogue: 0,0:23:12.41,0:23:14.37,Signs,,0,0,0,,"FRAGILE"\N"CONDENSED GAS"
+Dialogue: 0,0:23:14.37,0:23:16.87,Signs,,0,0,0,,"FRAGILE"\N"CONDENSED GAS"

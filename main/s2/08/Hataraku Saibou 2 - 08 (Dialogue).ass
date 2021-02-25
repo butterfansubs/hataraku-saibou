@@ -1,0 +1,349 @@
+﻿[Script Info]
+Title: [Butter :v] Hataraku Saibou!! - 08
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1600
+PlayResY: 900
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Kirinashi,63,&H00FFFFFF,&H00FFFFFF,&H00000000,&H87000000,-1,0,0,0,100,100,0,0,1,3,1.25,2,138,138,50,1
+Style: Default-Alt,Kirinashi,63,&H00FFFFFF,&H00FFFFFF,&H00743E15,&HCC000000,-1,0,0,0,100,100,0,0,1,3,1.25,2,138,138,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
+
+Dialogue: 0,0:01:47.87,0:01:50.87,Default,,0,0,0,,All right, how should we go about this?
+Dialogue: 0,0:01:50.87,0:01:53.70,Default,,0,0,0,,Where should the first slash go?
+Dialogue: 0,0:01:53.70,0:01:55.08,Default,,0,0,0,,Harmful bacteria.
+Dialogue: 0,0:01:55.08,0:01:59.50,Default,,0,0,0,,Pathogenic E. coli, Staphylococci,\NClostridium and the like
+Dialogue: 0,0:01:59.50,0:02:02.79,Default,,0,0,0,,cause proteins to degrade\Nand produce toxic by-products.
+Dialogue: 0,0:02:02.79,0:02:07.12,Default,,0,0,0,,They are detrimental to the\Nhuman body in various ways.
+Dialogue: 0,0:02:08.83,0:02:13.12,Default,,0,0,0,,Impressive! You harmful bacteria\Nare the entertainers of evil!
+Dialogue: 0,0:02:13.12,0:02:17.16,Default,,0,0,0,,Incredible! Letting him know\Nwhat you're about to do to him...
+Dialogue: 0,0:02:17.16,0:02:19.12,Default,,0,0,0,,How insanely cruel!
+Dialogue: 0,0:02:19.12,0:02:23.58,Default,,0,0,0,,How about slamming him against\Nthe wall with your tentacles next?
+Dialogue: 0,0:02:23.58,0:02:25.00,Default,,0,0,0,,Opportunistic pathogens.
+Dialogue: 0,0:02:25.00,0:02:28.16,Default,,0,0,0,,Bacteroides, non-pathogenic E. coli,\NEubacterium and the like
+Dialogue: 0,0:02:28.16,0:02:33.16,Default,,0,0,0,,are all bacteria which do\Nneither good nor harm.
+Dialogue: 0,0:02:33.16,0:02:37.83,Default,,0,0,0,,They make up roughly 70 percent\Nof the bacteria in the intestines.
+Dialogue: 0,0:02:39.04,0:02:41.41,Default,,0,0,0,,Shut up, opportunistic pathogens!
+Dialogue: 0,0:02:41.41,0:02:46.25,Default,,0,0,0,,I'm trying to come up with the most artistic\Nway of tormenting this cell in the name of evil!
+Dialogue: 0,0:02:46.25,0:02:48.00,Default,,0,0,0,,So, don't disturb me!
+Dialogue: 0,0:02:48.00,0:02:50.70,Default,,0,0,0,,So brutal! I'm getting goosebumps!
+Dialogue: 0,0:02:50.70,0:02:54.25,Default,,0,0,0,,Well, not that I can blame you\Nopportunistic bacteria
+Dialogue: 0,0:02:54.25,0:02:59.50,Default,,0,0,0,,for being enthralled by our cool evil souls.
+Dialogue: 0,0:02:59.50,0:03:00.58,Default,,0,0,0,,Watch and learn!
+Dialogue: 0,0:03:00.58,0:03:02.45,Default,,0,0,0,,--Woo-hoo!\N--Hey there, Mr. President!
+Dialogue: 0,0:03:02.45,0:03:04.00,Default,,0,0,0,,You're so cool!
+Dialogue: 0,0:03:04.00,0:03:05.95,Default,,0,0,0,,All right, what should I do?
+Dialogue: 0,0:03:05.95,0:03:09.04,Default,,0,0,0,,Should I start dismembering you\Nfrom the fingertips?
+Dialogue: 0,0:03:10.45,0:03:12.83,Default,,0,0,0,,Okay, I've got it.
+Dialogue: 0,0:03:12.83,0:03:14.45,Default,,0,0,0,,Your eyes!
+Dialogue: 0,0:03:21.45,0:03:22.95,Default,,0,0,0,,Damn!
+Dialogue: 0,0:03:22.95,0:03:26.41,Default,,0,0,0,,White Blood Cells!
+Dialogue: 0,0:03:26.41,0:03:28.87,Default,,0,0,0,,Sorry to keep you waiting, Cell boy!
+Dialogue: 0,0:03:31.12,0:03:35.41,Default,,0,0,0,,You've got a lot of nerve, rampaging around\Nthe biggest immune system in the body!
+Dialogue: 0,0:03:35.41,0:03:38.95,Default,,0,0,0,,It's punishment time, you lousy germs!
+Dialogue: 0,0:03:38.95,0:03:40.79,Default,,0,0,0,,Gut immunity.
+Dialogue: 0,0:03:40.79,0:03:45.08,Default,,0,0,0,,The ability to fight off and eliminate\Nbacteria and viruses invading the body
+Dialogue: 0,0:03:45.08,0:03:46.66,Default,,0,0,0,,is called "immunity."
+Dialogue: 0,0:03:46.66,0:03:50.12,Default,,0,0,0,,The digestive tract acts as a barrier\Nto protect against infection
+Dialogue: 0,0:03:50.12,0:03:56.08,Default,,0,0,0,,and is said to be home to upward of 50 percent\Nof the body's immune system.
+Dialogue: 0,0:03:56.08,0:03:58.91,Default,,0,0,0,,Wh-What should we do, Harmful Bacterium?
+Dialogue: 0,0:03:58.91,0:04:01.08,Default,,0,0,0,,Hold your ground! So unsightly!
+Dialogue: 0,0:04:01.08,0:04:04.00,Default,,0,0,0,,Huh! We've still got...
+Dialogue: 0,0:04:04.95,0:04:07.29,Default,,0,0,0,,...the edge in sheer numbers!
+Dialogue: 0,0:04:07.29,0:04:09.33,Default,,0,0,0,,What the... Where'd all these come from?
+Dialogue: 0,0:04:09.33,0:04:13.87,Default,,0,0,0,,This staggering number of opportunistic\Nbacteria are all my allies!
+Dialogue: 0,0:04:13.87,0:04:16.75,Default,,0,0,0,,In an environment where\Nthe harmful bacteria hold sway...
+Dialogue: 0,0:04:16.75,0:04:19.62,Default,,0,0,0,,...you should be mortified that you were ever\Nrash enough to show your idiotic faces
+Dialogue: 0,0:04:19.62,0:04:21.50,Default,,0,0,0,,even for a second!
+Dialogue: 0,0:04:22.54,0:04:24.45,Default,,0,0,0,,Numbers! The symbol of power!
+Dialogue: 0,0:04:24.45,0:04:29.04,Default,,0,0,0,,There is no higher aesthetic for\Nus bacteria than to win by numbers!
+Dialogue: 0,0:04:54.08,0:04:55.79,Default,,0,0,0,,Nyuuu!
+Dialogue: 0,0:04:55.79,0:04:58.12,Default,,0,0,0,,A-Are those good bacteria?
+Dialogue: 0,0:04:58.12,0:04:59.58,Default,,0,0,0,,Good bacteria.
+Dialogue: 0,0:04:59.58,0:05:03.00,Default,,0,0,0,,Lactic acid bacterium, Lactobacillus gasseri,\NLactobacillus bifidus and the like
+Dialogue: 0,0:05:03.00,0:05:08.04,Default,,0,0,0,,work to boost immunity\Nand to stimulate intestinal activity.
+Dialogue: 0,0:05:08.04,0:05:11.79,Default,,0,0,0,,Their actions are beneficial\Nfor the human body's health.
+Dialogue: 0,0:05:14.62,0:05:26.87,Default,,0,0,0,,Nyuuu!
+Dialogue: 0,0:05:26.87,0:05:30.20,Default,,0,0,0,,How can there be so much good bacteria?
+Dialogue: 0,0:05:30.20,0:05:32.00,Default,,0,0,0,,Hey, opportunistic bacteria!
+Dialogue: 0,0:05:32.00,0:05:34.54,Default,,0,0,0,,What are you doing?\NGet rid of them already--
+Dialogue: 0,0:05:35.41,0:05:37.12,Default,,0,0,0,,Huh?
+Dialogue: 0,0:05:37.25,0:05:40.66,Default,,0,0,0,,Quit nagging, will you?\NThe environment's changed, all right?
+Dialogue: 0,0:05:40.66,0:05:44.41,Default,,0,0,0,,Right! What do you mean\Nby "artistic" and "cool evil"?
+Dialogue: 0,0:05:44.41,0:05:47.25,Default,,0,0,0,,Don't be full of yourselves! How troublesome!
+Dialogue: 0,0:05:47.25,0:05:49.70,Default,,0,0,0,,From now on, it will be\Nthe Age of Good Bacteria!
+Dialogue: 0,0:05:49.70,0:05:54.29,Default,,0,0,0,,It's time for us to find our place\Namong the beautiful and wholesome bacteria!
+Dialogue: 0,0:05:54.29,0:05:56.33,Default,,0,0,0,,The nature of opportunistic pathogens.
+Dialogue: 0,0:05:56.33,0:06:00.95,Default,,0,0,0,,They ally themselves with whichever bacteria,\Ngood or harmful, has the upper hand.
+Dialogue: 0,0:06:00.95,0:06:03.16,Default,,0,0,0,,So... So anyway...
+Dialogue: 0,0:06:03.16,0:06:03.50,Default,,0,0,0,,So... So anyway...
+Dialogue: 0,0:06:03.50,0:06:06.87,Default,,0,0,0,,"FLIP-FLOP"\N...let's all get along and be friends, everyone!
+Dialogue: 0,0:06:06.87,0:06:08.83,Default,,0,0,0,,Not by a long shot.
+Dialogue: 0,0:06:09.29,0:06:13.37,Default,,0,0,0,,All you germs guilty of unlawful entry,\Nget the cell out!
+Dialogue: 0,0:06:22.66,0:06:25.87,Default,,0,0,0,,We should feel a little safer here, huh?
+Dialogue: 0,0:06:25.87,0:06:27.83,Default,,0,0,0,,Oh look, Big Sister!
+Dialogue: 0,0:06:27.83,0:06:28.95,Default,,0,0,0,,Huh?
+Dialogue: 0,0:06:31.00,0:06:34.20,Default,,0,0,0,,Wait, something's changed?
+Dialogue: 0,0:06:37.50,0:06:39.08,Default,,0,0,0,,It's easier to breathe!
+Dialogue: 0,0:06:39.08,0:06:40.54,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:06:41.45,0:06:43.29,Default,,0,0,0,,Come to think of it...
+Dialogue: 0,0:06:43.29,0:06:47.91,Default,,0,0,0,,This is toxic gas from the harmful bacteria\Nthat live in the intestines.
+Dialogue: 0,0:06:47.91,0:06:54.29,Default,,0,0,0,,The bacterial balance in the gut must be off,\Nand the harmful bacteria seem to be predominant.
+Dialogue: 0,0:06:54.29,0:06:54.54,Default,,0,0,0,,The bacterial balance in the gut must be off,\Nand the harmful bacteria seem to be predominant.
+Dialogue: 0,0:06:54.54,0:06:56.50,Default,,0,0,0,,This is bound to cause some harmful effects.
+Dialogue: 0,0:06:56.50,0:06:57.41,Default,,0,0,0,,This is bound to cause some harmful effects.
+Dialogue: 0,0:06:57.41,0:07:01.62,Default,,0,0,0,,I wonder if White Blood Cell is all right.
+Dialogue: 0,0:07:03.95,0:07:06.29,Default,,0,0,0,,Memory T! NK!
+Dialogue: 0,0:07:06.29,0:07:08.04,Default,,0,0,0,,Don't worry.
+Dialogue: 0,0:07:08.04,0:07:10.00,Default,,0,0,0,,I'm not planning to kill them.
+Dialogue: 0,0:07:10.00,0:07:12.12,Default,,0,0,0,,There!
+Dialogue: 0,0:07:13.41,0:07:14.45,Default,,0,0,0,,Stop!
+Dialogue: 0,0:07:14.45,0:07:17.04,Default,,0,0,0,,Knock it off!
+Dialogue: 0,0:07:17.04,0:07:19.41,Default,,0,0,0,,Cancer Cell!
+Dialogue: 0,0:07:19.41,0:07:24.08,Default,,0,0,0,,Why? Why won't you fight me? Fight me!
+Dialogue: 0,0:07:24.08,0:07:25.70,Default,,0,0,0,,I don't want to.
+Dialogue: 0,0:07:25.70,0:07:28.50,Default,,0,0,0,,Because what I like about you\Nis how self-contradictory you are.
+Dialogue: 0,0:07:28.50,0:07:32.58,Default,,0,0,0,,You're the same as me,\Nwrithing within your preordained destiny.
+Dialogue: 0,0:07:32.58,0:07:35.33,Default,,0,0,0,,I don't want to kill a friend.
+Dialogue: 0,0:07:35.33,0:07:39.41,Default,,0,0,0,,That's right. Unlike you...
+Dialogue: 0,0:07:40.33,0:07:42.16,Default,,0,0,0,,...I detest you!
+Dialogue: 0,0:07:42.16,0:07:43.87,Default,,0,0,0,,Because you called me "a goddamn bug"!
+Dialogue: 0,0:07:43.87,0:07:46.54,Default,,0,0,0,,Stop! Isn't that enough?
+Dialogue: 0,0:07:46.54,0:07:48.75,Default,,0,0,0,,Step away from Memory T!
+Dialogue: 0,0:07:54.37,0:07:58.29,Default,,0,0,0,,I can't tell you how glad I am that\NI brought the three of you here.
+Dialogue: 0,0:07:58.29,0:08:00.29,Default,,0,0,0,,I like you, White Blood Cell!
+Dialogue: 0,0:08:00.29,0:08:02.79,Default,,0,0,0,,I could sit and chat with you\Nabout all kinds of things.
+Dialogue: 0,0:08:02.79,0:08:05.75,Default,,0,0,0,,As for Memory T and NK, I hate you both!
+Dialogue: 0,0:08:05.75,0:08:09.00,Default,,0,0,0,,What wouldn't I give to demolish\Neverything you hold dear?
+Dialogue: 0,0:08:09.00,0:08:11.16,Default,,0,0,0,,I can turn those emotions into energy
+Dialogue: 0,0:08:11.16,0:08:15.33,Default,,0,0,0,,and acquire that power\Nway sooner than I thought!
+Dialogue: 0,0:08:15.33,0:08:17.66,Default,,0,0,0,,If I divide once, it'll be double.
+Dialogue: 0,0:08:17.66,0:08:20.58,Default,,0,0,0,,Divide again, and I can double again!
+Dialogue: 0,0:08:20.58,0:08:25.00,Default,,0,0,0,,A mere thirty divisions will result...
+Dialogue: 0,0:08:25.00,0:08:27.58,Default,,0,0,0,,...in more than a billion of my friends.
+Dialogue: 0,0:08:29.45,0:08:32.33,Default,,0,0,0,,Try and stop me if you can...
+Dialogue: 0,0:08:32.33,0:08:36.25,Default,,0,0,0,,...my hard-working Immune Cells.
+Dialogue: 0,0:08:37.12,0:08:40.45,Default,,0,0,0,,It's too soon for a victory lap.
+Dialogue: 0,0:08:41.91,0:08:44.79,Default,,0,0,0,,I still have my...
+Dialogue: 0,0:08:44.79,0:08:47.62,Default,,0,0,0,,...trump card left.
+Dialogue: 0,0:08:47.62,0:08:52.33,Default,,0,0,0,,Bursting at the seams with my memories...
+Dialogue: 0,0:08:52.33,0:08:54.62,Default,,0,0,0,,The ultimate secret technique!
+Dialogue: 0,0:08:54.62,0:08:56.08,Default,,0,0,0,,Memory T?
+Dialogue: 0,0:08:56.08,0:08:59.20,Default,,0,0,0,,That moron... What in the world is he...
+Dialogue: 0,0:08:59.20,0:09:01.25,Default,,0,0,0,,And it's called...
+Dialogue: 0,0:09:03.95,0:09:09.45,Default,,0,0,0,,The T Cell Ultimate Secret Technique...\N"Perforin Cannon Punch"!
+Dialogue: 0,0:09:13.41,0:09:15.58,Default,,0,0,0,,"T Cell Per--" What?
+Dialogue: 0,0:09:15.58,0:09:16.37,Default,,0,0,0,,Huh?
+Dialogue: 0,0:09:16.37,0:09:18.87,Default,,0,0,0,,"T..." Huh?
+Dialogue: 0,0:09:18.87,0:09:20.16,Default,,0,0,0,,What was that?
+Dialogue: 0,0:09:20.16,0:09:24.25,Default,,0,0,0,,"T Cell Puerile Cretin Panties"?
+Dialogue: 0,0:09:24.25,0:09:27.16,Default,,0,0,0,,That's "T Cell Perforin Cannon Punch"!
+Dialogue: 0,0:09:27.16,0:09:29.04,Default,,0,0,0,,Secret technique?
+Dialogue: 0,0:09:31.45,0:09:32.62,Default,,0,0,0,,The thymus.
+Dialogue: 0,0:09:32.62,0:09:37.33,Default,,0,0,0,,The lymphoid organ where\NPrecursor T Cells are differentiated
+Dialogue: 0,0:09:37.33,0:09:40.16,Default,,0,0,0,,and then mature into full-fledged T Cells.
+Dialogue: 0,0:09:50.58,0:09:55.08,Default,,0,0,0,,Hey, you were hopeless a little while ago,\Nbut these days you're on fire!
+Dialogue: 0,0:09:55.08,0:09:56.58,Default,,0,0,0,,That was just dumb luck.
+Dialogue: 0,0:09:56.58,0:10:00.62,Default,,0,0,0,,But I'm going to keep grinding away\Nand hone my skills. You'll see.
+Dialogue: 0,0:10:00.62,0:10:03.20,Default,,0,0,0,,Actually, the way you're going...\NOh, but I shouldn't say it...
+Dialogue: 0,0:10:03.20,0:10:04.79,Default,,0,0,0,,Oh come on, spit it out!
+Dialogue: 0,0:10:04.79,0:10:08.62,Default,,0,0,0,,Well... See... I'm thinking\Nthat a cell of your caliber
+Dialogue: 0,0:10:08.62,0:10:12.83,Default,,0,0,0,,just might be able to master\Nthat ultimate secret technique.
+Dialogue: 0,0:10:12.83,0:10:15.00,Default,,0,0,0,,Ultimate secret technique?
+Dialogue: 0,0:10:15.00,0:10:19.04,Default,,0,0,0,,Yeah. It's called the "T Cell Ultimate\NSecret Technique"...
+Dialogue: 0,0:10:19.04,0:10:23.04,Default,,0,0,0,,Perforin... Cannon Punch!
+Dialogue: 0,0:10:23.04,0:10:24.12,Default,,0,0,0,,Perforin.
+Dialogue: 0,0:10:24.12,0:10:30.62,Default,,0,0,0,,A chemical released by Killer T Cells\Nupon attacking infected cells.
+Dialogue: 0,0:10:30.62,0:10:33.83,Default,,0,0,0,,It's a legendary move\Nthat can only be unleashed
+Dialogue: 0,0:10:33.83,0:10:39.16,Default,,0,0,0,,when a T Cell's urge to protect the world\Nintensifies to its maximum peak inside him.
+Dialogue: 0,0:10:39.16,0:10:42.58,Default,,0,0,0,,They say that whoever's on the receiving end\Nof its devastating force and impact
+Dialogue: 0,0:10:42.58,0:10:47.20,Default,,0,0,0,,ends up getting blasted away\Nlike they were smashed with a massive fist.
+Dialogue: 0,0:10:49.62,0:10:51.95,Default,,0,0,0,,"Ultimate Secret Technique"...
+Dialogue: 0,0:10:51.95,0:10:54.70,Default,,0,0,0,,Emotions... Making your fist... Massive...
+Dialogue: 0,0:10:56.04,0:10:58.95,Default,,0,0,0,,The T Cell Ultimate Secret Technique...
+Dialogue: 0,0:10:58.95,0:11:01.33,Default,,0,0,0,,Perf... Perforin Cannon Punch!
+Dialogue: 0,0:11:01.33,0:11:02.41,Default,,0,0,0,,Whoops, I mangled it.
+Dialogue: 0,0:11:02.41,0:11:04.50,Default,,0,0,0,,Oh jeez, he's really practicing it!
+Dialogue: 0,0:11:04.50,0:11:07.16,Default,,0,0,0,,Who would've thought he'd swallow\Na dumbass story like that?
+Dialogue: 0,0:11:07.16,0:11:08.66,Default,,0,0,0,,Like that kind of move even exists!
+Dialogue: 0,0:11:08.66,0:11:12.00,Default,,0,0,0,,Perforin C-Cannon Panty!
+Dialogue: 0,0:11:12.00,0:11:14.66,Default,,0,0,0,,Oh crap, my arm cramped up!
+Dialogue: 0,0:11:14.66,0:11:17.04,Default,,0,0,0,,What are those guys doing?
+Dialogue: 0,0:11:17.04,0:11:21.66,Default,,0,0,0,,They just want to reassure themselves by looking\Ndown on others. What a pair of morons.
+Dialogue: 0,0:11:46.75,0:11:49.33,Default,,0,0,0,,You're not going to get your way.
+Dialogue: 0,0:11:49.33,0:11:51.00,Default,,0,0,0,,Oh?
+Dialogue: 0,0:11:55.91,0:11:57.37,Default,,0,0,0,,Eat this!
+Dialogue: 0,0:11:57.37,0:11:59.33,Default,,0,0,0,,T Cell...
+Dialogue: 0,0:11:59.33,0:12:04.25,Default,,0,0,0,,...Perforin Cannon Punch!
+Dialogue: 0,0:12:13.08,0:12:18.79,Default,,0,0,0,,T Cell Perforin Cannon Punch!
+Dialogue: 0,0:12:41.25,0:12:43.54,Default,,0,0,0,,It really...
+Dialogue: 0,0:12:43.54,0:12:45.12,Default,,0,0,0,,...worked!
+Dialogue: 0,0:12:47.95,0:12:51.79,Default,,0,0,0,,Wh-Wh-What the cell was\Nthat baffling move just now?
+Dialogue: 0,0:12:51.79,0:12:55.00,Default,,0,0,0,,Regulatory... Regulatory T Cell!
+Dialogue: 0,0:12:55.00,0:12:57.20,Default,,0,0,0,,You're supposed to suppress his attacks!
+Dialogue: 0,0:12:57.20,0:12:59.25,Default,,0,0,0,,Why did you just dodge now?
+Dialogue: 0,0:12:59.25,0:13:02.25,Default,,0,0,0,,It's your job to protect me--
+Dialogue: 0,0:13:02.25,0:13:04.12,Default,,0,0,0,,I should've known better.
+Dialogue: 0,0:13:04.12,0:13:06.33,Default,,0,0,0,,I seem to have misperceived you.
+Dialogue: 0,0:13:06.33,0:13:08.33,Default,,0,0,0,,Huh?
+Dialogue: 0,0:13:08.33,0:13:11.70,Default,,0,0,0,,You are not a cell that warrants protection.
+Dialogue: 0,0:13:13.12,0:13:16.70,Default,,0,0,0,,Now, at last, I've realized my error.
+Dialogue: 0,0:13:19.29,0:13:22.20,Default,,0,0,0,,Upon closer inspection, I can see...
+Dialogue: 0,0:13:22.20,0:13:24.04,Default,,0,0,0,,...that you're not a cell...
+Dialogue: 0,0:13:24.04,0:13:26.54,Default,,0,0,0,,"CLL"\N...but rather a "cll."
+Dialogue: 0,0:13:26.54,0:13:28.66,Default,,0,0,0,,That's what convinced you?
+Dialogue: 0,0:13:28.66,0:13:31.45,Default,,0,0,0,,Regulatory T Cell's role.
+Dialogue: 0,0:13:31.45,0:13:34.04,Default,,0,0,0,,Once she's perceived a change in a Cancer Cell,
+Dialogue: 0,0:13:34.04,0:13:39.58,Default,,0,0,0,,Regulatory T Cell no longer recognizes\Nit as a cell to be protected.
+Dialogue: 0,0:13:39.58,0:13:43.00,Default,,0,0,0,,Because I'm a "cll," not a "cell"?
+Dialogue: 0,0:13:43.00,0:13:44.45,Default,,0,0,0,,Is that it?
+Dialogue: 0,0:13:44.45,0:13:45.70,Default,,0,0,0,,That's correct.
+Dialogue: 0,0:13:45.70,0:13:49.45,Default,,0,0,0,,And I'm not a cell that\Nwarrants protection, huh?
+Dialogue: 0,0:13:49.45,0:13:53.54,Default,,0,0,0,,So, that means you're no longer\Non my side, right?
+Dialogue: 0,0:13:53.54,0:13:55.75,Default,,0,0,0,,Well, I guess that's fine by me.
+Dialogue: 0,0:13:55.75,0:14:00.50,Default,,0,0,0,,If that's what you think, Regulatory T Cell,\Nthen that's fine by me.
+Dialogue: 0,0:14:00.50,0:14:02.08,Default,,0,0,0,,But...
+Dialogue: 0,0:14:02.08,0:14:04.95,Default,,0,0,0,,...you're going to have to stay out of my way!
+Dialogue: 0,0:14:04.95,0:14:08.54,Default,,0,0,0,,I told you! I know all your tricks!
+Dialogue: 0,0:14:08.54,0:14:09.91,Default,,0,0,0,,Nailed it!
+Dialogue: 0,0:14:12.29,0:14:14.04,Default,,0,0,0,,And I told you, remember?
+Dialogue: 0,0:14:14.04,0:14:16.25,Default,,0,0,0,,Slashing me does no good!
+Dialogue: 0,0:14:17.25,0:14:19.83,Default,,0,0,0,,Stop making me repeat myself!
+Dialogue: 0,0:14:19.83,0:14:23.79,Default,,0,0,0,,I'm telling you, I know all your tricks!\NDidn't you hear--
+Dialogue: 0,0:14:28.45,0:14:32.54,Default,,0,0,0,,What's wrong? I thought you knew all my tricks!
+Dialogue: 0,0:14:38.33,0:14:40.75,Default,,0,0,0,,Whoa! Whoa!
+Dialogue: 0,0:14:40.75,0:14:45.25,Default,,0,0,0,,All right, let's finish this now, Immune Cells.
+Dialogue: 0,0:14:46.16,0:14:47.45,Default,,0,0,0,,Damn!
+Dialogue: 0,0:14:54.00,0:14:55.75,Default,,0,0,0,,I'll kill you!
+Dialogue: 0,0:15:01.12,0:15:02.41,Default,,0,0,0,,Damn!
+Dialogue: 0,0:15:02.41,0:15:05.66,Default,,0,0,0,,Crap! Damn, you're hard!
+Dialogue: 0,0:15:20.41,0:15:22.70,Default,,0,0,0,,Won't be long now.
+Dialogue: 0,0:15:22.70,0:15:25.20,Default,,0,0,0,,This is...
+Dialogue: 0,0:15:25.20,0:15:27.37,Default,,0,0,0,,...the end!
+Dialogue: 0,0:15:49.66,0:15:52.50,Default,,0,0,0,,The new world...
+Dialogue: 0,0:15:52.50,0:15:55.04,Default,,0,0,0,,Now we can be free!
+Dialogue: 0,0:15:55.04,0:15:56.91,Default,,0,0,0,,And...
+Dialogue: 0,0:15:58.45,0:16:01.54,Default,,0,0,0,,It's over now.
+Dialogue: 0,0:16:01.54,0:16:04.54,Default,,0,0,0,,The only thing that's over is you!
+Dialogue: 0,0:16:08.37,0:16:11.79,Default,,0,0,0,,--You goddamn bug!\N--You miserable Cancer Cell!
+Dialogue: 0,0:16:11.79,0:16:16.41,Default,,0,0,0,,--Die!\N--Die!
+Dialogue: 0,0:16:20.45,0:16:24.37,Default,,0,0,0,,I'm telling you, you can slash me,\Nyou can stab me, and I won't die.
+Dialogue: 0,0:16:26.29,0:16:29.70,Default,,0,0,0,,My wings! Wh-Why?
+Dialogue: 0,0:16:34.45,0:16:37.66,Default,,0,0,0,,I can't maintain my strength!
+Dialogue: 0,0:16:37.66,0:16:41.08,Default,,0,0,0,,I'm no longer getting a boost?
+Dialogue: 0,0:16:41.08,0:16:42.79,Default,,0,0,0,,But why?
+Dialogue: 0,0:16:47.58,0:16:49.62,Default,,0,0,0,,It looks like the intestinal\Nenvironment's changed,
+Dialogue: 0,0:16:49.62,0:16:54.04,Default,,0,0,0,,so now the toxins from the harmful bacteria\Nthat were empowering you are dwindling.
+Dialogue: 0,0:16:58.62,0:17:01.79,Default,,0,0,0,,White Blood Cell--
+Dialogue: 0,0:17:14.25,0:17:17.37,Default,,0,0,0,,I've been defeated.
+Dialogue: 0,0:17:17.37,0:17:21.54,Default,,0,0,0,,So, I lose again, huh?
+Dialogue: 0,0:17:21.54,0:17:24.70,Default,,0,0,0,,Oh well, that's fine.
+Dialogue: 0,0:17:24.70,0:17:33.54,Default,,0,0,0,,I'd rather be killed by a friend\Nthan by someone I hate. This is way better.
+Dialogue: 0,0:17:33.54,0:17:38.79,Default,,0,0,0,,See you... my gentle assassin... White...
+Dialogue: 0,0:17:38.79,0:17:43.12,Default,,0,0,0,,...Blood... Cell...
+Dialogue: 0,0:17:50.66,0:17:53.62,Default,,0,0,0,,All right, it's over!
+Dialogue: 0,0:17:55.95,0:17:57.70,Default,,0,0,0,,You guys...
+Dialogue: 0,0:17:57.70,0:17:59.91,Default,,0,0,0,,You've gotten so big!
+Dialogue: 0,0:17:59.91,0:18:03.66,Default,,0,0,0,,Nyuuu!
+Dialogue: 0,0:18:03.66,0:18:06.62,Default,,0,0,0,,Nyuuu! Nyuuu! Nyuuu!
+Dialogue: 0,0:18:06.62,0:18:08.12,Default,,0,0,0,,Lactic acid bacteria.
+Dialogue: 0,0:18:08.12,0:18:11.16,Default,,0,0,0,,Good bacteria that work to support\Nthe health of the human body.
+Dialogue: 0,0:18:11.16,0:18:13.95,Default,,0,0,0,,They have a variety of features.
+Dialogue: 0,0:18:15.83,0:18:17.16,Default,,0,0,0,,Nyuuu?
+Dialogue: 0,0:18:17.16,0:18:18.83,Default,,0,0,0,,I'm okay.
+Dialogue: 0,0:18:20.41,0:18:22.58,Default,,0,0,0,,Nyuuu!
+Dialogue: 0,0:18:22.58,0:18:24.75,Default,,0,0,0,,Nyuuu! Nyuuu! Nyuuu!
+Dialogue: 0,0:18:24.75,0:18:26.58,Default,,0,0,0,,Thank goodness, Lactic Acid Bacterium!
+Dialogue: 0,0:18:26.58,0:18:27.91,Default,,0,0,0,,Nyuuu!
+Dialogue: 0,0:18:27.91,0:18:30.83,Default,,0,0,0,,Hey, thanks for coming to save me!
+Dialogue: 0,0:18:30.83,0:18:32.70,Default,,0,0,0,,Nyuuu?
+Dialogue: 0,0:18:32.70,0:18:34.58,Default,,0,0,0,,Nyuuu!
+Dialogue: 0,0:18:34.58,0:18:40.62,Default,,0,0,0,,Nyuuu! Nyuuu! Nyuuu!
+Dialogue: 0,0:18:42.20,0:18:46.20,Default,,0,0,0,,The Cancer Cell has been vanquished!
+Dialogue: 0,0:18:46.20,0:18:48.37,Default,,0,0,0,,The crisis is over!
+Dialogue: 0,0:18:48.33,0:18:49.95,Default,,0,0,0,,"IT REALLY WORKED..."\NIt really worked.
+Dialogue: 0,0:18:49.95,0:18:51.20,Default,,0,0,0,,"YES, IT DID."\N"IT REALLY WORKED..."\NYes, it did.
+Dialogue: 0,0:18:53.54,0:18:55.37,Default,,0,0,0,,Nyuuu!
+Dialogue: 0,0:18:55.37,0:18:57.75,Default,,0,0,0,,Whoa! Amazing!
+Dialogue: 0,0:18:57.75,0:19:00.62,Default,,0,0,0,,Just look at him repair\Nthe intestinal wall for us!
+Dialogue: 0,0:19:00.62,0:19:02.41,Default,,0,0,0,,Nyuuu!
+Dialogue: 0,0:19:02.41,0:19:04.58,Default,,0,0,0,,How lactic acid bacteria works.
+Dialogue: 0,0:19:04.58,0:19:09.29,Default,,0,0,0,,Some lactic acid bacteria directly stimulate\Nthe Intestinal Epithelial Cells
+Dialogue: 0,0:19:09.29,0:19:13.62,Default,,0,0,0,,to help maintain the intestinal\Ntract's barrier functions.
+Dialogue: 0,0:19:13.62,0:19:16.20,Default,,0,0,0,,Lactic Acid Bacterium, you're awesome!
+Dialogue: 0,0:19:16.20,0:19:19.58,Default,,0,0,0,,Thanks to you guys,\Nthe intestinal environment's improving!
+Dialogue: 0,0:19:19.58,0:19:21.83,Default,,0,0,0,,Nyuuu!
+Dialogue: 0,0:19:21.83,0:19:23.62,Default,,0,0,0,,You did great, too, Cell boy!
+Dialogue: 0,0:19:23.62,0:19:25.58,Default,,0,0,0,,Huh? Me?
+Dialogue: 0,0:19:25.58,0:19:29.00,Default,,0,0,0,,Bringing those lactic acid bacteria\Nback to their friends
+Dialogue: 0,0:19:29.00,0:19:31.91,Default,,0,0,0,,helped to improve the intestinal environment.
+Dialogue: 0,0:19:31.91,0:19:35.12,Default,,0,0,0,,It was you who rescued us. Thanks.
+Dialogue: 0,0:19:39.08,0:19:41.58,Default,,0,0,0,,Jeez. Just once in my life,\Nif someone would say...
+Dialogue: 0,0:19:41.58,0:19:43.54,Default,,0,0,0,,..."Thank you for rescuing me!"
+Dialogue: 0,0:19:43.54,0:19:46.62,Default,,0,0,0,,What wouldn't I give to hear those words?
+Dialogue: 0,0:19:47.54,0:19:49.62,Default,,0,0,0,,You mean I...
+Dialogue: 0,0:19:49.62,0:19:52.00,Default,,0,0,0,,I was able to help out, too?
+Dialogue: 0,0:19:52.00,0:19:53.12,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:19:53.12,0:19:55.37,Default,,0,0,0,,Nyuuu! Nyuuu!
+Dialogue: 0,0:19:55.37,0:19:57.79,Default,,0,0,0,,Intestinal environment and immunity.
+Dialogue: 0,0:19:57.79,0:20:04.12,Default,,0,0,0,,Three different types of bacteria reside in\Nthe intestines. Good, harmful and opportunistic.
+Dialogue: 0,0:20:04.12,0:20:08.04,Default,,0,0,0,,The intestinal environment changes whenever\Nthere is a shift in the balance between them.
+Dialogue: 0,0:20:08.04,0:20:12.04,Default,,0,0,0,,When the number of good bacteria increases,\Nthere's a boost in immunity.
+Dialogue: 0,0:20:12.04,0:20:14.91,Default,,0,0,0,,Nyuuu! Nyuuu!
+Dialogue: 0,0:20:20.16,0:20:22.79,Default,,0,0,0,,Intestinal flora.
+Dialogue: 0,0:20:22.79,0:20:28.25,Default,,0,0,0,,There are good, harmful and opportunistic\Nbacteria residing in the intestinal tract,
+Dialogue: 0,0:20:28.25,0:20:33.58,Default,,0,0,0,,comprising hundreds of billions of bacteria\Nfrom hundreds of different species.
+Dialogue: 0,0:20:33.58,0:20:40.70,Default,,0,0,0,,Because it looks like a flower bed of colonies\Nof various plants in the intestinal tract,
+Dialogue: 0,0:20:40.70,0:20:43.79,Default,,0,0,0,,it's called "intestinal flora."
+Dialogue: 0,0:20:45.50,0:20:47.08,Default,,0,0,0,,So, this...
+Dialogue: 0,0:20:47.08,0:20:50.45,Default,,0,0,0,,This is the world where you guys live, huh?
+Dialogue: 0,0:21:21.50,0:21:23.50,Default,,0,0,0,,We're totally drenched.
+Dialogue: 0,0:21:23.50,0:21:25.04,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:21:38.33,0:21:40.16,Default,,0,0,0,,Goodbye...
+Dialogue: 0,0:21:41.12,0:21:42.91,Default,,0,0,0,,Lactic acid bacteria.
+Dialogue: 0,0:21:49.16,0:21:51.45,Default,,0,0,0,,Oh! White Blood Cell!\NThanks for your hard work!
+Dialogue: 0,0:21:51.45,0:21:52.29,Default,,0,0,0,,Oh! White Blood Cell!\NThanks for your hard work!
+Dialogue: 0,0:21:52.29,0:21:52.91,Default,,0,0,0,,Hey there!
+Dialogue: 0,0:21:52.91,0:21:54.20,Default,,0,0,0,,Good work!
+Dialogue: 0,0:21:54.20,0:21:57.04,Default,,0,0,0,,Thank goodness! So, you're all right!
+Dialogue: 0,0:21:57.04,0:21:59.04,Default,,0,0,0,,Yeah! You, too!
+Dialogue: 0,0:21:59.04,0:22:00.50,Default,,0,0,0,,Oh, I almost forgot!
+Dialogue: 0,0:22:00.50,0:22:06.79,Default,,0,0,0,,I've been delivering nutrients,\Nand I've gone all the way around...
+Dialogue: 0,0:22:06.79,0:22:09.58,Default,,0,0,0,,And the apartment belonging\Nto that cell in the pharynx...
+Dialogue: 0,0:22:09.58,0:22:11.83,Default,,0,0,0,,You wouldn't believe what's happened to it!
+Dialogue: 0,0:22:11.83,0:22:12.45,Default,,0,0,0,,Huh?
+Dialogue: 0,0:22:16.33,0:22:20.33,Default,,0,0,0,,Look at this huge pile\Nof missed delivery notices!
+Dialogue: 0,0:22:20.33,0:22:22.37,Default,,0,0,0,,No food for me, then?
+Dialogue: 0,0:22:25.25,0:22:27.50,Default,,0,0,0,,Maybe I'll send him a snack later.
+Dialogue: 0,0:22:27.50,0:22:31.87,Default,,0,0,0,,And we'll do our best to get his nutrients\Ndelivered as soon as possible!
+Dialogue: 0,0:22:31.87,0:22:33.54,Default,,0,0,0,,Right, try and do that, will you?
+Dialogue: 0,0:22:33.54,0:22:36.45,Default,,0,0,0,,Hey, Senpai!
+Dialogue: 0,0:22:36.45,0:22:38.70,Default,,0,0,0,,Time to get back to work!
+Dialogue: 0,0:22:38.70,0:22:41.16,Default,,0,0,0,,Oh, okay!
+Dialogue: 0,0:22:41.16,0:22:42.83,Default,,0,0,0,,All right, White Blood Cell...
+Dialogue: 0,0:22:42.83,0:22:43.91,Default,,0,0,0,,If you'll excuse me...
+Dialogue: 0,0:22:44.87,0:22:47.33,Default,,0,0,0,,Yeah! See ya around!
+Dialogue: 0,0:22:49.12,0:22:52.37,Default,,0,0,0,,All right, Naive Cells, check this out!
+Dialogue: 0,0:22:52.37,0:22:55.62,Default,,0,0,0,,In that moment, my punch will transform into...
+Dialogue: 0,0:22:55.62,0:22:58.58,Default,,0,0,0,,...the T Cell Ultimate Secret Technique!
+Dialogue: 0,0:22:59.58,0:23:03.08,Default,,0,0,0,,Perfavore Cannon Punch!
+Dialogue: 0,0:23:03.41,0:23:05.20,Default,,0,0,0,,Whoops, mangled it a bit!
+Dialogue: 0,0:23:05.20,0:23:07.58,Default,,0,0,0,,That just looks like a regular punch to me.
+Dialogue: 0,0:23:07.58,0:23:08.54,Default,,0,0,0,,I know.
+Dialogue: 0,0:23:08.54,0:23:09.83,Default,,0,0,0,,One more time!
+Dialogue: 0,0:23:09.83,0:23:12.29,Default,,0,0,0,,Parfyorin Can...
+Dialogue: 0,0:23:14.37,0:23:16.87,Default,,0,0,0,,This is the inside of a human body.
+Dialogue: 0,0:23:16.87,0:23:18.45,Default,,0,0,0,,This is the inside of a human body.
+Dialogue: 0,0:23:18.45,0:23:21.62,Default,,0,0,0,,Roughly 37 trillion cells
+Dialogue: 0,0:23:21.62,0:23:26.66,Default,,0,0,0,,are working energetically\Nand with all their might again today.
+Dialogue: 0,0:23:31.37,0:23:32.83,Default,,0,0,0,,Thank you for waiting!
+Dialogue: 0,0:23:32.83,0:23:36.16,Default,,0,0,0,,Here's your oxygen for the day!
