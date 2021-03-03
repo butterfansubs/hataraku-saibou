@@ -47,7 +47,7 @@ Dialogue: 0,0:02:39.72,0:02:44.27,Default,,0,0,0,,{\i1}If that's the case, then 
 Dialogue: 0,0:02:44.27,0:02:46.35,Default,,0,0,0,,{\i1}And that dream... Could it be...
 Dialogue: 0,0:02:47.09,0:02:48.18,Default,,0,0,0,,Memory?
 Dialogue: 0,0:02:48.18,0:02:51.80,Default,,0,0,0,,{\i1}It's not just that I've committed\N all past antigen battles to memory...
-Dialogue: 0,0:02:51.80,0:02:55.15,Default,,0,0,0,,{\i1}...now I have the ability to see the future, too?
+Dialogue: 0,0:02:51.80,0:02:55.15,Default,,0,0,0,,{\i1}Now I have the ability to see the future, too?
 Dialogue: 0,0:02:55.15,0:02:56.99,Default,,0,0,0,,Memory!
 Dialogue: 0,0:02:56.99,0:03:02.41,Default,,0,0,0,,{\i1}If that's true, then when that virus shows up,\N the world will come to an end!
 Dialogue: 0,0:03:03.45,0:03:05.25,Default,,0,0,0,,Do you hear me, Memory?
@@ -214,7 +214,7 @@ Dialogue: 0,0:06:36.54,0:06:38.75,Default,,0,0,0,,Mump!
 Dialogue: 0,0:06:38.75,0:06:40.05,Default,,0,0,0,,Take this!
 Dialogue: 0,0:06:42.05,0:06:43.26,Default,,0,0,0,,Thanks for saving us!
 Dialogue: 0,0:06:43.91,0:06:45.72,Default,,0,0,0,,Will that do?
-Dialogue: 0,0:06:52.93,0:06:57.05,Default,,0,0,0,,I'll go present the antigen to\N the commander helper T cell, then.
+Dialogue: 0,0:06:52.93,0:06:57.05,Default,,0,0,0,,I'll go present the antigen to\N the helper T commander, then.
 Dialogue: 0,0:06:57.05,0:06:59.27,Default,,0,0,0,,Take care, everyone!
 Dialogue: 0,0:06:59.65,0:07:01.58,Default,,0,0,0,,Roger that! We're counting on you!
 Dialogue: 0,0:07:01.58,0:07:02.49,Default,,0,0,0,,Counting on you!
@@ -262,7 +262,7 @@ Dialogue: 0,0:09:46.73,0:09:50.15,Default,,0,0,0,,Self-check, okay. Initiating d
 Dialogue: 0,0:09:52.52,0:09:53.78,Default,,0,0,0,,Target identified.
 Dialogue: 0,0:09:54.24,0:09:57.36,Default,,0,0,0,,Antigens identified. Targets locked-on.
 Dialogue: 0,0:09:59.97,0:10:01.75,Default,,0,0,0,,Energy charge complete.
-Dialogue: 0,0:10:01.75,0:10:04.50,Default,,0,0,0,,Eat this, you dirty virus! This is...
+Dialogue: 0,0:10:01.75,0:10:04.50,Default,,0,0,0,,Eat this, you dirty viruses! This is...
 Dialogue: 0,0:10:06.90,0:10:10.01,Default,,0,0,0,,...the power of acquired immunity!
 Dialogue: 0,0:10:10.57,0:10:12.37,Default,,0,0,0,,{\i1}Acquired immunity.
 Dialogue: 0,0:10:12.37,0:10:17.68,Default,,0,0,0,,{\i1}Immunity acquired by infection or vaccination after birth.
@@ -323,7 +323,7 @@ Dialogue: 0,0:12:57.17,0:13:01.24,Default,,0,0,0,,I never knew you neutrophils w
 Dialogue: 0,0:13:01.80,0:13:03.54,Default,,0,0,0,,If you don't get your act together,
 Dialogue: 0,0:13:03.54,0:13:07.81,Default,,0,0,0,,you and your friends will end up massacred, game over.
 Dialogue: 0,0:13:08.41,0:13:10.02,Default,,0,0,0,,I'm not going to let that happen.
-Dialogue: 0,0:13:10.24,0:13:14.61,Default,,0,0,0,,What's that? You've got a problem?\N You're the one to blame.
+Dialogue: 0,0:13:10.24,0:13:14.61,Default,,0,0,0,,What's that? You've got a problem?\N You're the one at fault here.
 Dialogue: 0,0:13:15.08,0:13:18.67,Default,,0,0,0,,I was only showing some new red blood cells around
 Dialogue: 0,0:13:18.67,0:13:20.01,Default,,0,0,0,,to help them do their jobs.
 Dialogue: 0,0:13:20.01,0:13:23.21,Default,,0,0,0,,That's what I mean! Enough with the handholding!
@@ -334,15 +334,15 @@ Dialogue: 0,0:13:33.37,0:13:34.84,Default,,0,0,0,,What if, even as we speak,
 Dialogue: 0,0:13:35.08,0:13:36.80,Default,,0,0,0,,there were germs on the...
 Dialogue: 0,0:13:38.48,0:13:40.67,Default,,0,0,0,,...attack.
 Dialogue: 0,0:13:43.16,0:13:46.10,Default,,0,0,0,,This isn't the usual colony of intestinal bacteria!
-Dialogue: 0,0:13:46.39,0:13:49.42,Default,,0,0,0,,We're being attacked by every last germ in these nutrients!
-Dialogue: 0,0:13:50.77,0:13:55.48,Default,,0,0,0,,This is No. 1146! Bacteria that multiplied\N in the small intestine at D6-18 has landed!
+Dialogue: 0,0:13:46.39,0:13:49.42,Default,,0,0,0,,We're being attacked by every \Nlast germ in this digestive fluid!
+Dialogue: 0,0:13:50.77,0:13:55.48,Default,,0,0,0,,This is No. 1146! Bacteria that multiplied\N in the small intestine at D6-18 have landed!
 Dialogue: 0,0:13:55.48,0:14:00.23,Default,,0,0,0,,The surrounding tissue is being destroyed! Requesting immediate backup!
 Dialogue: 0,0:14:00.23,0:14:01.03,Default,,0,0,0,,Killer T...
 Dialogue: 0,0:14:01.03,0:14:01.57,Default,,0,0,0,,Huh?
 Dialogue: 0,0:14:01.97,0:14:04.12,Default,,0,0,0,,We'll pick this up again later.
 Dialogue: 0,0:14:04.12,0:14:06.78,Default,,0,0,0,,Give us a hand if it comes to that.
 Dialogue: 0,0:14:06.78,0:14:07.44,Default,,0,0,0,,Right.
-Dialogue: 0,0:14:10.32,0:14:13.97,Default,,0,0,0,,The toxic gas from that bacteria\N is endangering the surrounding cells!
+Dialogue: 0,0:14:10.32,0:14:13.97,Default,,0,0,0,,The toxic gas from those bacteria\N is endangering the surrounding cells!
 Dialogue: 0,0:14:13.97,0:14:17.31,Default,,0,0,0,,If we don't stop them, it'll generate carcinogenic metabolites!
 Dialogue: 0,0:14:17.31,0:14:19.18,Default,,0,0,0,,We have to eliminate them right away!
 Dialogue: 0,0:14:19.84,0:14:23.09,Default,,0,0,0,,I'd like to see you try it, white blood cell.
@@ -373,8 +373,7 @@ Dialogue: 0,0:15:40.67,0:15:42.87,Default,,0,0,0,,Easy as pie!
 Dialogue: 0,0:15:42.87,0:15:45.72,Default,,0,0,0,,Also, you'll provide us with three meals and a nap per day,
 Dialogue: 0,0:15:45.72,0:15:49.52,Default,,0,0,0,,and prime real estate in a quiet location\N commanding a fine view
 Dialogue: 0,0:15:49.52,0:15:52.31,Default,,0,0,0,,where we can build our own colony!
-Dialogue: 0,0:15:52.60,0:15:55.27,Default,,0,0,0,,We're going to build a paradise of campylobacters,
-Dialogue: 0,0:15:55.27,0:15:58.77,Default,,0,0,0,,by campylobacters, and for campylobacters!
+Dialogue: 0,0:15:52.60,0:15:58.77,Default,,0,0,0,,We're going to build a paradise of campylobacters, \Nby campylobacters, and for campylobacters!
 Dialogue: 0,0:15:59.01,0:16:03.23,Default-Alt,,0,0,0,,{\an8}After which, for the sake of maintaining order in perpetuity and for all eternity...
 Dialogue: 0,0:16:02.38,0:16:03.23,Default,,0,0,0,,Alright, fine.
 Dialogue: 0,0:16:03.23,0:16:05.28,Default,,0,0,0,,We'll accept your terms.
