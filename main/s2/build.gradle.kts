@@ -67,6 +67,7 @@ subs {
     mux {
         // uncomment this line to disable font validation if necessary
         // verifyFonts(false)
+        skipUnusedFonts(true)
 
         title(get("title"))
 
@@ -102,16 +103,12 @@ subs {
             includeExtensions("ttf", "otf")
         }
 
-        if (file(get("OP")).exists()) {
-            attach(get("OPfonts")) {
-                includeExtensions("ttf", "otf")
-            }
+        attach(get("OPfonts")) {
+            includeExtensions("ttf", "otf")
         }
 
-        if (file(get("ED")).exists()) {
-            attach(get("EDfonts")) {
-                includeExtensions("ttf", "otf")
-            }
+        attach(get("EDfonts")) {
+            includeExtensions("ttf", "otf")
         }
 
         out(get("muxfile"))
