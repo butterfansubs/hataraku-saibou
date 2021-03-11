@@ -44,14 +44,18 @@ subs {
 
         from(getList("typesetting"))
 
-        from(get("OP")) {
-            syncSourceLine("sync", EventLineAccessor.EFFECT)
-            syncTargetLine("OP", EventLineAccessor.TEXT)
+        if (getRaw("OP") != "") {
+            from(get("OP")) {
+                syncSourceLine("sync", EventLineAccessor.EFFECT)
+                syncTargetLine("OP", EventLineAccessor.TEXT)
+            }
         }
 
-        from(get("ED")) {
-            syncSourceLine("sync", EventLineAccessor.EFFECT)
-            syncTargetLine("ED", EventLineAccessor.TEXT)
+        if (getRaw("ED") != "") {
+            from(get("ED")) {
+                syncSourceLine("sync", EventLineAccessor.EFFECT)
+                syncTargetLine("ED", EventLineAccessor.TEXT)
+            }
         }
 
         includeProjectGarbage(false)
