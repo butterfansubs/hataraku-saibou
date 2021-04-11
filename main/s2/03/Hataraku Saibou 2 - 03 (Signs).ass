@@ -1731,8 +1731,68 @@ Dialogue: 2,0:00:24.29,0:00:24.33,Signs,,0,0,0,,{=5=84}{\pos(623.29,688.32)\fscx
 Dialogue: 2,0:00:24.33,0:00:24.37,Signs,,0,0,0,,{=5=84}{\pos(623.54,687.99)\fscx100.17\fscy100.17\frz-4.96\fnBiryani SemiBold\fs120\c&HF7FCFB&\blur0.8}Metal Detected
 Dialogue: 2,0:00:24.37,0:00:24.42,Signs,,0,0,0,,{=5=84}{\pos(623.78,687.66)\frz-4.96\fnBiryani SemiBold\fs120\c&HF7FCFB&\blur0.8}Metal Detected
 Comment: 0,0:00:28.47,0:00:36.31,Signs,,0,0,0,,# Histamine Handling Manual #
-Dialogue: 0,0:00:28.47,0:00:29.84,Signs,,0,0,0,,Histamine Handling Manual
-Dialogue: 0,0:00:29.84,0:00:36.31,Signs,,0,0,0,,Histamine Handling Manual
+Dialogue: 0,0:00:28.47,0:00:28.59,Signs,,0,0,0,,{=123}{\an7\pos(1106,888)\c&HC5E0F5&\blur3\p1}m -105 -33 l 122 -10 117 56 -107 47
+Dialogue: 0,0:00:28.59,0:00:29.84,Signs,,0,0,0,,{=123}{\an7\pos(996,874)\c&HC5E0F5&\blur3\p1}m -92 -67 l 110 -64 93 56 -102 38
+Dialogue: 1,0:00:28.47,0:00:28.59,Signs,,0,0,0,,{=1}{\fnFOT-NewCezanne ProN B\b1\blur0.7\c&H040A14&\fax0.02\fs56\frz355.7\pos(1106.32,887.02)}H{\fax0.003}i{\fax-0.015}s{\fax-0.032}t{\fax-0.05}a{\fax-0.067}m{\fax-0.085}i{\fax-0.102}n{\fax-0.12}e
+Dialogue: 1,0:00:28.59,0:00:29.84,Signs,,0,0,0,,{=1}{\fnFOT-NewCezanne ProN B\b1\blur0.7\c&H040A14&\pos(1005.32,831.02)\frz-1.51\fax-0.11\fs56}Histamine
+Dialogue: 1,0:00:28.59,0:00:29.84,Signs,,0,0,0,,{=1}{\fnFOT-NewCezanne ProN B\b1\blur0.7\c&H040A14&\pos(999,878)\frz-1.51\fax-0.11\fs56}Handling
+Dialogue: 0,0:00:29.84,0:00:34.30,Signs,,0,0,0,,{=128}{\an7\pos(749.33,493.53)\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.30,0:00:34.43,Signs,,0,0,0,,{=128}{\an7\pos(750.67,501.29)\fscx99.23\fscy99.23\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.43,0:00:34.47,Signs,,0,0,0,,{=128}{\an7\pos(752.55,508.73)\fscx98.95\fscy98.95\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.47,0:00:34.51,Signs,,0,0,0,,{=128}{\an7\pos(752.56,508.75)\fscx98.95\fscy98.95\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.51,0:00:34.55,Signs,,0,0,0,,{=128}{\an7\pos(752.57,508.76)\fscx98.92\fscy98.92\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.55,0:00:34.59,Signs,,0,0,0,,{=128}{\an7\pos(756.05,523.45)\fscx99\fscy99\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.59,0:00:34.63,Signs,,0,0,0,,{=128}{\an7\pos(756.05,523.46)\fscx98.97\fscy98.97\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.63,0:00:34.68,Signs,,0,0,0,,{=128}{\an7\pos(756.05,523.46)\fscx98.91\fscy98.91\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.68,0:00:34.72,Signs,,0,0,0,,{=128}{\an7\pos(760.23,538.65)\fscx100.22\fscy100.22\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.72,0:00:34.80,Signs,,0,0,0,,{=128}{\an7\pos(760.24,538.64)\fscx100.25\fscy100.25\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.80,0:00:34.84,Signs,,0,0,0,,{=128}{\an7\pos(762.8,545.6)\fscx101.5\fscy101.5\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.84,0:00:34.88,Signs,,0,0,0,,{=128}{\an7\pos(762.79,545.6)\fscx101.44\fscy101.44\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.88,0:00:34.93,Signs,,0,0,0,,{=128}{\an7\pos(762.8,545.61)\fscx101.43\fscy101.43\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 0,0:00:34.93,0:00:36.30,Signs,,0,0,0,,{=128}{\an7\pos(763.64,553.6)\fscx102.89\fscy102.89\c&HDBEFFD&\blur1\p1}m -30 -27 l -35 18 37 29 42 -17
+Dialogue: 1,0:00:29.84,0:00:34.30,Signs,,0,0,0,,{=5=127}{\pos(752.75,479.73)\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:34.30,0:00:34.43,Signs,,0,0,0,,{=5=127}{\pos(754.06,487.6)\fscx99.23\fscy99.23\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:34.43,0:00:34.51,Signs,,0,0,0,,{=5=127}{\pos(755.94,495.08)\fscx98.95\fscy98.95\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:34.51,0:00:34.55,Signs,,0,0,0,,{=5=127}{\pos(755.95,495.11)\fscx98.92\fscy98.92\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:34.55,0:00:34.59,Signs,,0,0,0,,{=5=127}{\pos(759.44,509.79)\fscx99\fscy99\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:34.59,0:00:34.63,Signs,,0,0,0,,{=5=127}{\pos(759.43,509.81)\fscx98.97\fscy98.97\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:34.63,0:00:34.68,Signs,,0,0,0,,{=5=127}{\pos(759.43,509.81)\fscx98.91\fscy98.91\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:34.68,0:00:34.72,Signs,,0,0,0,,{=5=127}{\pos(763.65,524.82)\fscx100.22\fscy100.22\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:34.72,0:00:34.80,Signs,,0,0,0,,{=5=127}{\pos(763.67,524.81)\fscx100.25\fscy100.25\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:34.80,0:00:34.84,Signs,,0,0,0,,{=5=127}{\pos(766.27,531.59)\fscx101.5\fscy101.5\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:34.84,0:00:34.88,Signs,,0,0,0,,{=5=127}{\pos(766.26,531.6)\fscx101.44\fscy101.44\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:34.88,0:00:34.93,Signs,,0,0,0,,{=5=127}{\pos(766.27,531.61)\fscx101.43\fscy101.43\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:34.93,0:00:36.30,Signs,,0,0,0,,{=5=127}{\pos(767.16,539.4)\fscx102.89\fscy102.89\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Histamine
+Dialogue: 1,0:00:29.84,0:00:34.30,Signs,,0,0,0,,{=5=126}{\pos(751.33,494.53)\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.30,0:00:34.34,Signs,,0,0,0,,{=5=126}{\pos(752.65,502.28)\fscx99.23\fscy99.23\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.34,0:00:34.38,Signs,,0,0,0,,{=5=126}{\pos(752.66,502.28)\fscx99.22\fscy99.22\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.38,0:00:34.43,Signs,,0,0,0,,{=5=126}{\pos(752.65,502.29)\fscx99.23\fscy99.23\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.43,0:00:34.51,Signs,,0,0,0,,{=5=126}{\pos(754.53,509.72)\fscx98.95\fscy98.95\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.51,0:00:34.55,Signs,,0,0,0,,{=5=126}{\pos(754.55,509.75)\fscx98.92\fscy98.92\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.55,0:00:34.59,Signs,,0,0,0,,{=5=126}{\pos(758.03,524.44)\fscx99\fscy99\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.59,0:00:34.63,Signs,,0,0,0,,{=5=126}{\pos(758.03,524.45)\fscx98.97\fscy98.97\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.63,0:00:34.68,Signs,,0,0,0,,{=5=126}{\pos(758.03,524.45)\fscx98.91\fscy98.91\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.68,0:00:34.72,Signs,,0,0,0,,{=5=126}{\pos(762.23,539.65)\fscx100.22\fscy100.22\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.72,0:00:34.80,Signs,,0,0,0,,{=5=126}{\pos(762.24,539.65)\fscx100.25\fscy100.25\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.80,0:00:34.84,Signs,,0,0,0,,{=5=126}{\pos(764.83,546.61)\fscx101.5\fscy101.5\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.84,0:00:34.88,Signs,,0,0,0,,{=5=126}{\pos(764.82,546.62)\fscx101.44\fscy101.44\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.88,0:00:34.93,Signs,,0,0,0,,{=5=126}{\pos(764.83,546.62)\fscx101.43\fscy101.43\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:34.93,0:00:36.30,Signs,,0,0,0,,{=5=126}{\pos(765.7,554.63)\fscx102.89\fscy102.89\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Handling
+Dialogue: 1,0:00:29.84,0:00:34.30,Signs,,0,0,0,,{=5=125}{\pos(749.91,509.33)\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.30,0:00:34.34,Signs,,0,0,0,,{=5=125}{\pos(751.24,516.97)\fscx99.23\fscy99.23\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.34,0:00:34.38,Signs,,0,0,0,,{=5=125}{\pos(751.25,516.96)\fscx99.22\fscy99.22\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.38,0:00:34.43,Signs,,0,0,0,,{=5=125}{\pos(751.24,516.97)\fscx99.23\fscy99.23\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.43,0:00:34.51,Signs,,0,0,0,,{=5=125}{\pos(753.13,524.37)\fscx98.95\fscy98.95\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.51,0:00:34.55,Signs,,0,0,0,,{=5=125}{\pos(753.14,524.39)\fscx98.92\fscy98.92\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.55,0:00:34.59,Signs,,0,0,0,,{=5=125}{\pos(756.62,539.09)\fscx99\fscy99\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.59,0:00:34.63,Signs,,0,0,0,,{=5=125}{\pos(756.62,539.1)\fscx98.97\fscy98.97\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.63,0:00:34.68,Signs,,0,0,0,,{=5=125}{\pos(756.62,539.09)\fscx98.91\fscy98.91\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.68,0:00:34.72,Signs,,0,0,0,,{=5=125}{\pos(760.81,554.48)\fscx100.22\fscy100.22\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.72,0:00:34.80,Signs,,0,0,0,,{=5=125}{\pos(760.82,554.48)\fscx100.25\fscy100.25\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.80,0:00:34.84,Signs,,0,0,0,,{=5=125}{\pos(763.39,561.64)\fscx101.5\fscy101.5\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.84,0:00:34.88,Signs,,0,0,0,,{=5=125}{\pos(763.38,561.63)\fscx101.44\fscy101.44\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.88,0:00:34.93,Signs,,0,0,0,,{=5=125}{\pos(763.38,561.63)\fscx101.43\fscy101.43\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
+Dialogue: 1,0:00:34.93,0:00:36.30,Signs,,0,0,0,,{=5=125}{\pos(764.24,569.86)\fscx102.89\fscy102.89\frz350.7\fax0.06\fnFOT-NewCezanne ProN B\fs18\b1\c&H040A14&\blur0.8}Manual
 Comment: 0,0:00:38.14,0:00:45.19,Signs,,0,0,0,,# Glucose vending machine #
 Dialogue: 0,0:00:38.14,0:00:45.19,Signs,,0,0,0,,Glucose
 Dialogue: 0,0:07:00.11,0:07:02.32,Signs,,0,0,0,,# Telophase rental ad #
@@ -1790,3 +1850,8 @@ Data: 119,a-mo,e{"uuid"#3A"e55b9d3e-1615-4912-8a7b-0282a2d31582"#2C"originalText
 Data: 120,a-mo,e{"uuid"#3A"0f0b7fd2-5ef9-4cc6-bf07-b36ca8af92cb"#2C"originalText"#3A"{\\clip(384.00#2C599.00#2C392.00#2C744.00)\\pos(623.78#2C687.66)\\an7\\blur3\\p1\\c&HF46C0A&}m -257 -83 l -164 -77 270 -33 263 51 -9 29 -189 14 -265 6"}
 Data: 121,a-mo,e{"uuid"#3A"0f5eade5-3943-4513-b4f0-4227e58ef868"#2C"originalText"#3A"{\\clip(373.00#2C599.00#2C384.00#2C744.00)\\pos(623.78#2C687.66)\\an7\\blur3\\p1\\c&HF46B0A&}m -257 -83 l -164 -77 270 -33 263 51 -9 29 -189 14 -265 6"}
 Data: 122,a-mo,e{"uuid"#3A"afab4ac1-2415-4bf5-83ee-74b9a5bb951f"#2C"originalText"#3A"{\\clip(353.00#2C599.00#2C373.00#2C744.00)\\pos(623.78#2C687.66)\\an7\\blur3\\p1\\c&HF46B09&}m -257 -83 l -164 -77 270 -33 263 51 -9 29 -189 14 -265 6"}
+Data: 123,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A1}
+Data: 125,a-mo,e{"uuid"#3A"7baa8f92-2cc8-4d53-9609-39aa70c05535"#2C"originalText"#3A"{\\fnFOT-NewCezanne ProN B\\b1\\blur0.8\\c&H040A14&\\fs18\\frz350.7\\pos(749.91#2C509.33)\\fax0.06}Manual"}
+Data: 126,a-mo,e{"uuid"#3A"7fe792c7-5d9f-485d-9078-d7b80aece04d"#2C"originalText"#3A"{\\fnFOT-NewCezanne ProN B\\b1\\blur0.8\\c&H040A14&\\fs18\\frz350.7\\pos(751.33#2C494.53)\\fax0.06}Handling"}
+Data: 127,a-mo,e{"uuid"#3A"070d63a2-aa95-45ec-86d5-5d22d9562562"#2C"originalText"#3A"{\\fnFOT-NewCezanne ProN B\\b1\\blur0.8\\c&H040A14&\\fs18\\frz350.7\\pos(752.75#2C479.73)\\fax0.06}Histamine"}
+Data: 128,a-mo,e{"uuid"#3A"6f464704-aac4-4a93-99c4-af5cac697d64"#2C"originalText"#3A"{\\an7\\blur1\\bord0\\shad0\\fscx100\\fscy100\\pos(749.33#2C493.53)\\p1\\c&HDBEFFD&}m -30 -27 l -35 18 37 29 42 -17"}
