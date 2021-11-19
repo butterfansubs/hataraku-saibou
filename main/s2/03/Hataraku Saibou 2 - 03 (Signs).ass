@@ -27,6 +27,30 @@ Style: Signs - Eyecatch,Yaldevi Colombo SemiBold,50,&H00DF8A01,&H00002EFF,&H00FF
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Infoboxes ==
+Comment: 2,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,# RED BLOOD CELLS #
+Dialogue: 4,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,{\blur1\p1\pos(79.7,743.058)}m -28 0 l 572 0 572 226 -28 226 m -25 3 l -25 223 569 223 569 3
+Dialogue: 5,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,{\c&HFFFFFF&\1a&H80&\blur1\p1\pos(79.7,743.058)}m -25 0 l 569 0 569 220 -25 220
+Dialogue: 6,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,{\an1\b1\blur0.7\pos(79.6,700.517)}RED BLOOD CELL
+Dialogue: 6,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,{\an1\fs45\blur0.7\pos(79.6,745.517)}Her red color is due to haemoglobin.
+Dialogue: 6,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,{\an1\fs45\blur0.7\pos(79.6,790.517)}She transports oxygen and carbon
+Dialogue: 6,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,{\an1\fs45\blur0.7\pos(79.6,835.517)}dioxide around the body.
+Comment: 2,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,# MAST CELL #
+Dialogue: 0,0:00:24.55,0:00:29.84,Signs - Infobox,,0,0,0,,{\blur1\p1\pos(85.183,690.35)}m -28 0 l 636 0 636 361 -28 361 m -25 3 l -25 358 633 358 633 3
+Dialogue: 1,0:00:24.55,0:00:29.84,Signs - Infobox,,0,0,0,,{\c&HFFFFFF&\1a&H80&\blur1\p1\pos(85.183,690.35)}m -25 0 l 633 0 633 355 -25 355
+Dialogue: 2,0:00:24.55,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\b1\blur0.7\pos(84.783,580.108)}MAST CELL (MASTOCYTE)
+Dialogue: 2,0:00:24.55,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\fs45\blur0.7\pos(84.783,625.108)}It secrets chemical transmitters like
+Dialogue: 2,0:00:24.55,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\fs45\blur0.7\pos(84.783,670.108)}histamine and leukotriene in response to
+Dialogue: 2,0:00:24.55,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\fs45\blur0.7\pos(84.783,715.108)}stimulus from an over-production of
+Dialogue: 2,0:00:24.55,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\fs45\blur0.7\pos(84.783,760.108)}immunoglobulin E. Although unrelated,
+Dialogue: 2,0:00:24.55,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\fs45\blur0.7\pos(84.783,805.108)}"mast" comes from the same
+Dialogue: 2,0:00:24.55,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\fs45\blur0.7\pos(84.783,850.108)}German word as "fattening."
+Comment: 2,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,# WHITE BLOOD CELL #
+Dialogue: 2,0:01:03.84,0:01:07.26,Signs - Infobox,,0,0,0,,{\blur1\p1\pos(888.408,746.883)}m -28 0 l 635 0 635 226 -28 226 m -25 3 l -25 223 632 223 632 3
+Dialogue: 3,0:01:03.84,0:01:07.26,Signs - Infobox,,0,0,0,,{\c&HFFFFFF&\1a&H80&\blur1\p1\pos(888.408,746.883)}m -25 0 l 632 0 632 220 -25 220
+Dialogue: 4,0:01:03.84,0:01:07.26,Signs - Infobox,,0,0,0,,{\an1\b1\blur0.7\pos(887.9,704.217)}WHITE BLOOD CELL (NEUTROPHIL)
+Dialogue: 4,0:01:03.84,0:01:07.26,Signs - Infobox,,0,0,0,,{\an1\fs45\blur0.7\pos(887.9,749.217)}His main job is to destroy foreign
+Dialogue: 4,0:01:03.84,0:01:07.26,Signs - Infobox,,0,0,0,,{\an1\fs45\blur0.7\pos(887.9,794.217)}substances that enter the body from
+Dialogue: 4,0:01:03.84,0:01:07.26,Signs - Infobox,,0,0,0,,{\an1\fs45\blur0.7\pos(887.9,839.217)}the outside, such as bacteria and viruses.
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Titles ==
 Comment: 0,0:02:45.02,0:02:49.98,Signs,,0,0,0,,# Episode Title #
 Dialogue: 0,0:02:45.02,0:02:49.98,Signs,,0,0,0,,{\pos(1263.56,711.16)\fnRodinPro-EB\fs65\bord3.5\3c&HFFFFFF&\blur0.7\fad(0,1000)\t(3960,4300,\1a&HFF&)}Chapter 3
