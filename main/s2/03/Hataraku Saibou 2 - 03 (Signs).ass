@@ -16,8 +16,8 @@ Audio File: Hataraku Saibou 2 - 03 (Premux).mkv
 Video File: Hataraku Saibou 2 - 03 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 11947
-Active Line: 11985
+Scroll Position: 1765
+Active Line: 1808
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1836,7 +1836,306 @@ Dialogue: 0,0:00:43.57,0:00:45.19,Signs,,0,0,0,,{\an7\pos(596.88,616.96)\c&HEDF8
 Dialogue: 1,0:00:43.57,0:00:45.19,Signs,,0,0,0,,{\fnFOT-Skip Std B-En\blur0.8\bord1\b1\i1\fs45\3c&H93A793&\c&H617861&\pos(594.88,616.96)\iclip(m 543.43 593.14 b 533.56 623.76 538.13 628.54 545.81 632.31 549.26 634.46 549.67 639.61 549.49 644.46 l 519.47 645.87 518.67 592.27)}Glucose
 Dialogue: 2,0:00:43.57,0:00:45.19,Signs,,0,0,0,,{\fnFOT-Skip Std B-En\blur0.8\bord0\b1\i1\fs45\c&HBCCFB6&\pos(594.88,616.96)\4a&HFF&\iclip(m 543.43 593.14 b 533.56 623.76 538.13 628.54 545.81 632.31 549.26 634.46 549.67 639.61 549.49 644.46 l 519.47 645.87 518.67 592.27)}G{\c&HBBD4BE&}l{\c&HBBD9C7&}u{\c&HBADED0&}c{\c&HBAE3D9&}o{\c&HB9E8E2&}s{\c&HB9EDEB&}e
 Comment: 0,0:07:00.11,0:07:02.32,Signs,,0,0,0,,# Telophase rental ad #
-Dialogue: 0,0:07:00.11,0:07:02.32,Signs,,0,0,0,,2 Rooms + Kitchen{green, left}\N Units Available{red}\NTelophase can be the start of your new life!{*manga has "2 ROOMS + KITCHEN / UNITS AVAILABLE / Your new life begins at telophase!"}
+Comment: 0,0:07:00.11,0:07:02.32,Signs,,0,0,0,,# 2 Rooms + Kitchen{green, left}\N Units Available{red}\NTelophase can be the start of your new life! {*manga has "2 ROOMS + KITCHEN / UNITS AVAILABLE / Your new life begins at telophase!"} #
+Dialogue: 0,0:07:00.10,0:07:00.14,Signs,,0,0,0,,{\fscy100\alpha&H00&\pos(805.65,431.56)\fscx110\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H2F8F05&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.14,0:07:00.19,Signs,,0,0,0,,{\fscy99.94\alpha&H00&\pos(811.08,425)\fscx109.94\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H69AC49&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.19,0:07:00.23,Signs,,0,0,0,,{\fscy99.96\alpha&H00&\pos(816.82,426.96)\fscx109.96\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H4EA02B&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.23,0:07:00.27,Signs,,0,0,0,,{\fscy99.99\alpha&H00&\pos(824.12,422.1)\fscx109.99\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H92BF7B&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.27,0:07:00.31,Signs,,0,0,0,,{\fscy100.02\alpha&H00&\pos(831.67,423.83)\fscx110.03\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H73B458&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.31,0:07:00.35,Signs,,0,0,0,,{\fscy99.91\alpha&H00&\pos(838.11,420.69)\fscx109.9\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H4FA12E&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.35,0:07:00.39,Signs,,0,0,0,,{\fscy99.82\alpha&H00&\pos(846.56,423.96)\fscx109.8\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H2F8F05&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.39,0:07:00.44,Signs,,0,0,0,,{\fscy99.8\alpha&H00&\pos(854.52,421.97)\fscx109.78\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H2F8F05&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.44,0:07:00.48,Signs,,0,0,0,,{\fscy99.74\alpha&H00&\pos(857.44,427.68)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&HAFD29A&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.48,0:07:00.52,Signs,,0,0,0,,{\fscy99.72\alpha&H00&\pos(858.47,427.45)\fscx109.69\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H73BF49&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.52,0:07:00.56,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(860.44,432.69)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H94C27E&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.56,0:07:00.60,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(862.8,431.63)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H8BBA73&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.60,0:07:00.65,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(865.56,438.71)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H88BE6E&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.65,0:07:00.69,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(867.6,435.72)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&HA8CE8C&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.69,0:07:00.73,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(868.67,439.57)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H8ACA67&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.73,0:07:00.77,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(869.99,436.01)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H7AB262&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.77,0:07:00.81,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(872.19,439.28)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H66AF41&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.81,0:07:00.85,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(876.86,436.68)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H9AC97F&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.85,0:07:00.90,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(882.58,440.2)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&HB4D6A0&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.90,0:07:00.94,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(888.36,436.59)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H318A1D&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.94,0:07:00.98,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(893.54,438.7)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H7ABC62&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:00.98,0:07:01.02,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(899.25,435.05)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H64B244&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.02,0:07:01.06,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(903.58,439.09)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H83BA77&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.06,0:07:01.10,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(907.89,434.9)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H2F8F05&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.10,0:07:01.15,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(913.24,438.75)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H2F8F05&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.15,0:07:01.19,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(918.73,433.94)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H60A64D&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.19,0:07:01.23,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(917.9,434.69)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H5EAB4B&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.23,0:07:01.27,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(916.67,426.92)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H2F8F05&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.27,0:07:01.31,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(917.13,427.48)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H2F8F05&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.31,0:07:01.35,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(917.7,425.23)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H64A94E&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.35,0:07:01.40,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(920.3,429.34)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H5EA349&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.40,0:07:01.44,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(923.27,428.76)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H62A74F&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.44,0:07:01.48,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(926.79,433.11)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&HB5D6A1&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.48,0:07:01.52,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(930.48,432.03)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&HA2D288&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.52,0:07:01.56,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(933.66,438.06)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&HB0D5AC&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.56,0:07:01.60,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(938.08,434.58)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H89BD66&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.60,0:07:01.65,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(945.21,434.16)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H8FC06D&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.65,0:07:01.69,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(954.46,426.34)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&HA8D38B&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.69,0:07:01.73,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(959.82,424.57)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H9FCE7B&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.73,0:07:01.77,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(964.47,416.83)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H8EBE80&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.77,0:07:01.81,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(966.7,417.07)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H83B864&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.81,0:07:01.85,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(968.73,414.16)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H83B864&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.85,0:07:01.90,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(970.93,417.72)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H6BA44A&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.90,0:07:01.94,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(973.02,416.51)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H2F8F05&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.94,0:07:01.98,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(975.03,421.59)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H98C188&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:01.98,0:07:02.02,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(977.2,417.79)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H83C269&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:02.02,0:07:02.06,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(981.36,421.55)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&HA1C496&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:02.06,0:07:02.10,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(985.94,418.83)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H86B76C&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:02.10,0:07:02.15,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(989.9,423.63)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H86B76C&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:02.15,0:07:02.19,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(994.05,421.98)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&HA0CC8B&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:02.19,0:07:02.23,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(998.78,424.42)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H61AE3F&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:02.23,0:07:02.27,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(1003.5,422.59)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H2F8F05&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 0,0:07:02.27,0:07:02.31,Signs,,0,0,0,,{\fscy99.75\alpha&H00&\pos(1008.9,426.25)\fscx109.72\frz338.6\fry-19.69\frx-0.95\fax0.36\fs37\c&H2F8F05&\blur0.8}2 Rooms+ Kitchen
+Dialogue: 1,0:07:00.10,0:07:00.14,Signs,,0,0,0,,{\an7\pos(0,0)\blur15\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.14,0:07:00.19,Signs,,0,0,0,,{\an7\pos(5.11,-6.9)\fscx100.01\fscy100.01\blur15\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.19,0:07:00.23,Signs,,0,0,0,,{\an7\pos(10.14,-5.33)\fscx100.08\fscy100.08\blur15.01\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.23,0:07:00.27,Signs,,0,0,0,,{\an7\pos(17.74,-10.07)\fscx100.06\fscy100.06\blur15.01\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.27,0:07:00.31,Signs,,0,0,0,,{\an7\pos(25.32,-8.24)\fscx100.05\fscy100.05\blur15.01\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.31,0:07:00.35,Signs,,0,0,0,,{\an7\pos(31.75,-11.37)\fscx100.05\fscy100.05\blur15.01\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.35,0:07:00.39,Signs,,0,0,0,,{\an7\pos(39.82,-8.34)\fscx100.08\fscy100.08\blur15.01\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.39,0:07:00.44,Signs,,0,0,0,,{\an7\pos(47.95,-10.3)\fscx100.07\fscy100.07\blur15.01\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.44,0:07:00.48,Signs,,0,0,0,,{\an7\pos(51.25,-4.28)\fscx100.03\fscy100.03\blur15\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.48,0:07:00.52,Signs,,0,0,0,,{\an7\pos(49.73,-6.06)\fscx100.28\fscy100.28\blur15.04\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.52,0:07:00.56,Signs,,0,0,0,,{\an7\pos(49.71,-1.93)\fscx100.46\fscy100.46\blur15.07\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.56,0:07:00.60,Signs,,0,0,0,,{\an7\pos(58.29,0.32)\fscx99.9\fscy99.9\blur14.99\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.60,0:07:00.65,Signs,,0,0,0,,{\an7\pos(61.28,7.59)\fscx99.88\fscy99.88\blur14.98\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.65,0:07:00.69,Signs,,0,0,0,,{\an7\pos(62.87,4.14)\fscx99.92\fscy99.92\blur14.99\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.69,0:07:00.73,Signs,,0,0,0,,{\an7\pos(64.12,8.12)\fscx99.9\fscy99.9\blur14.99\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.73,0:07:00.77,Signs,,0,0,0,,{\an7\pos(64.83,4.2)\fscx99.96\fscy99.96\blur14.99\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.77,0:07:00.81,Signs,,0,0,0,,{\an7\pos(67.42,7.64)\fscx99.92\fscy99.92\blur14.99\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.81,0:07:00.85,Signs,,0,0,0,,{\an7\pos(71.94,4.81)\fscx99.94\fscy99.94\blur14.99\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.85,0:07:00.90,Signs,,0,0,0,,{\an7\pos(77.6,8.3)\fscx99.94\fscy99.94\blur14.99\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.90,0:07:00.94,Signs,,0,0,0,,{\an7\pos(83.56,4.82)\fscx99.93\fscy99.93\blur14.99\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.94,0:07:00.98,Signs,,0,0,0,,{\an7\pos(88.21,7.03)\fscx99.96\fscy99.96\blur14.99\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.98,0:07:01.02,Signs,,0,0,0,,{\an7\pos(94.47,3.6)\fscx99.91\fscy99.91\blur14.99\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.02,0:07:01.06,Signs,,0,0,0,,{\an7\pos(98.16,7.29)\fscx99.94\fscy99.94\blur14.99\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.06,0:07:01.10,Signs,,0,0,0,,{\an7\pos(104.26,4.13)\fscx99.78\fscy99.78\blur14.97\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.10,0:07:01.15,Signs,,0,0,0,,{\an7\pos(109.21,7.7)\fscx99.81\fscy99.81\blur14.97\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.15,0:07:01.19,Signs,,0,0,0,,{\an7\pos(114.67,2.7)\fscx99.81\fscy99.81\blur14.97\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.19,0:07:01.23,Signs,,0,0,0,,{\an7\pos(113.72,3.36)\fscx99.83\fscy99.83\blur14.97\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.23,0:07:01.27,Signs,,0,0,0,,{\an7\pos(112.78,-4.26)\fscx99.8\fscy99.8\blur14.97\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.27,0:07:01.31,Signs,,0,0,0,,{\an7\pos(113.14,-3.74)\fscx99.81\fscy99.81\blur14.97\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.31,0:07:01.35,Signs,,0,0,0,,{\an7\pos(113.87,-5.95)\fscx99.8\fscy99.8\blur14.97\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.35,0:07:01.40,Signs,,0,0,0,,{\an7\pos(116.34,-1.96)\fscx99.8\fscy99.8\blur14.97\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.40,0:07:01.44,Signs,,0,0,0,,{\an7\pos(113.15,-5.9)\fscx100.35\fscy100.35\blur15.05\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.44,0:07:01.48,Signs,,0,0,0,,{\an7\pos(118.25,-0.64)\fscx100.2\fscy100.2\blur15.03\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.48,0:07:01.52,Signs,,0,0,0,,{\an7\pos(121.47,-2.11)\fscx100.25\fscy100.25\blur15.04\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.52,0:07:01.56,Signs,,0,0,0,,{\an7\pos(114.97,-1.33)\fscx101.14\fscy101.14\blur15.17\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.56,0:07:01.60,Signs,,0,0,0,,{\an7\pos(119.88,-4.44)\fscx101.1\fscy101.1\blur15.17\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.60,0:07:01.65,Signs,,0,0,0,,{\an7\pos(127.55,-4.63)\fscx101.05\fscy101.05\blur15.16\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.65,0:07:01.69,Signs,,0,0,0,,{\an7\pos(136.52,-12.69)\fscx101.07\fscy101.07\blur15.16\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.69,0:07:01.73,Signs,,0,0,0,,{\an7\pos(141.99,-14.4)\fscx101.06\fscy101.06\blur15.16\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.73,0:07:01.77,Signs,,0,0,0,,{\an7\pos(146.8,-22.18)\fscx101.05\fscy101.05\blur15.16\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.77,0:07:01.81,Signs,,0,0,0,,{\an7\pos(149.25,-21.81)\fscx101.03\fscy101.03\blur15.15\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.81,0:07:01.85,Signs,,0,0,0,,{\an7\pos(151.47,-24.63)\fscx101.01\fscy101.01\blur15.15\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.85,0:07:01.90,Signs,,0,0,0,,{\an7\pos(153.65,-21.06)\fscx101\fscy101\blur15.15\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.90,0:07:01.94,Signs,,0,0,0,,{\an7\pos(155.86,-22.24)\fscx100.99\fscy100.99\blur15.15\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.94,0:07:01.98,Signs,,0,0,0,,{\an7\pos(157.77,-17.21)\fscx100.99\fscy100.99\blur15.15\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:01.98,0:07:02.02,Signs,,0,0,0,,{\an7\pos(160.31,-20.95)\fscx100.96\fscy100.96\blur15.14\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:02.02,0:07:02.06,Signs,,0,0,0,,{\an7\pos(158.78,-20.06)\fscx101.51\fscy101.51\blur15.23\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:02.06,0:07:02.10,Signs,,0,0,0,,{\an7\pos(162.88,-22.87)\fscx101.55\fscy101.55\blur15.23\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:02.10,0:07:02.15,Signs,,0,0,0,,{\an7\pos(166.6,-18.28)\fscx101.58\fscy101.58\blur15.24\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:02.15,0:07:02.19,Signs,,0,0,0,,{\an7\pos(171.15,-19.77)\fscx101.54\fscy101.54\blur15.23\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:02.19,0:07:02.23,Signs,,0,0,0,,{\an7\pos(176.11,-17.23)\fscx101.52\fscy101.52\blur15.23\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:02.23,0:07:02.27,Signs,,0,0,0,,{\an7\pos(181.08,-18.93)\fscx101.49\fscy101.49\blur15.22\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:02.27,0:07:02.31,Signs,,0,0,0,,{\an7\pos(186.25,-15.34)\fscx101.51\fscy101.51\blur15.23\p1}m 692 371 l 867 439 912 495 702 402
+Dialogue: 1,0:07:00.10,0:07:00.14,Signs,,0,0,0,,{\pos(1167.07,590.65)\fscx110\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.14,0:07:00.19,Signs,,0,0,0,,{\pos(1172.31,583.81)\fscx110.01\fscy100.01\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.19,0:07:00.23,Signs,,0,0,0,,{\pos(1178.15,585.8)\fscx110.09\fscy100.08\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H55160E&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.23,0:07:00.27,Signs,,0,0,0,,{\pos(1185.49,580.91)\fscx110.07\fscy100.06\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H7F544F&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.27,0:07:00.31,Signs,,0,0,0,,{\pos(1193.01,582.73)\fscx110.06\fscy100.05\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H7F544F&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.31,0:07:00.35,Signs,,0,0,0,,{\pos(1199.42,579.59)\fscx110.06\fscy100.05\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H744E4F&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.35,0:07:00.39,Signs,,0,0,0,,{\pos(1207.87,582.81)\fscx110.1\fscy100.09\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H754844&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.39,0:07:00.44,Signs,,0,0,0,,{\pos(1215.87,580.78)\fscx110.08\fscy100.07\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H572923&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.44,0:07:00.48,Signs,,0,0,0,,{\pos(1218.63,586.53)\fscx110.03\fscy100.03\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H623936&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.48,0:07:00.52,Signs,,0,0,0,,{\pos(1219.84,586.54)\fscx110.16\fscy100.15\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H633932&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.52,0:07:00.56,Signs,,0,0,0,,{\pos(1222.09,591.41)\fscx110.5\fscy100.45\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H8B6357&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.56,0:07:00.60,Signs,,0,0,0,,{\pos(1224.21,590.38)\fscx109.89\fscy99.9\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H60413C&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.60,0:07:00.65,Signs,,0,0,0,,{\pos(1226.89,597.5)\fscx109.86\fscy99.87\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H593025&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.65,0:07:00.69,Signs,,0,0,0,,{\pos(1228.96,594.29)\fscx109.9\fscy99.91\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H7F534C&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.69,0:07:00.73,Signs,,0,0,0,,{\pos(1230.02,598.17)\fscx109.89\fscy99.9\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H83564F&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.73,0:07:00.77,Signs,,0,0,0,,{\pos(1231.38,594.59)\fscx109.95\fscy99.95\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H875E57&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.77,0:07:00.81,Signs,,0,0,0,,{\pos(1233.59,597.83)\fscx109.91\fscy99.92\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H7E5049&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.81,0:07:00.85,Signs,,0,0,0,,{\pos(1238.29,595.1)\fscx109.93\fscy99.94\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H724740&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.85,0:07:00.90,Signs,,0,0,0,,{\pos(1244,598.62)\fscx109.93\fscy99.94\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H683731&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.90,0:07:00.94,Signs,,0,0,0,,{\pos(1249.77,595.03)\fscx109.92\fscy99.93\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H76473F&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.94,0:07:00.98,Signs,,0,0,0,,{\pos(1254.87,597.46)\fscx109.96\fscy99.97\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H865D56&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.98,0:07:01.02,Signs,,0,0,0,,{\pos(1260.5,593.73)\fscx109.9\fscy99.91\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H75443C&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.02,0:07:01.06,Signs,,0,0,0,,{\pos(1264.54,597.6)\fscx109.93\fscy99.94\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H5E413D&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.06,0:07:01.10,Signs,,0,0,0,,{\pos(1268.72,593.46)\fscx109.75\fscy99.77\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.10,0:07:01.15,Signs,,0,0,0,,{\pos(1274.1,597.24)\fscx109.79\fscy99.81\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.15,0:07:01.19,Signs,,0,0,0,,{\pos(1279.55,592.23)\fscx109.79\fscy99.81\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.19,0:07:01.23,Signs,,0,0,0,,{\pos(1278.76,592.97)\fscx109.81\fscy99.83\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.23,0:07:01.27,Signs,,0,0,0,,{\pos(1277.5,585.2)\fscx109.78\fscy99.8\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.27,0:07:01.31,Signs,,0,0,0,,{\pos(1277.96,585.77)\fscx109.79\fscy99.81\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.31,0:07:01.35,Signs,,0,0,0,,{\pos(1278.6,583.52)\fscx109.78\fscy99.8\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.35,0:07:01.40,Signs,,0,0,0,,{\pos(1281.12,587.53)\fscx109.78\fscy99.8\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.40,0:07:01.44,Signs,,0,0,0,,{\pos(1284.28,586.81)\fscx110.38\fscy100.35\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.44,0:07:01.48,Signs,,0,0,0,,{\pos(1287.66,591.2)\fscx110.22\fscy100.2\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H45201B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.48,0:07:01.52,Signs,,0,0,0,,{\pos(1291.45,590.02)\fscx110.27\fscy100.25\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H55291F&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.52,0:07:01.56,Signs,,0,0,0,,{\pos(1295.38,596.07)\fscx111.25\fscy101.14\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.56,0:07:01.60,Signs,,0,0,0,,{\pos(1299.75,592.69)\fscx111.21\fscy101.1\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H7E5F5E&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.60,0:07:01.65,Signs,,0,0,0,,{\pos(1306.82,592.2)\fscx111.15\fscy101.05\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H6B413B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.65,0:07:01.69,Signs,,0,0,0,,{\pos(1316.04,584.27)\fscx111.17\fscy101.07\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H82584F&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.69,0:07:01.73,Signs,,0,0,0,,{\pos(1321.38,582.5)\fscx111.16\fscy101.05\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H7B5851&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.73,0:07:01.77,Signs,,0,0,0,,{\pos(1326.1,574.66)\fscx111.15\fscy101.05\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H684039&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.77,0:07:01.81,Signs,,0,0,0,,{\pos(1328.3,574.91)\fscx111.13\fscy101.03\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H5D342D&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.81,0:07:01.85,Signs,,0,0,0,,{\pos(1330.34,571.99)\fscx111.11\fscy101.01\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H4B251E&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.85,0:07:01.90,Signs,,0,0,0,,{\pos(1332.45,575.52)\fscx111.11\fscy101.01\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.90,0:07:01.94,Signs,,0,0,0,,{\pos(1334.51,574.27)\fscx111.09\fscy100.99\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.94,0:07:01.98,Signs,,0,0,0,,{\pos(1336.4,579.28)\fscx111.09\fscy100.99\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H5C3128&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:01.98,0:07:02.02,Signs,,0,0,0,,{\pos(1338.58,575.38)\fscx111.06\fscy100.96\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H5C3128&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:02.02,0:07:02.06,Signs,,0,0,0,,{\pos(1343.48,579.51)\fscx111.66\fscy101.51\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H97817E&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:02.06,0:07:02.10,Signs,,0,0,0,,{\pos(1348.04,576.94)\fscx111.71\fscy101.55\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H8C6357&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:02.10,0:07:02.15,Signs,,0,0,0,,{\pos(1352.05,581.67)\fscx111.73\fscy101.57\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H754D45&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:02.15,0:07:02.19,Signs,,0,0,0,,{\pos(1356.17,579.97)\fscx111.69\fscy101.54\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H7B5951&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:02.19,0:07:02.23,Signs,,0,0,0,,{\pos(1360.9,582.39)\fscx111.67\fscy101.52\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:02.23,0:07:02.27,Signs,,0,0,0,,{\pos(1365.55,580.52)\fscx111.64\fscy101.49\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:02.27,0:07:02.31,Signs,,0,0,0,,{\pos(1370.98,584.25)\fscx111.66\fscy101.51\frz-22.47\fry-11.29\fax0.39\fnBiryani SemiBold\fs46\fsp-2\c&H41100B&\blur0.5}Telephase can be the start of your new life!
+Dialogue: 1,0:07:00.10,0:07:00.14,Signs,,0,0,0,,{\pos(1154.62,633.82)\fscx150\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.14,0:07:00.19,Signs,,0,0,0,,{\pos(1159.86,626.99)\fscx150.02\fscy100.01\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.19,0:07:00.23,Signs,,0,0,0,,{\pos(1165.69,629)\fscx150.12\fscy100.08\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.23,0:07:00.27,Signs,,0,0,0,,{\pos(1173.03,624.11)\fscx150.09\fscy100.06\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.27,0:07:00.31,Signs,,0,0,0,,{\pos(1180.55,625.92)\fscx150.08\fscy100.05\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.31,0:07:00.35,Signs,,0,0,0,,{\pos(1186.96,622.78)\fscx150.08\fscy100.05\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.35,0:07:00.39,Signs,,0,0,0,,{\pos(1195.41,626.02)\fscx150.13\fscy100.08\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.39,0:07:00.44,Signs,,0,0,0,,{\pos(1203.41,623.98)\fscx150.11\fscy100.07\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.44,0:07:00.48,Signs,,0,0,0,,{\pos(1206.18,629.71)\fscx150.04\fscy100.03\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.48,0:07:00.52,Signs,,0,0,0,,{\pos(1207.56,629.53)\fscx150.42\fscy100.28\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.52,0:07:00.56,Signs,,0,0,0,,{\pos(1209.58,634.78)\fscx150.68\fscy100.46\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.56,0:07:00.60,Signs,,0,0,0,,{\pos(1211.77,633.51)\fscx149.85\fscy99.9\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.60,0:07:00.65,Signs,,0,0,0,,{\pos(1214.46,640.62)\fscx149.81\fscy99.88\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.65,0:07:00.69,Signs,,0,0,0,,{\pos(1216.52,637.42)\fscx149.87\fscy99.92\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.69,0:07:00.73,Signs,,0,0,0,,{\pos(1217.58,641.3)\fscx149.85\fscy99.9\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.73,0:07:00.77,Signs,,0,0,0,,{\pos(1218.94,637.74)\fscx149.93\fscy99.96\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.77,0:07:00.81,Signs,,0,0,0,,{\pos(1221.15,640.97)\fscx149.88\fscy99.92\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.81,0:07:00.85,Signs,,0,0,0,,{\pos(1225.85,638.24)\fscx149.91\fscy99.94\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.85,0:07:00.90,Signs,,0,0,0,,{\pos(1231.56,641.76)\fscx149.91\fscy99.94\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.90,0:07:00.94,Signs,,0,0,0,,{\pos(1237.33,638.17)\fscx149.89\fscy99.93\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.94,0:07:00.98,Signs,,0,0,0,,{\pos(1242.42,640.62)\fscx149.95\fscy99.96\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:00.98,0:07:01.02,Signs,,0,0,0,,{\pos(1248.06,636.86)\fscx149.87\fscy99.91\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.02,0:07:01.06,Signs,,0,0,0,,{\pos(1252.1,640.74)\fscx149.91\fscy99.94\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.06,0:07:01.10,Signs,,0,0,0,,{\pos(1256.3,636.53)\fscx149.66\fscy99.78\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.10,0:07:01.15,Signs,,0,0,0,,{\pos(1261.67,640.33)\fscx149.72\fscy99.81\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.15,0:07:01.19,Signs,,0,0,0,,{\pos(1267.12,635.32)\fscx149.72\fscy99.81\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.19,0:07:01.23,Signs,,0,0,0,,{\pos(1266.33,636.07)\fscx149.74\fscy99.83\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.23,0:07:01.27,Signs,,0,0,0,,{\pos(1265.07,628.28)\fscx149.7\fscy99.8\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.27,0:07:01.31,Signs,,0,0,0,,{\pos(1265.53,628.86)\fscx149.71\fscy99.81\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.31,0:07:01.35,Signs,,0,0,0,,{\pos(1266.17,626.6)\fscx149.7\fscy99.8\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.35,0:07:01.40,Signs,,0,0,0,,{\pos(1268.69,630.61)\fscx149.7\fscy99.8\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.40,0:07:01.44,Signs,,0,0,0,,{\pos(1271.79,630.13)\fscx150.52\fscy100.35\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.44,0:07:01.48,Signs,,0,0,0,,{\pos(1275.19,634.46)\fscx150.3\fscy100.2\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.48,0:07:01.52,Signs,,0,0,0,,{\pos(1278.97,633.3)\fscx150.37\fscy100.25\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.52,0:07:01.56,Signs,,0,0,0,,{\pos(1282.79,639.73)\fscx151.71\fscy101.14\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.56,0:07:01.60,Signs,,0,0,0,,{\pos(1287.16,636.33)\fscx151.65\fscy101.1\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.60,0:07:01.65,Signs,,0,0,0,,{\pos(1294.24,635.82)\fscx151.57\fscy101.05\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.65,0:07:01.69,Signs,,0,0,0,,{\pos(1303.46,627.9)\fscx151.6\fscy101.07\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.69,0:07:01.73,Signs,,0,0,0,,{\pos(1308.8,626.12)\fscx151.58\fscy101.06\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.73,0:07:01.77,Signs,,0,0,0,,{\pos(1313.52,618.28)\fscx151.57\fscy101.05\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.77,0:07:01.81,Signs,,0,0,0,,{\pos(1315.72,618.52)\fscx151.54\fscy101.03\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.81,0:07:01.85,Signs,,0,0,0,,{\pos(1317.76,615.6)\fscx151.52\fscy101.01\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.85,0:07:01.90,Signs,,0,0,0,,{\pos(1319.87,619.12)\fscx151.51\fscy101\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.90,0:07:01.94,Signs,,0,0,0,,{\pos(1321.94,617.87)\fscx151.49\fscy100.99\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.94,0:07:01.98,Signs,,0,0,0,,{\pos(1323.83,622.88)\fscx151.49\fscy100.99\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:01.98,0:07:02.02,Signs,,0,0,0,,{\pos(1326.01,618.96)\fscx151.44\fscy100.96\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:02.02,0:07:02.06,Signs,,0,0,0,,{\pos(1330.84,623.33)\fscx152.27\fscy101.51\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:02.06,0:07:02.10,Signs,,0,0,0,,{\pos(1335.4,620.78)\fscx152.33\fscy101.55\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:02.10,0:07:02.15,Signs,,0,0,0,,{\pos(1339.4,625.52)\fscx152.36\fscy101.58\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:02.15,0:07:02.19,Signs,,0,0,0,,{\pos(1343.53,623.8)\fscx152.31\fscy101.54\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:02.19,0:07:02.23,Signs,,0,0,0,,{\pos(1348.26,626.22)\fscx152.28\fscy101.52\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:02.23,0:07:02.27,Signs,,0,0,0,,{\pos(1352.91,624.33)\fscx152.24\fscy101.49\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 1,0:07:02.27,0:07:02.31,Signs,,0,0,0,,{\pos(1358.34,628.07)\fscx152.27\fscy101.51\frz336.1\fry-11.94\fax0.29\fnBiryani SemiBold\fs87\fsp-2\c&HE9F0F2&\blur1}Units Available
+Dialogue: 0,0:07:00.10,0:07:00.14,Signs,,0,0,0,,{\an7\pos(0,0)\c&H0404F9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.14,0:07:00.19,Signs,,0,0,0,,{\an7\pos(5.11,-6.9)\fscx100.01\fscy100.01\c&H0404F9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:00.15,0:07:00.48,Signs,,0,0,0,,{\pos(959.65,578.48)\bord25\3c&HFFFFFF&\1a&HFF&\blur25\clip(m 966.11 479.78 l 966.53 559.75 1133.46 638.81 1140.43 551.16)}A
+Dialogue: 0,0:07:00.19,0:07:00.23,Signs,,0,0,0,,{\an7\pos(10.14,-5.33)\fscx100.08\fscy100.08\c&H292AFC&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.23,0:07:00.27,Signs,,0,0,0,,{\an7\pos(17.74,-10.07)\fscx100.06\fscy100.06\c&H494FF9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.27,0:07:00.31,Signs,,0,0,0,,{\an7\pos(25.32,-8.24)\fscx100.05\fscy100.05\c&H3B3DFE&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.31,0:07:00.35,Signs,,0,0,0,,{\an7\pos(31.75,-11.37)\fscx100.05\fscy100.05\c&H3134FA&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.35,0:07:00.39,Signs,,0,0,0,,{\an7\pos(39.82,-8.34)\fscx100.08\fscy100.08\c&H3A3DFA&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.39,0:07:00.44,Signs,,0,0,0,,{\an7\pos(47.95,-10.3)\fscx100.07\fscy100.07\c&H1D20F4&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.44,0:07:00.48,Signs,,0,0,0,,{\an7\pos(51.25,-3.24)\fscx100.03\fscy100.03\c&H2521FC&\blur2\iclip(m 1146.27 621.84 b 1145.47 620.67 1145.95 619.42 1146.97 618.62 1154.66 623.77 1168.21 619.82 1164.92 625.53 1166.12 627.6 1164.3 629.95 1163.2 630.7)\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:00.44,0:07:00.48,Signs,,0,0,0,,{\pos(1021.09,591.76)\bord25\3c&HFFFFFF&\1a&HFF&\blur25\clip(m 1016.12 481.31 l 1012.61 561.75 1135.95 620.54 1141.95 533.68)}A
+Dialogue: 0,0:07:00.48,0:07:00.52,Signs,,0,0,0,,{\an7\pos(49.73,-6.06)\fscx100.28\fscy100.28\c&H221BFF&\blur0.84\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:00.48,0:07:00.52,Signs,,0,0,0,,{\pos(998.87,532.52)\bord100\3c&HFFFFFF&\blur100\clip(m 1018.15 473.42 l 1088.37 501.79 1087.95 508.08 b 1076.04 521.2 1102.04 525.6 1093.55 509.22 l 1094.92 504.44 1235.62 561.29 1230.24 664.23 1016.36 561.79)}A
+Dialogue: 0,0:07:00.52,0:07:00.56,Signs,,0,0,0,,{\an7\pos(49.71,-1.93)\fscx100.46\fscy100.46\c&H2D2DFE&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:00.52,0:07:00.56,Signs,,0,0,0,,{\an7\pos(0,0)\blur20\p1}m 1014 558 l 1517 795 1516 803 1014 567
+Dialogue: 2,0:07:00.52,0:07:00.56,Signs,,0,0,0,,{\an7\pos(0,0)\blur20\p1}m 1014 558 l 1517 795 1516 803 1014 567
+Dialogue: 2,0:07:00.52,0:07:00.56,Signs,,0,0,0,,{\an7\pos(0,0)\blur20\p1}m 1014 558 l 1517 795 1516 803 1014 567
+Dialogue: 0,0:07:00.56,0:07:00.60,Signs,,0,0,0,,{\an7\pos(58.29,0.32)\fscx99.9\fscy99.9\c&H2625FA&\blur2\iclip(m 1317.47 637.5 l 1316.89 643.85 b 1321.61 647.64 1332.18 651.39 1335.55 651.73 l 1336.89 645.77)\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.60,0:07:00.65,Signs,,0,0,0,,{\an7\pos(61.28,7.59)\fscx99.88\fscy99.88\c&H3236FC&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.65,0:07:00.69,Signs,,0,0,0,,{\an7\pos(62.87,4.14)\fscx99.92\fscy99.92\c&H3D3EFA&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:00.65,0:07:00.69,Signs,,0,0,0,,{\pos(1030.27,598.55)\bord25\3c&HFFFFFF&\1a&HFF&\blur25\clip(m 1024.81 486.26 l 1024.39 568.58 1136.79 623.34 1140.93 537.23)}A
+Dialogue: 0,0:07:00.69,0:07:00.73,Signs,,0,0,0,,{\an7\pos(64.12,8.12)\fscx99.9\fscy99.9\c&H4144FC&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.73,0:07:00.77,Signs,,0,0,0,,{\an7\pos(64.83,4.2)\fscx99.96\fscy99.96\c&H4645FF&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.77,0:07:00.81,Signs,,0,0,0,,{\an7\pos(67.42,7.64)\fscx99.92\fscy99.92\c&H403FF6&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.81,0:07:00.85,Signs,,0,0,0,,{\an7\pos(71.94,4.81)\fscx99.94\fscy99.94\c&H302FFC&\blur2\iclip(m 1373 677 l 1396 683 1398 674 1375 670)\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.81,0:07:00.85,Signs,,0,0,0,,{\an7\pos(71.94,4.81)\fscx99.94\fscy99.94\c&H302FFC&\alpha&HAA&\blur2\clip(m 1374 677 l 1396 682 1397 674 1375 671 m 1375 670 l 1398 674 1396 683 1373 677)\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.81,0:07:00.85,Signs,,0,0,0,,{\an7\pos(71.94,4.81)\fscx99.94\fscy99.94\c&H302FFC&\alpha&H55&\blur2\clip(m 1373 677 l 1396 683 1398 674 1375 670 m 1375 671 l 1397 674 1396 682 1374 677)\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.85,0:07:00.90,Signs,,0,0,0,,{\an7\pos(77.6,8.3)\fscx99.94\fscy99.94\c&H2B2DFC&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.90,0:07:00.94,Signs,,0,0,0,,{\an7\pos(83.56,4.82)\fscx99.93\fscy99.93\c&H3134FB&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.94,0:07:00.98,Signs,,0,0,0,,{\an7\pos(88.21,7.03)\fscx99.96\fscy99.96\c&H4E4DFF&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:00.98,0:07:01.02,Signs,,0,0,0,,{\an7\pos(94.47,3.6)\fscx99.91\fscy99.91\c&H3B39FA&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:00.98,0:07:01.03,Signs,,0,0,0,,{\pos(998.87,532.52)\bord100\3c&HFFFFFF&\blur100\clip(m 1057.27 489.82 l 1127.04 517.68 b 1122.17 527.17 1134.7 531.11 1135.78 521.17 l 1243.68 564.25 1239.47 656.21 1057.65 570.96)}A
+Dialogue: 0,0:07:01.02,0:07:01.06,Signs,,0,0,0,,{\an7\pos(98.16,7.29)\fscx99.94\fscy99.94\c&H0707F8&\blur2\iclip(m 1183.67 629.1 l 1186.49 629.36 1194.79 633.18 1195.35 637.41 1183.81 632.62)\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.03,0:07:01.07,Signs,,0,0,0,,{\an7\pos(-7.82,-16.96)\blur20\p1}m 1014 558 l 1517 795 1516 803 1014 567
+Dialogue: 2,0:07:01.03,0:07:01.07,Signs,,0,0,0,,{\an7\pos(-7.82,-16.96)\blur20\p1}m 1014 558 l 1517 795 1516 803 1014 567
+Dialogue: 2,0:07:01.03,0:07:01.07,Signs,,0,0,0,,{\an7\pos(-7.82,-16.96)\blur20\p1}m 1014 558 l 1517 795 1516 803 1014 567
+Dialogue: 0,0:07:01.06,0:07:01.10,Signs,,0,0,0,,{\an7\pos(104.26,4.13)\fscx99.78\fscy99.78\c&H0505F9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.10,0:07:01.15,Signs,,0,0,0,,{\an7\pos(109.21,7.7)\fscx99.81\fscy99.81\c&H0405FC&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.15,0:07:01.19,Signs,,0,0,0,,{\an7\pos(114.67,2.7)\fscx99.81\fscy99.81\c&H0404F9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.15,0:07:01.19,Signs,,0,0,0,,{\pos(1071.53,582.15)\bord25\3c&HFFFFFF&\1a&HFF&\blur25\clip(m 1074.29 486.01 l 1076.18 567.78 1171.18 612.93 1179.07 531.6)}A
+Dialogue: 0,0:07:01.19,0:07:01.23,Signs,,0,0,0,,{\an7\pos(113.72,3.36)\fscx99.83\fscy99.83\c&H0905FD&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.23,0:07:01.27,Signs,,0,0,0,,{\an7\pos(112.78,-4.26)\fscx99.8\fscy99.8\c&H0905FD&\blur2\iclip(m 1319 607 l 1319 615 1320 619 1330 625 1338 625 1342 617)\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.23,0:07:01.27,Signs,,0,0,0,,{\an7\pos(112.78,-4.26)\fscx99.8\fscy99.8\c&H0905FD&\alpha&HCC&\blur2\clip(m 1321 609 l 1321 615 1322 618 1331 624 1337 624 1340 618 m 1342 617 l 1338 625 1330 625 1320 619 1319 615 1319 607)\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.23,0:07:01.27,Signs,,0,0,0,,{\an7\pos(112.78,-4.26)\fscx99.8\fscy99.8\c&H0905FD&\alpha&H99&\blur2\clip(m 1320 608 l 1320 615 1321 619 1331 624 1338 624 1340 617 m 1340 618 l 1337 624 1331 624 1322 618 1321 615 1321 609)\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.23,0:07:01.27,Signs,,0,0,0,,{\an7\pos(112.78,-4.26)\fscx99.8\fscy99.8\c&H0905FD&\alpha&H66&\blur2\clip(m 1320 608 l 1320 615 1321 619 1331 625 1338 625 1341 617 m 1340 617 l 1338 624 1331 624 1321 619 1320 615 1320 608)\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.23,0:07:01.27,Signs,,0,0,0,,{\an7\pos(112.78,-4.26)\fscx99.8\fscy99.8\c&H0905FD&\alpha&H32&\blur2\clip(m 1319 607 l 1319 615 1320 619 1330 625 1338 625 1342 617 m 1341 617 l 1338 625 1331 625 1321 619 1320 615 1320 608)\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.27,0:07:01.31,Signs,,0,0,0,,{\an7\pos(113.14,-3.74)\fscx99.81\fscy99.81\c&H0905FD&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.28,0:07:01.32,Signs,,0,0,0,,{\pos(1093.1,587.68)\bord25\3c&HFFFFFF&\1a&HFF&\blur25\clip(m 1073.28 480.95 l 1074.15 563.22 1173.21 608.88 1180.08 524.01)}A
+Dialogue: 0,0:07:01.31,0:07:01.35,Signs,,0,0,0,,{\an7\pos(113.87,-5.95)\fscx99.8\fscy99.8\c&H0C0AEF&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.35,0:07:01.40,Signs,,0,0,0,,{\an7\pos(116.34,-1.96)\fscx99.8\fscy99.8\c&H0504FC&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.36,0:07:01.40,Signs,,0,0,0,,{\pos(1072.52,578.97)\bord25\3c&HFFFFFF&\1a&HFF&\blur25\clip(m 1076.34 479.53 l 1077.41 566.24 1173.65 611.08 1177.8 521.29)}A
+Dialogue: 0,0:07:01.40,0:07:01.44,Signs,,0,0,0,,{\an7\pos(113.15,-5.9)\fscx100.35\fscy100.35\c&H0906F5&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.40,0:07:01.44,Signs,,0,0,0,,{\pos(1071.87,552.99)\bord100\3c&HFFFFFF&\blur100\clip(m 1080.78 483.92 l 1302.99 572.74 1298.53 666.39 1079.44 563.34)}A
+Dialogue: 0,0:07:01.44,0:07:01.48,Signs,,0,0,0,,{\an7\pos(118.25,-0.64)\fscx100.2\fscy100.2\c&H1716F9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.44,0:07:01.48,Signs,,0,0,0,,{\pos(1071.87,552.99)\bord100\3c&HFFFFFF&\blur100\clip(m 1087.41 489.22 l 1302.99 572.74 1291.46 665.06 1082.53 566.9)}A
+Dialogue: 0,0:07:01.48,0:07:01.52,Signs,,0,0,0,,{\an7\pos(121.47,-2.11)\fscx100.25\fscy100.25\c&H282AF9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.48,0:07:01.53,Signs,,0,0,0,,{\pos(1071.87,552.99)\bord150\3c&HFFFFFF&\blur100\clip(m 1087.22 485 l 1354.47 590.62 1344.55 687.74 1085.21 565.32)}A
+Dialogue: 0,0:07:01.52,0:07:01.56,Signs,,0,0,0,,{\an7\pos(114.97,-1.33)\fscx101.14\fscy101.14\c&H0404F9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.53,0:07:01.57,Signs,,0,0,0,,{\pos(1071.87,552.99)\bord150\3c&HFFFFFF&\blur100\clip(m 1087.22 485 l 1432.49 627.85 1424.35 730.29 1087.57 570.64)}A
+Dialogue: 0,0:07:01.56,0:07:01.60,Signs,,0,0,0,,{\an7\pos(119.88,-4.44)\fscx101.1\fscy101.1\c&H4342FD&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.60,0:07:01.65,Signs,,0,0,0,,{\an7\pos(127.55,-4.63)\fscx101.05\fscy101.05\c&H3A3CF5&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.65,0:07:01.69,Signs,,0,0,0,,{\an7\pos(136.52,-12.69)\fscx101.07\fscy101.07\c&H4849F4&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.65,0:07:01.69,Signs,,0,0,0,,{\pos(1102.35,573.54)\bord25\3c&HFFFFFF&\1a&HFF&\blur25\clip(m 1110.31 476.97 l 1110.79 561.02 1249.15 626.46 1253.5 536.53)}A
+Dialogue: 0,0:07:01.69,0:07:01.73,Signs,,0,0,0,,{\an7\pos(141.99,-14.4)\fscx101.06\fscy101.06\c&H4F4EFC&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.73,0:07:01.77,Signs,,0,0,0,,{\an7\pos(146.8,-22.18)\fscx101.05\fscy101.05\c&H2E31FA&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.77,0:07:01.81,Signs,,0,0,0,,{\an7\pos(149.25,-21.81)\fscx101.03\fscy101.03\c&H0404F9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.81,0:07:01.85,Signs,,0,0,0,,{\an7\pos(151.47,-24.63)\fscx101.01\fscy101.01\c&H0404F9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.82,0:07:01.86,Signs,,0,0,0,,{\pos(1142.84,574.44)\bord25\3c&HFFFFFF&\1a&HFF&\blur25\clip(m 1127.18 462.64 l 1124.71 548.13 1242.42 604.53 1247.63 516.58)}A
+Dialogue: 0,0:07:01.85,0:07:01.90,Signs,,0,0,0,,{\an7\pos(153.65,-21.06)\fscx101\fscy101\c&H1211FA&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.86,0:07:01.90,Signs,,0,0,0,,{\pos(1125.4,564.21)\bord25\3c&HFFFFFF&\1a&HFF&\blur25\clip(m 1127.31 469.35 l 1126.71 551.13 1242.7 605.5 1245.62 519.22)}A
+Dialogue: 0,0:07:01.90,0:07:01.94,Signs,,0,0,0,,{\an7\pos(155.86,-22.24)\fscx100.99\fscy100.99\c&H1316FA&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:01.94,0:07:01.98,Signs,,0,0,0,,{\an7\pos(157.77,-17.21)\fscx100.99\fscy100.99\c&H1B1DFB&\blur2\iclip(m 1197 586 l 1200 580 1206 583 1204 590)\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.94,0:07:01.98,Signs,,0,0,0,,{\pos(1140.09,576.9)\bord25\3c&HFFFFFF&\1a&HFF&\blur25\clip(m 1133.68 474.54 l 1130.72 554.8 1242.03 606.84 1249.17 525.3)}A
+Dialogue: 0,0:07:01.98,0:07:02.02,Signs,,0,0,0,,{\an7\pos(160.31,-20.95)\fscx100.96\fscy100.96\c&H0404F9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:01.98,0:07:02.03,Signs,,0,0,0,,{\pos(1100.32,525.9)\bord100\3c&HFFFFFF&\blur100\clip(m 1133.69 467.18 l 1357.94 559.03 1357.06 658.1 1133.85 551.42)}A
+Dialogue: 0,0:07:02.02,0:07:02.06,Signs,,0,0,0,,{\an7\pos(158.78,-20.06)\fscx101.51\fscy101.51\c&H2825FB&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:02.03,0:07:02.07,Signs,,0,0,0,,{\an7\pos(98.67,-30.1)\blur20\p1}m 1014 558 l 1517 795 1516 803 1014 567
+Dialogue: 2,0:07:02.03,0:07:02.07,Signs,,0,0,0,,{\an7\pos(98.67,-30.1)\blur20\p1}m 1014 558 l 1517 795 1516 803 1014 567
+Dialogue: 2,0:07:02.03,0:07:02.07,Signs,,0,0,0,,{\an7\pos(98.67,-30.1)\blur20\p1}m 1014 558 l 1517 795 1516 803 1014 567
+Dialogue: 0,0:07:02.06,0:07:02.10,Signs,,0,0,0,,{\an7\pos(162.88,-22.87)\fscx101.55\fscy101.55\c&H4A50FA&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:02.10,0:07:02.15,Signs,,0,0,0,,{\an7\pos(166.6,-18.28)\fscx101.58\fscy101.58\c&H4048F8&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:02.15,0:07:02.19,Signs,,0,0,0,,{\an7\pos(171.15,-19.77)\fscx101.54\fscy101.54\c&H4446F9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:02.15,0:07:02.19,Signs,,0,0,0,,{\pos(1139.8,575.27)\bord25\3c&HFFFFFF&\1a&HFF&\blur25\clip(m 1150.75 474.31 l 1149.64 555.26 1278.29 618.55 1283.93 532.17)}A
+Dialogue: 0,0:07:02.19,0:07:02.23,Signs,,0,0,0,,{\an7\pos(176.11,-17.23)\fscx101.52\fscy101.52\c&H0404F9&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:02.23,0:07:02.27,Signs,,0,0,0,,{\an7\pos(181.08,-18.93)\fscx101.49\fscy101.49\c&H0301F6&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 0,0:07:02.27,0:07:02.31,Signs,,0,0,0,,{\an7\pos(186.25,-15.34)\fscx101.51\fscy101.51\c&H0202FB&\blur2\p1}m 968 515 l 1457 725 1458 795 967 565
+Dialogue: 2,0:07:02.28,0:07:02.32,Signs,,0,0,0,,{\pos(1186.16,596.07)\bord40\3c&HFFFFFF&\blur30\clip(m 1164.63 477.18 l 1361.21 557.72 1358.8 652.59 1163.13 560.99)}A
 Comment: 0,0:00:11.91,0:00:22.67,Signs,skip?,0,0,0,,Cell
 Comment: 0,0:00:13.03,0:00:17.71,Signs,skip?,0,0,0,,Fragile
 Comment: 0,0:00:13.03,0:00:17.71,Signs,skip?,0,0,0,,Liquified Gas
