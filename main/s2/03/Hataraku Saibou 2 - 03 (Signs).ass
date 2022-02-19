@@ -30,28 +30,29 @@ Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ========================
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Infoboxes ==
 Comment: 0,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,# RED BLOOD CELLS #
 Dialogue: 0,0:00:03.48,0:00:06.99,Signs - Infobox,,0,0,0,,{\pos(79.7,743.058)\blur1\p1}m -28 0 l 572 0 572 226 -28 226 m -25 3 l -25 223 569 223 569 3
-Dialogue: 1,0:00:03.48,0:00:06.99,Signs - Infobox,,0,0,0,,{\pos(79.7,743.058)\c&HFFFFFF&\1a&H80&\blur1\p1}m -25 0 l 569 0 569 220 -25 220
-Dialogue: 2,0:00:03.48,0:00:06.99,Signs - Infobox,,0,0,0,,{\an1\pos(79.6,700.517)\b1\blur0.7}RED BLOOD CELL
-Dialogue: 2,0:00:03.48,0:00:06.99,Signs - Infobox,,0,0,0,,{\an1\pos(79.6,745.517)\fs45\blur0.7}Her red color is due to haemoglobin.
-Dialogue: 2,0:00:03.48,0:00:06.99,Signs - Infobox,,0,0,0,,{\an1\pos(79.6,790.517)\fs45\blur0.7}She transports oxygen and carbon
-Dialogue: 2,0:00:03.48,0:00:06.99,Signs - Infobox,,0,0,0,,{\an1\pos(79.6,835.517)\fs45\blur0.7}dioxide around the body.
+Dialogue: 2,0:00:03.48,0:00:06.99,Signs - Infobox,,0,0,0,,{\pos(79.7,743.058)\blur1\p1}m -28 0 l 579 0 579 226 -28 226 m -25 3 l -25 223 576 223 576 3
+Dialogue: 3,0:00:03.48,0:00:06.99,Signs - Infobox,,0,0,0,,{\pos(79.7,743.058)\c&HFFFFFF&\1a&H80&\blur1\p1}m -25 0 l 576 0 576 220 -25 220
+Dialogue: 4,0:00:03.48,0:00:06.99,Signs - Infobox,,0,0,0,,{\an1\pos(79,700)\b1\blur0.7}RED BLOOD CELL
+Dialogue: 4,0:00:03.48,0:00:06.99,Signs - Infobox,,0,0,0,,{\an1\pos(79,745)\fs45\blur0.7}Their red color is due to hemoglobin.
+Dialogue: 4,0:00:03.48,0:00:06.99,Signs - Infobox,,0,0,0,,{\an1\pos(79,790)\fs45\blur0.7\fsp1.13}They transport oxygen and carbon
+Dialogue: 4,0:00:03.48,0:00:06.99,Signs - Infobox,,0,0,0,,{\an1\pos(79,835)\fs45\blur0.7}dioxide around the body.
 Comment: 0,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,# MAST CELL #
-Dialogue: 0,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\pos(85.183,690.35)\blur1\p1}m -28 0 l 636 0 636 361 -28 361 m -25 3 l -25 358 633 358 633 3
-Dialogue: 1,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\pos(85.183,690.35)\c&HFFFFFF&\1a&H80&\blur1\p1}m -25 0 l 633 0 633 355 -25 355
-Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(84.783,580.108)\b1\blur0.7}MAST CELL (MASTOCYTE)
-Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(84.783,625.108)\fs45\blur0.7}It secrets chemical transmitters like
-Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(84.783,670.108)\fs45\blur0.7}histamine and leukotriene in response to
-Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(84.783,715.108)\fs45\blur0.7}stimulus from an over-production of
-Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(84.783,760.108)\fs45\blur0.7}immunoglobulin E. Although unrelated,
-Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(84.783,805.108)\fs45\blur0.7}"mast" comes from the same
-Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(84.783,850.108)\fs45\blur0.7}German word as "fattening."
+Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\pos(85.183,690.35)\blur1\p1}m -28 0 l 636 0 636 361 -28 361 m -25 3 l -25 358 633 358 633 3
+Dialogue: 3,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\pos(85.183,690.35)\c&HFFFFFF&\1a&H80&\blur1\p1}m -25 0 l 633 0 633 355 -25 355
+Dialogue: 4,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,580)\b1\blur0.7}MAST CELL (MASTOCYTE)
+Dialogue: 4,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,625)\fs45\blur0.7\fsp0.67}They secrete chemical transmitters like
+Dialogue: 4,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,670)\fs45\blur0.7}histamine and leukotriene in response to
+Dialogue: 4,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,715)\fs45\blur0.7\fsp2.03}stimulus from an over-production of
+Dialogue: 4,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,760)\fs45\blur0.7\fsp0.89}immunoglobulin E. Although unrelate{\fsp0}d,
+Dialogue: 4,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,805)\fs45\blur0.7\fsp1.94}"mast" comes from the same German
+Dialogue: 4,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,850)\fs45\blur0.7}word as "fattening."
 Comment: 0,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,# WHITE BLOOD CELL #
-Dialogue: 0,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\pos(888.408,746.883)\blur1\p1}m -28 0 l 635 0 635 226 -28 226 m -25 3 l -25 223 632 223 632 3
-Dialogue: 1,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\pos(888.408,746.883)\c&HFFFFFF&\1a&H80&\blur1\p1}m -25 0 l 632 0 632 220 -25 220
-Dialogue: 2,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\an1\pos(887.9,704.217)\b1\blur0.7}WHITE BLOOD CELL (NEUTROPHIL)
-Dialogue: 2,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\an1\pos(887.9,749.217)\fs45\blur0.7}His main job is to destroy foreign
-Dialogue: 2,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\an1\pos(887.9,794.217)\fs45\blur0.7}substances that enter the body from
-Dialogue: 2,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\an1\pos(887.9,839.217)\fs45\blur0.7}the outside, such as bacteria and viruses.
+Dialogue: 2,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\pos(888.408,746.883)\blur1\p1}m -28 0 l 655 0 655 226 -28 226 m -25 3 l -25 223 652 223 652 3
+Dialogue: 3,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\pos(888.408,746.883)\c&HFFFFFF&\1a&H80&\blur1\p1}m -25 0 l 652 0 652 220 -25 220
+Dialogue: 4,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\an1\pos(888,704)\b1\blur0.7}WHITE BLOOD CELLS (NEUTROPHILS)
+Dialogue: 4,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\an1\pos(888,749)\fs45\blur0.7\fsp0.55}Their main job is to destroy foreign
+Dialogue: 4,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\an1\pos(888,794)\fs45\blur0.7\fsp0.85}substances entering the body from
+Dialogue: 4,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\an1\pos(888,839)\fs45\blur0.7}outside, such as bacteria and viruses.
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Titles ==
 Comment: 0,0:02:45.02,0:02:49.98,Signs,,0,0,0,,# Episode Title #
 Dialogue: 0,0:02:44.89,0:02:49.86,Signs,,0,0,0,,{\pos(1263.56,711.16)\fnRodinPro-EB\fs65\bord3.5\3c&HFFFFFF&\blur0.7\fad(0,1000)\t(3960,4300,\1a&HFF&)}Chapter 3
