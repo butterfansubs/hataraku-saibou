@@ -44,7 +44,7 @@ Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,670)\fs45
 Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,715)\fs45\blur0.7\fsp2.03}stimulus from an over-production of
 Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,760)\fs45\blur0.7\fsp0.89}immunoglobulin E. Although unrelate{\fsp0}d,
 Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,805)\fs45\blur0.7\fsp1.94}"mast" comes from the same German
-Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,850)\fs45\blur0.7}word as "fattening."
+Dialogue: 2,0:00:24.42,0:00:29.84,Signs - Infobox,,0,0,0,,{\an1\pos(85,850)\fs45\blur0.7}word as "fattening".
 Comment: 0,0:00:03.61,0:00:06.99,Signs - Infobox,,0,0,0,,# WHITE BLOOD CELL #
 Dialogue: 0,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\pos(888.408,746.883)\blur1\p1}m -28 0 l 655 0 655 226 -28 226 m -25 3 l -25 223 652 223 652 3
 Dialogue: 1,0:01:03.71,0:01:07.26,Signs - Infobox,,0,0,0,,{\pos(888.408,746.883)\c&HFFFFFF&\1a&H80&\blur1\p1}m -25 0 l 652 0 652 220 -25 220
